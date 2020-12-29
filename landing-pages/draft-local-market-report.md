@@ -31,10 +31,10 @@ page_sections:
   component_css: feature
   img_alignment: Left
   class: ''
-  headline: Why SEO Is Important
-  text: 'We’ll discuss how technology has changed over the years and what that means
-    for your practice, specifically from an SEO perspective. We’ll also show you how
-    to use technology to reach your audience at the right time and place online. '
+  headline: Learn the value of patient’s online searches for your services
+  text: 'Combining what you charge for your services with our proprietary database
+    of millions of online searches over hundreds of thousands of keyword combinations,
+    this report gives you a detailed look into the true value of your local market. '
   btn: []
   wistia-link: []
   img: "/uploads/16.png"
@@ -44,10 +44,11 @@ page_sections:
   component_css: feature
   img_alignment: Right
   class: ''
-  headline: 'How Search Engines Work & Meta Tags '
-  text: 'In order to succeed with SEO, you need to understand SEO. We''ll discuss
-    how search engines are programmed and how meta tags affect the way your website
-    ranks. '
+  headline: View your competitors at a glance
+  text: It’s never been easier to quickly identify your local competition. We determine
+    your competitor score based on the number of competitors within a certain drive
+    time (not zip codes). This allows you to get a real understanding of how competitive
+    your local market really is.
   btn: []
   wistia-link: []
   img: "/uploads/21.png"
@@ -57,9 +58,11 @@ page_sections:
   component_css: feature
   img_alignment: Left
   class: ''
-  headline: What Really Matters in SEO
-  text: 'Google''s algorithms are constantly changing. We''ll show you which factors
-    you need to consider right now in order to get ahead online. '
+  headline: All your patient demographics in one place
+  text: Combining data from multiple sources including the US Census figures, etc.,
+    we’ll provide you with an up-to-date breakdown of all potential patients who live
+    near your practice. Using this information to cater your marketing efforts and
+    adapt to your local market’s needs.
   img: "/uploads/7.png"
   btn: []
   wistia-link: []
@@ -71,8 +74,8 @@ page_sections:
   - headline: Ready to learn the secret to SEO?
   text: ''
   btn:
-  - btn-link: https://doctorlogic.com//download-seo-101-ebook
-    btn-label: Download Ebook
+  - btn-link: https://doctorlogic.com/get-a-demo.html
+    btn-label: Try it Out
   class: ''
   img: []
   link: []
