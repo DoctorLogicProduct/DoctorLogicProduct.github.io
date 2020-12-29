@@ -19,8 +19,8 @@ page_sections:
   button:
   - btn-label: Get a Demo
     btn-link: "/get-a-demo.html"
-  img: "/uploads/1278x811_v2.png"
-  alt: SEO for Doctors
+  img: "/uploads/group-4.png"
+  alt: DoctorLogic Local Market Report
   btn:
   - btn-link: https://doctorlogic.com/get-a-demo.html
     btn-label: Get Report
