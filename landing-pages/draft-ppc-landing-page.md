@@ -29,40 +29,12 @@ page_sections:
   class: ''
   headline: []
   img: []
-  text: "<p>This is some text about this PPC campaign.  It can be as long or short
-    as you need it to be.  Remember, be efficient with your text as people have very
-    short attention spans.</p><p><strong>Very short attention spans.</strong></p>"
+  text: "<p><strong>50% off Implementation Fees.</strong></p><p>Why not ring in the
+    new year with a new website? Join the thousands of doctors who trust DoctorLogic
+    to grow their practice with our proprietary software.</p>"
   btn: []
   link: []
   wistia-link: []
-- template: item-grid-component
-  component: item-grid
-  component_css: item-grid
-  per-row-count: '3'
-  background-image: "/uploads/privacy-hero.jpg"
-  headline: Some Blocks
-  items:
-  - img:
-    - src: "/uploads/vold-vision-logo.png"
-      alt: Vold Vision
-    headline: ''
-    text: Vold Vision
-    link: []
-  - img:
-    - src: "/uploads/vold-vision-logo.png"
-      alt: Vold Vision
-    headline: ''
-    text: Vold Vision
-    link: []
-  - img:
-    - src: "/uploads/vold-vision-logo.png"
-      alt: Vold Vision
-    headline: ''
-    text: Vold Vision
-    link: []
-  class: item-grid--white
-  text: ''
-  btn: []
 tracking-number: 855-522-3600
 published: false
 
