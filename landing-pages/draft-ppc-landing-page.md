@@ -15,10 +15,11 @@ page_sections:
   bg_img: "/uploads/home-hero-1.jpg"
   headline: Get more patients.
   text: Find out how DoctorLogic has helped thousands of doctors grow their practice
-    with our FREE Website Assessment.
+    with our FREE Website Analysis. See how well you rank on Google compared to your
+    competition to gauge the strength of your current SEO strategy.
   wistia-link:
   - wistia-link-id: "/w7jgkunbv9"
-    wistia-link-label: Video Link
+    wistia-link-label: About DoctorLogic
   btn:
   - btn-label: Free Website Analysis
     btn-link: https://doctorlogic.com/website-analysis
