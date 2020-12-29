@@ -2,7 +2,7 @@
 layout: components
 title: "(DRAFT) PPC Landing Page"
 alt-header: true
-permalink: ppc-test-page
+permalink: ppc-learn-more
 page_class: []
 gsap: false
 custom_js: ''
@@ -13,14 +13,15 @@ page_sections:
   component: hero-5
   component_css: hero-5
   bg_img: "/uploads/home-hero-1.jpg"
-  headline: This is a PPC Test Page
-  text: This is the text.
+  headline: Get more patients.
+  text: Find out how DoctorLogic has helped thousands of doctors grow their practice
+    with our FREE Website Assessment.
   wistia-link:
   - wistia-link-id: "/w7jgkunbv9"
     wistia-link-label: Video Link
   btn:
-  - btn-label: Go Now
-    btn-link: "#"
+  - btn-label: Free Website Analysis
+    btn-link: https://doctorlogic.com/website-analysis
   tagline: []
 - template: text-component
   component: text-component
@@ -62,7 +63,7 @@ page_sections:
   class: item-grid--white
   text: ''
   btn: []
-tracking-number: 888-888-8888
+tracking-number: 855-522-3600
 published: false
 
 ---
