@@ -1,30 +1,29 @@
 ---
 layout: components
 title: "(DRAFT) Local Market Report"
-permalink: medical-seo-ebook
+permalink: local-market-report
 page_class:
 - class: lp
 gsap: false
 custom_js: ''
 description: DoctorLogic's proprietary software & proven strategy gets you found by
   more patients and ranking at the top of Google.
-meta_image: "/uploads/1278x811_v2.png"
+meta_image: "/uploads/group-4.png"
 page_sections:
 - template: hero-with-image
   component: hero-1
   component_css: hero
-  headline: SEO 101 FOR DOCTORS
-  text: 'Strengthen your online presence and dominate your local search in 2020. When
-    you download this guide you will uncover critical components of healthcare SEO,
-    learn best practices, and discover ways you can succeed with your SEO strategy. '
+  headline: How well do you know your market?
+  text: Check out this free to see your local market opportunity, patient demographic
+    breakdown, competitive landscape, and more.
   button:
   - btn-label: Get a Demo
     btn-link: "/get-a-demo.html"
   img: "/uploads/1278x811_v2.png"
   alt: SEO for Doctors
   btn:
-  - btn-link: https://doctorlogic.com//download-seo-101-ebook
-    btn-label: Download Ebook
+  - btn-link: https://doctorlogic.com/get-a-demo.html
+    btn-label: Get Report
   text-link: []
   wistia-link: []
 - template: feature
@@ -78,6 +77,8 @@ page_sections:
   img: []
   link: []
   wistia-link: []
+alt-header: false
+tracking-number: ''
 published: false
 
 ---
