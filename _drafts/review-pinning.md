@@ -5,12 +5,12 @@ post_author: Josh Feinberg
 tags:
 - product updates
 post_intro: New Feature now available for all DoctorLogic clients.
-post_image: "/uploads/product-update-image-2.jpg"
+post_image: "/uploads/product-update-image-3.jpg"
 post_highlight: ''
 post_type:
 - blog
 product:
-- lead generator
+- social reputation
 - website management
 title: Review Pinning
 
