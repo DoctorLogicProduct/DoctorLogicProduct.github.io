@@ -1,11 +1,8 @@
 ---
-post_title: New Year, Same Search?
+post_title: Five Ways Healthcare Marketing Will Look Different In 2021
 date: 2021-01-01 06:00:00 +0000
-post_author: Heather Kelldorf
+post_author: Amber Maceyra
 tags:
-- PPC
-- " Search"
-- Trends
 - Healthcare Marketing
 post_intro: How Seasonal Search Trends Impact Digital Marketing Campaigns.
 post_image: "/uploads/2-1.png"
@@ -19,58 +16,21 @@ product:
 title: Five Ways Healthcare Marketing Will Look Different In 2021
 
 ---
-At the start of a new year, people set resolutions to shed themselves of the bad habits from the previous year. This is why we hear a lot of people say, “New year, new me.” In January, it is common to see trending searches for people who are looking to make a change, whether it be to their lifestyle, appearance, and/or habits. Digital marketing professionals and those with a knowledge of SEO and the workings of Google will likely tell you that seasonal keywords tend to generate most of their search volume during certain targeted times of the year.
+2020 brought about a vast number of incredible changes to daily life for all Americans. For the first time in many individuals’ lives, it became necessary to reevaluate their health and safety and reassess the way in which daily tasks were carried out. For healthcare professionals, the pre-pandemic business model no longer made sense for attracting potential new patients. With these changes and new “normal” following us into 2021, our New Year’s resolutions and preparations may look different this year. Let’s explore five ways healthcare marketing will look different in 2021 and what DoctorLogic can do to help you stand out from your competition.
 
-**What are seasonal search trends?**
+1. Telehealth is a must. While patients are taking precautions against exposing themselves and others to COVID-19, telehealth has never been more popular or important. When a potential patient is in search of care and in need of a provider, the ability to be seen in the comfort of their home just might be a game-changer. During the first quarter of 2020, the [CDC reported](https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a3.htm#:\~:text=During%20the%20first%20quarter%20of,the%20same%20period%20in%202019.) that the number of telehealth visits increased by 50%, compared with the same period in 2019, with a 154% increase in visits noted in surveillance week 13 in 2020, compared with the same period in 2019. As you can note from the Google Trends graph below, searches for “telehealth” reached an all-time high in March 2020, and though they have significantly declined since then, we are still observing search volume trends at more than double the pace we saw in 2019, suggesting that the demand for telehealth visits will likely continue through 2021.
+2. Ease of access is everything. Being easily accessible to patients and ensuring they have the information they need to make informed decisions is essential to your practice’s success. Some helpful ways to make your practice more accessible to patients include increasing the ways prospective patients communicate with your office (phone, email, text, LiveChat, etc.), prominently displaying the procedures your practice offers and availability, and ensuring you have a mobile-friendly site.
+3. Transparency matters. As more and more practices grow their digital patient acquisition channels, it has become exceedingly important for them to understand the impact of their efforts. Proper record-keeping, reporting, and regular insights into the performance of your marketing spend are paramount, especially if you are investing more in digital marketing. There are many free and/or inexpensive tools, such as [Google Analytics](https://analytics.google.com/) and [SEMRush](https://www.semrush.com/), that can help you observe the success of your marketing, but make sure your digital marketing provider is equipped to offer real-time results about the current state of your website’s successes or failures.
+4. SEO is imperative. In an increasingly technological world, Google and search results can determine whether or not your website receives traffic. Your content should be crafted using an SEO-focused content strategy that is customized to your specific needs. Did you know that [15% of Google Searches](https://www.seroundtable.com/15-of-search-queries-google-new-30025.html) each day have never been searched before? This is a trend that’s actually continued for several years, but it just reiterates the importance of having a strong, optimized web presence to help attract patients from a wide net of search terms and keywords.
+5. Marketing is a make or break. In 2021, digital marketing is more imperative to practice success than ever before. As [this report from Broadband Search](https://www.broadbandsearch.net/blog/average-daily-time-on-social-media) shows, social media consumption continues to grow year after year. With potential patients all over the world relying on social media, reviews, and search results to determine how to move forward with their healthcare, it has never been more important to partner with a marketing company that truly gets it.
 
-Seasonal search trends help determine which keywords should be considered and implemented to meet your campaign goals. For example, right before the spring, which is also synonymous with the start of the wedding season, both women and men are thinking about how to improve their appearance before their wedding. They may search for ways to help them fit better in their wedding dress/tuxedo, or make their teeth whiter and more appealing for photos. Brides-to-be and their grooms tend to search for specific keywords related to wedding appearance like, “skincare”, “weight loss solutions”, “plastic surgery”, “dental makeover”, “teeth whitening”, etc. Businesses who offer these services and are aware of the seasonal trends and search terms associated with them can take advantage of the opportunity to run targeted campaigns to those potential customers’ specific needs at the most opportune time.
+DoctorLogic assists providers in securing virtual consultations and appointments to better serve patients in uncertain times. DoctorLogic website platforms are easy to navigate, informative, and simplify the process of securing virtual or in-person consultations and appointments. DoctorLogic account managers keep you informed about your website’s visits, views, and analytics on a monthly basis, advising you on how to better engage with potential patients. At DoctorLogic, you will work with an SEO-trained content strategist who will ensure that your site content is relevant, unique, and optimized for success! DoctorLogic is an all-in-one, best-in-class digital marketing platform that is prepared to help your practice succeed.
 
-**The impact of 2020 on digital marketing**
+**References/Resources:**
 
-2020 brought some very unique challenges when it came to digital marketing and how practices marketed their services. Many areas were on lockdown, businesses were forced to close temporarily, and residents were encouraged to stay home. These actions forced many businesses to change the way they conducted their day-to-day business, the type of service they offered, and how they could safely interact and treat patients and customers.
-
-The good news, if there is any good news out of 2020, is that these new trends actually brought more growth to digital marketing campaigns and allowed for a wider range of keywords for us to bid on.
-
-New search trends and terms emerged for our practices, including:
-
-* Virtual Consultations
-* Telehealth
-* Emergency Dentist
-* Online Consultations
-* Antibody testing
-
-**Predicting seasonal keywords to use**
-
-Year over year, many seasonal keywords typically tend to trend the same. Some common examples of this are:
-
-* **_Back to School._** When back to school time is approaching, your child may need to have his/her vision checked. You may search for keywords like “vision checkups for children” or “back to school vision checks” in order to find an eye care physician that specializes in eye care for children or families.
-* **_Christmas._** In anticipation of Christmas, people are beginning their search to find the perfect Christmas tree. Seasonal trends show that customers tend to more frequently search for keywords year after year related to “where to find Christmas trees”, “buying Christmas trees” or “cost of Christmas trees.” These are keywords typically only searched during November and December and not in the other 10 months of the year.
-
-Google allows us to go back and look at top trending keywords from previous years so we can determine the fitting keywords to bid on for the current year. Predicting when these trends will happen can help us determine the best time to set up Google Ad campaigns. Within the first 30 days of a campaign going live, Google is actively learning how to optimize the keywords chosen for the campaign. It is better to trend early with these keywords so that when the trend or season/holiday/event becomes a reality, the campaign is already ahead of the competition.
-
-It is important to consistently track Google search trends and top keywords on a month-to-month basis. Being up-to-date on search terms or trends that may relate to our practices allows us to bid on the proper keywords at the right time.
-
-**How keywords can optimize budgets and campaigns**
-
-While keywords are evolving each season, certain keywords may cost less when used out of season. For example, during the winter months weight loss surgery keywords may have a higher cost per click, than in the summer months. People who are looking for those terms usually want to get their summer body ready. While these keywords are still being searched for year round, it may cost more in the months leading up to the summer season.
-
-When selecting keywords related to search trends, it is important to ensure that we have an adequate budget in order to beat out the competition. With the tools we use at DoctorLogic, we can recommend certain budgets for campaigns based upon the previous seasonality of keywords. This helps optimize your budget as well as your campaign.
-
-In tandem with Google, we utilize an “insights” tool that allows us to compare different search trends among various seasons. This helps us compare certain keyword patterns across locations, time frames, and categories. It can tell us when keywords are searched the most depending on the time of year. The search trends may also vary depending on the practice location. Some keywords may trend lower in the winter months for some locations but higher in the summer months, and vice versa.
-
-It is important to note that some keywords do not have a season. We can bid on thousands of keywords that may trend all year round. There are some keywords that may be related to a specific person rather than a season or specific time of year. Some examples include, when you decide to have a baby you usually begin your search for an “OBGYN”, or if you need your yearly check-up you may search for “annual check-up”. As a general rule, it is best to keep in mind that when running Google Ad campaigns, seasonality is different for everyone.
-
-**Ensuring seasonal keywords provide an ROI for digital marketing**
-
-At DoctorLogic, we take all aspects into consideration when determining the right keywords to use for digital marketing campaigns based on a number of factors. While it is not a bad thing to run Google campaigns all year round, there are times where certain keywords and search trends may yield a bigger result. No matter the time or season, Google is always looking for ways to optimize keywords for when the next season or trend comes around. Starting early and identifying seasonal keywords and search phrases around your practice will ensure you have a plan in place to make the most out of your digital marketing campaign and get an ROI for your marketing dollars.
-
-Spike in Telehealth during COVID.  
-![](/uploads/interest-over-time-1.PNG)
-
-2019 virtual Consultations were not a thing.
-
-![](/uploads/interest-over-time-2.PNG)
-
-Weight Loss trends higher spikes wedding season and right before summer
-
-![](/uploads/interest-over-time-3.PNG)
+* [Trends in the Use of Telehealth During the Emergence of the COVID-19 Pandemic — United States, January–March 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a3.htm#:\~:text=During%20the%20first%20quarter%20of,the%20same%20period%20in%202019.)
+* [Data source: Google Trends](https://trends.google.com/trends/explore?date=2019-01-03%202020-12-03&geo=US&q=telehealth)
+* [Google Analytics](https://analytics.google.com/)
+* [SEMRush](https://www.semrush.com/)
+* [15% Of Search Queries On Google Are New - No Change There](https://www.seroundtable.com/15-of-search-queries-google-new-30025.html)
+* [Average Daily time on Social Media](https://www.broadbandsearch.net/blog/average-daily-time-on-social-media)
