@@ -5,7 +5,7 @@ post_author: Christopher Ellis
 tags:
 - Healthcare Marketing
 post_intro: How to Prepare a Simple New Year Budget for your Practice
-post_image: "/uploads/1.png"
+post_image: "/uploads/1-1.png"
 post_highlight: ''
 post_type:
 - blog
