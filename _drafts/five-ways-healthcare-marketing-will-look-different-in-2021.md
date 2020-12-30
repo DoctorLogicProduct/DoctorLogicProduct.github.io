@@ -4,8 +4,8 @@ date: 2021-01-01 06:00:00 +0000
 post_author: Amber Maceyra
 tags:
 - Healthcare Marketing
-post_intro: How Seasonal Search Trends Impact Digital Marketing Campaigns.
-post_image: "/uploads/2-1.png"
+post_intro: Let's make 2021 your most successful year yet!
+post_image: "/uploads/3.png"
 post_highlight: ''
 post_type:
 - blog
