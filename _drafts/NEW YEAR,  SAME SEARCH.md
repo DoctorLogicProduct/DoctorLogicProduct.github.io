@@ -18,7 +18,7 @@ product:
 - search amplifier
 
 ---
-At the start of a new year, people set resolutions to shed themselves of the bad habits from the previous year. This is why we hear a lot of people say, “New Year, New Me”. In January, it is common to see trending searches for people who are looking to make a change, whether it be to their lifestyle, appearance, and/or habits. Digital marketing professionals and those with a knowledge of SEO and the workings of Google will likely tell you that seasonal keywords tend to generate most of their search volume during certain targeted times of the year.
+At the start of a new year, people set resolutions to shed themselves of the bad habits from the previous year. This is why we hear a lot of people say, “New year, new me.” In January, it is common to see trending searches for people who are looking to make a change, whether it be to their lifestyle, appearance, and/or habits. Digital marketing professionals and those with a knowledge of SEO and the workings of Google will likely tell you that seasonal keywords tend to generate most of their search volume during certain targeted times of the year.
 
 **What are seasonal search trends?**
 
