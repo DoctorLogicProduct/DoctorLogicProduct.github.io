@@ -63,13 +63,13 @@ It is important to note that some keywords do not have a season. We can bid on t
 
 At DoctorLogic, we take all aspects into consideration when determining the right keywords to use for digital marketing campaigns based on a number of factors. While it is not a bad thing to run Google campaigns all year round, there are times where certain keywords and search trends may yield a bigger result. No matter the time or season, Google is always looking for ways to optimize keywords for when the next season or trend comes around. Starting early and identifying seasonal keywords and search phrases around your practice will ensure you have a plan in place to make the most out of your digital marketing campaign and get an ROI for your marketing dollars.
 
-Spike in Telehealth during COVID.  
+_Spike in Telehealth during COVID._  
 ![](/uploads/interest-over-time-1.PNG)
 
-2019 virtual Consultations were not a thing.
+_2019 virtual Consultations were not a thing_.
 
 ![](/uploads/interest-over-time-2.PNG)
 
-Weight Loss trends higher spikes wedding season and right before summer
+_Weight Loss trends higher spikes wedding season and right before summer_
 
 ![](/uploads/interest-over-time-3.PNG)
