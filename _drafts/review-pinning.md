@@ -1,5 +1,5 @@
 ---
-post_title: 'New Feature: Appointment Request Forms'
+post_title: 'New Feature: Review Pinning'
 date: 2020-12-28 15:00:00 +0000
 post_author: Josh Feinberg
 tags:
@@ -15,12 +15,16 @@ product:
 title: Review Pinning
 
 ---
-Your website is the most effective destination for converting leads into new patients. In the past you’ve been able to capture new leads looking to schedule appointments with your practice but typically this was handled using a customized version of a general “Contact Us” form.  
+You asked and we delivered! We have received a lot of feedback from practices asking for an easier way to control the display of reviews on their website. Today we are excited to introduce **Review Pinning.**  
   
-With our new dedicated **Appointment Request forms** you’ll get a beautifully styled, mobile-friendly form designed specifically for collecting all the information needed to make setting up an appointment as simple as possible.  
-  
-\- Patients can choose preferred days and times that work best for their schedule  
-  
-\- Practices can collect information such as patient status, procedure, contact information, and more  
-  
-\- Instantly receive an email alert after the form submitted so you can follow up with the patient and get the appointment booked
+Now with a single click you can select reviews to be automatically featured at the top of your reviews page, giving you more control over what patients see first when visiting your website.
+
+Within the Reviews section of your DoctorLogic account, simply click the “pin” icon to automatically move a review to the top of the list. You can pin as many reviews as you like and also drag & drop your pinned reviews to set the order.
+
+![](/uploads/review-screenshot-scrubbed.png)
+
+To Summarize:
+
+* Instantly “pin” featured reviews to the top of your list with a single click
+* Pinned reviews persist in their specified position on your website so visitors will always see those first
+* No limits. Pin as many reviews as you’d like and un-pin any that you no longer wish to highlight
