@@ -1,36 +1,75 @@
 ---
-post_title: Five Ways Healthcare Marketing Will Look Different In 2021
+post_title: A Look Into Employee Benefits in 2021
 date: 2021-01-01 06:00:00 +0000
-post_author: Amber Maceyra
+post_author: Michelle Peralta
 tags:
 - Healthcare Marketing
 post_intro: Let's make 2021 your most successful year yet!
-post_image: "/uploads/3.png"
+post_image: "/uploads/4.png"
 post_highlight: ''
 post_type:
 - blog
 product:
 - website management
-- lead generator
-- search amplifier
 title: A Look Into Employee Benefits in 2021
 
 ---
-2020 brought about a vast number of incredible changes to daily life for all Americans. For the first time in many individuals’ lives, it became necessary to reevaluate their health and safety and reassess the way in which daily tasks were carried out. For healthcare professionals, the pre-pandemic business model no longer made sense for attracting potential new patients. With these changes and new “normal” following us into 2021, our New Year’s resolutions and preparations may look different this year. Let’s explore five ways healthcare marketing will look different in 2021 and what DoctorLogic can do to help you stand out from your competition.
+As a practice and a business, your employees are your greatest asset and integral to delivering comprehensive care to your patients. Offering a competitive benefits package can help attract and retain top talent in your field. Employee benefits can be a driving factor for many individuals when it comes to job acceptance and satisfaction. While you want to maintain a high level of employee contentment, it’s also essential to strike the right balance between the fiscal health of your practice and keeping your employees happy.
 
-1. Telehealth is a must. While patients are taking precautions against exposing themselves and others to COVID-19, telehealth has never been more popular or important. When a potential patient is in search of care and in need of a provider, the ability to be seen in the comfort of their home just might be a game-changer. During the first quarter of 2020, the [CDC reported](https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a3.htm#:\~:text=During%20the%20first%20quarter%20of,the%20same%20period%20in%202019.) that the number of telehealth visits increased by 50%, compared with the same period in 2019, with a 154% increase in visits noted in surveillance week 13 in 2020, compared with the same period in 2019. As you can note from the Google Trends graph below, searches for “telehealth” reached an all-time high in March 2020, and though they have significantly declined since then, we are still observing search volume trends at more than double the pace we saw in 2019, suggesting that the demand for telehealth visits will likely continue through 2021.
-2. Ease of access is everything. Being easily accessible to patients and ensuring they have the information they need to make informed decisions is essential to your practice’s success. Some helpful ways to make your practice more accessible to patients include increasing the ways prospective patients communicate with your office (phone, email, text, LiveChat, etc.), prominently displaying the procedures your practice offers and availability, and ensuring you have a mobile-friendly site.
-3. Transparency matters. As more and more practices grow their digital patient acquisition channels, it has become exceedingly important for them to understand the impact of their efforts. Proper record-keeping, reporting, and regular insights into the performance of your marketing spend are paramount, especially if you are investing more in digital marketing. There are many free and/or inexpensive tools, such as [Google Analytics](https://analytics.google.com/) and [SEMRush](https://www.semrush.com/), that can help you observe the success of your marketing, but make sure your digital marketing provider is equipped to offer real-time results about the current state of your website’s successes or failures.
-4. SEO is imperative. In an increasingly technological world, Google and search results can determine whether or not your website receives traffic. Your content should be crafted using an SEO-focused content strategy that is customized to your specific needs. Did you know that [15% of Google Searches](https://www.seroundtable.com/15-of-search-queries-google-new-30025.html) each day have never been searched before? This is a trend that’s actually continued for several years, but it just reiterates the importance of having a strong, optimized web presence to help attract patients from a wide net of search terms and keywords.
-5. Marketing is a make or break. In 2021, digital marketing is more imperative to practice success than ever before. As [this report from Broadband Search](https://www.broadbandsearch.net/blog/average-daily-time-on-social-media) shows, social media consumption continues to grow year after year. With potential patients all over the world relying on social media, reviews, and search results to determine how to move forward with their healthcare, it has never been more important to partner with a marketing company that truly gets it.
+Such a balancing act, however, has become even more of a challenge in the face of the on-going COVID-19 environment. What can your practice do to mitigate these changes, prevent employee attrition, and still offer an attractive employee benefits package, all while maintaining a healthy bottom line? Understanding how employee benefits are forecasted to evolve in 2021 can help the decision-makers in your practice determine the ideal path to take.
 
-DoctorLogic assists providers in securing virtual consultations and appointments to better serve patients in uncertain times. DoctorLogic website platforms are easy to navigate, informative, and simplify the process of securing virtual or in-person consultations and appointments. DoctorLogic account managers keep you informed about your website’s visits, views, and analytics on a monthly basis, advising you on how to better engage with potential patients. At DoctorLogic, you will work with an SEO-trained content strategist who will ensure that your site content is relevant, unique, and optimized for success! DoctorLogic is an all-in-one, best-in-class digital marketing platform that is prepared to help your practice succeed.
+  
+**How has the pandemic shaped the employee benefits structure?**
 
-**References/Resources:**
+COVID-19 has undoubtedly impacted the long-term financial health and well-being of individuals and businesses alike. It has also affected the ability of countless healthcare practices to continue providing the same level of benefits their employees have enjoyed in the past. As the future of the pandemic remains uncertain, COVID-era financial concerns are causing many practices to take a closer look at employee benefits and reevaluate what makes sense for their business while still meeting the diverse needs of their employees. A number of practices have adjusted their benefits packages in an effort to meet these multidimensional needs. Read on to explore some of the general trends top employee benefits are projected to take as we embark on the new year.
 
-* [Trends in the Use of Telehealth During the Emergence of the COVID-19 Pandemic — United States, January–March 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a3.htm#:\~:text=During%20the%20first%20quarter%20of,the%20same%20period%20in%202019.)
-* [Data source: Google Trends](https://trends.google.com/trends/explore?date=2019-01-03%202020-12-03&geo=US&q=telehealth)
-* [Google Analytics](https://analytics.google.com/)
-* [SEMRush](https://www.semrush.com/)
-* [15% Of Search Queries On Google Are New - No Change There](https://www.seroundtable.com/15-of-search-queries-google-new-30025.html)
-* [Average Daily time on Social Media](https://www.broadbandsearch.net/blog/average-daily-time-on-social-media)
+**-Paid time off (PTO)**
+
+PTO may include vacation, sick, or personal days and may be accrued every pay period, allotted in a lump sum, or offered based on years of service. The U.S. Bureau of Labor Statistics [reports](https://www.bls.gov/opub/ted/2018/private-industry-workers-received-average-of-15-paid-vacation-days-after-5-years-of-service-in-2017.htm#:\~:text=Bureau%20of%20Labor%20Statistics,-The%20Economics%20Daily&text=On%20average%2C%20workers%20received%2010,15%20paid%20days%20on%20average.) that, on average, employees are given ten PTO days after one year of service. While this allotment tends to increase with tenure, PTO limits are generally capped off at a certain point.
+
+Depending on travel restrictions, or an unwillingness to take vacations throughout the year due to the coronavirus, employees may accrue PTO hours that could bottle up at year’s end. Some practices opt to allow a portion of the time to roll over to the following year while others may have a different policy on how they manage unused vacation time. As this [article](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/Pages/Review-Year-End-Vacation-Policies.aspx) from the Society for Human Resource Management (SHRM) reveals, having a solid plan in place that’s both well communicated to your employees and adheres to the legalities within your state can help ensure you maintain workplace productivity while effectively managing PTO requests.
+
+**-Paid holidays**
+
+Since the reopening of medical and dental practices following the coronavirus outbreak, many healthcare professionals have been working fervently to care for patients and look forward to having holidays off to unwind and recharge. Paid holidays are commonly part of the employee benefits package for many health-based practices. While these offices may remain open on some federal holidays, such as Presidents’ Day and Veterans Day, full-time employees are often paid for the following as part of their compensation package:
+
+* New Year’s Day
+* Memorial Day
+* Independence Day
+* Labor Day
+* Thanksgiving Day
+* Christmas Day
+
+**-Health insurance**
+
+Employer health benefits expenses were projected to [rise by 4.4%](https://www.mercer.us/our-thinking/healthcare/health-benefit-costs-expected-to-grow-4-point-4-percent-in-2021-mercer-survey-finds.html) in 2021, according to a recent Mercer Survey. Coupled with revenue loss from mandatory shutdowns earlier in the year and the potential risk of repeat closings, budgetary restraints have curbed the financial assets historically allocated for employee benefits expenses.
+
+While employees are likely to see cost-sharing increases, having the option of an employer-sponsored healthcare plan is still a major benefit. Expanding telehealth coverage, including telemedicine visits, can also allow for greater convenience and access to care.
+
+**-Work from home**
+
+As COVID-induced closings forced many businesses and employees to adopt a more flexible work environment, as evidenced by this [report](https://app.keysurvey.com/reportmodule/REPORT4/report/41497603/41204105/5f7f8ac36ed9b505463e562c93410306?Dir=&Enc_Dir=8cb84448&av=IxnIBAm77ac=&afterVoting=d49f47d22482&msig=bf1679368151bd9395ae6e843c7a35c3) from Mercer, a work-from-home option has become a reality for countless people across the globe. Even jobs that traditionally required in-person employment are now adapting to a new normal in a virtual environment. While many positions still require employees to be physically present, such as dental hygienists or lab technicians, the medical and dental industries have been able to modify many administrative and billing duties to be completed remotely.
+
+**The value of employee benefits**
+
+Happy employees project a sense of harmony and positivity to your patients, which enhances the trust they have in you as a practitioner. But however positive your day-to-day office environment might be, benefits are often a major factor in employee retention and job acceptance. In fact, a recent [survey](https://www.willistowerswatson.com/en-US/Insights/2020/02/global-benefits-attitudes-survey-report) conducted by Willis Towers Watson reveals that a significant percentage of employees would give up higher pay in lieu of greater benefits. A well-rounded employee benefits package can bring a myriad of advantages to your staff and practice as a whole and can serve to:
+
+* Elevate productivity
+* Enhance employee loyalty
+* Increase longevity of employment (lower turnover)
+* Attract talented individuals
+* Boost employee satisfaction
+
+Every healthcare practice is different and must determine the employee benefits structure that best supports their business model while helping to prevent employee attrition. Though evaluating industry trends as a whole can be helpful, it’s still important to follow a plan ideal for your specific office. Practice management consultants who are knowledgeable in your specialty understand the unique challenges your practice faces as a business. Partnering with an experienced consultant can help you remain agile in the ever-changing COVID-19 environment, make choices that are beneficial to your business, and add long-term value to your employer-employee relationships.
+
+**Reference**/**Resources:**
+
+* [U.S. Bureau of Labor Statistics: TED: The Economics Daily](https://www.bls.gov/opub/ted/2018/private-industry-workers-received-average-of-15-paid-vacation-days-after-5-years-of-service-in-2017.htm#:\~:text=Bureau%20of%20Labor%20Statistics,-The%20Economics%20Daily&text=On%20average%2C%20workers%20received%2010,15%20paid%20days%20on%20average.)
+* [Mercer: Health Benefit Costs Expected to Grow 4.4% in 2021, Mercer Survey Finds](https://www.mercer.us/our-thinking/healthcare/health-benefit-costs-expected-to-grow-4-point-4-percent-in-2021-mercer-survey-finds.html) 
+* [Mercer: Global Survey #5: ](https://app.keysurvey.com/reportmodule/REPORT4/report/41497603/41204105/5f7f8ac36ed9b505463e562c93410306?Dir=&Enc_Dir=8cb84448&av=IxnIBAm77ac=&afterVoting=d49f47d22482&msig=bf1679368151bd9395ae6e843c7a35c3)
+* [Willis Towers Watson (2019/2020 Global Benefits Attitudes Survey Report): ](https://www.willistowerswatson.com/en-US/Insights/2020/02/global-benefits-attitudes-survey-report)
+* [SHRM: Pandemic Prompts Employers to Review Year-End Vacation Policies: ](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/Pages/Review-Year-End-Vacation-Policies.aspx)
+* [SHRM: Planning 2021 Benefits Changes in COVID-19 ERA: ](https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/planning-2021-benefits-changes-for-the-covid-19-era.aspx)
+* [Dentalpost.net: Front Office Salary Survey “2020 Results:” ](https://www.dentalpost.net/salary-survey/front-office-results/)
+* [Square Practice: Dental Analytics for Practice Management](https://blog.squarepractice.com/managing-the-vacation-policy-for-your-practice)
+* [ValuePenguin: The 2020 Guide to Offering Employees Paid Vacation Days]()
