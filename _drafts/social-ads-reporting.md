@@ -1,26 +1,29 @@
 ---
-post_title: 'New Feature: Appointment Request Forms'
+post_title: 'New Feature: Social Ads Reporting'
 date: 2020-12-28 15:00:00 +0000
 post_author: Josh Feinberg
 tags:
 - product updates
 post_intro: New Feature now available for all DoctorLogic clients.
-post_image: "/uploads/product-update-image-2.jpg"
+post_image: "/uploads/product-update-image-1.jpg"
 post_highlight: ''
 post_type:
 - blog
 product:
+- growth accelerators
 - lead generator
 - website management
 title: Social Ads Reporting
 
 ---
-Your website is the most effective destination for converting leads into new patients. In the past you’ve been able to capture new leads looking to schedule appointments with your practice but typically this was handled using a customized version of a general “Contact Us” form.  
+As you have probably noticed in our last few updates, we have been adding a lot of new enhancements to the Opportunities dashboard inside your DoctorLogic account. Our goal is to make it as easy as possible for you to view and take action on all new leads generated for your practice.   
   
-With our new dedicated **Appointment Request forms** you’ll get a beautifully styled, mobile-friendly form designed specifically for collecting all the information needed to make setting up an appointment as simple as possible.  
+Today we’re back with another update: **Social Ads reporting**. Customers using our Social Ads product will now be able to view, filter, and export leads captured through Facebook and Instagram ads.  
   
-\- Patients can choose preferred days and times that work best for their schedule  
+If you’re not currently using Social Ads to drive interest in your practice and acquire new leads, we can help! Contact us today so we can explain all the details and get you up and running quickly with this powerful lead generating solution.  
   
-\- Practices can collect information such as patient status, procedure, contact information, and more  
+\- Work with our expert team to create a strategic Social Ads plan  
   
-\- Instantly receive an email alert after the form submitted so you can follow up with the patient and get the appointment booked
+\- Drive interest and awareness for your practice to capture well-qualified leads  
+  
+\- View Social Ads conversions on your Opportunities dashboard
