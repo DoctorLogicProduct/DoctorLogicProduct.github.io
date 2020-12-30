@@ -7,7 +7,7 @@ post_intro: 'New Feature: Appointment Request Forms'
 post_image: "/uploads/2.png"
 post_highlight: ''
 post_type:
-- update
+- blog
 product:
 - lead generator
 - website management
