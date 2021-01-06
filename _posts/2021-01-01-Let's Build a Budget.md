@@ -1,12 +1,14 @@
 ---
 post_title: Let's Build a Budget!
-date: 2021-01-01 06:00:00 +0000
+date: 2021-01-06 16:00:00 +0000
 post_author: Christopher Ellis
 tags:
 - Healthcare Marketing
 post_intro: How to Prepare a Simple New Year Budget for your Practice
 post_image: "/uploads/1-1.png"
-post_highlight: ''
+post_highlight: In our latest blog post, our Director of Growth Marketing (and former
+  Practice Management Consultant) walks you through the process of creating a simple,
+  annual budget for your practice.
 post_type:
 - blog
 product:
