@@ -3,7 +3,6 @@ post_title: How Important Are Links to Credibility And Rankings?
 date: 2020-11-20 18:30:00 +0000
 post_author: Ryan Metcalf
 tags:
-- seo
 - link building
 - links
 post_intro: 'In our latest blog post, our Head of SEO looks into why links are an
