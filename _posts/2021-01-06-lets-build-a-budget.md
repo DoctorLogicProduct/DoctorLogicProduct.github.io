@@ -67,6 +67,5 @@ It’s ok to update your budget with new information – don’t think of it as 
 
 Now, you have everything you need to get your annual budget in place. And if you’re hoping to grow your practice in 2021, don’t forget, [DoctorLogic](https://doctorlogic.com/) can help! It’s not enough to plan for an increase in revenue with no plan in place to obtain it so make sure you also plan to invest in the added resources (time, energy, marketing, etc.) to reach your new goal. Of course, you can always call DoctorLogic as we’ve already helped thousands of doctors across the country attract more patients and grow their practices with our best-in-class marketing solutions. If you want to grow your practice and don’t know where to start, give us a call. We’d certainly love to help.
 
-P.S.
-
+**P.S.**  
 If you're interested in learning more about budgeting, be sure to check out our [Digital Marketing and Technology Budget Guide](https://doctorlogic.com/download-digital-marketing-technology-guide).
