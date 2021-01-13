@@ -1,11 +1,11 @@
 ---
-post_title: 'New Feature: Review Pinning'
-date: 2020-12-28 15:00:00 +0000
+post_title: '2020: Year in Review'
+date: 2021-01-19 13:00:00 +0000
 post_author: Josh Feinberg
 tags:
 - product updates
-post_intro: New Feature now available for all DoctorLogic clients.
-post_image: "/uploads/image1.png"
+post_intro: A quick recap at the biggest changes to DoctorLogic's platform in 2020.
+post_image: "/uploads/newsletters-_-blog-images.png"
 post_highlight: We redesigned the new homepage to highlight your most important performance
   metrics to get a better understanding of your top website, SEO, & conversion results.
 post_type:
@@ -15,30 +15,33 @@ product:
 title: '2020: Year In Review'
 
 ---
-**Coming soon: Your new DoctorLogic "Homepage"**
+2020 was a year unlike any other. Despite the uncertainty and unprecedented challenges that we all faced, the DoctorLogic team still needed to plow ahead and find ways to deliver meaningful upgrades to the platform. The biggest reason? Our customers, and their patients, were counting on us and we couldn’t let them down!
 
-New year. New look! We're starting off 2021 strong and today we wanted to share a sneak peek of an exciting new change coming soon to your DoctorLogic account. In a few weeks we'll be rolling out a brand new account Homepage which will be the first page you'll land on each time you login.
+Even though 2020 threw a variety of curveballs at us we’re proud of the progress we made and we hope that you were able to benefit from many of the enhancements that were rolled out last year.
 
-**Homepage overview**
+In case you missed some of our 2020 updates, here's a quick summary of notable platform upgrades from last year:
 
-The new Homepage is specifically designed to highlight your most important performance metrics so you can quickly get an at-a-glance summary of your top website, SEO, and conversion results.
+Q1:
 
-The Homepage will also help you easily navigate to different parts of your account so you can view additional reporting, create new website content, view new leads, or manage your online reviews.
+* **Social Sharing:** Expand the reach of your blog posts by allowing readers to share with their social networks.
+* **Virtual Consultations:** Customized landing pages and web forms to facilitate remote consultations.
+* **Custom forms:** Fully customizable web forms with a wide array of standard and custom field options.
 
-Lastly, the Homepage will be the spot to get useful tips and recommendations to help you grow and improve overall performance.
+Q2:
 
-**What other changes can I expect?**
+* **NexHealth integration:** Real-time appointment scheduling with one of the leading patient management systems.
+* **Appointment requests:** Interactive form experience capturing appointment-related details for quick follow ups.
+* **Spam management:** Enhancements to prevent obvious spam leads from skewing conversion metrics.
 
-In addition to the launch of the new Homepage we're also taking the opportunity to update some of the navigational elements within your DoctorLogic account. We'll be introducing a new Reports section which will house all of the new and existing reports that we offer.
+Q3:
 
-To address a commonly asked question, the current "Performance Dashboard," (the page you see now after logging in) is not going away. We're just moving it into a new location inside the Reports section.
+* **New Opportunities dashboard:** All-new user interface, features, and export options for managing website conversions.
+* **Confirmation page & email:** New data-driven lead form experience that suggests related site content and improves retention.
+* **Articles:** “D.I.Y.” blog post creation making it quick and easy to add fresh content to your site.
 
-**Sounds great. Tell me more!**
+Q4:
 
-We're putting the finishing touches on this new upgrade and plan to launch it to all customers within the next few weeks. We'll share another update once we get closer to launch but if you have any questions or would like additional information now, don't hesitate to [reach out today](mailto:success@doctorlogic.com).
+* **Video Case Studies:** Create video galleries to promote patient cases studies or procedures.
+* **Salesforce & HubSpot integrations:** Automatically sync new web form conversions into your CRM system.
 
-**Here's a Sneak Peak of what's to come:**
-
-![](/uploads/image1.png)
-
-![](/uploads/image2.jpg)
+If you have questions or feedback on any of the platform upgrades mentioned above please contact us today. We'd love to [hear from you!](mailto:success@doctorlogic.com)
