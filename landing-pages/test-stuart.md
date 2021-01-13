@@ -13,7 +13,7 @@ page_sections:
 - template: hero-with-image
   component: hero-1
   component_css: hero
-  headline: test
+  headline: test-hello
   text: test
   img: "/uploads/product-update-image-3.jpg"
   btn: []
