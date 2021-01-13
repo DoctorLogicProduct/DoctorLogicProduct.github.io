@@ -20,6 +20,17 @@ page_sections:
   text-link: []
   wistia-link: []
   alt: ''
+- template: feature
+  component: feature-1
+  component_css: feature
+  img_alignment: Left
+  headline: Feature
+  text: text text
+  img: "/uploads/4.png"
+  class: ''
+  btn: []
+  wistia-link: []
+  alt: ''
 published: false
 
 ---
