@@ -1,13 +1,14 @@
 ---
-post_title: 'New Feature: Review Pinning'
+post_title: 'Coming Soon: Homepage Redesign'
 date: 2021-01-19 13:00:00 +0000
 post_author: Josh Feinberg
 tags:
 - product updates
-post_intro: New Feature now available for all DoctorLogic clients.
+post_intro: New Homepage Redesign coming soon for all DoctorLogic clients.
 post_image: "/uploads/newsletters-_-product-update-images-1.png"
 post_highlight: We redesigned the new homepage to highlight your most important performance
-  metrics to get a better understanding of your top website, SEO, & conversion results.
+  metrics and give you a better understanding of your top website, SEO, & conversion
+  results.
 post_type:
 - blog
 product:
