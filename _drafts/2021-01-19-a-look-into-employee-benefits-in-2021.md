@@ -5,7 +5,7 @@ post_author: Michelle Peralta
 tags:
 - Healthcare Marketing
 post_intro: How has the pandemic shaped the employee benefits structure?
-post_image: "/uploads/4.png"
+post_image: "/uploads/website-_-blog-post-image.png"
 post_highlight: ''
 post_type:
 - blog
