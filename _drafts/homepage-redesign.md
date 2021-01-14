@@ -1,6 +1,6 @@
 ---
 post_title: 'New Feature: Review Pinning'
-date: 2020-12-28 15:00:00 +0000
+date: 2021-01-19 13:00:00 +0000
 post_author: Josh Feinberg
 tags:
 - product updates
