@@ -5,7 +5,7 @@ post_author: Josh Feinberg
 tags:
 - product updates
 post_intro: A quick recap at the biggest changes to DoctorLogic's platform in 2020.
-post_image: "/uploads/istock-1171009634.jpg"
+post_image: "/uploads/the-word-review-on-wooden-cube-block-on-white-wooden-table-2020-picture-id1171009634.jpg"
 post_highlight: We redesigned the new homepage to highlight your most important performance
   metrics to get a better understanding of your top website, SEO, & conversion results.
 post_type:
