@@ -5,7 +5,7 @@ post_author: Josh Feinberg
 tags:
 - product updates
 post_intro: New Feature now available for all DoctorLogic clients.
-post_image: "/uploads/image1.png"
+post_image: "/uploads/newsletters-_-product-update-images-1.png"
 post_highlight: We redesigned the new homepage to highlight your most important performance
   metrics to get a better understanding of your top website, SEO, & conversion results.
 post_type:
