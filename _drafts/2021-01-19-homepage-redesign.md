@@ -40,6 +40,4 @@ We're putting the finishing touches on this new upgrade and plan to launch it to
 
 **Here's a Sneak Peak of what's to come:**
 
-![](/uploads/image1.png)
-
-![](/uploads/image2.jpg)
+![](/uploads/homepage-redesign.png)
