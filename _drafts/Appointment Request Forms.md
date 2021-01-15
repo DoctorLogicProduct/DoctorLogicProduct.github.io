@@ -1,6 +1,6 @@
 ---
 post_title: 'New Feature: Appointment Request Forms'
-date: 2020-12-28 15:00:00 +0000
+date: 2020-10-28 14:00:00 +0000
 post_author: Josh Feinberg
 tags:
 - product updates
@@ -18,10 +18,8 @@ Your website is the most effective destination for converting leads into new pat
 
 With our new dedicated **Appointment Request forms** you’ll get a beautifully styled, mobile-friendly form designed specifically for collecting all the information needed to make setting up an appointment as simple as possible.
 
-\- Patients can choose preferred days and times that work best for their schedule
-
-\- Practices can collect information such as patient status, procedure, contact information, and more
-
-\- Instantly receive an email alert after the form submitted so you can follow up with the patient and get the appointment booked
+* Patients can choose preferred days and times that work best for their schedule
+* Practices can collect information such as patient status, procedure, contact information, and more
+* Instantly receive an email alert after the form submitted so you can follow up with the patient and get the appointment booked
 
 If you have a question about this feature or want to learn more, please feel free to [email us](mailto:success@doctorlogic.com?subject=Interested%20in%20Appointment%20Request%20Forms).
