@@ -1,6 +1,6 @@
 ---
 post_title: Five Ways Healthcare Marketing Will Look Different In 2021
-date: 2021-01-01T06:00:00.000+00:00
+date: 2021-01-13 14:00:00 +0000
 post_author: Amber Maceyra
 tags:
 - healthcare-marketing
