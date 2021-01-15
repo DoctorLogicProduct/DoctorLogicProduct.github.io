@@ -5,7 +5,7 @@ post_author: Heather Kelldorf
 tags:
 - Healthcare Marketing
 - Medical PPC
-- product-updates
+- Product Updates
 post_intro: How Seasonal Search Trends Impact Digital Marketing Campaigns.
 post_image: "/uploads/2-1.png"
 post_highlight: In our latest blog post, our Head of Paid Search dives into the value
