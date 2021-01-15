@@ -1,8 +1,9 @@
 ---
 post_title: 'COVID-19: How To Optimize For Coronavirus'
-date: 2020-04-13 18:00:00 +0000
+date: 2020-04-13T18:00:00.000+00:00
 post_author: Ryan Metcalf
-tags: []
+tags:
+- SEO
 post_intro: 'It’s no secret each business is going to be and has already been negatively
   impacted by the coronavirus. With that said, there are several things we can do
   to minimize the impact of performance and keep our patients happy. It’s also a great

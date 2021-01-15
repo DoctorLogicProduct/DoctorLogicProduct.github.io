@@ -1,12 +1,11 @@
 ---
 post_title: 'Technical SEO Case Study: Duplicate URLs Are a Silent SEO Killer'
-date: 2020-09-03 20:00:00 +0000
+date: 2020-09-03T20:00:00.000+00:00
 post_author: Ryan Metcalf
 tags:
 - strategy
-- website marketing
 - SEO
-- 'technical seo '
+- website
 post_intro: 'When referring to SEO we tend to think about content, but in this post
   we showcase why technical issues can prevent a page from ranking as well. In this
   case study, we saw rankings make dramatic changes which lead to increased performance. '

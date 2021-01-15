@@ -2,7 +2,9 @@
 post_title: SEO News & Updates - May 2020
 date: 2020-05-12T22:00:00.000+00:00
 post_author: Ryan Metcalf
-tags: []
+tags:
+- SEO
+- News
 post_intro: In this inaugural edition of SEO News from DoctorLogic, our in-house SEO
   expert, Ryan Metcalf, breaks down the biggest trends and Google updates in 2020
   so far. SEO News is planned to be a monthly distribution that we hope will give
