@@ -16,7 +16,7 @@ product:
 title: Homepage Redesign
 
 ---
-**Coming soon: Your new DoctorLogic "Homepage"**
+**Coming soon: Your new DoctorLogic Homepage**
 
 New year. New look! We're starting off 2021 strong and today we wanted to share a sneak peek of an exciting new change coming soon to your DoctorLogic account. In a few weeks we'll be rolling out a brand new account Homepage which will be the first page you'll land on each time you login.
 
@@ -40,4 +40,4 @@ We're putting the finishing touches on this new upgrade and plan to launch it to
 
 **Here's a Sneak Peak of what's to come:**
 
-**![](/uploads/homepage-redesign.png)**
+![](/uploads/homepage-redesign.png)
