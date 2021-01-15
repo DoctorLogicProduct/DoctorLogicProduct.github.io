@@ -38,6 +38,6 @@ To address a commonly asked question, the current "Performance Dashboard," (the 
 
 We're putting the finishing touches on this new upgrade and plan to launch it to all customers within the next few weeks. We'll share another update once we get closer to launch but if you have any questions or would like additional information now, don't hesitate to [reach out today](mailto:success@doctorlogic.com).
 
-**Here's a Sneak Peak of what's to come:**
+**Here's a Sneak Peek of what's to come:**
 
 ![](/uploads/group-8.png)
