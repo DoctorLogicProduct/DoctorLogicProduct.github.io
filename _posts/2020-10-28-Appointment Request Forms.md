@@ -2,7 +2,8 @@
 post_title: 'New Feature: Appointment Request Forms'
 date: 2020-10-28 14:00:00 +0000
 post_author: Josh Feinberg
-tags: []
+tags:
+- product-updates
 post_intro: New Feature now available for all DoctorLogic clients.
 post_image: "/uploads/product-update-image-2.jpg"
 post_highlight: ''
