@@ -3,7 +3,6 @@ post_title: New Year, Same Search?
 date: 2021-01-06T16:00:00.000+00:00
 post_author: Heather Kelldorf
 tags:
-- Product-Updates
 - Healthcare-Marketing
 - Strategy
 post_intro: How Seasonal Search Trends Impact Digital Marketing Campaigns.
