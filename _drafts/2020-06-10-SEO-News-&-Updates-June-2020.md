@@ -1,8 +1,9 @@
 ---
 post_title: SEO News & Updates June 2020
-date: 2020-06-10 05:00:00 +0000
+date: 2020-06-10T05:00:00.000+00:00
 post_author: Ryan Metcalf
-tags: []
+tags:
+- seo
 post_intro: 'On the heels of the Covid-19 recovery, Google has been very busy with
   updates and news. After 1 month of being live, we now know the May CORE algorithm
   update from Google was one of the biggest on record and continued the trend of impacting
