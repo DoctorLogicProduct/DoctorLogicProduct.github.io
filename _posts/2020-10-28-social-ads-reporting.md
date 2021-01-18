@@ -3,7 +3,7 @@ post_title: 'New Feature: Social Ads Reporting'
 date: 2020-10-28 14:00:00 +0000
 post_author: Josh Feinberg
 tags:
-- product-updates
+- Product-Updates
 post_intro: New Feature now available for all DoctorLogic clients.
 post_image: "/uploads/product-update-image-1.jpg"
 post_highlight: ''
