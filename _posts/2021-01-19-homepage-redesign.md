@@ -1,6 +1,6 @@
 ---
 post_title: 'Coming Soon: Homepage Redesign'
-date: 2021-01-19 14:00:00 +0000
+date: 2021-01-18 14:00:00 +0000
 post_author: Josh Feinberg
 tags:
 - product-updates
