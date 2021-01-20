@@ -3,7 +3,8 @@ layout: case-study
 title: Case Study - Mountcastle Plastic Surgery & Vein Institute
 page_name: case-study-mountcastle
 permalink: "/case-studies/mountcastle"
-description: Helping him acquire new patients and grow his practice, Dr. Mountcastle began working with DoctorLogic in June 2016.
+description: Helping him acquire new patients and grow his practice, Dr. Mountcastle
+  began working with DoctorLogic in June 2016.
 meta_image: "/img/meta/dl.jpg"
 nofollow: false
 gsap: true
@@ -20,7 +21,14 @@ featured-img:
   img_alt: Mountcastle Plastic Surgery & Vein Institute - Powered By DoctorLogic
 challenge:
 - headline: The Challenge
-  text: "<p>Mountcastle Plastic Surgery & Vein Institute, a leading plastic surgery practice in Virginia, initially worked with a vendor who was unable to grow their practice online. This partner lacked the experience to provide keywords that would have Mountcastle Plastic Surgery & Vein Institute rank at the top of Google. Frustrated, Dr. Mountcastle was determined to find a solution that could provide him with keywords and unique pages. His ultimate goal was to be the top plastic surgeon on Google, helping him acquire new patients and grow his practice. Dr. Mountcastle began working with DoctorLogic in June 2016.</p>"
+  text: "<p>Mountcastle Plastic Surgery & Vein Institute, a leading plastic surgery
+    practice in Virginia, initially worked with a vendor who was unable to grow their
+    practice online. This partner lacked the experience to provide keywords that would
+    have Mountcastle Plastic Surgery & Vein Institute rank at the top of Google. Frustrated,
+    Dr. Mountcastle was determined to find a solution that could provide him with
+    keywords and unique pages. His ultimate goal was to be the top plastic surgeon
+    on Google, helping him acquire new patients and grow his practice. Dr. Mountcastle
+    began working with DoctorLogic in June 2016.</p>"
   customer-items:
   - headline: Customer
     text: Mountcasle Plastic Surgery & Vein Institute
@@ -51,10 +59,26 @@ results:
     value: "353"
     label: Unique Pages Indexed
   detail:
-  - text: "<p>Since partnering with DoctorLogic, Dr. Mountcastle has seen an increase in page 1 keywords by 385% (60 vs 291) with an SEO value of $23,100. In addition to keyword ranking, the Before and After Photo Gallery brings in 57.9% of all page view traffic, with 28.7% leads coming strictly from the gallery page. Overall, his total website traffic has grown by 333%, and his lead traffic increased by 368%.</p><p>Dr. Mountcastle has gained a competitive advantage in his market. With DoctorLogic, Mountcastle Plastic Surgery & Vein Institute is leveraging technology to increase efficiency and track lead conversions that turn visitors into patients.</p>"
+  - text: "<p>Since partnering with DoctorLogic, Dr. Mountcastle has seen an increase
+      in page 1 keywords by 385% (60 vs 291) with an SEO value of $23,100. In addition
+      to keyword ranking, the Before and After Photo Gallery brings in 57.9% of all
+      page view traffic, with 28.7% leads coming strictly from the gallery page. Overall,
+      his total website traffic has grown by 333%, and his lead traffic increased
+      by 368%.</p><p>Dr. Mountcastle has gained a competitive advantage in his market.
+      With DoctorLogic, Mountcastle Plastic Surgery & Vein Institute is leveraging
+      technology to increase efficiency and track lead conversions that turn visitors
+      into patients.</p>"
 solution:
 - headline: The Solution
-  text: "<p>After an extensive consultation with Dr. Mountcastle and his team, DoctorLogic concluded that the issue was a lack of unique content and keywords.</p><p>With DoctorLogic’s proven technology and expert content and design team, Dr. Mountcastle received a new website specially designed to showcase the great work and reviews of Mountcastle Plastic Surgery & Vein Institute. Our team of content experts crafted relevant pages and keywords to grow his online presence and get his website to the top of Google. In order to boost unique pages and content, Dr. Mountcastle utilized DoctorLogic’s Before and After Galleries and Reputation Management tool. The website was also created to be responsive to all devices and easy to navigate.</p>"
+  text: "<p>After an extensive consultation with Dr. Mountcastle and his team, DoctorLogic
+    concluded that the issue was a lack of unique content and keywords.</p><p>With
+    DoctorLogic’s proven technology and expert content and design team, Dr. Mountcastle
+    received a new website specially designed to showcase the great work and reviews
+    of Mountcastle Plastic Surgery & Vein Institute. Our team of content experts crafted
+    relevant pages and keywords to grow his online presence and get his website to
+    the top of Google. In order to boost unique pages and content, Dr. Mountcastle
+    utilized DoctorLogic’s Before and After Galleries and Reputation Management tool.
+    The website was also created to be responsive to all devices and easy to navigate.</p>"
   items:
   - img_src: "/img/product-icons/with-labels/website-management-label.svg"
     img_alt: DoctorLogic Website Management
@@ -74,5 +98,6 @@ solution:
   - img_src: "/img/product-icons/with-labels/success-insights-label.svg"
     img_alt: DoctorLogic Success Insights
     img_link: "/medical-website-success-insights"
+published: false
 
 ---
