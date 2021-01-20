@@ -98,6 +98,5 @@ solution:
   - img_src: "/img/product-icons/with-labels/success-insights-label.svg"
     img_alt: DoctorLogic Success Insights
     img_link: "/medical-website-success-insights"
-published: false
 
 ---
