@@ -18,15 +18,6 @@
         "stat-label": "Indexed Keywords"
     },
     {
-        "type": "aesthetic",
-        "img": "/img/case-studies/mountcastle-featured-image.jpg",
-        "link": "/case-studies/mountcastle",
-        "name": "Mountcastle Plastic Surgery",
-        "specialty": "Plastic Surgery",
-        "stat": "368%",
-        "stat-label": "Website Lead Traffic"
-    },
-    {
         "type": "dentistry",
         "img": "/img/case-studies/emigh-featured-image.jpg",
         "link": "/case-studies/emigh-dental",
