@@ -1,0 +1,38 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "mq", "base";
+
+.marketing-lp {
+
+    .hero {
+        background: $websites !important;
+        padding: 40px;
+
+        &::after {
+            display: none;
+        }
+
+        h1, p, li {
+            color: $color-2;
+        }
+
+        li {
+            padding: 20px 0 20px 10px;
+            position: relative;
+            
+            &::before {
+                content: '';
+                background: url('/img/list-check.svg') left center/contain no-repeat;
+                width: 20px;
+                height: 20px;
+                position: absolute;
+                top: 50%;
+                left: 0;
+                transform: translateY(-50%);
+            }
+        }
+    }
+
+}
