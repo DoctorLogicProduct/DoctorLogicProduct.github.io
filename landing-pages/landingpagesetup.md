@@ -15,8 +15,9 @@ page_sections:
   component: hero-4
   component_css: hero-4
   headline: This is the headline
-  text: "<p>test</p><ul><li>list 1</li><li>list 2</li><li>list 3</li></ul><p>last
-    text</p>"
+  text: "<p>The best way to acquire more patients.</p><ul><li>Website content creation
+    machine</li><li>Average $300k in practice growth</li><li>Content > Web > Search
+    > Social > Leads</li></ul><p>One platform that manages everything.</p>"
   form_src: https://marketing.doctorlogic.com/l/772793/2021-01-15/2gh6y5
   form_height: "740"
   bg_img: ''
