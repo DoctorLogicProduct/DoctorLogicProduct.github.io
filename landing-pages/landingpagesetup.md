@@ -4,7 +4,8 @@ title: LandingPageSetup
 alt-header: false
 tracking-number: ''
 permalink: lp-setup
-page_class: []
+page_class:
+- class: marketing-lp
 gsap: false
 custom_js: ''
 description: ''
