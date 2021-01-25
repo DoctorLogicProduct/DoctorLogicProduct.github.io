@@ -50,6 +50,19 @@ page_sections:
   btn: []
   wistia-link: []
   alt: ''
+- template: feature
+  component: feature-1
+  component_css: feature
+  img_alignment: Right
+  headline: See how much revenue you're missing out on
+  text: Simply adjust what you charge for your top services and our Free Market Analysis
+    will use local search volume for those terms to show you what they’re actually
+    worth.
+  img: "/uploads/e772a4f6-build-your-revenue-report_10000000jg0b1000000028.png"
+  class: ''
+  btn: []
+  wistia-link: []
+  alt: ''
 marketing_header: true
 
 ---
