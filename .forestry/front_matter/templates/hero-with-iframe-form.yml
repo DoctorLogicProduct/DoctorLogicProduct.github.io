@@ -17,7 +17,7 @@ fields:
 - name: bg_img
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Background Image
   description: The image that will be in the bg of the hero.  Should be centered vertically
     and horizontally.

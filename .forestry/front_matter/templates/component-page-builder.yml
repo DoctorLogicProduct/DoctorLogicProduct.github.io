@@ -18,6 +18,10 @@ fields:
   type: boolean
   label: Alt Header
   description: Minimal header with phone number and CTA - For PPC Landing Pages Only
+- name: marketing_header
+  type: boolean
+  label: Marketing Header
+  description: just the logo and tagline, white background
 - name: tracking-number
   type: text
   config:
@@ -68,7 +72,7 @@ fields:
 - name: meta_image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Meta Image
 - name: page_sections
   type: blocks
@@ -111,6 +115,7 @@ pages:
 - landing-pages/eye-care-professional-marketing-get-started.md
 - landing-pages/healthcare-practice-marketing-get-started.md
 - landing-pages/landing-page-test.md
+- landing-pages/landingpagesetup.md
 - landing-pages/medical-practice-marketing-get-started-1.md
 - landing-pages/medical-practice-marketing-get-started-2.md
 - landing-pages/medical-practice-marketing-get-started-3.md
