@@ -68,7 +68,7 @@ fields:
 - name: meta_image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Meta Image
 - name: page_sections
   type: blocks
