@@ -12,6 +12,8 @@
 	<!-- End Google Tag Manager (noscript) -->
 	{% if page.alt-header == true %}
 	{% include alt-header.html %}
+	{% elsif page.marketing_header == true %}
+	{% include marketing-header.html %}
 	{% else %}
 	{% include header.html %}
 	{% endif %}
