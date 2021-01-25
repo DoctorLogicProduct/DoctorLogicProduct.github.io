@@ -14,7 +14,7 @@ page_sections:
   component: hero-4
   component_css: hero-4
   headline: This is the headline
-  text: This is the text
+  text: "<p>test</p><p>test 2</p>"
   form_src: https://marketing.doctorlogic.com/l/772793/2021-01-15/2gh6y5
   form_height: "740"
   bg_img: ''
