@@ -19,7 +19,7 @@ page_sections:
     growth</li><li>Content > Web > Search > Social > Leads</li></ul><p>One platform
     that manages everything.</p>"
   form_src: https://marketing.doctorlogic.com/l/772793/2021-01-25/2glrfp
-  form_height: "700"
+  form_height: "650"
   bg_img: ''
   tagline: []
   btn: []
