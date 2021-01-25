@@ -42,6 +42,7 @@ page_sections:
   btn: []
   wistia-link: []
   alt: ''
+marketing_header: true
 published: false
 
 ---
