@@ -18,19 +18,47 @@
             color: $color-2;
         }
 
+        h1, p {
+            font-weight: 500;
+        }
+
+        p {
+            font-size: 2rem;
+        }
+
         li {
-            padding: 20px 0 20px 10px;
+            padding: 20px 0 20px 30px;
             position: relative;
+            font-size: 1.5rem;
             
             &::before {
                 content: '';
                 background: url('/img/list-check.svg') left center/contain no-repeat;
-                width: 20px;
-                height: 20px;
+                width: 40px;
+                height: 40px;
                 position: absolute;
                 top: 50%;
                 left: 0;
                 transform: translateY(-50%);
+            }
+        }
+
+        .hero-4__text {
+            justify-content: flex-start;
+            padding: 60px 40px 40px;
+            position: relative;
+
+            &::after {
+                content: '';
+                position: absolute;
+                top: auto;
+                bottom: 0;
+                left: auto;
+                right: -20%;
+                opacity: .2;
+                width: 80%;
+                height: 80%;
+                background: url('/img/target.svg') center center/contain no-repeat;
             }
         }
     }
