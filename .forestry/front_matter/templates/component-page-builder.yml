@@ -18,6 +18,10 @@ fields:
   type: boolean
   label: Alt Header
   description: Minimal header with phone number and CTA - For PPC Landing Pages Only
+- name: marketing_header
+  type: boolean
+  label: Marketing Header
+  description: just the logo and tagline, white background
 - name: tracking-number
   type: text
   config:
