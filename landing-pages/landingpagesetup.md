@@ -29,7 +29,7 @@ page_sections:
   img_alignment: Right
   headline: This is feature 1
   text: This is feature 1 This is feature 1 This is feature 1 This is feature 1
-  img: "/uploads/confirmation_page.jpg"
+  img: "/uploads/3ab63ac6-ipad-market-report_10s80wa0s80w8000000028.png"
   class: ''
   btn: []
   wistia-link: []
