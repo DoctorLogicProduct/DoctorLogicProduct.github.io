@@ -27,8 +27,11 @@ page_sections:
   component: feature-1
   component_css: feature
   img_alignment: Right
-  headline: This is feature 1
-  text: This is feature 1 This is feature 1 This is feature 1 This is feature 1
+  headline: Market demographics at your fingertips
+  text: Combining data from multiple sources (including the US Census figures) this
+    report gives you an accurate breakdown of the population demographics for those
+    who live near your practice. Use this information to cater your marketing efforts
+    and adapt to your local market’s needs.
   img: "/uploads/3ab63ac6-ipad-market-report_10s80wa0s80w8000000028.png"
   class: ''
   btn: []
@@ -38,9 +41,11 @@ page_sections:
   component: feature-1
   component_css: feature
   img_alignment: Left
-  headline: This is feature 2
-  text: This is feature 2This is feature 2This is feature 2This is feature 2
-  img: "/uploads/virtual_consultations.jpg"
+  headline: View local drivetimes at a glance
+  text: 'As you know, most patients will drive a little further for a practice they
+    love. That''s why our maps display drive-time instead of miles, so you get a better
+    visualization of the true reach your practice serves. '
+  img: "/uploads/c6548fc2-view-patient-drive-times_100000008v09h000002028.png"
   class: ''
   btn: []
   wistia-link: []
