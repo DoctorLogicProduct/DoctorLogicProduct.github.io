@@ -829,6 +829,13 @@
 
 		}
 
+		body.header-bg .marketing-header {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+		}
+
 		.marketing-header {
 			background: $color-2;
 
