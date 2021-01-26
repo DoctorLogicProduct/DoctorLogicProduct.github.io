@@ -8,7 +8,7 @@ tags:
 - Medical-PPC
 post_intro: This post covers the overall search trends as well as industry updates
   which relate to the topic of "Online Doctor Consultations".
-post_image: ''
+post_image: "/uploads/website-_-blog-post-image.png"
 post_highlight: This post covers the overall search trends as well as industry updates
   which relate to the topic of "Online Doctor Consultations".
 post_type:
@@ -30,15 +30,15 @@ It’s also important to note that during a normal year, there is some seasonali
 
 What’s interesting here, is the generic related searches were the quickest to spike and quickest to return back to normal levels.
 
-![](https://lh3.googleusercontent.com/73CbkRpBv4JxxBp1tjr4Aow0rqlFUSfTsN0GJp8qpFqT5Sg6D2RZ40NX-L-GmK9v29Ngo4LXDxcrbLyKiZL5wyugyqjyLjIESwy5YNWRtRbFcSrVnw--Bnk4JNVcL1Xo0zTBoj0C "Chart" =495x305)
+<Graph: Online Doctor Consultation vs. Free Online Doctor Consultation>
 
-![](https://lh6.googleusercontent.com/YL1IkWmIN5dBwPv2-2SHy0Raw64vHVScJX5PdW_HfRXnIiLeEG7_AAtVAAhB4u9ibpw5VDkiwIuherUVyiUYvaVhUqqD6STmafxRKdzfczL68LQoqqI-6Wwc9DvBPEEGsPw74HfH "Chart" =480x296)
+<Graph: Online Health vs. Virtual Health>
 
-However, keywords relating to more specific doctors have consistently remained elevated. Upon more research, skin care and dermatology also seemed to be the top elective searches as well.
+<Graph: Dermatologist Online Consultation vs. Plastic Surgery Online Consultation vs. Dentist Online Consultation vs. Online Health Consultation vs. Virtual Orthodontic Consultation vs. Plastic Surgery Virtual Consultation>
 
-![](https://lh6.googleusercontent.com/tkqz0yTFr7TZcnizSicEjrK2sz6yJBoJAwJboTjLLTT7ipHrJJHEePW6VRxMxXr6QlsS6SqnYp4YE5s-9p5FsbnXTaYihrOI0ECfVoCr4oQywg9o7A6fLwNqf5CR1FfqhzRLDV_K "Chart" =624x385)
+<Graph: Dermatologist Online Consultation vs. Virtual Skin Care Consultation vs. Online Skin Consultation>
 
-![](https://lh5.googleusercontent.com/llHhvCBcW1Vhm5fO7-DK_n3r3cf1cRXylmdxijh1ULIWvcvoGokWMxu98bYx4G0YXZ_a45jOH0KztO_o38R19-d8bEtMYCF8ZNwv7n_6S9Sfrd_OwHgucpZOxdiXfcRm8s6W1HJr "Chart" =624x385)  
+  
 **Google My Business Updates**
 
 Google made a lot of updates to the local GMB platform throughout the last year because the local business or doctor has been impacted significantly. Because Google likes to return the most relevant and useful information to the searcher, these changes were both necessary and appreciated in a lot of cases.
