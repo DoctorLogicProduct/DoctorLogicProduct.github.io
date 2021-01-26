@@ -25,6 +25,7 @@ fields:
 - name: marketing_footer
   type: boolean
   label: Marketing Footer
+  description: Barebones footer with no navigation.  To use on marketing landing pages.
 - name: tracking-number
   type: text
   config:
