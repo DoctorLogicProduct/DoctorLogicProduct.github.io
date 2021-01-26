@@ -63,4 +63,16 @@
         }
     }
 
+    .feature {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .feature:last-of-type {
+
+        .feature__container {
+            padding-bottom: 60px;
+        }
+    }
+
 }

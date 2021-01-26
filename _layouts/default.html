@@ -20,7 +20,11 @@
 	<main id="main">
 		{{ content }}
 	</main>
+	{% if page.marketing-footer == true %}
+	{% include marketing-footer.html %}
+	{% else %}
 	{% include footer.html %}
+	{% endif %}
 </body>
 
 <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
