@@ -326,11 +326,38 @@ footer {
 
 }
 
-#marketing-footer {
-	
-}
 
 }
+
+
+footer#marketing-footer {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: $websites;
+
+	.footer {
+
+		&__partners {
+			justify-content: center;
+		}
+
+		&__location {
+			padding: 20px 0;
+
+			p {
+				text-align: center;
+			}
+
+		}
+
+		&__location-phone {
+			margin: 0;
+		}
+	}
+}
+
 
 body.social-reputation footer {
 	background: $gradient-social-reputation;

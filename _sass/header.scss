@@ -840,6 +840,10 @@
 		.marketing-header {
 			background: $color-2;
 
+			.header__wrapper {
+				justify-content: center;
+			}
+
 			.header__cta {
 				margin-left: auto;
 				flex: 1;
