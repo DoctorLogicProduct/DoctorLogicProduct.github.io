@@ -64,5 +64,6 @@ page_sections:
   wistia-link: []
   alt: ''
 marketing_header: true
+marketing_footer: true
 
 ---
