@@ -1,15 +1,20 @@
 ---
-post_title: New Year, Same Search?
-date: 2021-01-06T16:00:00.000+00:00
-post_author: Heather Kelldorf
+post_title: Google Maps Turns A Sweet 16 and Why It’s Important
+date: 2021-02-01 16:00:00 +0000
+post_author: Ryan Metcalf
 tags:
 - Healthcare-Marketing
 - Strategy
 - Medical-PPC
-post_intro: How Seasonal Search Trends Impact Digital Marketing Campaigns.
-post_image: "/uploads/2-1.png"
-post_highlight: In our latest blog post, our Head of Paid Search dives into the value
-  in utilizing search trends in your ad campaigns.
+post_intro: When Google Maps first launched, it’s unlikely we could have foreseen
+  it becoming what it is today and such an integral part of our lives. As the product
+  now turns a sweet 16 it’s time to take a look at how it’s changed with the times
+  and why it’s important in the SEO landscape.
+post_image: "/uploads/website-_-blog-post-image.png"
+post_highlight: 'When Google Maps first launched, it’s unlikely we could have foreseen
+  it becoming what it is today and such an integral part of our lives. As the product
+  now turns a sweet 16 it’s time to take a look at how it’s changed with the times
+  and why it’s important in the SEO landscape. '
 post_type:
 - blog
 product:
@@ -19,58 +24,26 @@ product:
 title: 2021-02-01-Google-Maps-Turns-A-Sweet-16-and-Why-It’s-Important
 
 ---
-At the start of a new year, people set resolutions to shed themselves of the bad habits from the previous year. This is why we hear a lot of people say, “New year, new me.” In January, it is common to see trending searches for people who are looking to make a change, whether it be to their lifestyle, appearance, and/or habits. Digital marketing professionals and those with a knowledge of SEO and the workings of Google will likely tell you that seasonal keywords tend to generate most of their search volume during certain targeted times of the year.
+**The Beginning of Google Maps**
 
-**What are seasonal search trends?**
+The beginning of Google Maps seemed like ages ago when the Internet was really starting to take off and many of us probably didn’t have smartphones--or even cellphones for that matter. These were the days when the product was primarily used for directions and navigating around town. The industry leaders were other direction services like Mapquest which younger generations probably have never even heard mentioned. Come to think of it’s crazy to think about how popular those services were but they were never able to maintain their market share because they never adapted or at least didn’t keep up with the changing trends. 
 
-Seasonal search trends help determine which keywords should be considered and implemented to meet your campaign goals. For example, right before the spring, which is also synonymous with the start of the wedding season, both women and men are thinking about how to improve their appearance before their wedding. They may search for ways to help them fit better in their wedding dress/tuxedo, or make their teeth whiter and more appealing for photos. Brides-to-be and their grooms tend to search for specific keywords related to wedding appearance like, “skincare”, “weight loss solutions”, “plastic surgery”, “dental makeover”, “teeth whitening”, etc. Businesses who offer these services and are aware of the seasonal trends and search terms associated with them can take advantage of the opportunity to run targeted campaigns to those potential customers’ specific needs at the most opportune time.
+During this time it’s important to note how people searched. A lot of people searched more for a specific address. Many listings didn’t have an actual business entity tied to the address itself. In some ways the address itself was meaningless. Now we search based on a type or a name of a business without even caring about the actual address. Google maps and others automatically calculate things for us and do so much for us without even realizing it. 
 
-**The impact of 2020 on digital marketing**
+**What Google Maps is Today**
 
-2020 brought some very unique challenges when it came to digital marketing and how practices marketed their services. Many areas were on lockdown, businesses were forced to close temporarily, and residents were encouraged to stay home. These actions forced many businesses to change the way they conducted their day-to-day business, the type of service they offered, and how they could safely interact and treat patients and customers.
+With the evolution and adoption of mobile devices, having access to Google Maps and the Internet now seems like a basic life necessity. We now have quick and easy access to directions for any place we may want to travel to in the palm of our hand--or at least those devices that still fit in our hand anyway. As opposed to printing directions out on paper we now have easy to follow navigation on a mobile device and incorporate live traffic updates making our life so much more convenient. We even know when a business might be crowded too and get information about a business without even clicking through to a website.  
 
-The good news, if there is any good news out of 2020, is that these new trends actually brought more growth to digital marketing campaigns and allowed for a wider range of keywords for us to bid on.
+Let’s not forget how amazing it is to just explore the world around us too with photos of actual locations from businesses to almost any kind of relevant place in general. In many ways these photos are the precursor to virtual reality by visualizing what it might be like to go to a specific place or revisit past experiences. In some locations Google even has a “live view” which has many uses we’ve only begun to explore.   
 
-New search trends and terms emerged for our practices, including:
+As searchers, we can easily find the nearest store or nearest business for that particular topic. In other words, Google Maps is now more than just a map and direction listing service. It’s actually a directory like Yellow Pages or those other big phone books people got dropped off at their doorstep. Gone are the days of trying to figure out how a business might be classified or how to find a specific type of business. Google can now determine what the searcher might be looking for without the searcher knowing exactly what to search for or how to search for it. It’s important to note these individual listings or results are now tied to a Google My Business listing
 
-* Virtual Consultations
-* Telehealth
-* Emergency Dentist
-* Online Consultations
-* Antibody testing
+**Why is Google My Business Important?** 
 
-**Predicting seasonal keywords to use**
+Google My Business influences when and how you appear in search results. Just like in traditional organic search there are multiple factors which go into a local search algorithm. Local search is just another fancy way of describing searches which have (or at least in Google’s eyes) some kind of local intent. This means local map results will show up in a search for a specific keyword and are often associated with “near me” or “geography” related terms. Sometimes your business will show up without much effort because of the ranking factors but there’s almost always room to optimize and either improve your appearances or protect it from competitors. 
 
-Year over year, many seasonal keywords typically tend to trend the same. Some common examples of this are:
+**What Can I do to Improve my Google My Business Listing?** 
 
-* **_Back to School._** When back to school time is approaching, your child may need to have his/her vision checked. You may search for keywords like “vision checkups for children” or “back to school vision checks” in order to find an eye care physician that specializes in eye care for children or families.
-* **_Christmas._** In anticipation of Christmas, people are beginning their search to find the perfect Christmas tree. Seasonal trends show that customers tend to more frequently search for keywords year after year related to “where to find Christmas trees”, “buying Christmas trees” or “cost of Christmas trees.” These are keywords typically only searched during November and December and not in the other 10 months of the year.
+At DoctorLogic, we can optimize a lot of the fields around names, categories, services, hours of operation, etc. based on our expertise and research. Some of these fields are more important than others but Google does like to see a fully built out profile so a searcher can see all the relevant information.
 
-Google allows us to go back and look at top trending keywords from previous years so we can determine the fitting keywords to bid on for the current year. Predicting when these trends will happen can help us determine the best time to set up Google Ad campaigns. Within the first 30 days of a campaign going live, Google is actively learning how to optimize the keywords chosen for the campaign. It is better to trend early with these keywords so that when the trend or season/holiday/event becomes a reality, the campaign is already ahead of the competition.
-
-It is important to consistently track Google search trends and top keywords on a month-to-month basis. Being up-to-date on search terms or trends that may relate to our practices allows us to bid on the proper keywords at the right time.
-
-**How keywords can optimize budgets and campaigns**
-
-While keywords are evolving each season, certain keywords may cost less when used out of season. For example, during the winter months weight loss surgery keywords may have a higher cost per click, than in the summer months. People who are looking for those terms usually want to get their summer body ready. While these keywords are still being searched for year round, it may cost more in the months leading up to the summer season.
-
-When selecting keywords related to search trends, it is important to ensure that we have an adequate budget in order to beat out the competition. With the tools we use at DoctorLogic, we can recommend certain budgets for campaigns based upon the previous seasonality of keywords. This helps optimize your budget as well as your campaign.
-
-In tandem with Google, we utilize an “insights” tool that allows us to compare different search trends among various seasons. This helps us compare certain keyword patterns across locations, time frames, and categories. It can tell us when keywords are searched the most depending on the time of year. The search trends may also vary depending on the practice location. Some keywords may trend lower in the winter months for some locations but higher in the summer months, and vice versa.
-
-It is important to note that some keywords do not have a season. We can bid on thousands of keywords that may trend all year round. There are some keywords that may be related to a specific person rather than a season or specific time of year. Some examples include, when you decide to have a baby you usually begin your search for an “OBGYN”, or if you need your yearly check-up you may search for “annual check-up”. As a general rule, it is best to keep in mind that when running Google Ad campaigns, seasonality is different for everyone.
-
-**Ensuring seasonal keywords provide an ROI for digital marketing**
-
-At DoctorLogic, we take all aspects into consideration when determining the right keywords to use for digital marketing campaigns based on a number of factors. While it is not a bad thing to run Google campaigns all year round, there are times where certain keywords and search trends may yield a bigger result. No matter the time or season, Google is always looking for ways to optimize keywords for when the next season or trend comes around. Starting early and identifying seasonal keywords and search phrases around your practice will ensure you have a plan in place to make the most out of your digital marketing campaign and get an ROI for your marketing dollars.
-
-_Spike in Telehealth during COVID._  
-![](/uploads/interest-over-time-1.PNG)
-
-_2019 virtual Consultations were not a thing_.
-
-![](/uploads/interest-over-time-2.PNG)
-
-_Weight Loss trends higher spikes wedding season and right before summer_
-
-![](/uploads/interest-over-time-3.PNG)
+There’s also things which need to be done by you, the doctor or practice. They include generating constant reviews and responding to all the reviews. Google likes to see the engagement and interaction that you are listening to feedback from your audience on a regular basis.
