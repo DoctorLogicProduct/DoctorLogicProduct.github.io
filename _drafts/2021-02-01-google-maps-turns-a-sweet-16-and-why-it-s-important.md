@@ -10,7 +10,7 @@ post_intro: When Google Maps first launched, it’s unlikely we could have fores
   it becoming what it is today and such an integral part of our lives. As the product
   now turns a sweet 16 it’s time to take a look at how it’s changed with the times
   and why it’s important in the SEO landscape.
-post_image: "/uploads/website-_-blog-post-image.png"
+post_image: "/uploads/google-maps-blog-post.png"
 post_highlight: 'When Google Maps first launched, it’s unlikely we could have foreseen
   it becoming what it is today and such an integral part of our lives. As the product
   now turns a sweet 16 it’s time to take a look at how it’s changed with the times
@@ -26,7 +26,7 @@ title: 2021-02-01-Google-Maps-Turns-A-Sweet-16-and-Why-It’s-Important
 ---
 **The Beginning of Google Maps**
 
-The beginning of Google Maps seemed like ages ago when the Internet was really starting to take off and many of us probably didn’t have smartphones--or even cellphones for that matter. These were the days when the product was primarily used for directions and navigating around town. The industry leaders were other direction services like Mapquest which younger generations probably have never even heard mentioned. Come to think of it’s crazy to think about how popular those services were but they were never able to maintain their market share because they never adapted or at least didn’t keep up with the changing trends. 
+The beginning of Google Maps seemed like ages ago when the Internet was really starting to take off and many of us probably didn’t have smartphones--or even cellphones for that matter. These were the days when the product was primarily used for directions and navigating around town. The industry leaders were other direction services like MapQuest which younger generations probably have never even heard mentioned. Come to think of it’s crazy to think about how popular those services were but they were never able to maintain their market share because they never adapted or at least didn’t keep up with the changing trends. 
 
 During this time it’s important to note how people searched. A lot of people searched more for a specific address. Many listings didn’t have an actual business entity tied to the address itself. In some ways the address itself was meaningless. Now we search based on a type or a name of a business without even caring about the actual address. Google maps and others automatically calculate things for us and do so much for us without even realizing it. 
 
