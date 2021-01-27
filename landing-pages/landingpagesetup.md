@@ -36,7 +36,7 @@ page_sections:
   class: ''
   btn: []
   wistia-link: []
-  alt: ''
+  alt: alt-text
 - template: feature
   component: feature-1
   component_css: feature
