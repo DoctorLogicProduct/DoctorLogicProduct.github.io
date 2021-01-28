@@ -1,0 +1,787 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "mq", "base";
+
+.modal--suspense {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.2);
+    pointer-events: all;
+    z-index: 2000;
+}
+
+.map {
+    width: 100%;
+    min-height: 500px;
+}
+
+.market-analysis {
+    padding: 20px 0 0;
+
+    @include desktop-sm-min {
+        padding: 40px 0 0;
+    }
+
+    header {
+        background: $color-2;
+    }
+}
+
+.market-analysis-app {
+    min-height: calc(100vh - 40px);
+    padding: 40px 0 0;
+
+    &--page-1, &--page-2 {
+        background: $websites;
+    }
+}
+
+.page {
+    min-height: calc(100vh - 120px);
+
+    &--1, &--2 {
+        @include grid;
+        max-width: 1600px;
+        margin: 0 auto;
+
+        .form__decor {
+            grid-column: auto / span 24;
+            padding: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+
+            @include tablet-wide-min {
+                grid-column: auto / span 14;
+            }
+
+            &::after {
+                content: '';
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                width: 300px;
+                height: 300px;
+                transform: translate(-50%, -50%);
+                background: rgba(255,255,255,.1);
+                border-radius: 100%;
+
+                @include phone-wide-min {
+                    width: 400px;
+                    height: 400px;
+                }
+
+                @include desktop-sm-min {
+                    width: 500px;
+                    height: 500px;
+                }
+
+                @include desktop-wide-min {
+                    width: 600px;
+                    height: 600px;
+                }
+            }
+
+            img {
+                max-width: 280px;
+                position: relative;
+                z-index: 1;
+
+                @include phone-wide-min {
+                    max-width: 500px;
+                }
+
+                @include tablet-wide-min {
+                    max-width: 90%; 
+                }
+
+                @include desktop-min {
+                    max-width: 80%;
+                }
+            }
+        }
+
+
+        .step {
+            grid-column: auto / span 24;
+            padding: 40px 20px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: stretch;
+            color: $color-2;
+            font-weight: 700;
+            text-transform: uppercase;
+
+            @include tablet-wide-min {
+                grid-column: auto / span 10;
+                padding: 0 40px;
+            }
+
+            h2 {
+                color: $color-2;
+                text-transform: uppercase;
+                font-weight: 700;
+                padding-top: 20px;
+                font-size: 2.5rem;
+
+                @include desktop-sm-min {
+                    font-size: 3rem;
+                }
+                
+                small {
+                    text-transform: none;
+                    display: block;
+                    font-size: 1.5rem;
+
+                    @include desktop-sm-min {
+                        font-size: 3rem;
+                    }
+                }
+            }
+
+            input, select, textarea {
+                background: $color-2;
+            }
+
+            .input__label {
+                display: none;
+            }
+
+            .input--google-place {
+                position: relative;
+
+                &::after {
+                    content: '';
+                    position: absolute;
+                    top: 50%;
+                    left: auto;
+                    right: 10px;
+                    transform: translateY(-50%);
+                    width: 30px;
+                    height: 30px;
+                    background: url('/img/market-analysis/google.svg') center center/contain no-repeat;
+                    display: inline-block;
+                }
+            }
+
+            &__text {
+                text-transform: none;
+                font-weight: 500;
+                font-size: 1rem;
+                line-height: 1;
+
+                @include desktop-sm-min {
+                    font-size: 1.5rem;
+                }
+            }
+
+            button {
+                width: 280px;
+            }
+
+            span {
+                padding: 0 15px;
+            }
+
+            &__field {
+                margin: 0 0 20px;
+            }
+
+            &-indicator__step {
+                position: relative;
+
+                &::after {
+                    content: '';
+                    padding: 12px;
+                    position: absolute;
+                    border: solid 2px $color-2;
+                    border-radius: 50%; 
+                    line-height: 1;
+                    left: 4px;
+                    top: -5px;
+
+                    @include desktop-sm-min {
+                        left: 5px;
+                        top: -3px;
+                    }
+                }
+            }
+        }
+    }
+
+    &--2 {
+
+        .step {
+
+            &-indicator__step {
+                position: relative;
+
+                &::after {
+                    content: '';
+                    padding: 12px;
+                    position: absolute;
+                    border: solid 2px $color-2;
+                    border-radius: 50%; 
+                    line-height: 1;
+                    left: 5px;
+                    top: -5px;
+
+                    @include desktop-sm-min {
+                        left: 6px;
+                        top: -3px;
+                    }
+                }
+            }
+
+        }
+    }
+
+    &--3 {
+
+        .back-icon {
+            display: flex;
+            align-items: center;
+
+            img {
+                width: 16px;
+                height: 16px;
+                margin-right: 10px;
+            }
+        }
+
+        .page {
+
+            &__header {
+                display: none;
+            }
+
+            &__heading {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding: 20px 40px;
+                border-top: solid 1px $color-6;
+                border-bottom: solid 1px $color-6;
+                margin: 0;
+                font-weight: 500;
+                text-transform: uppercase;
+                font-size: 1rem;
+                flex-direction: column;
+
+                @include phone-wide-min {
+                    flex-direction: row;
+                }
+
+                @include tablet-min {
+                    font-size: 2.5vw;
+                }
+            }
+
+            &__actions {
+                order: -1;
+                padding: 0 0 20px;
+
+                @include phone-wide-min {
+                    order: unset;
+                    padding: 0;
+                }
+            }
+
+            &__action {
+                font-size: .8rem;
+                font-weight: 500;
+                color: #4d4d4d;
+            }
+
+            &__section {
+                @include grid;
+                max-width: 1400px;
+                margin: 0 auto;
+            }
+
+            &__sub-section {
+                grid-column: auto / span 24;
+                padding: 40px 20px 20px;
+
+                @include tablet-min {
+                    grid-column: auto / span 12;
+                    padding: 20px 40px;
+                }
+            }
+
+        }
+
+        table {
+            grid-column: auto / span 24;
+            padding: 0 20px 40px;
+
+            @include tablet-min {
+                grid-column: auto / span 12;
+                padding: 20px 40px;
+            }
+        }
+
+        th {
+            text-align: left;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        td {
+            color: $websites;
+            font-weight: 500;
+
+            &:first-of-type {
+                color: $color-1;
+            }
+        }
+
+        .location {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            padding: 0 0 20px 0;
+
+            &__name {
+                flex: 0 0 100%;
+                order: -1;
+                text-transform: uppercase;
+                font-weight: 700;
+                padding: 0 0 10px 0;
+            }
+
+            &__icon {
+                flex: 0 0 10%;
+
+                @include tablet-wide-min {
+                    flex: 0 0 auto;
+                }
+            }
+
+            &__address {
+                padding: 0 0 0 10px;
+                color: $websites;
+                font-style: inherit;
+                font-weight: 500;
+                flex: 0 0 90%;
+                font-size: .8rem;
+
+                @include tablet-wide-min {
+                    flex: 0 0 auto;
+                    font-size: .9rem;
+                }
+            }
+        }
+
+        // excess height to improve interactive area / accessibility
+        $height: 30px;
+        $thumb-height: 24px;
+        $track-height: 10px;
+
+        // colours
+        $upper-color: #ccc;
+        $lower-color: #0199ff;
+        $thumb-color: #0199ff;
+        $thumb-hover-color: #55c2ff;
+
+        $upper-background: linear-gradient(to bottom, $upper-color, $upper-color) 100% 50% / 100% $track-height no-repeat transparent;
+        $lower-background: linear-gradient(to bottom, $lower-color, $lower-color) 100% 50% / 100% $track-height no-repeat transparent;
+
+        // Webkit cannot style progress so we fake it with a long shadow
+        // on the thumb element
+        @function webkit-slider-thumb-shadow($i: 1) {
+        $val: #{$i}px 0 0 -#{($thumb-height - $track-height) / 2} #{$upper-color};
+        @if $i == 1 {
+            @for $k from 2 through 1000 {
+            $val: #{$val}, webkit-slider-thumb-shadow($k);
+            }
+        }
+        @return $val;
+        }
+
+        .input__range-wrapper .input__input {
+        display: block;
+        appearance: none;
+        width: 100%;
+        margin: 0;
+        height: $height;
+        overflow: hidden;
+        cursor: pointer;
+        border: none !important;
+        padding: 0;
+        
+        &:focus {
+            outline: none;
+        }
+        }
+
+        // Webkit
+        .input__input::-webkit-slider-runnable-track {
+        width: 100%;
+        height: $height;
+        background: $lower-background;
+        }
+
+        .input__input::-webkit-slider-thumb {
+        position: relative;
+        appearance: none;
+        height: $thumb-height;
+        width: $thumb-height;
+        background: $thumb-color;
+        border-radius: 100%;
+        border: 0;
+        top: 50%;
+        margin-top: (-$thumb-height/2);
+        box-shadow: webkit-slider-thumb-shadow();
+        transition: background-color 150ms;
+        z-index: 10;
+        }
+
+        // Firefox
+        .input__input::-moz-range-track,
+        .input__input::-moz-range-progress {
+        width: 100%;
+        height: $height;
+        background: $upper-background;
+        }
+
+        .input__input::-moz-range-progress {
+        background: $lower-background;
+        }
+
+        .input__input::-moz-range-thumb {
+        appearance: none;
+        margin: 0;
+        height: $thumb-height;
+        width: $thumb-height;
+        background: $thumb-color;
+        border-radius: 100%;
+        border: 0;
+        transition: background-color 150ms;
+        }
+
+        // Internet Exploder
+        .input__input::-ms-track {
+        width: 100%;
+        height: $height;
+        border: 0;
+        // color needed to hide track marks
+        color: transparent;
+        background: transparent;
+        }
+
+        .input__input::-ms-fill-lower {
+        background: $lower-background;
+        }
+
+        .input__input::-ms-fill-upper {
+        background: $upper-background;
+        }
+
+        .input__input::-ms-thumb {
+        appearance: none;
+        height: $thumb-height;
+        width: $thumb-height;
+        background: $thumb-color;
+        border-radius: 100%;
+        border: 0;
+        transition: background-color 150ms;
+        // IE Edge thinks it can support -webkit prefixes
+        top: 0;
+        margin: 0;
+        box-shadow: none;
+        }
+
+        .input__input:hover,
+        .input__input:focus {
+
+        &::-webkit-slider-thumb {
+            background-color: $thumb-hover-color;
+        }
+        &::-moz-range-thumb {
+            background-color: $thumb-hover-color;
+        }
+        &::-ms-thumb {
+            background-color: $thumb-hover-color;
+        }
+        }
+
+        .input--range {
+            margin: 40px 0;
+            display: block;
+
+            .input__label {
+                text-transform: uppercase;
+                font-size: .9rem;
+                font-weight: 700;
+            }
+        }
+
+        .input__range-wrapper {
+            display: block;
+        }
+
+        .input__range-wrapper .input__input {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        .input__steps {
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+            margin-top: -25px;
+        }
+
+        .input__step {
+            display: flex;
+            width: $thumb-height;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .input__step::before {
+            content: '';
+            width: 2px;
+            height: 20px;
+            background: #ccc;
+        }
+
+        .revenue-report {
+            @include grid;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px 20px 60px;
+
+            &__item {
+                grid-column: auto / span 24;
+                @include grid;
+                padding: 20px 0;
+
+                .input {
+                    flex: 0 0 100%;
+                    padding: 0 0 20px;
+
+                    @include tablet-min {
+                        flex: 0 0 50%;
+                        padding: 0 40px 0 0;
+                    }
+                }
+
+                // .input--select {
+                //     flex: 0 0 50%;
+
+                //     @include tablet-wide-min {
+                //         flex: 0 0 auto;
+                //     }
+                // }
+
+                // .input--number {
+                //     flex: 0 0 50%;
+
+                //     @include tablet-wide-min {
+                //         flex: 0 0 auto;
+                //     }
+                // }
+
+                .input__label, .report-field__label {
+                    font-size: .9rem;
+                    text-transform: uppercase;
+                    font-weight: 700;
+                }
+
+                .report-field__value {
+                    font-size: 1.5rem;
+                    text-transform: uppercase;
+                    font-weight: 700;
+                    color: $websites;
+                }
+            }
+
+            &__container {
+                grid-column: auto / span 24;
+                display: flex;
+                flex-wrap: wrap;
+                align-items: center;
+
+                @include desktop-sm-min {
+                    grid-column: auto / span 12;
+                }
+            }
+
+            &__field {
+                padding: 0 30px 0 0;
+
+                @include tablet-min {
+                    padding: 20px 20px 0;  
+                }
+
+                @include desktop-sm-min {
+                    &:first-of-type {
+                        margin-left: auto;
+                    }
+                }
+
+                @include desktop-min {
+                    padding: 20px 40px 0;
+                }
+
+                
+            }
+
+            &__button--remove {
+                background: $color-7;
+                width: auto;
+                color: $color-1;
+                border-radius: 0;
+                padding: 0;
+                position: relative;
+                width: 40px;
+                height: 40px;
+                flex: 0 0 100%;
+
+                @include desktop-sm-min {
+                    flex: 0 0 auto;
+                    background: transparent;
+                }
+
+                &::after {
+                    content: '';
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    width: 24px;
+                    height: 24px;
+                    background: url('/img/market-analysis/remove.svg') center center/contain no-repeat;
+                }
+
+                span {
+                    display: none;
+                }
+            }
+
+            &__buttons {
+                display: flex;
+                align-items: flex-start;
+                grid-column: auto / span 24;
+                flex-direction: column;
+
+                @include tablet-min {
+                    flex-direction: row;
+                    align-items: center;
+                }
+
+                button {
+                    background: transparent;
+                    color: $color-1;
+                    font-weight: 700;
+                    position: relative;
+                    padding: 0 0 0 20px;
+                    letter-spacing: 0;
+                    min-width: 200px;
+                    font-family: 'Montserrat', sans-serif;
+                    text-align: left;
+                    font-size: 1rem;
+
+                    &::before {
+                        content: '+';
+                        position: absolute;
+                        top: 50%;
+                        left: 0;
+                        transform: translateY(-50%);
+                        color: $color-1;
+                    }
+                }
+            }
+
+        }
+
+        .toggle {
+            font-size: .8rem;
+            font-weight: 500;
+            color: #4d4d4d;
+            display: flex;
+            align-items: center;
+            padding: 20px 0 0;
+
+            @include phone-wide-min {
+                padding: 0;
+            }
+
+            .input__label {
+                order: 1;
+                padding: 0 10px 0 0;
+            }
+
+            &__label {
+                padding: 0 5px;
+
+                &--1 {
+                    order: 2;
+                }
+
+                &--2 {
+                    order: 4;
+                }
+            }
+        }
+
+        input[type="checkbox"].toggle__input{
+            font-size: 16px;
+            -webkit-appearance: none;
+               -moz-appearance: none;
+                    appearance: none;
+            width: 50px;
+            padding: 10px;
+            background: $websites;
+            border-radius: 3em;
+            position: relative;
+            cursor: pointer;
+            outline: none;
+            transition: all .2s ease-in-out;
+            border: solid 1px #aaa !important;
+            order: 3;
+          }
+          
+          input[type="checkbox"].toggle__input:checked{
+            background: $websites-2;
+          }
+          
+          input[type="checkbox"].toggle__input:after{
+            position: absolute;
+            content: "";
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #fff;
+            box-shadow: 0 0 .25em rgba(0,0,0,.3);
+            transform: scale(.7) translateY(-52%);
+            top: 38%;
+            left: 0;
+            transition: all .2s ease-in-out;
+          }
+          
+          input[type="checkbox"].toggle__input:checked:after{
+            left: calc(100% - 1.4rem);
+          }
+
+          .modal__container {
+              padding: 60px 20px;
+          }
+        
+          .map {
+              max-width: 1400px;
+              margin: 0 auto;
+          }
+
+    }
+}

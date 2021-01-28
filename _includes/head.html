@@ -23,7 +23,7 @@
 	<meta property="og:image" content="{{image}}">
 	{% if page.nofollow == true -%}
 	<meta name="robots" content="noindex,nofollow">
-	{%- elsif page.nofollow == false -%}
+	{%- else -%}
 	<meta name="robots" content="index,follow">
 	{%- endif %}
 	<link rel="shortcut icon" type="image/x-icon" href="../img/favicon.ico?">

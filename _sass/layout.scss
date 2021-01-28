@@ -654,7 +654,8 @@ footer {
 
 
 input,
-textarea {
+textarea,
+select {
   padding: 1rem 1rem;
   border: 0;
   width: 100%;
@@ -668,6 +669,10 @@ textarea {
   right: 0;
   font-family: 'Montserrat', sans-serif;
   position: relative;
+}
+
+select::placeholder {
+	color: #ccc;
 }
 
 input:focus,

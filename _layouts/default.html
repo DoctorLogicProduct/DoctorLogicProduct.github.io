@@ -68,6 +68,53 @@
 {% endfor %}
 {% endif %}
 
+{% if page.market-analysis == true %}
+<script>
+	// setting this global callback to initialize the app
+	window.marketAnalysisConfig = init => init(
+		document.getElementById('root'),
+		{
+			// config props go here
+			hideRevenueReport: {{ page.hideRevenueReport }},
+			templates: {
+				formDecor: document.getElementById('formDecor').content.cloneNode(true),
+				locationIcon: document.getElementById('locationIcon').content.cloneNode(true),
+				page3Header: document.getElementById('page3Header').content.cloneNode(true),
+				backIcon: document.getElementById('backIcon').content.cloneNode(true)
+			},
+			urls: {
+				demographic: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/demographics?code=cS09aUa1Sj60BIgnDWLjp7cFg5rXJ4uhOnU8ZNmfAEEtYNwkXdQleA==',
+				specialties: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/specialties?code=HcSqLm7TZsQwRgXkiDgAjEd0eBK6yS4zjxxk79DmEjz4k4Ud1a7m6Q==',
+				procedures: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/procedures?code=RD4F5E1IcqdcxsGhfLgrQFMtGM6ni6QkM8ISnLBQG2S2ijpCKA4ANg==',
+				mapbox: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/mapboxtile?code=XVi1BqtUJ1SDHgMnB2k8cFWqjs/d5iYvxfxJYrvCL5YpQNOiFoSAQQ==&x={x}&y={y}&z={z}&id={id}',
+				isoline: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/isoline?code=KzByQitOkJ3948ZAwxzmyCGlLLSs508VN2dNbOYCFgogfMlRTyZ6YA==',
+			},
+								// page: 3,
+								// form: {
+								// 	email: "rdennis@doctorlogic.com",
+								// 	fullName: "Robert Dennis",
+								// 	phone: "2146845205",
+								// 	practice: {
+								// 		address: "6509 Windcrest Dr #100, Plano, TX 75024, USA",
+								// 		lat: 33.0638379,
+								// 		lng: -96.80671579999999,
+								// 		name: "DoctorLogic",
+								// 		zip: "75024",
+								// 	},
+								// 	specialty: {
+								// 		Label: "General Medical Practice",
+								// 		Description: '',
+								// 		SpecialtyId: 12,
+								// 	},
+								// 	website: "doctorlogic.com",
+								// },
+		});
+</script>
+<script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
+<script src="{{ base }}/js/dl-market-analysis.js"></script>
+{% endif %}
+
 <script type="text/javascript">
 	piAId = '773793';
 	piCId = '2579';
