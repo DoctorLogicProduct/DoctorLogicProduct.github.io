@@ -154,8 +154,9 @@
                 display: none;
             }
 
-            .input--google-place {
+            .input__input-wrapper {
                 position: relative;
+                padding: 0;
 
                 &::after {
                     content: '';
