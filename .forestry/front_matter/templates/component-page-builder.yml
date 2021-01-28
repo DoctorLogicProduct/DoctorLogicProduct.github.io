@@ -25,6 +25,7 @@ fields:
 - name: marketing_footer
   type: boolean
   label: Marketing Footer
+  description: Barebones footer with no navigation.  To use on marketing landing pages.
 - name: tracking-number
   type: text
   config:
@@ -96,6 +97,7 @@ fields:
     max: 
   label: Page Sections
 pages:
+- landing-pages/2021.02-ppc-competitor-page.md
 - landing-pages/6-reasons-why-google-ads-is-important-for-your-medical-practice.md
 - landing-pages/aaid-2019-oct-23-26th-1.md
 - landing-pages/aaid-2019-oct-23-26th.md
