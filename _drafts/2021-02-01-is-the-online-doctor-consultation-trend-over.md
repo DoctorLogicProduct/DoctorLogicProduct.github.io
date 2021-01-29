@@ -7,10 +7,10 @@ tags:
 - Strategy
 - Medical-PPC
 post_intro: This post covers the overall search trends as well as industry updates
-  which relate to the topic of "Online Doctor Consultations".
+  which relate to the topic of "Online Doctor Consultations" and similar searches.
 post_image: "/uploads/website-_-blog-post-image.png"
 post_highlight: This post covers the overall search trends as well as industry updates
-  which relate to the topic of "Online Doctor Consultations".
+  which relate to the topic of "Online Doctor Consultations" and similar searches..
 post_type:
 - blog
 product:
