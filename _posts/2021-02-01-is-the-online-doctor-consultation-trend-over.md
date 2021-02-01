@@ -1,16 +1,16 @@
 ---
 post_title: Is the Online Doctor Consultation Trend Over?
-date: 2021-02-01 16:00:00 +0000
+date: 2021-02-01T16:00:00.000+00:00
 post_author: Ryan Metcalf
 tags:
 - Healthcare-Marketing
 - Strategy
-- Medical-PPC
+- SEO
 post_intro: This post covers the overall search trends as well as industry updates
-  which relate to the topic of "Online Doctor Consultations".
+  which relate to the topic of "Online Doctor Consultations" and similar searches.
 post_image: "/uploads/website-_-blog-post-image.png"
 post_highlight: This post covers the overall search trends as well as industry updates
-  which relate to the topic of "Online Doctor Consultations".
+  which relate to the topic of "Online Doctor Consultations" and similar searches..
 post_type:
 - blog
 product:
@@ -30,15 +30,16 @@ It’s also important to note that during a normal year, there is some seasonali
 
 What’s interesting here, is the generic related searches were the quickest to spike and quickest to return back to normal levels.
 
-<Graph: Online Doctor Consultation vs. Free Online Doctor Consultation>
+![](/uploads/online-doctor-consultation.png)
 
-<Graph: Online Health vs. Virtual Health>
+![](/uploads/online-health-vs-virtual-doctor.png)
 
-<Graph: Dermatologist Online Consultation vs. Plastic Surgery Online Consultation vs. Dentist Online Consultation vs. Online Health Consultation vs. Virtual Orthodontic Consultation vs. Plastic Surgery Virtual Consultation>
+However, keywords relating to more specific doctors have consistently remained elevated. Upon more research, skin care and dermatology also seemed to be the top elective searches as well.
 
-<Graph: Dermatologist Online Consultation vs. Virtual Skin Care Consultation vs. Online Skin Consultation>
+![](/uploads/doctor-specific-searches.png)
 
-  
+![](/uploads/aesthetics-related-searches.png)
+
 **Google My Business Updates**
 
 Google made a lot of updates to the local GMB platform throughout the last year because the local business or doctor has been impacted significantly. Because Google likes to return the most relevant and useful information to the searcher, these changes were both necessary and appreciated in a lot of cases.
