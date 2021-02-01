@@ -157,6 +157,7 @@
             .input__input-wrapper {
                 position: relative;
                 padding: 0;
+                display: block;
 
                 &::after {
                     content: '';
