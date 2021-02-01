@@ -30,6 +30,10 @@
     header {
         background: $color-2;
     }
+
+    input, select {
+        height: 50px;
+    }
 }
 
 .market-analysis-app {
