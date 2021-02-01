@@ -6,7 +6,7 @@ tags:
 - Strategy
 post_intro: How has the pandemic shaped the employee benefits structure?
 post_image: "/uploads/website-_-blog-post-image-1.png"
-post_highlight: ''
+post_highlight: How has the pandemic shaped the employee benefits structure?
 post_type:
 - blog
 product:
