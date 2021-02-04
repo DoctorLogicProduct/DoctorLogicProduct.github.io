@@ -23,7 +23,7 @@ page_sections:
   class: paid-advertising__item-grid--1
   component_css: item-grid
   headline: "Intelligent Campaign Management"
-  text: " From initial setup and optimization to final alalysis, your search marketing campaign is managed by a team of healthcare marketing experts. We rely on human expertise alongside computer algorithms to manage successful campaigns based on your practice goals. Every campaign is regularly reviewed and optimized to ensure maximum ROI."
+  text: " From initial setup and optimization to final analysis, your search marketing campaign is managed by a team of healthcare marketing experts. We rely on human expertise alongside computer algorithms to manage successful campaigns based on your practice goals. Every campaign is regularly reviewed and optimized to ensure maximum ROI."
   btn:
   per-row-count: 3
   items:

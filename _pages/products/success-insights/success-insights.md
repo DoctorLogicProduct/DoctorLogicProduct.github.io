@@ -43,7 +43,7 @@ page_sections:
   component_css: feature
   headline: "Dedicated Customer Success Manager"
   class: success-insights__feature--1
-  text: "We believe in providing the technology and the talent necessary to bring growth to your practice. Your Customer Success Manager provides campaign performance insights, best practices, and information on how you can optimize your strategy and acheive your marketing goals."
+  text: "We believe in providing the technology and the talent necessary to bring growth to your practice. Your Customer Success Manager provides campaign performance insights, best practices, and information on how you can optimize your strategy and achieve your marketing goals."
   btn:
   img: "/img/products/success-insights/customer-success.jpg"
   alt: "Dedicated Success Managers"
