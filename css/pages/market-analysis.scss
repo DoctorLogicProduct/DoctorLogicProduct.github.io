@@ -624,12 +624,16 @@
                     text-transform: uppercase;
                     font-weight: 700;
                 }
+                .report-field__label {
+                    text-align: right;
+                }
 
                 .report-field__value {
                     font-size: 1.5rem;
                     text-transform: uppercase;
                     font-weight: 700;
                     color: $websites;
+                    text-align: right;
                 }
             }
 
