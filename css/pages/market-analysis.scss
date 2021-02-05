@@ -193,16 +193,19 @@
                 outline: none;
             }
 
-            span {
-                padding: 0 15px;
-            }
-
             span.input__validation--invalid {
                 color: $content-2;
             }
 
             &__field {
                 margin: 0 0 20px;
+            }
+
+            &__indicator {
+
+                span {
+                    padding: 0 15px;
+                }
             }
 
             &-indicator__step {
@@ -223,6 +226,7 @@
                         top: -3px;
                     }
                 }
+
             }
         }
     }
