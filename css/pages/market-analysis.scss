@@ -338,6 +338,14 @@
             text-align: left;
             text-transform: uppercase;
             font-weight: 700;
+
+            &:nth-child(2) {
+                text-align: right;
+            }
+
+            &:nth-child(3) {
+                text-align: right;
+            }
         }
 
         td {
@@ -346,6 +354,14 @@
 
             &:first-of-type {
                 color: $color-1;
+            }
+
+            &:nth-child(2) {
+                text-align: right;
+            }
+
+            &:nth-child(3) {
+                text-align: right;
             }
         }
 
@@ -721,6 +737,10 @@
 
             @include phone-wide-min {
                 padding: 0;
+            }
+
+            &__input {
+                min-height: unset;
             }
 
             .input__label {
