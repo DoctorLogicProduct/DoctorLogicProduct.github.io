@@ -201,6 +201,11 @@
             button {
                 width: 280px;
                 outline: none;
+                cursor: pointer !important;
+
+                &:hover {
+                    background: $search-2;
+                }
             }
 
             span.input__validation--invalid {
@@ -213,8 +218,12 @@
 
             &__indicator {
 
-                span {
+                span:first-of-type {
                     padding: 0 15px;
+                }
+
+                span:last-of-type {
+                    padding: 0 5px;
                 }
             }
 
@@ -281,6 +290,17 @@
             }
         }
 
+        .print-icon {
+            display: flex;
+            align-items: center;
+
+            img {
+                width: 16px;
+                height: 16px;
+                margin-right: 10px;
+            }
+        }
+
         .page {
 
             &__header {
@@ -312,6 +332,8 @@
             &__actions {
                 order: -1;
                 padding: 0 0 20px;
+                display: flex;
+                align-items: center;
 
                 @include phone-wide-min {
                     order: unset;
@@ -323,6 +345,9 @@
                 font-size: .8rem;
                 font-weight: 500;
                 color: #4d4d4d;
+                padding: 0 10px;
+                cursor: pointer !important;
+                outline: none;
             }
 
             &__section {
@@ -636,37 +661,48 @@
                     }
                 }
 
-                // .input--select {
-                //     flex: 0 0 50%;
+            }
 
-                //     @include tablet-wide-min {
-                //         flex: 0 0 auto;
-                //     }
-                // }
+            .input__label, .report-field__label {
+                font-size: .9rem;
+                text-transform: uppercase;
+                font-weight: 700;
+            }
+            .report-field__label {
+                text-align: left;
 
-                // .input--number {
-                //     flex: 0 0 50%;
-
-                //     @include tablet-wide-min {
-                //         flex: 0 0 auto;
-                //     }
-                // }
-
-                .input__label, .report-field__label {
-                    font-size: .9rem;
-                    text-transform: uppercase;
-                    font-weight: 700;
-                }
-                .report-field__label {
+                @include desktop-sm-min {
                     text-align: right;
                 }
+            }
 
-                .report-field__value {
-                    font-size: 1.5rem;
-                    text-transform: uppercase;
-                    font-weight: 700;
-                    color: $websites;
+            .report-field__value {
+                font-size: 1.5rem;
+                text-transform: uppercase;
+                font-weight: 700;
+                color: $websites;
+                text-align: left;
+
+                @include desktop-sm-min {
                     text-align: right;
+                }
+            }
+
+            &__total-label {
+                flex: 0 0 100%;
+                padding: 20px 0;
+                margin: 0;
+                font-weight: 500;
+                text-transform: uppercase;
+                font-size: 1rem;
+
+
+                @include tablet-min {
+                    font-size: 2.5vw;
+                }
+
+                @include desktop-sm-min {
+                    flex: 0 0 auto;
                 }
             }
 
@@ -678,6 +714,12 @@
 
                 @include desktop-sm-min {
                     grid-column: auto / span 12;
+                }
+
+                &--totals {
+                    grid-column: unset;
+                    width: 100%;
+                    padding-right: 40px;
                 }
             }
 
@@ -711,6 +753,7 @@
                 width: 40px;
                 height: 40px;
                 flex: 0 0 100%;
+                outline: none;
 
                 @include desktop-sm-min {
                     flex: 0 0 auto;
@@ -731,6 +774,12 @@
                 span {
                     display: none;
                 }
+            }
+
+            &__totals {
+                grid-column: auto / span 24;
+                display: flex;
+                align-items: center;
             }
 
             &__buttons {
@@ -756,6 +805,7 @@
                     text-align: left;
                     font-size: 1rem;
                     outline: none;
+                    cursor: pointer !important;
 
                     &::before {
                         content: '+';
@@ -764,6 +814,10 @@
                         left: 0;
                         transform: translateY(-50%);
                         color: $color-1;
+                    }
+
+                    &:hover {
+                        color: $websites;
                     }
                 }
             }
