@@ -8,11 +8,12 @@ page_class:
 hideRevenueReport: false
 disableLeadSubmission: true
 practiceNamePlaceholder: "Find Your Business"
-practiceSpecialtyPlacehoder: "Select Specialty"
+practiceSpecialtyPlaceholder: "Select Specialty"
 practiceWebsitePlaceholder: "Enter Your Website"
 fullNamePlaceholder: "Enter Full Name"
 emailPlaceholder: "Enter Email"
 phonePlaceholder: "Enter Phone Number"
+disclaimer: "Marketing estimate & reports created by DoctorLogic LLC. Copyright. All Rights Reserved. Confidential & Proprietary Information for Medical Practices Only. Patent Pending. This analysis report is based on public & proprietary data estimates & market trends and does NOT constitute any guarantee of actual performance or results for any Medical Practice."
 ---
 
 <div id="root" class="market-analysis"></div>
@@ -38,4 +39,7 @@ phonePlaceholder: "Enter Phone Number"
         <img src="img/market-analysis/print.svg" />
         <span>Print</span>
     </div>
+</template>
+<template id="page3Disclaimer">
+    <p>{{ page.disclaimer }}</p>
 </template>

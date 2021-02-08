@@ -698,7 +698,7 @@
 
 
                 @include tablet-min {
-                    font-size: 2.5vw;
+                    font-size: 1.5vw;
                 }
 
                 @include desktop-sm-min {
@@ -907,5 +907,17 @@
               min-height: 1000px;
           }
 
+    }
+
+    &__disclaimer {
+        padding: 0 20px 60px;
+
+        p {
+            max-width: 1300px;
+            margin: 0 auto;
+            font-weight: 400;
+            font-size: .8rem;
+            text-align: center;
+        }
     }
 }
