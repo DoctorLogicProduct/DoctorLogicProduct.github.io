@@ -1,51 +1,47 @@
 ---
-post_title: Is the Online Doctor Consultation Trend Over?
+post_title: Ask these questions to find the right management consultant.
 date: 2021-02-01T16:00:00.000+00:00
-post_author: Ryan Metcalf
+post_author: Skytale Group, LLC
 tags:
 - Healthcare-Marketing
 - Strategy
 - SEO
-post_intro: This post covers the overall search trends as well as industry updates
-  which relate to the topic of "Online Doctor Consultations" and similar searches.
-post_image: "/uploads/website-_-blog-post-image.png"
-post_highlight: This post covers the overall search trends as well as industry updates
-  which relate to the topic of "Online Doctor Consultations" and similar searches..
+post_intro: What questions should you ask to find the right partner for your practice?
+post_image: ''
+post_highlight: What questions should you ask to find the right partner for your practice?
 post_type:
 - blog
 product:
-- website management
-- lead generator
-- search amplifier
+- success insights
 title: 2021-02-12-ask-these-questions-to-find-the-right-management-consultant
 
 ---
-Now that 2020 is behind us, it’s time to review the biggest change in the elective healthcare space. This is more specifically related to online healthcare and virtual consultations, which is a direct result of the Coronavirus pandemic. This post covers the overall search trends as well as industry updates which relate to the topic.
+Guest Post by [The Skytale Group](https://skytalegroup.com/ "The Skytale Group").
 
-**Search Trends**
+A practice consultant can be a vital resource in reaching your goals and building a business you love. An outside consultant may be the fresh set of eyes your business needs to identify pain points you may be overlooking, opportunities you may be missing, and a perspective you may have never considered. Finding the right consultant is the first step. You want to work with someone who gets results, but you also want to work with a consultant who inspires your team and is genuinely someone you enjoy working with. In our experience, asking the right questions from the beginning can give insight into whether you’ve found the right partner for your practice.
 
-As you might expect, at the start of the pandemic there were large spikes in online and virtual related keywords. Some even increased over 400% MoM! Those websites that were previously optimized or quickly launched with virtual opportunities for these keywords to rank before the spike quickly capitalized on this trend.
+**Ensure they understand your vision**
 
-It’s also important to note that during a normal year, there is some seasonality associated with the elective healthcare space, especially around New Year's resolutions and summer plans. A lot of elective healthcare-related procedures are cosmetic in nature. Consumers and patients use the New Year as a reason to make changes and others want to look good during the summer months, so we tend to see higher search volume for cosmetic-related procedures during these times.
+Are you looking to improve and tweak what you have, squeezing the most juice out of our existing lemon? Would you like to improve existing operations to make work more enjoyable and less stressful and make the team more cohesive? Or, are you looking to grow quickly and expand and therefore want to make sure your systems are in order before you replicate them throughout new locations? Is your goal to improve and streamline what you have, or are you in hyper-growth mode? We work with both spectrums, and, in our experience, these business owners have different personalities, the practices are very different, with different goals and objectives. Your consultant should be very clear on your vision and direction and should be aligned with you in achieving that vision.
 
-What’s interesting here, is the generic related searches were the quickest to spike and quickest to return back to normal levels.
+**_The question to ask_**: This is more about what questions the consultant should be asking _you_, but you can get a preview of the conversation by asking “What questions will you ask early on in order to understand my vision?”
 
-![](/uploads/online-doctor-consultation.png)
+**Create a clear path**
 
-![](/uploads/online-health-vs-virtual-doctor.png)
+Once a clear vision is communicated, the next step is to create a roadmap. Where are you going? Where are you now? Then comes filling in all the in-between. We are financial consultants, so we create a financial roadmap. What revenue supports your desired growth or, what revenue supports your existing overhead? How do we plan for and then achieve that revenue? What are the pain points that exist now or that are likely to come up along the way? How will the consultant specifically identify those pain points, and what is the plan to work with the providers or the team to solve those pain points? Identifying the issues, and then setting a clear roadmap toward solving the issues is critical. Often times, practice management consultants aren’t clear and try to tackle everything all at once, overwhelming the team. Identifying the priorities that will have the biggest impact and the most obvious success (i.e. the low hanging fruit). When success is achieved early on - when a problem is solved, or a new procedure that creates efficiency is put into place - the team can see the results. When they see results, they are more inclined to continue to work hard with the consultant to enact change.
 
-However, keywords relating to more specific doctors have consistently remained elevated. Upon more research, skin care and dermatology also seemed to be the top elective searches as well.
+**_The question to ask_**: “What is your process in identifying pain points and enacting specific change? How do you typically work with your clients and their teams?” You’re looking for a clear roadmap, a system, a process, an agenda. You’re looking to see that systems have been developed to specifically help you. She’s not just going to wing it and throw everything out at once.
 
-![](/uploads/doctor-specific-searches.png)
+**Measure measure measure**
 
-![](/uploads/aesthetics-related-searches.png)
+How do we know if we are on the right track – if the consulting is working? We set specific and measurable goals with our clients- goals that, if achieved, show that the pain points are being corrected. If growth is a goal, what new patient volume, or conversion of callers, or case acceptance is required to achieve that growth metric. Then, we should measure those key performance indicators regularly. In our monthly meetings, we review the actual data and compare it to the goal. Where are the variances? What needs to be revisited? Together we get specific and granular and let the data tell us whether the consulting is successful and our plan is working.
 
-**Google My Business Updates**
+**_The question to ask_**: “How do you measure our progress as we work together? What specific key performance indicators do you track?”
 
-Google made a lot of updates to the local GMB platform throughout the last year because the local business or doctor has been impacted significantly. Because Google likes to return the most relevant and useful information to the searcher, these changes were both necessary and appreciated in a lot of cases.
+**Ongoing coaching relationship**
 
-These updates have included updating hours, marking businesses as temporarily closed, halting review generation, and more. More recently, GMB has started to roll up options for video conferencing integration which has potential to be a very powerful tool that significantly impacts performance reports. It’s possible that consumers who utilize video conferencing may never click through to the site or submit a form meaning it was a “zero click search”, thus making it harder to track performance related data. More details regarding this change will become apparent as we continue to monitor its impact in the coming months.
+If the greatest golfer of all time still has a coach, we all can benefit from a coach. We see our clients as long-term partners. Your practice should be aiming for constant improvement – whether it be increased profitability, reduced team stress, better patient care – there is always something to improve upon or an opportunity to pursue.
 
-**The Future**
+**_The question to ask_**: “How long do your client engagements usually last?” You’re looking for a long term partner here.
 
-Even though the search volume has returned to normal for a lot of these keywords, incorporating some kind of online consultation feature is still a good idea. The search trends could definitely spike again or the overall search landscape could change quickly to make these types of searches more impactful. Not to mention, it’s also a great way to find new patients outside your local market. Either way, it sets your site up to perform well as a proactive measure instead of trying to react, putting your website in much better shape.
+Finding the right consultant can be a game-changer for your practice. An outsider’s perspective is so valuable in ensuring you are watching all angles of your business. Our clients share that they have previously felt like they are were on an island, owning the business, running the business, without someone to talk to about their ideas, strategy, and issues. If this sounds familiar, consider finding someone you can strategize with. You have a vision for your business. Surround yourself with partners to help you reach that vision. Of course, you have to be receptive to change and enter the relationship with the right attitude to get the most out of your consulting partnership. Asking the right questions will help ensure you’ve found the right partner.
