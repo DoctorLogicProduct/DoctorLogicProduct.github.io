@@ -34,6 +34,16 @@
     input, select {
         min-height: 50px;
     }
+
+    select {
+        appearance: none;
+        border: 0;
+        color: #767676;
+        outline: 0;
+        width: 100%;
+        // background-color: $color-2 !important;
+        background: #ffffff url("data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJ0aW55IgogICAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zOmE9Imh0dHA6Ly9ucy5hZG9iZS5jb20vQWRvYmVTVkdWaWV3ZXJFeHRlbnNpb25zLzMuMC8iCiAgICAgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxMC4yODlweCIgaGVpZ2h0PSI2LjU2M3B4IiB2aWV3Qm94PSIwIDAgMTAuMjg5IDYuNTYzIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGRlZnM+CjwvZGVmcz4KPGc+CiAgICA8cG9seWdvbiBmaWxsPSIjQTlBOUE5IiBwb2ludHM9IjUuMjEyLDYuNTYzIDAsMS40MjQgMS40MDQsMCA1LjE5MiwzLjczNSA4Ljg2NSwwLjAxIDEwLjI4OSwxLjQxNCIvPgo8L2c+Cjwvc3ZnPgo=") no-repeat right 20px center !important;
+    }
 }
 
 .market-analysis-app {
@@ -597,13 +607,32 @@
                 @include grid;
                 padding: 20px 0;
 
-                .input {
+                .input--select {
                     flex: 0 0 100%;
                     padding: 0 0 20px;
 
                     @include tablet-min {
-                        flex: 0 0 50%;
+                        flex: 0 0 60%;
                         padding: 0 40px 0 0;
+                    }
+                
+
+                    @include desktop-sm-min {
+                        flex: 0 0 70%;
+                    }
+                }
+
+                .input--text {
+                    flex: 0 0 100%;
+                    padding: 0 0 20px;
+
+                    @include tablet-min {
+                        flex: 0 0 40%;
+                        padding: 0 40px 0 0;
+                    }
+
+                    @include desktop-sm-min {
+                        flex: 0 0 30%;
                     }
                 }
 
@@ -821,6 +850,7 @@
           .map {
               max-width: 1400px;
               margin: 0 auto;
+              min-height: 1000px;
           }
 
     }
