@@ -1,20 +1,15 @@
 ---
-post_title: Google Maps Turns A Sweet 16 and Why It’s Important
+post_title: How do you know if it's time to update your site?
 date: 2021-02-01T16:00:00.000+00:00
-post_author: Ryan Metcalf
+post_author: Christopher Ellis
 tags:
 - Healthcare-Marketing
 - Strategy
 - SEO
-post_intro: When Google Maps first launched (Feb 8th, 2005), it’s unlikely we could
-  have foreseen it becoming what it is today and such an integral part of our lives.
-  As the product now turns a sweet 16 it’s time to take a look at how it’s changed
-  with the times and why it’s important in the SEO landscape.
-post_image: "/uploads/google-maps-blog-post.png"
-post_highlight: 'When Google Maps first launched, it’s unlikely we could have foreseen
-  it becoming what it is today and such an integral part of our lives. As the product
-  now turns a sweet 16 it’s time to take a look at how it’s changed with the times
-  and why it’s important in the SEO landscape. '
+post_intro: 5 subtle (and 4 not-so-subtle) ways to tell your website needs to be refreshed.
+post_image: "/uploads/website-_-blog-post-image-1-1.png"
+post_highlight: 5 subtle (and 4 not-so-subtle) ways to tell your website needs to
+  be refreshed.
 post_type:
 - blog
 product:
@@ -24,32 +19,51 @@ product:
 title: 2021-02-12-How-do-you-know-if-it's-time-to-update-your-site?
 
 ---
-**The Beginning of Google Maps**
+Introduction
 
-The beginning of Google Maps seemed like ages ago when the Internet was really starting to take off and many of us probably didn’t have smartphones--or even cellphones for that matter. These were the days when the product was primarily used for directions and navigating around town, often after being printed out (note the prominently displayed “Print” button on this [Google Maps BETA screenshot](https://www.researchgate.net/figure/Google-Maps-BETA-in-2005-website-Source_fig1_333566718)). Industry leaders at the time were other direction services like MapQuest, which younger generations have probably never even heard mentioned before. Come to think of it, the fact that those services were so popular but unable to maintain their market share is crazy, given how large they were. All because they never adapted, or at least didn’t keep up with, the changing trends.
+**Subtle: Showcasing Dated Reviews & Testimonials**
 
-During this time it’s important to note how people searched. A lot of people searched for a specific address, and many listings didn’t have an actual business entity tied to an address at all. In some ways, the address itself was meaningless. Now, we search for a type of business or the name of a business without paying any attention to the actual address. This is possible because Google maps automatically calculates those values and does the heavy lifting so we can find what we're looking for, without us realizing they're doing it at all.
+![](https://lh4.googleusercontent.com/qT-wkpK3iq1Idvzl_LowlsIV3nC3_xJ3_LdtK6ukbmEFjRlj3HIRgLtIW6245-EJAEWd_ljfX48kccZdiaQ3yjc-U_Nu5n1CePYFyv6RhGL9Ax2LtHHTUxKopBWdOrP8sWNOKXRj =618x132)
 
-**What Google Maps is Today**
+There are a number of reasons why you may be showcasing old reviews or testimonials on your website. Perhaps your reviews are uploaded manually and it’s been a while since you’ve last uploaded them? Perhaps something is wrong with the automated feed on your website so it hasn’t pulled in your most recent reviews? Regardless of the reason, it’s an easy problem to fix - just make sure to showcase your newest reviews! If you don’t have recent reviews to showcase, simply ask. You’d be surprised how many of your loyal patients would be happy to leave a positive review if they’re asked to do so.
 
-With the evolution and adoption of mobile devices, having access to Google Maps and the Internet now seems like a basic life necessity. We now have quick and easy access to directions for any place we may want to travel to in the palm of our hand--or at least those devices that still fit in our hand anyway. As opposed to printing directions out on paper we now have easy to follow navigation on a mobile device and incorporate live traffic updates making our life so much more convenient. We even know how crowded or busy a particular business is, and can access all sorts of information about a business without even clicking through to a website.
+**Subtle: Hair & Eye Brow Style in Before & After Photo Galleries**
 
-Let’s not forget how amazing it is to explore the world around us with photos of actual locations from businesses to almost any kind of relevant place in general. In many ways, these photos are the precursor to virtual reality by visualizing what it might be like to go to a specific place or revisit past experiences. In some locations Google even has a “live view” which has many uses, most of which we’ve only begun to explore.
+[![](https://lh3.googleusercontent.com/16SgkiUttXJWJHHHi8fdbe3aGzQMffWSQ4ErCorSm82eE6WJoHO--EsBEeGvsIvyXGKpTJgYkMK2FfihUVvmNHZRM-BuLFkkRrdMUDWqBre2Te89-h2qOBcGav2QyTL25sp1faCX =624x312)](https://www.revelist.com/hair/90s-eyebrows/10915)Have you ever looked back at images from ten years ago and wondered, “what was I thinking?” Well, you’re not alone. If all the “Before & After” images on your site feature patients with “90s eyebrows” or “The Rachel” haircut - it’s time for a refresh. Luckily, DoctorLogic’s [Content Multiplier](https://kcf-bt5b1aiujg.instant.forestry.io/medical-website-content-multiplier/) not only makes it incredibly easy to add new patient testimonials, before & after photos, and videos, but it also amplifies the most relevant content pages for patients and search engines across your site. This not only helps encourage more fresh content but also helps your content gain visibility.
 
-As searchers, we can easily find the nearest store or nearest business offering any service. In other words, Google Maps is now more than just a ‘map and direction’ listing service, it’s actually a directory like those big [Yellow Pages phone books](https://en.wikipedia.org/wiki/Yellow_pages) that got dropped off at people’s doorstep. Gone are the days of trying to figure out how a business might be classified or how to find a specific type of business. Google can now determine what the searcher might be looking for without the searcher knowing exactly what to search for, or even how to search for it. It’s important to note these individual listings or results are now tied to a [Google My Business](https://www.google.com/business/) listing.
+**Not Subtle: Displaying Old Contact Info (name, address, phone number, etc.)**
 
-**Why is Google My Business Important?**
+Few things on your website are as important as your NAP (name, address, & phone number). It is absolutely imperative that if any of those changes for any reason, it gets updated on every part of your site right away. It’s a truly terrible patient experience to call a disconnected phone number or drive to the wrong address, so if you recently changed any of your NAP please spend some time to thoroughly review your website, social accounts, and any live ads to make sure everything is up to date.
 
-Google My Business influences when, and how, you appear in search results. Just like in traditional organic search, there are multiple factors which go into a local search algorithm. Local search is just another fancy way of describing searches which have (or at least in Google’s eyes) some kind of local intent. This means local map results will show up in a search for a specific keyword and are often associated with “near me” or “geography” related terms. Sometimes your business will show up without much effort because of the ranking factors but there’s almost always room to optimize and either improve your appearances or protect it from competitors.
+**Subtle: Dated Social Media Feed**
 
-**What can I do to improve my Google My Business Listing?**
+**![](https://lh3.googleusercontent.com/BaEl_GQreBDzGKEsSD1v6pmuNh8G-p0W53gE0vywcTlgLPFn64-nfsZp2pGL3MAwARgERsJ5ummUJ9U0MdKSl8vqT7Zb18baCT8WIQoN2-PW698eDHSMw3DjHfW8h5wpBRrg1CBg =239x369)**
 
-At DoctorLogic, we can optimize a lot of the fields around names, categories, services, hours of operation, etc. based on our expertise and research. Some of these fields are more important than others but Google does like to see a fully built out profile so a searcher can see all the relevant information.
+We get it. Posting regularly on your practice’s social channels is tough and time-consuming. But since your social media channel is one of the most transparent and highly-engaged aspects of your practice’s overall brand, it definitely helps to keep it up-to-date. If you’re interested in utilizing your social channel more but are in need of some [Content Marketing](https://doctorlogic.com/growth-accelerators/healthcare-content-marketing) help, let us know!
 
-There’s also things which need to be done by you, the doctor or practice. Some commonly overlooked items to include in your listing consist of your practice’s hours of operation, specialty, and exact address (including a suite number). Another way to improve your Google My Business listing is to generate, and respond to, a steady influx of reviews. Google loves to see the engagement and interaction that you are listening to feedback from your audience on a regular basis. Plus, we all know the piece-of-mind and reassurance prospective patients get from a healthy list of positive reviews.
+  
+**Subtle: Featuring Old Staff Members (doctors, assistants, etc.)**
 
-Lastly, it’s been recently discovered that Google has been testing incorporating “[Opening Dates](https://localu.org/google-is-testing-opening-dates-in-the-local-packs/)” in Business Listings as well, so be sure to check if this field can be updated in your dashboard as well!
+Employee turnover happens. That’s alright. But you’re going to want to remove them from your website otherwise potential patients may try to book appointments with providers who are no longer there. While dedicated staff pages do help prospective patients learn about your practice, it is also worth noting that offices that experience more regular turnover may be better off without this strategy, if even temporarily. Either way, if you have dedicated staff pages - make sure they’re showing your recent staff _only_.
+
+**Not Subtle: Having a Non-Responsive Website**
+
+It’s 2021. At this point, if your website does _not_ look great and work seamlessly on mobile devices it is definitely time for an upgrade. With [48.62% of all online traffic](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide) taking place on mobile devices, your practice website cannot afford to have a substandard mobile experience. Seriously! That’s why every one of DoctorLogic’s websites are built to be fully responsive so they look (and work) great on every device. Go ahead and visit your website on your phone or tablet and if it doesn’t work exactly as you’d expect, you should definitely consider upgrading.
+
+**Subtle: No Current Blogs**
+
+Check your practice blog. If your most recent post is older than **6 months** then it’s time to crack out the writing pad and get to work! In all seriousness, having relevant and current content is not only beneficial for prospective patients to learn about your practice, but it’s _extremely helpful_ for increasing your search rankings and SEO. Stick to a regular cadence, if even as little as one post a month - to get the ball rolling and start building up your library of content. And don’t forget, if you need help, DoctorLogic has a wonderful team of content writers who would be more than happy to help.
+
+**Subtle: Not Updating the Copyright Year in Your Footer**
+
+![](https://lh4.googleusercontent.com/SCyUWI-eLln8_K_yrC5B-aPGBguKvLAJqQB5PvmTm970BAcbApX0V9NHIIvd70PRb0k7dddhkoq2KoR_5VVmkoANFuQHOeBVXpvi4O0FpcRcwvkRMno09cDsFJlttw8XkU6ZhM5D =538x61)
+
+This is admittedly a small issue, but one we see far too often. If your website is not set up to automatically change the year in your footer - make sure it’s updated. It’s a small, and forgivable issue, but it is an issue nonetheless. Luckily, it’s a quick fix and can (and should) be set automatically so you never have to worry about updating it again.
+
+**Not Subtle: Old Branding**
+
+Did your practice get a new logo? Or a new color scheme? If so, make sure your fresh, new look is prominently displayed all over your website, social media, and in-office marketing materials. You certainly don’t want patients to get confused about whether or not they’re at the right practice, so make sure your new brand is up-to-date everywhere.
 
 **Conclusion**
 
-Google Maps has gone a long way over its last 16 years, and it continues to deliver exceptional value to its customers and businesses alike. If you haven’t already optimized your Google My Business listing, use this article as a reminder to do so. You might be surprised how many people are looking for a practice just like yours - so try to make it easier for them to find you.
+Sometimes it’s hard to tell if your website is overdue for a refresh, so feel free to use this guide to check, at a high level, to see if there's anything jumping out to be updated. 
