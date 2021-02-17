@@ -120,10 +120,6 @@
                 @include tablet-wide-min {
                     max-width: 90%; 
                 }
-
-                @include desktop-min {
-                    max-width: 80%;
-                }
             }
         }
 
@@ -220,6 +216,7 @@
 
             &__field {
                 margin: 0 0 20px;
+                max-width: 500px;
             }
 
             &__indicator {
@@ -313,14 +310,19 @@
                 display: none;
             }
 
+
+            &__heading-wrapper {
+                border-top: solid 1px $color-6;
+                border-bottom: solid 1px $color-6;
+            }
+
             &__heading {
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
-                padding: 20px 40px;
-                border-top: solid 1px $color-6;
-                border-bottom: solid 1px $color-6;
-                margin: 0;
+                padding: 20px;
+                max-width: 1200px;
+                margin: 0 auto;
                 font-weight: 500;
                 text-transform: uppercase;
                 font-size: 1rem;
@@ -358,7 +360,7 @@
 
             &__section {
                 @include grid;
-                max-width: 1400px;
+                max-width: 1200px;
                 margin: 0 auto;
             }
 
@@ -629,7 +631,7 @@
 
         .revenue-report {
             @include grid;
-            max-width: 1400px;
+            max-width: 1200px;
             margin: 0 auto;
             padding: 20px 20px 60px;
 
@@ -641,14 +643,18 @@
                 .input--select {
                     flex: 0 0 100%;
                     padding: 0 0 20px;
+                    margin: 0 0 10px;
 
                     @include tablet-min {
-                        flex: 0 0 60%;
                         padding: 0 40px 0 0;
                     }
-                
-
+                    
                     @include desktop-sm-min {
+                        flex: 0 0 60%;
+                        margin: 0;
+                    }
+
+                    @include desktop-min {
                         flex: 0 0 70%;
                     }
                 }
@@ -656,13 +662,18 @@
                 .input--text {
                     flex: 0 0 100%;
                     padding: 0 0 20px;
+                    margin: 0 0 10px;
 
                     @include tablet-min {
-                        flex: 0 0 40%;
                         padding: 0 40px 0 0;
                     }
 
                     @include desktop-sm-min {
+                        flex: 0 0 40%;
+                        margin: 0;
+                    }
+
+                    @include desktop-min {
                         flex: 0 0 30%;
                     }
                 }
@@ -683,7 +694,7 @@
             }
 
             .report-field__value {
-                font-size: 1.5rem;
+                font-size: 1.3rem;
                 text-transform: uppercase;
                 font-weight: 700;
                 color: $websites;
@@ -696,19 +707,16 @@
 
             &__total-label {
                 flex: 0 0 100%;
-                padding: 20px 0;
+                padding: 40px 0 20px;
                 margin: 0;
                 font-weight: 500;
                 text-transform: uppercase;
                 font-size: 1rem;
-
-
-                @include tablet-min {
-                    font-size: 1.5vw;
-                }
+                font-weight: 700;
 
                 @include desktop-sm-min {
                     flex: 0 0 auto;
+                    padding: 20px 0;
                 }
             }
 
@@ -784,8 +792,25 @@
 
             &__totals {
                 grid-column: auto / span 24;
-                display: flex;
-                align-items: center;
+                @include grid;
+            }
+
+            &__container--totals-label {
+                grid-column: auto / span 24;
+                justify-content: space-between;
+                padding: 0 40px 0 0;
+
+                @include tablet-wide-min {
+                    grid-column: auto / span 12;
+                }
+            }
+
+            &__container--totals {
+                grid-column: auto / span 24;
+
+                @include tablet-wide-min {
+                    grid-column: auto / span 12;
+                }
             }
 
             &__buttons {
@@ -812,6 +837,7 @@
                     font-size: 1rem;
                     outline: none;
                     cursor: pointer !important;
+                    margin: 0;
 
                     &::before {
                         content: '+';
@@ -908,7 +934,7 @@
           }
         
           .map {
-              max-width: 1400px;
+              max-width: 1200px;
               margin: 0 auto;
               min-height: 1000px;
           }
