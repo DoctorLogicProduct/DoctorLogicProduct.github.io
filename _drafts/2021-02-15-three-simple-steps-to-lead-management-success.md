@@ -1,22 +1,24 @@
 ---
-post_title: 'Coming Soon: Homepage Redesign'
-date: 2021-01-18T14:00:00.000+00:00
+post_title: Three Simple Steps to Lead Management Success
+date: 2021-02-15 14:00:00 +0000
 post_author: Josh Feinberg
 tags:
 - Product-Updates
-post_intro: New Homepage Redesign coming soon for all DoctorLogic clients.
+post_intro: A few tips, tricks, and best practices to help you get the most out of
+  this particularly useful Opportunities dashboard.
 post_image: "/uploads/newsletters-_-product-update-images-1.png"
-post_highlight: We redesigned the new homepage to highlight your most important performance
-  metrics and give you a better understanding of your top website, SEO, & conversion
-  results.
+post_highlight: A few tips, tricks, and best practices to help you get the most out
+  of this particularly useful Opportunities dashboard
 post_type:
 - blog
 product:
+- success insights
+- lead generator
 - website management
 title: 2021-02-15-Three-Simple-Steps-to-Lead-Management-Success
 
 ---
-**3 Simple Steps to Lead Management Success**
+**Three Simple Steps to Lead Management Success**
 
 Converting website visitors into booked appointments and consultations is critical for the growth of your practice. Today we’re going to cover a few topics that will help you better manage your inbound leads, conduct timely follow-ups, and drive new conversions.
 
