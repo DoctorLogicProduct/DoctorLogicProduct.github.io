@@ -57,8 +57,8 @@
 }
 
 .market-analysis-app {
-    min-height: calc(100vh - 40px);
-    padding: 40px 0 0;
+    min-height: calc(100vh - 160px);
+    padding: 80px 0;
 
     &--page-1, &--page-2 {
         background: $websites;
@@ -80,6 +80,7 @@
             align-items: center;
             justify-content: center;
             position: relative;
+            overflow: hidden;
 
             @include tablet-wide-min {
                 grid-column: auto / span 14;
@@ -113,9 +114,10 @@
             }
 
             img {
-                max-width: 280px;
+                max-width: 320px;
                 position: relative;
                 z-index: 1;
+                margin-left: -20%;
 
                 @include phone-wide-min {
                     max-width: 500px;
@@ -148,7 +150,6 @@
                 color: $color-2;
                 text-transform: uppercase;
                 font-weight: 700;
-                padding-top: 20px;
                 font-size: 2.5rem;
 
                 @include desktop-sm-min {
@@ -220,7 +221,10 @@
 
             &__field {
                 margin: 0 0 20px;
-                max-width: 500px;
+
+                @include tablet-wide-min {
+                    max-width: 500px;
+                }
             }
 
             &__indicator {
