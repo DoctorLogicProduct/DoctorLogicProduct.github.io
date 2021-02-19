@@ -6,7 +6,7 @@ tags:
 - Product-Updates
 post_intro: A few tips, tricks, and best practices to help you get the most out of
   this particularly useful Opportunities dashboard.
-post_image: ''
+post_image: "/uploads/opportunities-dashboard.png"
 post_highlight: A few tips, tricks, and best practices to help you get the most out
   of this particularly useful Opportunities dashboard
 post_type:
