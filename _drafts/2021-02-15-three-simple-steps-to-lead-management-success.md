@@ -1,12 +1,12 @@
 ---
 post_title: Three Simple Steps to Lead Management Success
-date: 2021-02-15 14:00:00 +0000
+date: 2021-02-15T14:00:00.000+00:00
 post_author: Josh Feinberg
 tags:
 - Product-Updates
 post_intro: A few tips, tricks, and best practices to help you get the most out of
   this particularly useful Opportunities dashboard.
-post_image: "/uploads/newsletters-_-product-update-images-1.png"
+post_image: ''
 post_highlight: A few tips, tricks, and best practices to help you get the most out
   of this particularly useful Opportunities dashboard
 post_type:
