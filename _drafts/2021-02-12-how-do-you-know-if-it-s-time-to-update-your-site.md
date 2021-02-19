@@ -1,6 +1,6 @@
 ---
 post_title: How do you know if it's time to update your site?
-date: 2021-02-01T16:00:00.000+00:00
+date: 2021-02-08 16:00:00 +0000
 post_author: Christopher Ellis
 tags:
 - Healthcare-Marketing
@@ -66,4 +66,4 @@ Did your practice get a new logo? Or a new color scheme? If so, make sure your f
 
 **Conclusion**
 
-Sometimes it’s hard to tell if your website is overdue for a refresh, so feel free to use this guide to check, at a high level, to see if there's anything jumping out to be updated. 
+Sometimes it’s hard to tell if your website is overdue for a refresh, so feel free to use this guide to check, at a high level, to see if there's anything jumping out to be updated.

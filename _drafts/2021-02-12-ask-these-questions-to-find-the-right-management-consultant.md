@@ -1,6 +1,6 @@
 ---
 post_title: Ask these questions to find the right management consultant.
-date: 2021-02-01T16:00:00.000+00:00
+date: 2021-02-08 16:00:00 +0000
 post_author: Skytale Group, LLC
 tags:
 - Healthcare-Marketing
@@ -44,6 +44,6 @@ If the greatest golfer of all time still has a coach, we all can benefit from a 
 
 **_The question to ask_**: “How long do your client engagements usually last?” You’re looking for a long term partner here.
 
-Finding the right consultant can be a game-changer for your practice. An outsider’s perspective is so valuable in ensuring you are watching all angles of your business. Our clients share that they have previously felt like they are were on an island, owning the business, running the business, without someone to talk to about their ideas, strategy, and issues. If this sounds familiar, consider finding someone you can strategize with. You have a vision for your business. Surround yourself with partners to help you reach that vision. Of course, you have to be receptive to change and enter the relationship with the right attitude to get the most out of your consulting partnership. Asking the right questions will help ensure you’ve found the right partner.
+Finding the right consultant can be a game-changer for your practice. An outsider’s perspective is so valuable in ensuring you are watching all angles of your business. Our clients share that they have previously felt like they were on an island, owning the business, running the business, without someone to talk to about their ideas, strategy, and issues. If this sounds familiar, consider finding someone you can strategize with. You have a vision for your business. Surround yourself with partners to help you reach that vision. Of course, you have to be receptive to change and enter the relationship with the right attitude to get the most out of your consulting partnership. Asking the right questions will help ensure you’ve found the right partner.
 
-If you are looking for support growing the financial side of your business, be sure to utilize these questions regardless of whichever. 
+If you are looking for support growing the financial side of your business, be sure to utilize these questions regardless of whichever.
