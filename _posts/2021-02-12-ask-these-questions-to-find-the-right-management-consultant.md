@@ -42,7 +42,7 @@ How do we know if we are on the right track – if the consulting is working? We
 
 If the greatest golfer of all time still has a coach, we all can benefit from a coach. We see our clients as long-term partners. Your practice should be aiming for constant improvement – whether it be increased profitability, reduced team stress, better patient care – there is always something to improve upon or an opportunity to pursue.
 
-**_The question to ask_**: “How long do your client engagements usually last?” You’re looking for a long term partner here.
+**_The question to ask_**: “How long do your client engagements usually last?” You’re looking for a long-term partner here.
 
 Finding the right consultant can be a game-changer for your practice. An outsider’s perspective is so valuable in ensuring you are watching all angles of your business. Our clients share that they have previously felt like they were on an island, owning the business, running the business, without someone to talk to about their ideas, strategy, and issues. If this sounds familiar, consider finding someone you can strategize with. You have a vision for your business. Surround yourself with partners to help you reach that vision. Of course, you have to be receptive to change and enter the relationship with the right attitude to get the most out of your consulting partnership. Asking the right questions will help ensure you’ve found the right partner.
 
