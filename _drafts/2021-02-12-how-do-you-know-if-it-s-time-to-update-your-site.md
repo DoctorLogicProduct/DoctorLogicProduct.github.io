@@ -67,4 +67,4 @@ Did your practice get a new logo? Or a new color scheme? If so, make sure your f
 
 **Conclusion**
 
-Sometimes it’s hard to tell if your website is overdue for a refresh, so feel free to use this guide to check, at a high level, to see if there's anything jumping out to be updated. If you are 
+At the end of the day, if your website is performing well and acquiring the leads you’re hoping for, there is little reason to shake things up. On the other hand, if your website is not performing well, even after updating some (or multiple) items on this list - it’s definitely time for an update. Whether you need help with new content, reputation management, or responsive designs - DoctorLogic can help.
