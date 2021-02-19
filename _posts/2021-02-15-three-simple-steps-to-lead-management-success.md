@@ -18,8 +18,6 @@ product:
 title: 2021-02-15-Three-Simple-Steps-to-Lead-Management-Success
 
 ---
-**Three Simple Steps to Lead Management Success**
-
 Converting website visitors into booked appointments and consultations is critical for the growth of your practice. Today we’re going to cover a few topics that will help you better manage your inbound leads, conduct timely follow-ups, and drive new conversions.
 
 **Step 1: Find your leads**
