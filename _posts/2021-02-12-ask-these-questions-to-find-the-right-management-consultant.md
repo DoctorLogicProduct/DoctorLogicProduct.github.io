@@ -1,12 +1,13 @@
 ---
 post_title: Ask these questions to find the right management consultant.
-date: 2021-02-01T16:00:00.000+00:00
+date: 2021-02-08 16:00:00 +0000
 post_author: Skytale Group, LLC
 tags:
 - Healthcare-Marketing
 - Strategy
 - SEO
 post_intro: What questions should you ask to find the right partner for your practice?
+  Guest Post by Skytale Group.
 post_image: "/uploads/website-_-blog-post-image-2.png"
 post_highlight: What questions should you ask to find the right partner for your practice?
 post_type:
@@ -16,7 +17,7 @@ product:
 title: 2021-02-12-ask-these-questions-to-find-the-right-management-consultant
 
 ---
-Guest Post by [The Skytale Group](https://skytalegroup.com/ "The Skytale Group"): Deciphering Complexity Into Clarity.
+Guest Post by [Skytale Group](https://skytalegroup.com/ "The Skytale Group"): Deciphering Complexity Into Clarity.
 
 A practice consultant can be a vital resource in reaching your goals and building a business you love. An outside consultant may be the fresh set of eyes your business needs to identify pain points you may be overlooking, opportunities you may be missing, and a perspective you may have never considered. Finding the right consultant is the first step. You want to work with someone who gets results, but you also want to work with a consultant who inspires your team and is genuinely someone you enjoy working with. In our experience, asking the right questions from the beginning can give insight into whether you’ve found the right partner for your practice.
 
@@ -42,8 +43,8 @@ How do we know if we are on the right track – if the consulting is working? We
 
 If the greatest golfer of all time still has a coach, we all can benefit from a coach. We see our clients as long-term partners. Your practice should be aiming for constant improvement – whether it be increased profitability, reduced team stress, better patient care – there is always something to improve upon or an opportunity to pursue.
 
-**_The question to ask_**: “How long do your client engagements usually last?” You’re looking for a long term partner here.
+**_The question to ask_**: “How long do your client engagements usually last?” You’re looking for a long-term partner here.
 
-Finding the right consultant can be a game-changer for your practice. An outsider’s perspective is so valuable in ensuring you are watching all angles of your business. Our clients share that they have previously felt like they are were on an island, owning the business, running the business, without someone to talk to about their ideas, strategy, and issues. If this sounds familiar, consider finding someone you can strategize with. You have a vision for your business. Surround yourself with partners to help you reach that vision. Of course, you have to be receptive to change and enter the relationship with the right attitude to get the most out of your consulting partnership. Asking the right questions will help ensure you’ve found the right partner.
+Finding the right consultant can be a game-changer for your practice. An outsider’s perspective is so valuable in ensuring you are watching all angles of your business. Our clients share that they have previously felt like they were on an island, owning the business, running the business, without someone to talk to about their ideas, strategy, and issues. If this sounds familiar, consider finding someone you can strategize with. You have a vision for your business. Surround yourself with partners to help you reach that vision. Of course, you have to be receptive to change and enter the relationship with the right attitude to get the most out of your consulting partnership. Asking the right questions will help ensure you’ve found the right partner.
 
-If you are looking for support growing the financial side of your business, be sure to utilize these questions regardless of whichever. 
+If you are looking for support growing the financial side of your business, be sure to utilize these questions regardless of whichever.

@@ -6,15 +6,11 @@ tags:
 - Healthcare-Marketing
 - Strategy
 - SEO
-post_intro: When Google Maps first launched (Feb 8th, 2005), it’s unlikely we could
-  have foreseen it becoming what it is today and such an integral part of our lives.
-  As the product now turns a sweet 16 it’s time to take a look at how it’s changed
-  with the times and why it’s important in the SEO landscape.
+post_intro: A fun look back at the history of this groundbreaking service & how to
+  utilize it in your marketing today.
 post_image: "/uploads/google-maps-blog-post.png"
-post_highlight: 'When Google Maps first launched, it’s unlikely we could have foreseen
-  it becoming what it is today and such an integral part of our lives. As the product
-  now turns a sweet 16 it’s time to take a look at how it’s changed with the times
-  and why it’s important in the SEO landscape. '
+post_highlight: A fun look back at the history of this groundbreaking service & how
+  to utilize it in your marketing today.
 post_type:
 - blog
 product:
@@ -24,6 +20,8 @@ product:
 title: 2021-02-01-Google-Maps-Turns-A-Sweet-16-and-Why-It’s-Important
 
 ---
+When Google Maps first launched (Feb 8th, 2005), it’s unlikely we could have foreseen it becoming what it is today and such an integral part of our lives. As the product now turns a sweet 16 it’s time to take a look at how it’s changed with the times and why it’s important in the SEO landscape.
+
 **The Beginning of Google Maps**
 
 The beginning of Google Maps seemed like ages ago when the Internet was really starting to take off and many of us probably didn’t have smartphones--or even cellphones for that matter. These were the days when the product was primarily used for directions and navigating around town, often after being printed out (note the prominently displayed “Print” button on this [Google Maps BETA screenshot](https://www.researchgate.net/figure/Google-Maps-BETA-in-2005-website-Source_fig1_333566718)). Industry leaders at the time were other direction services like MapQuest, which younger generations have probably never even heard mentioned before. Come to think of it, the fact that those services were so popular but unable to maintain their market share is crazy, given how large they were. All because they never adapted, or at least didn’t keep up with, the changing trends.
