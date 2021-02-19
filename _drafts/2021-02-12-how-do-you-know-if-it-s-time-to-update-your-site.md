@@ -29,10 +29,9 @@ There are a number of reasons why you may be showcasing old reviews or testimoni
 
 **Subtle: Hair & Eye Brow Style in Before & After Photo Galleries**
 
-![photo: Getty Images](/uploads/getty-images.jpg)  
-Photo: Getty Images
+![](/uploads/getty-images-1.png)
 
-Have you ever looked back at images from ten years ago and wondered, “what was I thinking?” Well, you’re not alone. If all the “Before & After” images on your site feature patients with “90s eyebrows” or “The Rachel” haircut - it’s time for a refresh. Luckily, DoctorLogic’s [Content Multiplier](https://kcf-bt5b1aiujg.instant.forestry.io/medical-website-content-multiplier/) not only makes it incredibly easy to add new patient testimonials, before & after photos, and videos, but it also amplifies the most relevant content pages for patients and search engines across your site. This not only helps encourage more fresh content but also helps your content gain visibility.
+Have you ever looked back at images from ten years ago and cringe at the fashion choices you made? Well, you’re not alone. If all the “Before & After” images on your site feature patients with “90s eyebrows”, “The Rachel” haircut, or "far-from-current" fashion choices - it’s time for a refresh. Luckily, DoctorLogic’s [Content Multiplier](https://kcf-bt5b1aiujg.instant.forestry.io/medical-website-content-multiplier/) not only makes it incredibly easy to add new patient testimonials, before & after photos, and videos, but it also amplifies the most relevant content pages for patients and search engines across your site. This not only helps encourage more fresh content but also helps your content gain visibility.
 
 **Not Subtle: Displaying Old Contact Info (name, address, phone number, etc.)**
 
