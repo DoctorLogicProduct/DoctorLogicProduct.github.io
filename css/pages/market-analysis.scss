@@ -312,6 +312,17 @@
             }
         }
 
+        .download-icon {
+            display: flex;
+            align-items: center;
+
+            img {
+                width: 16px;
+                height: 16px;
+                margin-right: 10px;
+            }
+        }
+
         .page {
 
             &__header {
