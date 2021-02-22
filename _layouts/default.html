@@ -77,13 +77,29 @@
 			// config props go here
 			hideRevenueReport: {{ page.hideRevenueReport }},
 			disableLeadSubmission: {{ page.disableLeadSubmission }},
-			placeholders: {
-				practice: "{{ page.practiceNamePlaceholder }}",
-				specialty: "{{ page.practiceSpecialtyPlaceholder }}",
-				website: "{{ page.practiceWebsitePlaceholder }}",
-				fullName: "{{ page.fullNamePlaceholder }}",
-				email: "{{ page.emailPlaceholder }}",
-				phone: "{{ page.phonePlaceholder }}"
+			language: {
+			form: {
+				fields: {
+					practice: {
+						placeholder: "{{ page.practiceNamePlaceholder }}",
+					},
+					specialty: {
+						placeholder: "{{ page.practiceSpecialtyPlaceholder }}",
+					},
+					website: {
+						placeholder: "{{ page.practiceWebsitePlaceholder }}",
+					},
+					fullName: {
+						placeholder: "{{ page.fullNamePlaceholder }}",
+					},
+					email: {
+						placeholder: "{{ page.emailPlaceholder }}",
+					},
+					phone: {
+						placeholder: "{{ page.phonePlaceholder }}",
+					},
+				}
+			},
 			},
 			templates: {
 				formDecor: document.getElementById('formDecor').content.cloneNode(true),
