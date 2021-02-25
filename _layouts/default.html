@@ -77,8 +77,12 @@
 			// config props go here
 			hideRevenueReport: {{ page.hideRevenueReport }},
 			disableLeadSubmission: {{ page.disableLeadSubmission }},
+			disableOtherSpecialty: {{ page.disableOtherSpecialty | default: false }},
 			language: {
 			form: {
+				title: "{{ page.pageHeaderText }}",
+				subtitle: "",
+				text: "{{ page.formText }}",
 				fields: {
 					practice: {
 						placeholder: "{{ page.practiceNamePlaceholder }}",
@@ -104,17 +108,17 @@
 			templates: {
 				formDecor: document.getElementById('formDecor').content.cloneNode(true),
 				locationIcon: document.getElementById('locationIcon').content.cloneNode(true),
-				page3Header: document.getElementById('page3Header').content.cloneNode(true),
+				reportPageHeader: document.getElementById('reportPageHeader').content.cloneNode(true),
 				backIcon: document.getElementById('backIcon').content.cloneNode(true),
 				// printIcon: document.getElementById('printIcon').content,
 				// downloadIcon: document.getElementById('downloadIcon').content,
-				page3Disclaimer: document.getElementById('page3Disclaimer').content,
+				reportDisclaimer: document.getElementById('page3Disclaimer').content,
 			},
 
 			// Dev URLS
 			// urls: {
 			// 	demographic: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/demographics?code=cS09aUa1Sj60BIgnDWLjp7cFg5rXJ4uhOnU8ZNmfAEEtYNwkXdQleA==',
-			// 	specialties: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/specialties?code=HcSqLm7TZsQwRgXkiDgAjEd0eBK6yS4zjxxk79DmEjz4k4Ud1a7m6Q==',
+			// 	specialties: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/specialties?code=HcSqLm7TZsQwRgXkiDgAjEd0eBK6yS4zjxxk79DmEjz4k4Ud1a7m6Q=={{page.specialties}}',
 			// 	procedures: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/procedures?code=RD4F5E1IcqdcxsGhfLgrQFMtGM6ni6QkM8ISnLBQG2S2ijpCKA4ANg==',
 			// 	mapbox: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/mapboxtile?code=XVi1BqtUJ1SDHgMnB2k8cFWqjs/d5iYvxfxJYrvCL5YpQNOiFoSAQQ==&x={x}&y={y}&z={z}&id={id}',
 			// 	isoline: 'https://function-prod-dl-dev.azurewebsites.net/api/leadgen/isoline?code=KzByQitOkJ3948ZAwxzmyCGlLLSs508VN2dNbOYCFgogfMlRTyZ6YA==',
@@ -125,7 +129,7 @@
 		
 				urls: {
 					demographic: 'https://function-prod-dl.azurewebsites.net/api/leadgen/demographics?code=iErsjpx9JgBRjErOcEirCo3Pvgzr1feB1OSTNhGYTKxo6kgiZQ5Fgg==',
-					specialties: 'https://function-prod-dl.azurewebsites.net/api/leadgen/specialties?code=lxYJNyK4lWGXAi6rz7XMPJmO9CLRpbDbBLbdWk/Xb4WZElgir1ovjg==',
+					specialties: 'https://function-prod-dl.azurewebsites.net/api/leadgen/specialties?code=lxYJNyK4lWGXAi6rz7XMPJmO9CLRpbDbBLbdWk/Xb4WZElgir1ovjg=={{ page.specialties }}',
 					procedures: 'https://function-prod-dl.azurewebsites.net/api/leadgen/procedures?code=5KC9jwOH7TG6ZdBjnIBI1C2kK6MkMUw3GAJvcunXu4GQ7I1MmrVDKA==',
 					mapbox: 'https://function-prod-dl.azurewebsites.net/api/leadgen/mapboxtile?code=fGmzY2tmFNVsFE8DafEM6K366amMfm9nLdJevzrEhqIBcX29aTIcjw==&x={x}&y={y}&z={z}&id={id}',
 					isoline: 'https://function-prod-dl.azurewebsites.net/api/leadgen/isoline?code=RMfRKl0JNFzCB7oi3kxmmssp/Nol00b4vuca9MBh8M14Bx/gfZ0Xtg==',

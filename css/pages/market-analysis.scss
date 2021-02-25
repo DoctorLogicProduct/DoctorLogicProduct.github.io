@@ -33,6 +33,7 @@
 
     header {
         background: $color-2;
+        z-index: 999;
     }
 
     input, select {
@@ -58,24 +59,61 @@
 
 .market-analysis-app {
     min-height: calc(100vh - 160px);
-    padding: 80px 0;
+    padding: 20px 0;
 
-    &--page-1, &--page-2 {
+    &--page-1 {
         background: $websites;
+    }
+
+    &--page-2 {
+        background: $color-2;
     }
 }
 
 .page {
     min-height: calc(100vh - 120px);
 
-    &--1, &--2 {
+    &__header {
+        grid-column: auto / span 24;
+        padding: 0 20px;
+        
+        @include tablet-min {
+            padding: 0 20px 20px;
+        }
+        
+        h2 {
+            font-weight: 700;
+            text-transform: uppercase;
+            text-align: center;
+            color: $color-2;
+            max-width: 900px;
+            margin: 20px auto;
+            font-size: 2rem;
+
+            @include phone-wide-min {
+                font-size: 2.75rem;
+            }
+            
+            @include tablet-min {
+                font-size: 3rem;
+            }
+
+            @include tablet-wide-min {
+                font-size: 3.5rem;
+            }
+            
+        }
+    }
+
+    &--1 {
         @include grid;
+        grid-auto-rows: min-content;
         max-width: 1600px;
         margin: 0 auto;
 
         .form__decor {
             grid-column: auto / span 24;
-            padding: 40px;
+            padding: 20px;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -83,6 +121,7 @@
             overflow: hidden;
 
             @include tablet-wide-min {
+                padding: 40px;
                 grid-column: auto / span 14;
             }
 
@@ -91,37 +130,28 @@
                 position: absolute;
                 top: 50%;
                 left: 50%;
-                width: 300px;
-                height: 300px;
+                width: 100%;
+                height: 100%;
                 transform: translate(-50%, -50%);
-                background: rgba(255,255,255,.1);
-                border-radius: 100%;
+                background: url('/img/market-analysis/pulse.svg') center center/contain no-repeat;
+                opacity: .4;
 
                 @include phone-wide-min {
-                    width: 400px;
-                    height: 400px;
-                }
-
-                @include desktop-sm-min {
-                    width: 500px;
-                    height: 500px;
+                    width: 80%;
+                    height: 80%;
                 }
 
                 @include desktop-wide-min {
-                    width: 600px;
-                    height: 600px;
+                    width: 100%;
+                    height: 100%;
                 }
             }
 
             img {
-                max-width: 320px;
+                max-width: 80%;
                 position: relative;
                 z-index: 1;
                 margin-left: -20%;
-
-                @include phone-wide-min {
-                    max-width: 500px;
-                }
 
                 @include tablet-wide-min {
                     max-width: 100%; 
@@ -130,9 +160,9 @@
         }
 
 
-        .step {
+        .form {
             grid-column: auto / span 24;
-            padding: 40px 20px;
+            padding: 20px;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -144,6 +174,7 @@
             @include tablet-wide-min {
                 grid-column: auto / span 10;
                 padding: 0 40px;
+                max-width: 500px;
             }
 
             h2 {
@@ -179,18 +210,12 @@
                 position: relative;
                 padding: 0;
                 display: block;
+            }
 
-                &::after {
-                    content: '';
-                    position: absolute;
-                    top: 50%;
-                    left: auto;
-                    right: 10px;
-                    transform: translateY(-50%);
-                    width: 30px;
-                    height: 30px;
-                    background: url('/img/market-analysis/google.svg') center center/contain no-repeat;
-                    display: inline-block;
+            .input--google-place {
+
+                .input__input {
+                    padding: 1rem 2.4rem 1rem 1rem;
                 }
             }
 
@@ -199,6 +224,9 @@
                 font-weight: 500;
                 font-size: 1rem;
                 line-height: 1;
+                text-align: center;
+                max-width: 500px;
+                margin: 0 auto 20px;
 
                 @include desktop-sm-min {
                     font-size: 1.5rem;
@@ -209,9 +237,15 @@
                 width: 280px;
                 outline: none;
                 cursor: pointer !important;
+                background: orange;
+                margin: 20px auto 0;
+
+                @include tablet-wide-min {
+                    margin: 20px 0;
+                }
 
                 &:hover {
-                    background: $search-2;
+                    background: darken(orange, 5%);
                 }
             }
 
@@ -220,75 +254,18 @@
             }
 
             &__field {
-                margin: 0 0 20px;
+                margin: 0 auto 20px;
+                max-width: 500px;
 
                 @include tablet-wide-min {
-                    max-width: 500px;
+                    margin: 0 0 20px;
                 }
-            }
-
-            &__indicator {
-
-                span:first-of-type {
-                    padding: 0 15px;
-                }
-
-                span:last-of-type {
-                    padding: 0 5px;
-                }
-            }
-
-            &-indicator__step {
-                position: relative;
-
-                &::after {
-                    content: '';
-                    padding: 12px;
-                    position: absolute;
-                    border: solid 2px $color-2;
-                    border-radius: 50%; 
-                    line-height: 1;
-                    left: 4px;
-                    top: -5px;
-
-                    @include desktop-sm-min {
-                        left: 5px;
-                        top: -3px;
-                    }
-                }
-
-            }
+            }          
         }
     }
+
 
     &--2 {
-
-        .step {
-
-            &-indicator__step {
-                position: relative;
-
-                &::after {
-                    content: '';
-                    padding: 12px;
-                    position: absolute;
-                    border: solid 2px $color-2;
-                    border-radius: 50%; 
-                    line-height: 1;
-                    left: 5px;
-                    top: -5px;
-
-                    @include desktop-sm-min {
-                        left: 6px;
-                        top: -3px;
-                    }
-                }
-            }
-
-        }
-    }
-
-    &--3 {
 
         .back-icon {
             display: flex;
@@ -331,8 +308,7 @@
 
 
             &__heading-wrapper {
-                border-top: solid 1px $color-6;
-                border-bottom: solid 1px $color-6;
+                background: #f5f5f5;
             }
 
             &__heading {
@@ -657,11 +633,10 @@
             &__item {
                 grid-column: auto / span 24;
                 @include grid;
-                padding: 20px 0;
+                padding: 0;
 
                 .input--select {
                     flex: 0 0 100%;
-                    padding: 0 0 20px;
                     margin: 0 0 10px;
 
                     @include tablet-min {
@@ -680,7 +655,6 @@
 
                 .input--text {
                     flex: 0 0 100%;
-                    padding: 0 0 20px;
                     margin: 0 0 10px;
 
                     @include tablet-min {
@@ -787,6 +761,7 @@
                 height: 40px;
                 flex: 0 0 100%;
                 outline: none;
+                cursor: pointer !important;
 
                 @include desktop-sm-min {
                     flex: 0 0 auto;
@@ -889,6 +864,7 @@
 
             &__input {
                 min-height: unset;
+                order: 3;
             }
 
             .input__label {
@@ -906,6 +882,7 @@
                 &--2 {
                     order: 4;
                 }
+
             }
         }
 
@@ -969,6 +946,29 @@
             font-weight: 400;
             font-size: .8rem;
             text-align: center;
+        }
+    }
+}
+
+.aacd-analysis, .alma-analysis {
+    
+    .page__header {
+
+        h2 {
+            font-size: 2rem;
+
+            @include phone-wide-min {
+                font-size: 2.2rem;
+            }
+            
+            @include tablet-min {
+                font-size: 2.8rem;
+            }
+
+            @include tablet-wide-min {
+                font-size: 3.3rem;
+            }
+            
         }
     }
 }
