@@ -55,6 +55,7 @@
     }
 
     
+
 }
 
 .market-analysis-app {
@@ -374,6 +375,7 @@
         table {
             grid-column: auto / span 24;
             padding: 0 20px 40px;
+            width: 100%;
 
             @include tablet-min {
                 grid-column: auto / span 12;
@@ -410,6 +412,10 @@
             &:nth-child(3) {
                 text-align: right;
             }
+        }
+
+        .table__loading::before {
+            content: '...';
         }
 
         .location {
@@ -748,6 +754,7 @@
                 }
 
                 
+
             }
 
             &__button--remove {
