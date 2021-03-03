@@ -732,7 +732,10 @@
                 &--totals {
                     grid-column: unset;
                     width: 100%;
-                    padding-right: 40px;
+
+                    @include desktop-sm-min {
+                        padding-right: 40px;
+                    }
                 }
             }
 
