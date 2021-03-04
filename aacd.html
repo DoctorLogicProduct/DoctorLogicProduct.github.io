@@ -1,73 +1,49 @@
 ---
 layout: default
-market-analysis: true
 nofollow: true
 permalink: /aacd
 page_class:
-- class: market-analysis
-hideRevenueReport: false
-disableLeadSubmission: false
-pageHeaderText: "Get Your Instant Free AACD Market Analysis Report"
-formText: "Instantly see how much potential revenue you are missing for top procedures in your local market."
-practiceNamePlaceholder: "Find Your Business"
-practiceSpecialtyPlaceholder: "Select Specialty"
-practiceWebsitePlaceholder: "Enter Your Website"
-fullNamePlaceholder: "Enter Full Name"
-emailPlaceholder: "Enter Email"
-phonePlaceholder: "Enter Phone Number"
+  - class: market-analysis
 disclaimer: "Marketing estimate & reports created by DoctorLogic LLC. Copyright. All Rights Reserved. Confidential & Proprietary Information for Medical Practices Only. Patent Pending. This analysis report is based on public & proprietary data estimates & market trends and does NOT constitute any guarantee of actual performance or results for any Medical Practice."
-specialties: "&include=2,13"
-disableOtherSpecialty: true
-marketAnalysis:
-    #debug: true
-    #page: 2
-    disableLeadSubmission: true
-    hideRevenueReport: false
-    disableLeadSubmission: true
-    disableOtherSpecialty: true
-    #form:
-        #specialty:
-            #disable: true
-        #practice:
-            #default:
-                #address: "6509 Windcrest Dr, #100, Plano, TX 75024, USA"
-                #lat: 33.0638379
-                #lng: -96.8067157999999
-                #name: DoctorLogic
-                #zip: 75024
-    language:
-        form:
-            title: Get Your Instant Free AACD Market Analysis Report
-            subtitle:
-            text: Instantly see how much potential revenue you are missing for top procedures in your local market.
-            fields:
-                practice:
-                    placeholder: Find Your Business
-                specialty:
-                    placeholder: Select Specialty
-                website:
-                    placeholder: Enter Your Website
-                fullName:
-                    placeholder: Enter Full Name
-                email:
-                    placeholder: Enter Email
-                phone:
-                    placeholder: Enter Phone Number
-    urls:
-        # dev
-        #demographic: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/demographics?code=cS09aUa1Sj60BIgnDWLjp7cFg5rXJ4uhOnU8ZNmfAEEtYNwkXdQleA==
-        #specialties: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/specialties?code=HcSqLm7TZsQwRgXkiDgAjEd0eBK6yS4zjxxk79DmEjz4k4Ud1a7m6Q==&include=2,13
-        #procedures: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/procedures?code=RD4F5E1IcqdcxsGhfLgrQFMtGM6ni6QkM8ISnLBQG2S2ijpCKA4ANg==
-        #mapbox: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/mapboxtile?code=XVi1BqtUJ1SDHgMnB2k8cFWqjs/d5iYvxfxJYrvCL5YpQNOiFoSAQQ==&x={x}&y={y}&z={z}&id={id}
-        #isoline: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/isoline?code=KzByQitOkJ3948ZAwxzmyCGlLLSs508VN2dNbOYCFgogfMlRTyZ6YA==
-        # prod
-        demographic: https://function-prod-dl.azurewebsites.net/api/leadgen/demographics?code=iErsjpx9JgBRjErOcEirCo3Pvgzr1feB1OSTNhGYTKxo6kgiZQ5Fgg==
-        specialties: https://function-prod-dl.azurewebsites.net/api/leadgen/specialties?code=lxYJNyK4lWGXAi6rz7XMPJmO9CLRpbDbBLbdWk/Xb4WZElgir1ovjg==&include=2,13
-        procedures: https://function-prod-dl.azurewebsites.net/api/leadgen/procedures?code=5KC9jwOH7TG6ZdBjnIBI1C2kK6MkMUw3GAJvcunXu4GQ7I1MmrVDKA==
-        mapbox: https://function-prod-dl.azurewebsites.net/api/leadgen/mapboxtile?code=fGmzY2tmFNVsFE8DafEM6K366amMfm9nLdJevzrEhqIBcX29aTIcjw==&x={x}&y={y}&z={z}&id={id}
-        isoline: https://function-prod-dl.azurewebsites.net/api/leadgen/isoline?code=RMfRKl0JNFzCB7oi3kxmmssp/Nol00b4vuca9MBh8M14Bx/gfZ0Xtg==
-        submitLead: https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?code=HQKc1rLuYm1ZbNaoaMqxrNNnmXaYAgNOCI5qjdVobqJq/R0IJeeXAg==
-        pardot: http://marketing.doctorlogic.com/l/772793/2021-02-02/2gs7gb
+market_analysis:
+  hideRevenueReport: false
+  disableLeadSubmission: false
+  disableOtherSpecialty: true
+  form:
+    leadSource: Market Analysis - AACD
+  language:
+    form:
+      title: Get Your Instant Free AACD Market Analysis Report
+      subtitle:
+      text: Instantly see how much potential revenue you are missing for top procedures in your local market.
+      fields:
+        practice:
+          placeholder: Find Your Business
+        specialty:
+          placeholder: Select Specialty
+        website:
+          placeholder: Enter Your Website
+        fullName:
+          placeholder: Enter Full Name
+        email:
+          placeholder: Enter Email
+        phone:
+          placeholder: Enter Phone Number
+  urls:
+    # dev
+    #demographic: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/demographics?code=cS09aUa1Sj60BIgnDWLjp7cFg5rXJ4uhOnU8ZNmfAEEtYNwkXdQleA==
+    #specialties: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/specialties?code=HcSqLm7TZsQwRgXkiDgAjEd0eBK6yS4zjxxk79DmEjz4k4Ud1a7m6Q==&include=2,13
+    #procedures: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/procedures?code=RD4F5E1IcqdcxsGhfLgrQFMtGM6ni6QkM8ISnLBQG2S2ijpCKA4ANg==
+    #mapbox: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/mapboxtile?code=XVi1BqtUJ1SDHgMnB2k8cFWqjs/d5iYvxfxJYrvCL5YpQNOiFoSAQQ==&x={x}&y={y}&z={z}&id={id}
+    #isoline: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/isoline?code=KzByQitOkJ3948ZAwxzmyCGlLLSs508VN2dNbOYCFgogfMlRTyZ6YA==
+    # prod
+    demographic: https://function-prod-dl.azurewebsites.net/api/leadgen/demographics?code=iErsjpx9JgBRjErOcEirCo3Pvgzr1feB1OSTNhGYTKxo6kgiZQ5Fgg==
+    specialties: https://function-prod-dl.azurewebsites.net/api/leadgen/specialties?code=lxYJNyK4lWGXAi6rz7XMPJmO9CLRpbDbBLbdWk/Xb4WZElgir1ovjg==&include=2,13
+    procedures: https://function-prod-dl.azurewebsites.net/api/leadgen/procedures?code=5KC9jwOH7TG6ZdBjnIBI1C2kK6MkMUw3GAJvcunXu4GQ7I1MmrVDKA==
+    mapbox: https://function-prod-dl.azurewebsites.net/api/leadgen/mapboxtile?code=fGmzY2tmFNVsFE8DafEM6K366amMfm9nLdJevzrEhqIBcX29aTIcjw==&x={x}&y={y}&z={z}&id={id}
+    isoline: https://function-prod-dl.azurewebsites.net/api/leadgen/isoline?code=RMfRKl0JNFzCB7oi3kxmmssp/Nol00b4vuca9MBh8M14Bx/gfZ0Xtg==
+    submitLead: https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?code=HQKc1rLuYm1ZbNaoaMqxrNNnmXaYAgNOCI5qjdVobqJq/R0IJeeXAg==
+    pardot: http://marketing.doctorlogic.com/l/772793/2021-02-02/2gs7gb
 ---
 
 <div id="root" class="market-analysis aacd-analysis"></div>

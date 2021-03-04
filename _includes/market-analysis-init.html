@@ -1,0 +1,37 @@
+{% if page.market_analysis %}
+<script>
+    // setting this global callback to initialize the app
+    window.marketAnalysisConfig = init => {
+        const getTemplate = id => {
+            const el = document.getElementById(id);
+
+            if (el) {
+                return el.content;
+            }
+        };
+
+        const config = {{ page.market_analysis | jsonify }};
+
+        // get templates
+        [
+            'backIcon',
+            'downloadIcon',
+            'formDecor',
+            'formHeader',
+            'locationIcon',
+            'printIcon',
+            'reportDisclaimer',
+            'reportPageHeader',
+            'toggle',
+        ].forEach(id => {
+            config.templates = config.templates || {};
+            config.templates[id] = getTemplate(id);
+        });
+
+        init(document.getElementById('root'), config);
+	};
+</script>
+<script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
+<script src="{{ base }}/js/dl-market-analysis.js?v={{ site.time | date: '%s' }}"></script>
+{% endif %}
