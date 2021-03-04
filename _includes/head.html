@@ -1,18 +1,18 @@
 {%- capture description -%}
-	{%- if page.post_intro -%}
-		{{ page.post_intro }}
-	{%- else -%}
-		{{ page.description }}
+{%- if page.post_intro -%}
+{{ page.post_intro }}
+{%- else -%}
+{{ page.description }}
 {%- endif %}{%- endcapture %}
 
 {% capture image -%}
-	{%- if page.post_image -%}
-		{{ page.post_image }}
-	{%- elsif page.meta_image -%}
-		{{ page.meta_image }}
-	{%- else -%}
-		{{ site.defaut-img }}
-	{%- endif -%}
+{%- if page.post_image -%}
+{{ page.post_image }}
+{%- elsif page.meta_image -%}
+{{ page.meta_image }}
+{%- else -%}
+{{ site.defaut-img }}
+{%- endif -%}
 {%- endcapture %}
 
 <head>
@@ -35,7 +35,8 @@
 	{%- endif -%}
 	{% for section in page.page_sections -%}
 	{% if section.component_css -%}
-	<link rel="stylesheet" href="{{ '/css/components/' | append: section.component_css | append: '.css' | prepend: site.baseurl }}">
+	<link rel="stylesheet"
+		href="{{ '/css/components/' | append: section.component_css | append: '.css' | prepend: site.baseurl }}">
 	{% endif %}
 	{%- endfor %}
 	{%- for class in page.page_class -%}
@@ -45,6 +46,19 @@
 	{%- endfor -%}
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
+	{% if page.redirect_to -%}
+	{% comment %}
+	Apparently http-equiv="refresh" is not best practice.
+	{% endcomment %}
+	<meta http-equiv="refresh" content="0; URL={{ page.redirect_to }}" />
+	<script>
+		try {
+			window.location.replace('{{ page.redirect_to }}');
+		} catch (ex) {
+			window.location ='{{ page.redirect_to }}';
+		}
+	</script>
+	{%- endif %}
 	<!-- Google Tag Manager -->
 	<script>(function (w, d, s, l, i) {
 			w[l] = w[l] || []; w[l].push({
