@@ -5,11 +5,11 @@ post_author: Christopher Ellis
 tags:
 - SEO
 - Content-Marketing
-post_intro: In this post, you’ll learn why you should blog, and some simple steps
-  you can take to help get the ‘blogging ball’ rolling.
-post_image: ''
-post_highlight: In this post you’ll learn why you should blog, and some simple steps
-  you can take to help get the ‘blogging ball’ rolling.
+post_intro: With Spring right around the corner, we put together a checklist you can
+  use to ensure everything is up-to-date and running smoothly.
+post_image: "/uploads/spring-cleaning.png"
+post_highlight: With Spring right around the corner, we put together a checklist you
+  can use to ensure everything is up-to-date and running smoothly.
 post_type:
 - blog
 product:
