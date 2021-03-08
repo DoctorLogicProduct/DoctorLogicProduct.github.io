@@ -19,7 +19,7 @@ product:
 title: 2021-03-08-spring-cleaning-checklist-for-your-website
 
 ---
-With Spring right around the corner, there’s no better time to dust off the metaphorical cobwebs on your practice’s website and get things squeaky clean. But when it comes to website management, there are a lot of moving parts to keep track of so we put together a checklist you can use to ensure everything is up-to-date and running smoothly.
+With Spring right around the corner, there’s no better time to dust off the metaphorical cobwebs on your practice’s website and get things squeaky clean. But when it comes to website management, there are a lot of moving parts to keep track of so we put together a checklist that will help you freshen things up.
 
   
 **Housekeeping Checks**
