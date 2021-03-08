@@ -1,5 +1,5 @@
 ---
-post_title: Blogging Fundamentals
+post_title: Spring Cleaning Website Checklist
 date: 2021-03-08 14:00:00 +0000
 post_author: Christopher Ellis
 tags:
