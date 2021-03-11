@@ -1,22 +1,170 @@
 ---
 layout: default
-market-analysis: true
 nofollow: true
 permalink: /alma
 page_class:
-- class: market-analysis
-hideRevenueReport: false
-disableLeadSubmission: false
-pageHeaderText: "Get Your Instant Free Alma Market Analysis Report"
-formText: "Instantly see how much potential revenue you are missing for top procedures in your local market."
-practiceNamePlaceholder: "Find Your Business"
-practiceSpecialtyPlaceholder: "Select Specialty"
-practiceWebsitePlaceholder: "Enter Your Website"
-fullNamePlaceholder: "Enter Full Name"
-emailPlaceholder: "Enter Email"
-phonePlaceholder: "Enter Phone Number"
+  - class: market-analysis
 disclaimer: "Marketing estimate & reports created by DoctorLogic LLC. Copyright. All Rights Reserved. Confidential & Proprietary Information for Medical Practices Only. Patent Pending. This analysis report is based on public & proprietary data estimates & market trends and does NOT constitute any guarantee of actual performance or results for any Medical Practice."
-disableOtherSpecialty: true
+market_analysis:
+  hideRevenueReport: false
+  disableLeadSubmission: false
+  disableOtherSpecialty: false
+  form:
+    leadSource: Market Analysis - Alma
+    fields:
+      specialty:
+        disable: true
+  language:
+    form:
+      title: Get Your Instant Free Alma Market Analysis Report
+      subtitle:
+      text: Instantly see how much potential revenue you are missing for top procedures in your local market.
+      fields:
+        practice:
+          placeholder: Find Your Business
+        specialty:
+          placeholder: Select Specialty
+        website:
+          placeholder: Enter Your Website
+        fullName:
+          placeholder: Enter Full Name
+        email:
+          placeholder: Enter Email
+        phone:
+          placeholder: Enter Phone Number
+  urls:
+    # dev
+    #demographic: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/demographics?code=cS09aUa1Sj60BIgnDWLjp7cFg5rXJ4uhOnU8ZNmfAEEtYNwkXdQleA==
+    #specialties: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/specialties?code=HcSqLm7TZsQwRgXkiDgAjEd0eBK6yS4zjxxk79DmEjz4k4Ud1a7m6Q==
+    #procedures: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/procedures?code=RD4F5E1IcqdcxsGhfLgrQFMtGM6ni6QkM8ISnLBQG2S2ijpCKA4ANg==
+    #mapbox: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/mapboxtile?code=XVi1BqtUJ1SDHgMnB2k8cFWqjs/d5iYvxfxJYrvCL5YpQNOiFoSAQQ==&x={x}&y={y}&z={z}&id={id}
+    #isoline: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/isoline?code=KzByQitOkJ3948ZAwxzmyCGlLLSs508VN2dNbOYCFgogfMlRTyZ6YA==
+    # prod
+    demographic: https://function-prod-dl.azurewebsites.net/api/leadgen/demographics?code=iErsjpx9JgBRjErOcEirCo3Pvgzr1feB1OSTNhGYTKxo6kgiZQ5Fgg==
+    #specialties: https://function-prod-dl.azurewebsites.net/api/leadgen/specialties?code=lxYJNyK4lWGXAi6rz7XMPJmO9CLRpbDbBLbdWk/Xb4WZElgir1ovjg==
+    #procedures: https://function-prod-dl.azurewebsites.net/api/leadgen/procedures?code=5KC9jwOH7TG6ZdBjnIBI1C2kK6MkMUw3GAJvcunXu4GQ7I1MmrVDKA==
+    mapbox: https://function-prod-dl.azurewebsites.net/api/leadgen/mapboxtile?code=fGmzY2tmFNVsFE8DafEM6K366amMfm9nLdJevzrEhqIBcX29aTIcjw==&x={x}&y={y}&z={z}&id={id}
+    isoline: https://function-prod-dl.azurewebsites.net/api/leadgen/isoline?code=RMfRKl0JNFzCB7oi3kxmmssp/Nol00b4vuca9MBh8M14Bx/gfZ0Xtg==
+    #submitLead: https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?code=HQKc2rLuYm1ZbNaoaMqxrNNnmXaYAgNOCI5qjdVobqJq/R0IJeeXAg==
+    submitLead: https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?dest=alma-leads@doctorlogic.com
+    #pardot: http://marketing.doctorlogic.com/l/772793/2021-02-02/2gs7gb
+  additionalData:
+    procedures:
+      11:
+        - MasterProcedureId: -1
+          Label: Alma - Accent Prime
+          MinimumPrice: 1000
+          MaximumPrice: 3000
+          DefaultPrice: 2000
+          ProceduresPerYear: 720000
+        - MasterProcedureId: -2
+          Label: Alma - BeautiFill
+          MinimumPrice: 3000
+          MaximumPrice: 8000
+          DefaultPrice: 5500
+          ProceduresPerYear: 420000
+        - MasterProcedureId: -3
+          Label: Alma - FemiLift
+          MinimumPrice: 2400
+          MaximumPrice: 4800
+          DefaultPrice: 3600
+          ProceduresPerYear: 210000
+        - MasterProcedureId: -4
+          Label: Alma - Harmony XL Pro
+          MinimumPrice: 800
+          MaximumPrice: 2400
+          DefaultPrice: 1600
+          ProceduresPerYear: 1080000
+        - MasterProcedureId: -5
+          Label: Alma - Opus
+          MinimumPrice: 2000
+          MaximumPrice: 4000
+          DefaultPrice: 3000
+          ProceduresPerYear: 690000
+        - MasterProcedureId: -6
+          Label: Alma - Soprano ICE
+          MinimumPrice: 1000
+          MaximumPrice: 3000
+          DefaultPrice: 2000
+          ProceduresPerYear: 525000
+        - MasterProcedureId: -7
+          Label: Services - Skin Revitalization
+          MinimumPrice: 1200
+          MaximumPrice: 3600
+          DefaultPrice: 2400
+          ProceduresPerYear: 450000
+        - MasterProcedureId: -8
+          Label: Services - Non-Surgical Body Contouring
+          MinimumPrice: 1000
+          MaximumPrice: 3000
+          DefaultPrice: 2000
+          ProceduresPerYear: 540000
+        - MasterProcedureId: -9
+          Label: Services - Surgical Body Contouring
+          MinimumPrice: 4000
+          MaximumPrice: 12000
+          DefaultPrice: 8000
+          ProceduresPerYear: 420000
+        - MasterProcedureId: -10
+          Label: Services - Skin Resurfacing (Laser & Plasma)
+          MinimumPrice: 1200
+          MaximumPrice: 3600
+          DefaultPrice: 2400
+          ProceduresPerYear: 225000
+        - MasterProcedureId: -11
+          Label: Services - Hair Removal (Laser)
+          MinimumPrice: 800
+          MaximumPrice: 2400
+          DefaultPrice: 1600
+          ProceduresPerYear: 525000
+        - MasterProcedureId: -12
+          Label: Services - Tattoo Removal (Laser)
+          MinimumPrice: 800
+          MaximumPrice: 2400
+          DefaultPrice: 1600
+          ProceduresPerYear: 180000
+        - MasterProcedureId: -13
+          Label: Services - Vein Treatment (Laser)
+          MinimumPrice: 800
+          MaximumPrice: 1600
+          DefaultPrice: 1200
+          ProceduresPerYear: 210000
+        - MasterProcedureId: -14
+          Label: Services - Liposuction & Fat Transfer
+          MinimumPrice: 3000
+          MaximumPrice: 8000
+          DefaultPrice: 5500
+          ProceduresPerYear: 420000
+        - MasterProcedureId: -15
+          Label: Services - Skin Tightening (Laser)
+          MinimumPrice: 2000
+          MaximumPrice: 4800
+          DefaultPrice: 3400
+          ProceduresPerYear: 135000
+        - MasterProcedureId: -16
+          Label: Services - IPL (Intense Pulse Light Therapy)
+          MinimumPrice: 1000
+          MaximumPrice: 3000
+          DefaultPrice: 2000
+          ProceduresPerYear: 180000
+        - MasterProcedureId: -17
+          Label: Services - Women's Health Revitalization
+          MinimumPrice: 2400
+          MaximumPrice: 4800
+          DefaultPrice: 3600
+          ProceduresPerYear: 210000
+        - MasterProcedureId: -18
+          Label: Services - Acne/Acne Scarring
+          MinimumPrice: 600
+          MaximumPrice: 2400
+          DefaultPrice: 1500
+          ProceduresPerYear: 480000 
+        - MasterProcedureId: -19
+          Label: Alma - Duo
+          MinimumPrice: 2000
+          MaximumPrice: 4000
+          DefaultPrice: 3000
+          ProceduresPerYear: 900000
 ---
 
 <div id="root" class="market-analysis alma-analysis"></div>
@@ -24,7 +172,7 @@ disableOtherSpecialty: true
 <template id="formDecor">
     <img src="img/market-analysis/market-analysis-image.png" />
 </template>
-<template id="reportPageHeader"></template>
+<!-- <template id="reportPageHeader"></template> -->
 <template id="backIcon">
     <div class="back-icon">
         <img src="img/market-analysis/back.svg" />
@@ -46,6 +194,6 @@ disableOtherSpecialty: true
         <span>Save</span>
     </div>
 </template> -->
-<template id="page3Disclaimer">
+<template id="reportDisclaimer">
     <p>{{ page.disclaimer }}</p>
 </template>

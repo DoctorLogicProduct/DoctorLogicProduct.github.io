@@ -55,6 +55,7 @@
     }
 
     
+
 }
 
 .market-analysis-app {
@@ -374,6 +375,7 @@
         table {
             grid-column: auto / span 24;
             padding: 0 20px 40px;
+            width: 100%;
 
             @include tablet-min {
                 grid-column: auto / span 12;
@@ -410,6 +412,10 @@
             &:nth-child(3) {
                 text-align: right;
             }
+        }
+
+        .table__loading::before {
+            content: '...';
         }
 
         .location {
@@ -726,7 +732,10 @@
                 &--totals {
                     grid-column: unset;
                     width: 100%;
-                    padding-right: 40px;
+
+                    @include desktop-sm-min {
+                        padding-right: 40px;
+                    }
                 }
             }
 
@@ -748,6 +757,7 @@
                 }
 
                 
+
             }
 
             &__button--remove {
@@ -933,6 +943,7 @@
               max-width: 1300px;
               margin: 0 auto;
               min-height: 1000px;
+              z-index: 1;
           }
 
     }
