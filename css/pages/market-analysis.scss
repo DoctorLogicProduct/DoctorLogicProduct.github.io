@@ -20,7 +20,7 @@
     min-height: 500px;
 }
 
-.market-analysis {
+.market-analysis-app-container {
     padding: 60px 0 0;
 
     @include desktop-sm-min {
@@ -944,6 +944,11 @@
               margin: 0 auto;
               min-height: 1000px;
               z-index: 1;
+          }
+
+          .map--print {
+              width: 6in;
+              height: 6in;
           }
 
     }
