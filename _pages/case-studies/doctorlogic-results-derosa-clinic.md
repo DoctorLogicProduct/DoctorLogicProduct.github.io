@@ -3,8 +3,9 @@ layout: case-study
 title: DoctorLogic Results | DeRosa Clinic
 page_name: case-study-morales
 permalink: "/case-studies/morales-plastic-surgery"
-description: Case Study. Dr. Morales saw a 2,944% increase in Page 1 keyword rankings,
-  a 371% increase in website visitors, and a 179% increase in website leads.
+description: Case Study. Dr. DeRosa saw 276% keyword growth in 2020, as well as a
+  XXX% increase in Page 1 keyword rankings, a XXX% increase in website visitors, and
+  a XXX% increase in website leads.
 meta_image: "/img/meta/dl.jpg"
 nofollow: false
 gsap: true
@@ -21,15 +22,14 @@ featured-img:
   img_alt: Morales Plastic Surgery - Powered By DoctorLogic
 challenge:
 - headline: The Challenge
-  text: "<p>Houston, Texas Plastic Surgeon, Dr. Rolando Morales was in search of a
-    provider who could help build a website reflective of the sophistication of his
-    practice and his patients, as well as an infrastructure to create new business.
-    He approached DoctorLogic three years out of his residency program at the University
-    of Texas Medical Branch (UTMB) in Galveston, TX. Like most doctors in the early
-    stages of their careers, Dr. Morales faced several challenges: limited funds,
-    minimum experience, and not enough time to think about marketing. DoctorLogic
-    was the clear choice to help him build the right patient experience and build
-    his website into a new business machine.</p>"
+  text: "<p>Boston, MA Plastic & Reconstructive Surgeon, Dr. DeRosa was in search
+    of a provider who could help build a website reflective of the sophistication
+    of her practice and her patients, as well as an infrastructure to create new business.
+    She approached DoctorLogic three years out of her residency program at Harvard
+    Medical School. Like most doctors in the early stages of their careers, Dr. DeRosa
+    faced several challenges: limited funds, minimum experience, and not enough time
+    to think about marketing. DoctorLogic was the clear choice to help her build the
+    right patient experience and build her website into a new business machine.</p>"
   customer-items:
   - headline: Customer
     text: Morales Plastic Surgery
