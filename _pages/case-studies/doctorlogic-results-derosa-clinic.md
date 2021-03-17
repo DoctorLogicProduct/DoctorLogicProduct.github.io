@@ -2,7 +2,7 @@
 layout: case-study
 title: DoctorLogic Results | DeRosa Clinic
 page_name: case-study-derosa
-permalink: "/case-studies/morales-plastic-surgery"
+permalink: "/case-studies/derosa-clinic-plastic-surgery"
 description: Case Study. Dr. DeRosa saw 276% keyword growth in 2020, as well as a
   XXX% increase in Page 1 keyword rankings, a XXX% increase in website visitors, and
   a XXX% increase in website leads.
@@ -18,7 +18,7 @@ hero:
   text: Morales Plastic Surgery
   specialty: Plastic Surgery
 featured-img:
-- img_src: "/img/case-studies/morales-featured-img.jpg"
+- img_src: "/uploads/dr-derosa.png"
   img_alt: DeRosa Clinic Plastic Surgery - Powered By DoctorLogic
 challenge:
 - headline: The Challenge
@@ -32,17 +32,18 @@ challenge:
     right patient experience and build her website into a new business machine.</p>"
   customer-items:
   - headline: Customer
-    text: Morales Plastic Surgery
+    text: DeRosa Clinic Plastic Surgery
   - headline: Website
     link:
     - link: https://drmorales.com
       label: www.drmorales.com
+    text: https://derosaclinic.com/
   - headline: Specialty
     text: Plastic Surgery
   - headline: Practice Size
     text: 1 Doctor
   - headline: Location
-    text: Houston, TX
+    text: Boston, MA
 results:
   headline: The Results
   svg: svg/case-study-graphs/morales-graph.html
@@ -71,20 +72,20 @@ results:
 solution:
 - headline: The Solution
   text: "<p>The first step in defining a winning strategy required a deep dive with
-    Dr. Morales into what he was hoping to accomplish. DoctorLogic and Dr. Morales
+    Dr. DeRosa into what she was hoping to accomplish. DoctorLogic and Dr. DeRosa
     mutually agreed the best approach was a simple strategy: in order to increase
-    the number of leads, he needed to create an SEO-strong website that could support
-    an increase in website content, allowing Dr. Morales to be found in search and
-    leading to more office visits. This strategy would help Dr. Morales discover new
+    the number of leads, she needed to create an SEO-strong website that could support
+    an increase in website content, allowing Dr. DeRosa to be found in search and
+    leading to more office visits. This strategy would help Dr. DeRosa discover new
     patients from search, promote new content to new audiences, and build long-term
     loyalty by satisfying patients’ educational and emotional needs.</p><p>We started
-    by building a website specially designed to showcase Dr. Morales’ great work and
+    by building a website specially designed to showcase Dr. DeRosa’s great work and
     reviews with our Before and After Photo Galleries and Reputation Management. Once
-    the infrastructure was built, we focused on targeting patients in his market.
-    We looked at Houston and the surrounding areas and wrote content relevant to potential
-    patients in the area, anchoring his site to his market during web searches. We
-    then wrote 40 procedure pages for Dr. Morales to educate visitors on the services
-    he offers.</p>"
+    the infrastructure was built, we focused on targeting patients in her market.
+    We looked at Boston and the surrounding areas and wrote content relevant to potential
+    patients in the area, anchoring her site to her market during web searches. We
+    then wrote 40 procedure pages for Dr. DeRosa to educate visitors on the services
+    she offers.</p>"
   items:
   - img_src: "/img/product-icons/with-labels/website-management-label.svg"
     img_alt: DoctorLogic Website Management
