@@ -61,14 +61,14 @@ results:
     value: "4.5"
     label: Conversion Rate
   detail:
-  - text: "<p>Since partnering with DoctorLogic, Dr. Morales saw a 2,944% increase
-      in Page 1 keyword rankings, a 371% increase in website visitors, and a 179%
-      increase in website leads. In addition to an improved website architecture and
-      keyword ranking, the Before and After Photo Gallery brings in 74% of all page
-      view traffic, with 27% leads coming strictly from the gallery page.</p><p>Dr.
-      Morales has gained a competitive advantage and is dominating his market. With
-      DoctorLogic, he’s leveraging technology to increase efficiency and track lead
-      conversions that turn visitors into patients. The result? Exponential growth.</p>"
+  - text: "<p>Since partnering with DoctorLogic, Dr. DeRosa saw a 216% increase in
+      keywords, a 371% increase in website visitors, and a 179% increase in website
+      leads. In addition to an improved website architecture and keyword ranking,
+      the Before and After Photo Gallery brings in 74% of all page view traffic, with
+      27% leads coming strictly from the gallery page.</p><p>Dr. DeRosa has gained
+      a competitive advantage and is dominating her market. With DoctorLogic, she’s
+      leveraging technology to increase efficiency and track lead conversions that
+      turn visitors into patients. The result? Exponential growth.</p>"
 solution:
 - headline: The Solution
   text: "<p>The first step in defining a winning strategy required a deep dive with
