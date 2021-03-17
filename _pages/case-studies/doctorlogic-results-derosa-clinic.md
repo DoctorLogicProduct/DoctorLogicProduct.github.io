@@ -1,7 +1,7 @@
 ---
 layout: case-study
 title: DoctorLogic Results | DeRosa Clinic
-page_name: case-study-morales
+page_name: case-study-derosa
 permalink: "/case-studies/morales-plastic-surgery"
 description: Case Study. Dr. DeRosa saw 276% keyword growth in 2020, as well as a
   XXX% increase in Page 1 keyword rankings, a XXX% increase in website visitors, and
