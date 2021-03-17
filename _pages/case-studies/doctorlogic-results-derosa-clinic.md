@@ -19,7 +19,7 @@ hero:
   specialty: Plastic Surgery
 featured-img:
 - img_src: "/img/case-studies/morales-featured-img.jpg"
-  img_alt: Morales Plastic Surgery - Powered By DoctorLogic
+  img_alt: DeRosa Clinic Plastic Surgery - Powered By DoctorLogic
 challenge:
 - headline: The Challenge
   text: "<p>Boston, MA Plastic & Reconstructive Surgeon, Dr. DeRosa was in search
