@@ -15,7 +15,7 @@ custom_js: case-study
 hero:
 - class: case-study__hero
   headline: Case Study
-  text: Morales Plastic Surgery
+  text: DeRosa Clinic Plastic Surgery
   specialty: Plastic Surgery
 featured-img:
 - img_src: "/uploads/dr-derosa.png"
@@ -49,8 +49,8 @@ results:
   svg: svg/case-study-graphs/morales-graph.html
   items:
   - class: case-study__results-item--1
-    value: "2944"
-    label: Page 1 Keywords
+    value: "216"
+    label: Keyword Growth
   - class: case-study__results-item--2
     value: "371"
     label: Website Visitors
