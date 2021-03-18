@@ -944,12 +944,14 @@
               margin: 0 auto;
               min-height: 1000px;
               z-index: 1;
-          }
 
-          .map--print {
-              width: 6in;
-              height: 6in;
-          }
+              &--print {
+                width: 6in;
+                min-width: 6in;
+                height: 6in;
+                min-height: 6in;
+              }
+        }
 
     }
 

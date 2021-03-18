@@ -6,7 +6,7 @@ page_class:
   - class: market-analysis
 disclaimer: "Marketing estimate & reports created by DoctorLogic LLC. Copyright. All Rights Reserved. Confidential & Proprietary Information for Medical Practices Only. Patent Pending. This analysis report is based on public & proprietary data estimates & market trends and does NOT constitute any guarantee of actual performance or results for any Medical Practice."
 market_analysis:
-  debug: true
+  #debug: true
   hideRevenueReport: false
   disableLeadSubmission: false
   disableOtherSpecialty: false
@@ -39,10 +39,10 @@ market_analysis:
       fontFamily: Montserrat
     header:
       text: Market Analysis Report - Alma
-      #image:
-        #src: TODO url to a png or jpg
-        #style:
-          #width: '150px' TODO need a width at least
+      image:
+        src: /img/market-analysis/doctorlogic-logo.png
+        style:
+          width: 150px
     fonts:
     - family: Montserrat
       fonts:
@@ -208,12 +208,12 @@ market_analysis:
         <span>Print</span>
     </div>
 </template> -->
-<!-- <template id="downloadIcon">
+<template id="downloadIcon">
     <div class="download-icon">
         <img src="img/market-analysis/download.svg" />
         <span>Save</span>
     </div>
-</template> -->
+</template>
 <template id="reportDisclaimer">
     <p>{{ page.disclaimer }}</p>
 </template>
