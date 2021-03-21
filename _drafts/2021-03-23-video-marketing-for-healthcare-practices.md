@@ -1,15 +1,17 @@
 ---
-post_title: Spring Cleaning Website Checklist
-date: 2021-03-08T14:00:00.000+00:00
+post_title: Video Marketing for Healthcare Practices
+date: 2021-03-23 13:00:00 +0000
 post_author: Christopher Ellis
 tags:
 - SEO
 - Content-Marketing
-post_intro: With Spring right around the corner, we put together a checklist you can
-  use to ensure everything is up-to-date and running smoothly.
-post_image: "/uploads/spring-cleaning.png"
-post_highlight: With Spring right around the corner, we put together a checklist you
-  can use to ensure everything is up-to-date and running smoothly.
+post_intro: To help your practice start incorporating videos into your practice marketing,
+  we have outlined a few suggestions for the types of video content you can consider
+  making.
+post_image: "/uploads/website-_-blog-post-image.png"
+post_highlight: To help your practice start incorporating videos into your practice
+  marketing, we have outlined a few suggestions for the types of video content you
+  can consider making.
 post_type:
 - blog
 product:
@@ -19,68 +21,28 @@ product:
 title: 2021-03-23-video-marketing-for-healthcare-practices
 
 ---
-With Spring right around the corner, there’s no better time to dust off the metaphorical cobwebs on your practice’s website and get things squeaky clean. But when it comes to website management, there are a lot of moving parts to keep track of so we put together a checklist that will help you freshen things up.
+When you think about “content marketing”, what specifically comes to mind? Chances are you are thinking about blogs, infographics, or articles. Perhaps you are thinking about social media and online posts? While those are all extremely useful and important weapons in your “Content Marketing” arsenal, there is still one glaring omission you should be considering; videos.
 
-  
-**Housekeeping Checks**
+Video Marketing is arguably one of the most underutilized strategies in most healthcare practices; though it really is a shame given the significant benefits videos provide. For example, studies have shown that 74% of users who watched an explainer video for a product or service resulted in a purchase. Furthermore, 80% of marketers noted an increased dwell time on their website due to videos and on social media, videos tend to generate 1,200% more shares than text & image content combined. These are just a few of the incredible stats all reiterating the undeniable positive impact video has in marketing. But how do healthcare providers successfully utilize video in their marketing strategy you might ask? It may actually be easier than you think!
 
-❐ Remove any inactive product or service offerings displayed on your site
+It’s easy to assume that creating videos requires a Hollywood budget with professional lights, cameras, and effects, but that’s just not true. While a little production value can certainly go a long way to helping your videos look more professional, you can still create captivating footage with your smartphone. Award-winning director Steven Soderbergh proves this very point by filming a feature-length film on an iPhone which you can[ watch on Netflix](https://www.theringer.com/movies/2019/2/7/18214924/steven-soderbergh-high-flying-bird-iphone-tangerine-unsane-netflix). So to help start your journey of incorporating videos into your practice marketing, we have outlined a few suggestions for the types of video content you can consider making.
 
-❐ If you display any prices on your site, make sure they are current
+**“About the Team” Videos**
 
-❐ Update your about page & team page to account for new hires
+This is perhaps the simplest place to start. Record a short video introducing your team to visitors of your website. This goes a long way in familiarizing any potential new patients with your practice and really helps build trust in the process. Just find a nice backdrop like your office or waiting room and start introducing yourself genuinely like you would if you were meeting in person. This video does not need to be long or even scripted, as long as you keep your introduction warm, inviting, and professional you have hit the mark.
 
-❐ Ask yourself how long you’ve used your current homepage design - is it time for a refresh?
+**Treatment Videos**
 
-❐ Look through old blog content to see what can possibly be repurposed/updated
+When a patient views your website, specifically the ‘services’ section of your site, they are often looking for answers. They want to learn a variety of things such as the cost, will the treatment cause pain, or what the recovery time looks like. They are curious to learn these things and though you may do a fine job explaining a lot of this in text form through your blogs or website, a video is another simple and effective way to help share this information in an easily digestible way. This may be something you consider for some of your more common treatments or procedures, especially if you are routinely getting these types of questions from your patients. These videos can also be shown to patients who are seeking treatment, and possibly help improve case acceptance.
 
-❐ Check the phone numbers, addresses, and contact information throughout your site
+**Educational Videos**
 
-  
-**Marketing Checks**
+You already know that as a healthcare professional, the general public trusts you as a reliable source of information pertaining to their overall health & wellness. As such, feel free to use your website or social media as a platform to educate the public on a variety of healthcare-related topics you know they are curious about. Sharing useful information about current events in healthcare, new studies or treatments being offered, or combatting common misconceptions in medicine are all great ways to help your patients learn something new while also building trust as a healthcare professional and thought leader in the process.
 
-❐ Double-check that your practice’s brand (i.e. logo, colors, etc.) is consistent across your site
+**Culture Videos**
 
-❐ Reread your old blog posts and remove anything that might be outdated/incorrect
+This is not too dissimilar to the “About the Team” video we discussed earlier as it also grants your current and prospective patients alike the opportunity to learn a little about your team. And in this case, you might find yourself having a little more fun with the process! There are many doctors who have really embraced the opportunity to showcase their practice’s culture through video, and they’re often very entertaining, fun, and memorable. Whether you and your staff are celebrating a birthday, holiday, or just the end of a long week - you can use these videos to help capture the culture of your practice and make its viewers feel like they know you a little better.
 
-❐ Analyze your website’s performance and identify your most/least visited pages (or if you're a DoctorLogic customer, be sure to schedule a time with your CSM to analyze these metrics as they'll have a ton of great insights to share). 
+Once you recorded your first video, the next step is to show it off to the world. One of the easiest, and most effective, ways to do this is by uploading your video to YouTube. Did you know that YouTube is the[ 2nd largest search engine in the world](https://www.forbes.com/sites/forbesagencycouncil/2017/05/15/are-you-maximizing-the-use-of-video-in-your-content-marketing-strategy/?sh=2b4e676f3584) (after Google)? And since Google purchased YouTube in 2006, embedding YouTube videos on your site is an extremely effective way to improve your search engine rank as Google algorithms love to see this fresh, new content living on your site. That’s why at DoctorLogic, we make it super simple for our clients to add YouTube videos to their site and take full advantage of all the SEO benefits these videos have to offer.
 
-❐ (Use these results to dictate what type of content you should focus on going forward)
-
-❐ Target lapsed patients for a reactivation campaign
-
-❐ (Typically, patients are considered “lapsed” 14-18 months after their last visit)
-
-❐ Remove (or republish) any inactive advertising campaigns or promotions
-
-  
-**Quality Assurance Checks**
-
-❐ Search your website for broken links or any 404/redirects
-
-❐ Submit a test submission on every form on your site to ensure you can see the new lead
-
-❐ Delete inappropriate (or spam) form submissions or comments left on your blog/social media
-
-❐ Confirm your website loads properly in different browsers and on mobile
-
-**Security Checks**
-
-❐ If you’re not already, avoid using the same password for multiple logins
-
-❐ Double-check that there are not any old users/accounts who still have access to your logins
-
-❐ Upgrade our website to a “https://” if you haven’t done so already
-
-❐ Save a backup of your website that is stored somewhere safe (preferably offline)
-
-❐ Remove and/or delete any unused plugins
-
-❐ Any plugins you are still using - make sure that they’re still set up properly
-
-❐ Make sure your domain name is set for auto-renewal
-
-❐ Update billing information for any services your website uses that might expire soon
-
-**Conclusion**  
-Though this list certainly isn't all-encompassing, it is a very good reference to help keep your website in a fresh, updated place. If this checklist has made it obvious that your website is in need of a refresh, DoctorLogic can certainly help get you back on the right track with our custom, responsive, and completely future-proofed web designs.
+We’re confident that once you have made your first few videos to showcase on your website, you will see the impact on the positive exposure it has on your practice and you will want to make more. Videos are such a great way to engage your website visitors with meaningful content, and they can be great fun to make if you are willing to make the effort. With that being said, if you find your practice struggling to incorporate videos into your overall content marketing strategy, please feel free to reach out to us. We have multiple video packages we can recommend which will help you gain all the benefits of video without breaking the bank.
