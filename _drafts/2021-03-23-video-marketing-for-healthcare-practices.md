@@ -5,9 +5,8 @@ post_author: Christopher Ellis
 tags:
 - SEO
 - Content-Marketing
-post_intro: To help your practice start incorporating videos into your practice marketing,
-  we have outlined a few suggestions for the types of video content you can consider
-  making.
+post_intro: Is your practice benefiting from one of the most underutilized marketing
+  strategies in healthcare?
 post_image: "/uploads/website-_-blog-post-image.png"
 post_highlight: To help your practice start incorporating videos into your practice
   marketing, we have outlined a few suggestions for the types of video content you
