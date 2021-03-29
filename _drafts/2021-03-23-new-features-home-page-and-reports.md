@@ -5,15 +5,15 @@ post_author: Josh Feinberg
 tags:
 - Product-Updates
 post_intro: Today we are excited to announce the new Home Page and Reporting enhancements
-  are now officially live and available for all DoctorLogic customers.
-post_image: ''
+  are officially live and available for all DoctorLogic customers.
+post_image: "/uploads/website-_-blog-post-image-tinyjpeg.png"
 post_highlight: Today we are excited to announce the new Home Page and Reporting enhancements
   are now officially live and available for all DoctorLogic customers.
 post_type:
 - blog
 product:
-- success insights
 - lead generator
+- success insights
 - website management
 title: 2021-03-23-new-features-home-page-and-reports
 
