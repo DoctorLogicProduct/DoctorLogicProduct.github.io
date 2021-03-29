@@ -1,6 +1,6 @@
 ---
 post_title: Video Marketing for Healthcare Practices
-date: 2021-03-23 13:00:00 +0000
+date: 2021-03-23T13:00:00.000+00:00
 post_author: Christopher Ellis
 tags:
 - SEO
@@ -41,6 +41,10 @@ You already know that as a healthcare professional, the general public trusts yo
 
 This is not too dissimilar to the “About the Team” video we discussed earlier as it also grants your current and prospective patients alike the opportunity to learn a little about your team. And in this case, you might find yourself having a little more fun with the process! There are many doctors who have really embraced the opportunity to showcase their practice’s culture through video, and they’re often very entertaining, fun, and memorable. Whether you and your staff are celebrating a birthday, holiday, or just the end of a long week - you can use these videos to help capture the culture of your practice and make its viewers feel like they know you a little better.
 
+**Publishing Your Videos**
+
 Once you recorded your first video, the next step is to show it off to the world. One of the easiest, and most effective, ways to do this is by uploading your video to YouTube. Did you know that YouTube is the [2nd largest search engine in the world](https://www.forbes.com/sites/forbesagencycouncil/2017/05/15/are-you-maximizing-the-use-of-video-in-your-content-marketing-strategy/?sh=2b4e676f3584) (after Google)? And since Google purchased YouTube in 2006, embedding YouTube videos on your site is an extremely effective way to improve your search engine rank as Google algorithms love to see this fresh, new content living on your site. That’s why at DoctorLogic, we make it super simple for our clients to add YouTube videos to their site and take full advantage of all the SEO benefits these videos have to offer.
+
+**In Conclusion**
 
 We’re confident that once you have made your first few videos to showcase on your website, you will see the impact on the positive exposure it has on your practice and you will want to make more. Videos are such a great way to engage your website visitors with meaningful content, and they can be great fun to make if you are willing to make the effort. With that being said, if you find your practice struggling to incorporate videos into your overall content marketing strategy, please feel free to reach out to us. We have multiple video packages we can recommend which will help you gain all the benefits of video without breaking the bank.
