@@ -24,15 +24,19 @@ Over the past few weeks, we've been sharing some updates on a big project we've 
 
 Today we're excited to announce that these great new features are now officially live and available for all DoctorLogic customers. If you missed our previous "sneak peek" updates or just need a refresher, keep reading below.
 
+![](/uploads/hp-macbook-tiny-jpeg.jpg)
+
 **Welcome "Home"**
 
 When logging into your DoctorLogic account you'll now see the brand new Home page. It displays a wealth of important information about your website's performance as well as useful tips and recommendations to help your practice grow.
 
 The new Home page provides a 360-degree view of all your top performance metrics (SEO, website traffic, conversions) and also acts as a shortcut into other areas of your account. On each Home page card, you'll find links that will drill down into sections such as Reports, Opportunities, Reviews, Galleries, and Articles. [Log in now](https://admin.doctorlogic.com/) to check it out!
 
-If you have ideas and suggestions for other things you'd like to see on the Home page we'd love to hear them. [Send us](mailto:success@doctorlogic.com) your feedback so we can keep improving your DoctorLogic experience! 
+If you have ideas and suggestions for other things you'd like to see on the Home page we'd love to hear them. [Send us](mailto:success@doctorlogic.com) your feedback so we can keep improving your DoctorLogic experience!
 
 [Watch a Demo](https://doctorlogic.wistia.com/medias/e5cyalzckx)
+
+![](/uploads/reports-macbook-tiny-jpeg.jpg)
 
 **New Reports**
 
