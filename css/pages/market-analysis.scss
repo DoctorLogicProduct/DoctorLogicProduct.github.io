@@ -4,6 +4,12 @@
 
 @import "mq", "base";
 
+body.market-analysis {
+    #overlay-popup-5d2808166e15451f5f64cbdb {
+        display: none;
+    }
+}
+
 .modal--suspense {
     position: fixed;
     top: 0;
@@ -25,10 +31,6 @@
 
     @include desktop-sm-min {
         padding: 80px 0 0;
-    }
-
-    #overlay-popup-5d2808166e15451f5f64cbdb {
-        display: none;
     }
 
     header {
