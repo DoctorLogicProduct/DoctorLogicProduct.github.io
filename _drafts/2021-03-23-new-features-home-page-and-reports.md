@@ -1,6 +1,6 @@
 ---
 post_title: 'New Features: Home Page & Reports'
-date: 2021-03-23 13:00:00 +0000
+date: 2021-03-23T13:00:00.000+00:00
 post_author: Josh Feinberg
 tags:
 - Product-Updates
@@ -28,9 +28,11 @@ Today we're excited to announce that these great new features are now officially
 
 When logging into your DoctorLogic account you'll now see the brand new Home page. It displays a wealth of important information about your website's performance as well as useful tips and recommendations to help your practice grow.
 
-The new Home page provides a 360-degree view of all your top performance metrics (SEO, website traffic, conversions) and also acts as a shortcut into other areas of your account. On each Home page card, you'll find links that will drill down into sections such as Reports, Opportunities, Reviews, Galleries, and Articles. [Login now](https://admin.doctorlogic.com/) to check it out!
+The new Home page provides a 360-degree view of all your top performance metrics (SEO, website traffic, conversions) and also acts as a shortcut into other areas of your account. On each Home page card, you'll find links that will drill down into sections such as Reports, Opportunities, Reviews, Galleries, and Articles. [Log in now](https://admin.doctorlogic.com/) to check it out!
 
-If you have ideas and suggestions for other things you'd like to see on the Home page we'd love to hear them. [Send us](mailto:success@doctorlogic.com) your feedback so we can keep improving your DoctorLogic experience!
+If you have ideas and suggestions for other things you'd like to see on the Home page we'd love to hear them. [Send us](mailto:success@doctorlogic.com) your feedback so we can keep improving your DoctorLogic experience! 
+
+[Watch a Demo](https://doctorlogic.wistia.com/medias/e5cyalzckx)
 
 **New Reports**
 
@@ -78,11 +80,9 @@ In this report you’ll find:
 * Bounce Rate
 * Pageviews over time
 * Pageviews by page type
-* Popular pages
-  * All
-  * Gallery pages
-  * Procedure pages
-  * Blog pages
+* Popular pages (All, Gallery Pages, Procedure Pages, Blog Pages)
+
+[Watch a Demo](https://doctorlogic.wistia.com/medias/3sptqim0cu)
 
 **What's coming next?**
 
@@ -94,7 +94,5 @@ This major platform release could not have happened without the feedback and inp
 
 We are always interested in adding new customers to our Early Access Program. If you'd like to be more involved in the evolution of the DoctorLogic platform the EAP is a great way to share feedback and get the inside scoop on new product features. Sound interesting? [Join today!](mailto:product@doctorlogic.com)
 
-  
-Sincerely,
-
-The team at DoctorLogic
+Sincerely,  
+**The Team at DoctorLogic**
