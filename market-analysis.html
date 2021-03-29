@@ -27,6 +27,25 @@ market_analysis:
           placeholder: Enter Email
         phone:
           placeholder: Enter Phone Number
+  pdf:
+    fileName: DoctorLogic-Market-Analysis-Report.pdf
+    style:
+      fontFamily: Montserrat
+    header:
+      text: Market Analysis Report
+      image:
+        src: /img/market-analysis/doctorlogic-logo.png
+        style:
+          width: 150px
+    fonts:
+    - family: Montserrat
+      fonts:
+      - src: /fonts/Montserrat-Regular.ttf
+        fontWeight: normal
+      - src: /fonts/Montserrat-SemiBold.ttf
+        fontWeight: bold
+      - src: /fonts/Montserrat-Light.ttf
+        fontWeight: light
   urls:
     # dev
     #demographic: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/demographics?code=cS09aUa1Sj60BIgnDWLjp7cFg5rXJ4uhOnU8ZNmfAEEtYNwkXdQleA==
@@ -65,12 +84,12 @@ market_analysis:
         <span>Print</span>
     </div>
 </template> -->
-<!-- <template id="downloadIcon">
+<template id="downloadIcon">
     <div class="download-icon">
         <img src="img/market-analysis/download.svg" />
         <span>Save</span>
     </div>
-</template> -->
+</template>
 <template id="reportDisclaimer">
     <p>{{ page.disclaimer }}</p>
 </template>
