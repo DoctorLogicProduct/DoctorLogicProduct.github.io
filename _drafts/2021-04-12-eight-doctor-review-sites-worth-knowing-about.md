@@ -28,13 +28,13 @@ If you are new to the world of online doctor reviews or want a quick refresher, 
 
 As the longest-running review platform on this list, it’s no wonder that Vitals has amassed one of a huge amount of providers, facilities, and reviews. Because Vitals.com gets a lot of their information from both public and private sources, it’s very possible that your practice already has a profile on this account, even if you haven’t created it yourself. As such, go to their site and search for your practice name to claim (or update) your practice account and make sure everything they list on your profile is accurate and current.
 
-![](/uploads/vitals-com.png)
+![Screenshot of the Vitals.com home page](/uploads/vitals-com.png "Vitals Screenshot")
 
 **HealthGrades (1998)**
 
 A very strong incumbent in the field of healthcare reviews, HealthGrades.com has been a trusted source of doctor reviews since its launch in 1998. With over 1 million provider profiles and 7 million reviews on their platform, you definitely want to make sure your profile is up to date or you can be missing out on a lot of very valuable impressions from prospective patients.
 
-![](/uploads/healthgrades-com.png)
+![Screenshot of the Healthgrades.com home page](/uploads/healthgrades-com.png "HealthGrades Screenshot")
 
 **Facebook (2003)**
 
@@ -48,19 +48,19 @@ Did you know that one of the founders of Yelp, Jeremy Stoppleman, came up with t
 
 Also founded in 2004, RateMDS was created by the same person who founded the hugely popular review sites; “RateMyProfessors.com” and “RateMyTeachers.com”. In addition to the doctor profiles and reviews found on every site listed in this post, RateMDs also has a few extra fields of interest including “provider punctuality”, “cleanliness”, and “overall value”. If you haven’t already claimed your profile on RateMDs.com, you can [do so here](https://www.ratemds.com/plans/doctor/).
 
-![](/uploads/ratemds-com.png)
+![Screenshot of the RateMDs.com home page](/uploads/ratemds-com.png "RateMds Screenshot")
 
 **ZocDoc (2007)**
 
 Back in 2007, former McKinsey consultant Cyrus Massoumi founded ZocDoc, a site designed to help patients schedule their doctor appointments. Though Cyrus might have been regularly [kicked out of Doctors’ offices](https://www.inc.com/chris-beier-and-daniel-wolfman/zocdoc-cyrus-massoumi-convinced-doctors-to-sign-up.html) back in the early days of the company, ZocDoc has certainly proven itself as a valuable resource for providers today with its recent announcement of a [$150M raise](https://www.mobihealthnews.com/news/zocdoc-lands-150m-looks-telehealth-future) as it looks to expand into telehealth. The fast-growing nature of this NYC-based startup has resulted in a website that attracts a lot of prospective patients looking for a doctor, and subsequently, a lot of doctor reviews as well. If you have ever used ZocDoc in the past, or plan to in the future, make sure you are asking any patients you get through their platform to leave a review, as it significantly increases the likeliness of you attracting more patients through their appointment scheduling software as well.
 
-![](/uploads/zocdoc-com.png)
+![Screenshot of the Zocdoc.com home page](/uploads/zocdoc-com.png "zocdoc screenshot")
 
 **Doctor.com (2012)**
 
 As healthcare providers, I’m sure you are familiar with Press Ganey scores, and their Patient Satisfaction Scores they regularly report on, but did you know that in October last year they [acquired Doctor.com](https://www.mobihealthnews.com/news/press-ganey-acquires-doctorcom-secures-majority-stake-binary-fountain)? As mentioned in their press release, they are “bringing both companies' online reputation management tools in-house to combine patient feedback and online acquisition into a single digital platform.” Much more than a review site, Doctor.com offers an extensive amount of resources, training, certifications, and insurance information for healthcare providers and patients alike. With all this extensive, and valuable content on their site, it’s no wonder they attract a staggering _30 million_ visitors each month! So it should come as no surprise that this is a place where you should strongly consider listing your practice as you may have a ton of high-quality traffic from prospective patients as a result.
 
-![](/uploads/doctor-com.png)
+![screenshot of the doctor.com home page](/uploads/doctor-com.png "doctor.com screenshot")
 
 **GoogleMyBusiness (2014)**
 
