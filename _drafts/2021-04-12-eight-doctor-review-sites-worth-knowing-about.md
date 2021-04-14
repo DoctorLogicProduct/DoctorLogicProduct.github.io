@@ -1,50 +1,68 @@
 ---
-post_title: Video Marketing for Healthcare Practices
-date: 2021-03-23T13:00:00.000+00:00
+post_title: Eight Doctor Review Sites Worth Knowing About
+date: 2021-04-13 13:00:00 +0000
 post_author: Christopher Ellis
 tags:
 - SEO
-- Content-Marketing
-post_intro: Is your practice benefiting from one of the most underutilized marketing
-  strategies in healthcare?
-post_image: "/uploads/website-_-blog-post-image.png"
-post_highlight: In an effort to help your practice incorporate video in your practice
-  marketing strategy, we have outlined a few recommendations to help get you started.
+- Reputation-Management
+- Website
+post_intro: If you are new to the world of online doctor reviews or want a quick refresher,
+  here’s a list of some of the most popular healthcare review platforms on the internet.
+post_image: "/uploads/website-_-blog-post-image-1.png"
+post_highlight: ''
 post_type:
 - blog
 product:
-- lead generator
-- growth accelerators
-- content multiplier
+- social reputation
 title: 2021-04-12-Eight-Doctor-Review-Sites-Worth-Knowing-About
 
 ---
-When you think about “content marketing”, what specifically comes to mind? Chances are you are thinking about blogs, infographics, or articles. Perhaps you are thinking about social media and online posts? While those are all extremely useful and important weapons in your “Content Marketing” arsenal, there is still one glaring omission you should be considering; videos.
+Finding new patients can be hard, but one of the most effective ways to acquire new patients is by establishing trust with prospective patients. If you’re struggling for ways to establish trust with new patients, here’s a helpful hint; reviews, reviews, reviews!
 
-Video Marketing is arguably one of the most underutilized strategies in most healthcare practices; though it really is a shame given the significant benefits videos provide. For example, studies have shown that 74% of users who watched an explainer video for a product or service resulted in a purchase. Furthermore, 80% of marketers noted an increased dwell time on their website due to videos and on social media, videos tend to generate 1,200% more shares than text & image content combined. These are just a few of the incredible stats all reiterating the undeniable positive impact video has in marketing. But how do healthcare providers successfully utilize video in their marketing strategy you might ask? It may actually be easier than you think!
+If you thought patients rarely reference online reviews before booking an appointment with a new doctor, think again! There are numerous surveys and studies referencing the importance of online reviews in the patient selection process, so you need to take online reviews seriously. Acquiring a steady stream of positive reviews is not only helpful for establishing trust with prospective patients but if leveraged properly, it can also work wonders for your website’s SEO.
 
-It’s easy to assume that creating videos requires a Hollywood budget with professional lights, cameras, and effects, but that’s just not true. While a little production value can certainly go a long way to helping your videos look more professional, you can still create captivating footage with your smartphone. Award-winning director Steven Soderbergh proves this very point by filming a feature-length film on an iPhone which you can [watch on Netflix](https://www.theringer.com/movies/2019/2/7/18214924/steven-soderbergh-high-flying-bird-iphone-tangerine-unsane-netflix). So to help start your journey of incorporating videos into your practice marketing, we have outlined a few suggestions for the types of video content you can consider making.
+If you are new to the world of online doctor reviews or want a quick refresher, look no further. Here’s a list of some of the most popular healthcare review platforms on the internet.
 
-**“About the Team” Videos**
+**Vitals (1994)**
 
-This is perhaps the simplest place to start. Record a short video introducing your team to visitors of your website. This goes a long way in familiarizing any potential new patients with your practice and really helps build trust in the process. Just find a nice backdrop like your office or waiting room and start introducing yourself genuinely like you would if you were meeting in person. This video does not need to be long or even scripted, as long as you keep your introduction warm, inviting, and professional you have hit the mark.
+As the longest-running review platform on this list, it’s no wonder that Vitals has amassed one of a huge amount of providers, facilities, and reviews. Because Vitals.com gets a lot of their information from both public and private sources, it’s very possible that your practice already has a profile on this account, even if you haven’t created it yourself. As such, go to their site and search for your practice name to claim (or update) your practice account and make sure everything they list on your profile is accurate and current.
 
-**Treatment Videos**
+**HealthGrades (1998)**
 
-When a patient views your website, specifically the ‘services’ section of your site, they are often looking for answers. They want to learn a variety of things such as the cost, will the treatment cause pain, or what the recovery time looks like. They are curious to learn these things and though you may do a fine job explaining a lot of this in text form through your blogs or website, a video is another simple and effective way to help share this information in an easily digestible way. This may be something you consider for some of your more common treatments or procedures, especially if you are routinely getting these types of questions from your patients. These videos can also be shown to patients who are seeking treatment, and possibly help improve case acceptance.
+A very strong incumbent in the field of healthcare reviews, HealthGrades.com has been a trusted source of doctor reviews since its launch in 1998. With over 1 million provider profiles and 7 million reviews on their platform, you definitely want to make sure your profile is up to date or you can be missing out on a lot of very valuable impressions from prospective patients.
 
-**Educational Videos**
+  
+**Facebook (2003)**
 
-You already know that as a healthcare professional, the general public trusts you as a reliable source of information pertaining to their overall health & wellness. As such, feel free to use your website or social media as a platform to educate the public on a variety of healthcare-related topics you know they are curious about. Sharing useful information about current events in healthcare, new studies or treatments being offered, or combatting common misconceptions in medicine are all great ways to help your patients learn something new while also building trust as a healthcare professional and thought leader in the process.
+If you saw the 2010 film, The Social Network, you know this hugely popular website was started by Mark Zuckerberg, a computer science student attending Harvard in the early 2000s. What you may not know, however, is that this social network offers much more than photos of friends and family, as its Business Profile pages are extremely beneficial to providers looking to attract new patients. With over 2.7 BILLION (with a “b”) monthly active users, Facebook has the attention of a whole lot of patients. Since Facebook Pages are free to make, it’s really a no-brainer to have a page for your practice set up and current with contact information, photos, and reviews. In addition to being a valuable source for patient reviews, Facebook Pages can be a great place to communicate with your new and prospective patients on a regular basis with a strong social media strategy. If your social strategy needs help, feel free to reach out as we have a [social media product](https://doctorlogic.com/growth-accelerators/medical-social-media-content) that can really help you utilize this extremely effective channel.
 
-**Culture Videos**
+  
+**Yelp (2004)**
 
-This is not too dissimilar to the “About the Team” video we discussed earlier as it also grants your current and prospective patients alike the opportunity to learn a little about your team. And in this case, you might find yourself having a little more fun with the process! There are many doctors who have really embraced the opportunity to showcase their practice’s culture through video, and they’re often very entertaining, fun, and memorable. Whether you and your staff are celebrating a birthday, holiday, or just the end of a long week - you can use these videos to help capture the culture of your practice and make its viewers feel like they know you a little better.
+Did you know that one of the founders of Yelp, Jeremy Stoppleman, came up with the initial idea for their review site after coming down with the flu and noticing how difficult it was to find an online recommendation for a doctor? Not only is Yelp one of the most well-known review sites on the internet, but it’s jam-packed with reviews for healthcare professionals across all disciplines. While the significance of Yelp is stronger in some markets more than others, it’s still a good idea to keep an up-to-date profile on their platform nonetheless.
 
-**Publishing Your Videos**
+  
+**RateMDs (2004)**
 
-Once you recorded your first video, the next step is to show it off to the world. One of the easiest, and most effective, ways to do this is by uploading your video to YouTube. Did you know that YouTube is the [2nd largest search engine in the world](https://www.forbes.com/sites/forbesagencycouncil/2017/05/15/are-you-maximizing-the-use-of-video-in-your-content-marketing-strategy/?sh=2b4e676f3584) (after Google)? And since Google purchased YouTube in 2006, embedding YouTube videos on your site is an extremely effective way to improve your search engine rank as Google algorithms love to see this fresh, new content living on your site. That’s why at DoctorLogic, we make it super simple for our clients to add YouTube videos to their site and take full advantage of all the SEO benefits these videos have to offer.
+Also founded in 2004, RateMDS was created by the same person who founded the hugely popular review sites; “RateMyProfessors.com” and “RateMyTeachers.com”. In addition to the doctor profiles and reviews found on every site listed in this post, RateMDs also has a few extra fields of interest including “provider punctuality”, “cleanliness”, and “overall value”. If you haven’t already claimed your profile on RateMDs.com, you can [do so here](https://www.ratemds.com/plans/doctor/).
 
-**In Conclusion**
+**ZocDoc (2007)**
 
-We’re confident that once you have made your first few videos to showcase on your website, you will see the impact on the positive exposure it has on your practice and you will want to make more. Videos are such a great way to engage your website visitors with meaningful content, and they can be great fun to make if you are willing to make the effort. With that being said, if you find your practice struggling to incorporate videos into your overall content marketing strategy, please feel free to reach out to us. We have multiple video packages we can recommend which will help you gain all the benefits of video without breaking the bank.
+Back in 2007, former McKinsey consultant Cyrus Massoumi founded ZocDoc, a site designed to help patients schedule their doctor appointments. Though Cyrus might have been regularly [kicked out of Doctors’ offices](https://www.inc.com/chris-beier-and-daniel-wolfman/zocdoc-cyrus-massoumi-convinced-doctors-to-sign-up.html) back in the early days of the company, ZocDoc has certainly proven itself as a valuable resource for providers today with its recent announcement of a [$150M raise](https://www.mobihealthnews.com/news/zocdoc-lands-150m-looks-telehealth-future) as it looks to expand into telehealth. The fast-growing nature of this NYC-based startup has resulted in a website that attracts a lot of prospective patients looking for a doctor, and subsequently, a lot of doctor reviews as well. If you have ever used ZocDoc in the past, or plan to in the future, make sure you are asking any patients you get through their platform to leave a review, as it significantly increases the likeliness of you attracting more patients through their appointment scheduling software as well.
+
+  
+**Doctor.com (2012)**
+
+As healthcare providers, I’m sure you are familiar with Press Ganey scores, and their Patient Satisfaction Scores they regularly report on, but did you know that in October last year they [acquired Doctor.com](https://www.mobihealthnews.com/news/press-ganey-acquires-doctorcom-secures-majority-stake-binary-fountain)? As mentioned in their press release, they are “bringing both companies' online reputation management tools in-house to combine patient feedback and online acquisition into a single digital platform.” Much more than a review site, Doctor.com offers an extensive amount of resources, training, certifications, and insurance information for healthcare providers and patients alike. With all this extensive, and valuable content on their site, it’s no wonder they attract a staggering _30 million_ visitors each month! So it should come as no surprise that this is a place where you should strongly consider listing your practice as you may have a ton of high-quality traffic from prospective patients as a result.
+
+  
+**GoogleMyBusiness (2014)**
+
+Last, but not least - GoogleMyBusinesses is the ‘newest’ review site on this list but do not underestimate its importance. Because your GoogleMyBusiness (GMB) profile shows up in Google Search Results, it is easily one of the most important listings to make sure you have up-to-date and accurate. Not only does your GMB profile showcase reviews like all the sites listed before, but it also highlights your practices’ address, operating hours, and phone number directly from the search results making it an extremely effective way for your patients to find your practice. In addition, GoogleMyBusiness has recently experimented with [adding “Accepted Insurances”](https://support.google.com/business/answer/9798848?hl=en) to your GMB profile, so this can also be a great way to help attract patients looking for providers in-network. In all honesty, a strong GMB profile should not be considered a ‘nice to have’ for your practice, but an absolute necessity. With the significant amount of patients searching for healthcare providers through their search platform every single day, you really, really cannot afford to neglect this platform.
+
+  
+**Conclusion**
+
+In conclusion, having an up-to-date presence on the aforementioned review sites is a simple, effective way to start building trust with prospective patients. Though be warned, creating (or claiming) profiles on these sites, is just the first step. Next, you need to grow the number of reviews you receive and showcase them on your website to really gain the most value from this strategy.  
+  
+It’s worth noting, however, that requesting reviews on posting them on your website is particularly easy for DoctorLogic customers. Our software helps your practice request reviews, aggregate them from 20+ different sources (including all those listed in this blog), and indicate which ones you’d like to display on your site. If you are in need of assistance to manage your online reputation, [click here](https://doctorlogic.com/online-reputation-management-doctors) to learn how DoctorLogic can help.
