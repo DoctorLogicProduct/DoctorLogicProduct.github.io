@@ -8,7 +8,7 @@ tags:
 - Website
 post_intro: If you are new to the world of online doctor reviews or want a quick refresher,
   here’s a list of some of the most popular healthcare review platforms on the internet.
-post_image: "/uploads/website-_-blog-post-image-1.png"
+post_image: "/uploads/adobestock_389386325_preview.jpeg"
 post_highlight: ''
 post_type:
 - blog
