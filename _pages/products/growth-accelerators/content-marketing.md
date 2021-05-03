@@ -39,8 +39,8 @@ page_sections:
   class: content-marketing__feature--2
   headline: Custom Content Creation
   text: To execute your plan, our experienced team of healthcare marketers will determine
-    the best mix and execute on high quality, SEO-rich custom blogs as well as introduce
-    several enhancements to your existing core content, image, & video galleries.
+    the best mix and execute on high quality, SEO-rich custom blogs as well as new
+    enhancements to your existing core content, image, & video galleries.
   img: "/img/products/growth-accelerators/content-marketing/content-creation.jpg"
   alt: Custom Content Creation
   img_alignment: Right
