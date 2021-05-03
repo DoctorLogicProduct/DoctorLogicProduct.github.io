@@ -28,8 +28,8 @@ page_sections:
   component_css: feature
   class: content-marketing__feature--1
   headline: Personalized Content Planning
-  text: Before our team starts creating content for your website, we will work closely
-    with you to develop our topic ideation, keyword targeting, and SEO optimization
+  text: Before our team starts creating content for your website, we work closely
+    with you to develop our topic ideation, keyword targeting, & SEO optimization
     strategies based on your specific goals.
   img: "/img/products/growth-accelerators/content-marketing/content-planning.jpg"
   alt: Personalized Content Planning
