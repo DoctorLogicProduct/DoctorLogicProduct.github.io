@@ -30,7 +30,7 @@ page_sections:
   headline: Personalized Content Planning
   text: Before our team starts creating content for your website, we work closely
     with you to develop our topic ideation, keyword targeting, & SEO optimization
-    strategies based on your specific goals.
+    strategies based on your goals.
   img: "/img/products/growth-accelerators/content-marketing/content-planning.jpg"
   alt: Personalized Content Planning
   img_alignment: Left
