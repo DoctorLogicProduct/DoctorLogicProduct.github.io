@@ -66,12 +66,11 @@ page_sections:
   component_css: 
   class: content-marketing__feature--3
   headline: Expert Content Creation Specialists
-  text: SEO best practices are consistently evolving so what worked best yesterday
-    may not be the best strategy for tomorrow. This is precisely why every member
-    of our dedicated, in-house content marketing team possesses a deep knowledge of
-    SEO industry trends and receives regular, recurring training to ensure your existing
-    content (and every new content piece we add) is up-to-date and optimized in accordance
-    to today’s standards.
+  text: SEO best practices are always evolving so what worked best yesterday may not
+    be the best strategy tomorrow. This is why every member of our dedicated, in-house
+    content marketing team possesses a deep knowledge of SEO industry trends and receives
+    regular, recurring training to ensure your existing content (and every new content
+    piece we add) is up-to-date and optimized in accordance to today’s standards.
   img: "/img/products/growth-accelerators/content-marketing/active-reporting.jpg"
   alt: Active Reporting
   img_alignment: Right
