@@ -7,7 +7,7 @@ tags:
 - Content-Marketing
 post_intro: Is your practice benefiting from one of the most underutilized marketing
   strategies in healthcare?
-post_image: "/uploads/website-_-blog-post-image.png"
+post_image: "/uploads/video-marketing-for-practices.png"
 post_highlight: In an effort to help your practice incorporate video in your practice
   marketing strategy, we have outlined a few recommendations to help get you started.
 post_type:
