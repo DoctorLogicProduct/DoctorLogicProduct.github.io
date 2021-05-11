@@ -5,7 +5,7 @@ post_author: Christopher Ellis
 tags:
 - Website
 - Healthcare-Marketing
-post_intro: Make videos in your practice that POP with these simple steps.
+post_intro: Record videos for your practice that stand out with these simple strategies.
 post_image: "/uploads/how-to-make-your-videos-look-more-professional.png"
 post_highlight: 'Though expensive cameras, premium lighting, and green screen backdrops
   are commonly used to create high-end videos, this post will give you some guidance
