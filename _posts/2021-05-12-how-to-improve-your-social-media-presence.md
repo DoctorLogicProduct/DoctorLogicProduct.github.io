@@ -7,8 +7,9 @@ tags:
 - Healthcare-Marketing
 - Reputation-Management
 - SEO
-post_intro: Social Media is great for acquiring leads, building trust, and growing
-  your practice.
+post_intro: A strong social media presence is great for acquiring leads, building
+  trust, and growing your practice. Use these strategies to help improve your social
+  media presence.
 post_image: "/uploads/blog-how-to-improve-your-social-media-presence.png"
 post_highlight: Whether or not you tend to use social media yourself, there really
   is no denying its value as a marketing channel when it comes to acquiring leads,
