@@ -1,5 +1,5 @@
 ---
-post_title: How to Make Your Videos Look More Professional
+post_title: 3 Simple Steps to Make Your Videos More Professional
 date: 2021-05-04 13:00:00 +0000
 post_author: Christopher Ellis
 tags:
