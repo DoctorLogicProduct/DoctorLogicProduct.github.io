@@ -6,7 +6,7 @@ tags:
 - Website
 - Healthcare-Marketing
 post_intro: A brief overview (and some helpful tips) regarding the ADA & Website Accessibility
-post_image: ''
+post_image: "/uploads/website-blog-post-ada-reduced.png"
 post_highlight: It is not possible to ensure compliance when there is no standard.
   Each case will stand on its own merits.
 post_type:
