@@ -1,5 +1,5 @@
 ---
-post_title: How to Improve Your Social Media Presence
+post_title: Let’s Dispel Some Social Media Marketing Myths for Doctors
 date: 2021-07-28 13:00:00 +0000
 post_author: Christopher Ellis
 tags:
@@ -19,8 +19,7 @@ product:
 title: 2021-07-28-lets-dispel-social-media-myths-from-doctors
 
 ---
-**Let’s Dispel Some Social Media Marketing Myths for Doctors  
-**Did you know that as many as 80% of social media users reference social media to research doctors, hospitals, and medical news? With Facebook boasting over one billion users and the average American spending [more and more time on their phones](https://www.forbes.com/sites/petersuciu/2021/06/24/americans-spent-more-than-1300-hours-on-social-media/?sh=4577948d2547), it’s no wonder that social media is an incredibly effective way to grow your practice’s reach. With that being said, there is still plenty of misinformation we hear regularly, so let’s use this opportunity to dispel some of these ‘social media myths’ that are regularly heard from doctors.
+Did you know that as many as 80% of social media users reference social media to research doctors, hospitals, and medical news? With Facebook boasting over one billion users and the average American spending [more and more time on their phones](https://www.forbes.com/sites/petersuciu/2021/06/24/americans-spent-more-than-1300-hours-on-social-media/?sh=4577948d2547), it’s no wonder that social media is an incredibly effective way to grow your practice’s reach. With that being said, there is still plenty of misinformation we hear regularly, so let’s use this opportunity to dispel some of these ‘social media myths’ that are regularly heard from doctors.
 
 **“I don’t even have a personal social media account so I don’t see the point”  
 **This may sound obvious, but just because _you_ may not use social media does not mean your patients won’t. In fact, [Statista recently published](https://www.statista.com/topics/3196/social-media-usage-in-the-united-states/#:\~:text=With%20over%2070%20percent%20of,increase%20to%20approximately%20243%20million.) that 70% of Americans are holding a social media account! In the early 2000s, there were plenty of doctors who ‘got by’ without a website because that was the standard then, but that’s no longer the case. We are seeing the same trend with social media that we did with websites; where the earliest adopters are seeing explosive growth and others are slow to adopt. The sample sizes are large and the numbers are staggering; social media works. The results are in, and there is no doubt that your practice will benefit significantly from a social media account, so don’t wait to get it started.
