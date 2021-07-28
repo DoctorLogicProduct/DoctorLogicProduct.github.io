@@ -1,6 +1,6 @@
 ---
 layout: components
-title: Premium Link-Building Services for your Website | DoctorLogic
+title: Premium Link-Building Services for Doctors | DoctorLogic
 description: Trustworthy backlinks are hard to come by, so we help facilitate the
   process.
 meta_image: "/img/meta/growth-accelerators.jpg"
