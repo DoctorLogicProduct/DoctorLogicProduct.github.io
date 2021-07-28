@@ -9,7 +9,7 @@ tags:
 - SEO
 post_intro: If the importance of social media is widely known, why do so many doctors
   underutilize the channel?
-post_image: ''
+post_image: "/uploads/blog-let-s-dispel-social-media-myths-from-doctors.png"
 post_highlight: If the importance of social media is widely known, why do so many
   doctors underutilize the channel?
 post_type:
