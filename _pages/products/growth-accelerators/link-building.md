@@ -1,7 +1,7 @@
 ---
 layout: components
-title: Live Chat Software for Doctors & Medical Staff | DoctorLogic
-description: "Treat website visitors exactly like you would an office visit with a helpful professional concierge. Engage 24/7, convert more visitors, and increase ROI with DoctorLogic."
+title: Premium Link-Building Services for Doctors | DoctorLogic
+description: "Are you looking for new ways to drive more traffic to your site? Improve your website's visibility and SEO by incorporating a premium link-building strategy with DoctorLogic."
 meta_image: "/img/meta/growth-accelerators.jpg"
 nofollow: false
 page_class:
