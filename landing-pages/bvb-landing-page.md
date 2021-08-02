@@ -20,7 +20,7 @@ page_sections:
   button:
   - btn-label: Get a Demo
     btn-link: "/get-a-demo.html"
-  img: "/uploads/mix-3up-1.png"
+  img: "/uploads/doctorlogic-bvb-hero-image.png"
   alt: Plastic surgery websites powered by DoctorLogic
   btn:
   - btn-link: "/get-demo-ppc"
