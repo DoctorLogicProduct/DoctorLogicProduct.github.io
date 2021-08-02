@@ -1,6 +1,6 @@
 ---
 post_title: Let’s Dispel Some Social Media Marketing Myths for Doctors
-date: 2021-07-28 13:00:00 +0000
+date: 2021-07-28T13:00:00.000+00:00
 post_author: Christopher Ellis
 tags:
 - Website
@@ -36,7 +36,7 @@ Growing a social media audience takes time, there’s no denying that, but there
 **“I’ll just buy followers to grow my account quicker.”**  
 This myth has been busted time and time again. As enticing as it may be to get a ‘head start’ by purchasing followers for your social accounts, please know that it completely disrupts your reporting, wreaks havoc on your engagement, and ultimately does the complete opposite of what your social media account is supposed to do in the first place; build trust. Purchased followers contain mostly bots, which are easily recognizable and jeopardize your credibility. Therefore, ditching the ‘quick growth’ method and building a social media platform with consistency and strategy is still the most effective method of growth.
 
-**“Social media marketing marketing is too expensive.”**  
+**“Social media marketing is too expensive.”**  
 We hear this one a lot but it warrants a little more discussion to better understand what is really going on at play. The first thing worth noting is that social media marketing, in most cases, can be 100% free. Posting images or videos online does not actually cost anything, so it _can_ be done with little to no cost at all. When doctors assume that social media is expensive, they are often thinking of the social media agencies that charge an arm and a leg, or the social media advertising that can end up costing quite a bit when not done strategically. If you want to leverage your social media channel to acquire new patients _today_, your best bet is to ‘pay to play’ via social ads. If you are hoping to build up your online presence to help patients connect with your practice while simultaneously building engaging content that can help your site rank for relevant keywords, organic social is the way to go. I know it may sound cliche, but it really does help to think of your social media as a long-term investment, with each new post paying dividends down the road.
 
 **In Conclusion**
