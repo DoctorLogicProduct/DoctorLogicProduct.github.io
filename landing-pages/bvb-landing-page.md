@@ -1,14 +1,14 @@
 ---
 layout: components
 title: BvB Landing Page
-permalink: website-design-medical-practice-get-started
+permalink: bvb
 page_class:
 - class: lp
 gsap: false
 custom_js: ''
 description: DoctorLogic's proprietary software & proven strategy gets you found by
   more patients and ranking at the top of Google.
-meta_image: "/uploads/mix-3up.png"
+meta_image: "/uploads/doctorlogic-bvb-hero-image.png"
 page_sections:
 - template: hero-with-image
   component: hero-1
@@ -137,6 +137,10 @@ page_sections:
   img: []
   link: []
   wistia-link: []
+alt-header: false
+marketing_header: true
+marketing_footer: true
+tracking-number: ''
 published: false
 
 ---
