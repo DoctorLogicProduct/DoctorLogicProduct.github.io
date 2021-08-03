@@ -111,19 +111,6 @@ page_sections:
   btn: []
   link: []
   wistia-link: []
-- template: case-study-feature
-  component: case-studies-feature
-  component_css: case-studies-feature
-  class: section-gray
-  headline: Happy Providers | Powered by DoctorLogic
-  text: ''
-  per-row-count: '3'
-  practices:
-  - name: Morales Plastic Surgery
-  - name: Texas Center For Cosmetic Dentistry
-  - name: TruDerm
-  btn: []
-  wistia-link: []
 - template: text-component
   component: text-component
   component_css: text-component
@@ -141,6 +128,5 @@ alt-header: false
 marketing_header: true
 marketing_footer: true
 tracking-number: ''
-published: false
 
 ---
