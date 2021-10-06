@@ -8,7 +8,7 @@ permalink: "/get-a-demo"
 page_class:
 - class: form-page
 headline: Get A Demo
-text: See firsthand how DoctorLogic can help you optimize your practice’s website, increase testimonials and online reviews, and increase your online presence with relevant content.
+text: See firsthand how DoctorLogic can help you optimize your practice’s website, increase testimonials and online reviews, and increase your online presence with relevant content." to "Schedule a quick online demo to see why DoctorLogic is the '#1 Patient Acquisition Platform' loved by thousands of doctors and millions of patients. Starting at $495.
 form_id: c6fa46ad-9d9d-4595-9925-d3b500a2d992
 campaign_id: 7011U000000ZNYgQAO
 img_src: "/img/form-pages/imac-vip.png"
