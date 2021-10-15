@@ -745,17 +745,15 @@ body.market-analysis {
                 padding: 0 30px 0 0;
 
                 @include tablet-min {
-                    padding: 20px 20px 0;  
+                    padding: 20px 20px 0;
+                    width: 30%;
+                    min-width: 150px;  
                 }
 
                 @include desktop-sm-min {
                     &:first-of-type {
                         margin-left: auto;
                     }
-                }
-
-                @include desktop-min {
-                    padding: 20px 40px 0;
                 }
 
                 
