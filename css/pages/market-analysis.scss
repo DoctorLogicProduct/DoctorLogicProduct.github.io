@@ -65,7 +65,7 @@ body.market-analysis {
     padding: 20px 0;
 
     &--page-1 {
-        background: $websites;
+        background: $color-2;
     }
 
     &--page-2 {
@@ -88,7 +88,7 @@ body.market-analysis {
             font-weight: 700;
             text-transform: uppercase;
             text-align: center;
-            color: $color-2;
+            color: $color-1;
             max-width: 900px;
             margin: 20px auto;
             font-size: 2rem;
@@ -136,8 +136,8 @@ body.market-analysis {
                 width: 100%;
                 height: 100%;
                 transform: translate(-50%, -50%);
-                background: url('/img/market-analysis/pulse.svg') center center/contain no-repeat;
-                opacity: .4;
+                background: url('/img/market-analysis/pulse-2.svg') center center/contain no-repeat;
+                opacity: .2;
 
                 @include phone-wide-min {
                     width: 80%;
@@ -170,7 +170,7 @@ body.market-analysis {
             flex-direction: column;
             justify-content: center;
             align-items: stretch;
-            color: $color-2;
+            color: $color-1;
             font-weight: 700;
             text-transform: uppercase;
 
@@ -982,5 +982,161 @@ body.market-analysis {
             }
             
         }
+    }
+}
+
+// Page Content
+
+.form__below {
+    grid-column: auto / span 24;
+}
+
+.content {
+    background: $color-2;
+    width: 100%;
+    padding: 60px 20px 0;
+    @include grid;
+}
+
+.ma-link {
+    background: $websites;
+    padding: 10px 20px;
+    color: $color-2;
+}
+
+.content-1 {
+
+    &__text {
+        grid-column: auto / span 24;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        order: 2;
+
+        @include tablet-wide-min {
+          grid-column: auto / span 10;
+          padding: 40px;
+          order: 1;
+        }
+
+        h2 {
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+        
+    }
+
+    &__image {
+        grid-column: auto / span 24;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        order: 1;
+        padding: 20px;
+
+        @include tablet-wide-min {
+          grid-column: auto / span 12;
+          order: 2;
+          padding: 0;
+        }
+
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+            max-width: 600px;
+            margin: 0 auto;
+            box-shadow: 0px 0px 16px 4px rgba(0,0,0,0.32);
+        }
+        
+    }
+}
+
+.content-2 {
+
+    &__text {
+        grid-column: auto / span 24;
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        order: 2;
+
+        @include tablet-wide-min {
+          grid-column: auto / span 10;
+          padding: 40px;
+        }
+
+        h2 {
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+        
+    }
+
+    &__image {
+        grid-column: auto / span 24;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        order: 1;
+        padding: 0 0 20px;
+        
+        @include tablet-wide-min {
+          grid-column: auto / span 12;
+          padding: 0;
+        }
+
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+            max-width: 600px;
+            margin: 0 auto;
+            box-shadow: 0px 0px 16px 4px rgba(0,0,0,0.32);
+        }
+        
+    }
+
+    &__cta {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+
+        .btn {
+            min-width: 230px;
+        }
+
+        img {
+            padding-left: 20px;
+        }
+    }
+}
+
+.aacd-analysis {
+
+    .form__above {
+
+        &::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 20px;
+            width: 40%;
+            height: auto;
+            min-height: 75px;
+            background: url('/img/partnerships/aacd-logo.svg') center center/contain no-repeat;
+
+            @include phone-wide-min {
+                min-height: 200px;
+            }
+            
+        }
+
     }
 }
