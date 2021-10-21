@@ -644,39 +644,32 @@ body.market-analysis {
                 padding: 0;
 
                 .input--select {
-                    flex: 0 0 100%;
                     margin: 0 0 10px;
+                    grid-column: auto / span 24;
 
                     @include tablet-min {
                         padding: 0 40px 0 0;
+                        grid-column: auto / span 14;
                     }
                     
                     @include desktop-sm-min {
-                        flex: 0 0 60%;
                         margin: 0;
-                    }
-
-                    @include desktop-min {
-                        flex: 0 0 70%;
                     }
                 }
 
                 .input--text {
-                    flex: 0 0 100%;
                     margin: 0 0 10px;
+                    grid-column: auto / span 24;
 
                     @include tablet-min {
                         padding: 0 40px 0 0;
+                        grid-column: auto / span 10;
                     }
 
                     @include desktop-sm-min {
-                        flex: 0 0 40%;
                         margin: 0;
                     }
 
-                    @include desktop-min {
-                        flex: 0 0 30%;
-                    }
                 }
 
             }
@@ -700,9 +693,14 @@ body.market-analysis {
                 font-weight: 700;
                 color: $websites;
                 text-align: left;
+                height: 50px;
+                display: flex;
+                align-items: center;
+                justify-content: flex-start;
 
                 @include desktop-sm-min {
                     text-align: right;
+                    justify-content: flex-end;
                 }
             }
 
@@ -723,9 +721,7 @@ body.market-analysis {
 
             &__container {
                 grid-column: auto / span 24;
-                display: flex;
-                flex-wrap: wrap;
-                align-items: center;
+                @include grid;
 
                 @include desktop-sm-min {
                     grid-column: auto / span 12;
@@ -734,20 +730,17 @@ body.market-analysis {
                 &--totals {
                     grid-column: unset;
                     width: 100%;
-
-                    @include desktop-sm-min {
-                        padding-right: 40px;
-                    }
                 }
             }
 
             &__field {
-                padding: 0 30px 0 0;
+                grid-column: auto / span 8;
+                padding: 5px 0 0;
 
                 @include tablet-min {
-                    padding: 20px 20px 0;
                     width: 30%;
-                    min-width: 150px;  
+                    min-width: 150px;
+                    grid-column: auto / span 7;  
                 }
 
                 @include desktop-sm-min {
@@ -756,27 +749,28 @@ body.market-analysis {
                     }
                 }
 
-                
-
             }
 
             &__button--remove {
                 background: $color-7;
-                width: auto;
                 color: $color-1;
                 border-radius: 0;
                 padding: 0;
                 position: relative;
-                width: 40px;
+                width: 100%;
                 height: 40px;
-                flex: 0 0 100%;
                 outline: none;
                 cursor: pointer !important;
+                grid-column: auto / span 24;
 
-                @include desktop-sm-min {
-                    flex: 0 0 auto;
-                    background: transparent;
+                @include tablet-min {
+                  grid-column: auto / span 3;
+                  margin-left: auto;
+                  width: 40px;
+                  height: 40px;
+                  background: transparent;
                 }
+                
 
                 &::after {
                     content: '';
