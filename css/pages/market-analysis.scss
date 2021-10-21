@@ -989,19 +989,19 @@ body.market-analysis {
 
 .form__below {
     grid-column: auto / span 24;
-}
 
-.content {
-    background: $color-2;
-    width: 100%;
-    padding: 60px 20px 0;
-    @include grid;
-}
-
-.ma-link {
-    background: $websites;
-    padding: 10px 20px;
-    color: $color-2;
+    .content {
+        background: $color-2;
+        width: 100%;
+        padding: 60px 20px 0;
+        @include grid;
+    }
+    
+    .ma-link {
+        background: $websites;
+        padding: 10px 20px;
+        color: $color-2;
+    }
 }
 
 .content-1 {
