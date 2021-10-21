@@ -1107,13 +1107,18 @@ body.market-analysis {
         display: flex;
         align-items: center;
         justify-content: flex-start;
+        flex-wrap: wrap;
+        width: 100%;
 
         .btn {
-            min-width: 230px;
+            min-width: 230px;            
         }
 
         img {
-            padding-left: 20px;
+            padding: 20px;
+            width: 100%;
+            height: auto;
+            flex: 0 0 50%;
         }
     }
 }
