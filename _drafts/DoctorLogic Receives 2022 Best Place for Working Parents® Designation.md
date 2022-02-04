@@ -12,7 +12,7 @@ post_intro: DoctorLogic, an all-in-one Website Marketing Platform created exclus
   flexible work schedules, work from home options, and a healthy work/life balance,
   DoctorLogic is at the forefront of innovative work policies that support employees,
   especially working parents.
-post_image: ''
+post_image: "/uploads/shutterstock_201162440-1.jpg"
 post_highlight: DoctorLogic, an all-in-one Website Marketing Platform created exclusively
   for healthcare providers, recently received the honored designation of a 2022 Best
   Place for Working Parents award.
