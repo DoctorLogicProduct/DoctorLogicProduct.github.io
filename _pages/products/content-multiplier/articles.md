@@ -88,6 +88,7 @@ page_sections:
   text: It's easy to get started. Schedule a personalized demo today.
   btn:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 
 ---

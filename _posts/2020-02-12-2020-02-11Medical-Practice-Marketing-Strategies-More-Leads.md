@@ -116,4 +116,4 @@ It's important to keep your brand at the forefront of people’s minds. That’s
 
 At DoctorLogic, our goal is to simplify the digital marketing process for providers and their staff and deliver a better way to attract and retain patients, while providing insights on what’s actually working.
 
-Find out how DoctorLogic can help change your practice for good. [**Schedule a demo** ](https://doctorlogic.com/get-a-demo.html)today!
+Find out how DoctorLogic can help change your practice for good. [**Schedule a demo** ](https://growth.doctorlogic.com/get-a-demo)today!

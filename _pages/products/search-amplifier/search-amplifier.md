@@ -82,5 +82,6 @@ page_sections:
   text: "Search Amplifier champions your entire brand through best-in-class medical SEO strategies. From local and long-tail keyword targeting, local listing management, and structured data, DoctorLogic uses over 15 years experience to deliver visitors that convert into patients."
   btn:
   - btn-label: "Get A Demo"
-    btn-link: "/get-a-demo"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 ---

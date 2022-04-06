@@ -19,7 +19,7 @@ page_sections:
     success. Our priority is you.
   button:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo.html"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
   img: "/uploads/cosmetic-3up-2.png"
   alt: Cosmetic surgery websites powered by DoctorLogic
   btn:

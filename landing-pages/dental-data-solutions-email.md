@@ -150,7 +150,7 @@ page_sections:
     Experience the DoctorLogic Difference.
   btn:
   - btn-label: Let's Talk Goals
-    btn-link: https://doctorlogic.com/get-a-demo.html
+    btn-link: https://growth.doctorlogic.com/get-a-demo
   class: email-blast__text-component
   link: []
   img: []

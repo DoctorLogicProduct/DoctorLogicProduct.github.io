@@ -4,7 +4,7 @@ title: Get a Free Website Analysis
 description: "We'll provide you insight on how you compare in your market and what areas you need to address to stand out online."
 meta_image: "/img/meta/dl.jpg"
 nofollow: true
-permalink: "/website-analysis"
+permalink: "https://growth.doctorlogic.com/get-a-demo"
 page_class:
 - class: form-page
 headline: Get Your Free Analysis

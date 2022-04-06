@@ -19,7 +19,7 @@ page_sections:
     learn best practices, and discover ways you can succeed with your SEO strategy. '
   button:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo.html"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
   img: "/uploads/1278x811_v2.png"
   alt: SEO for Doctors
   btn:

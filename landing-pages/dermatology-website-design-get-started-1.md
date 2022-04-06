@@ -18,7 +18,7 @@ page_sections:
     patients. '
   button:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo.html"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
   img: "/uploads/dental-3up-1.png"
   alt: Dental websites powered by DoctorLogic
   btn:

@@ -93,5 +93,6 @@ page_sections:
   text: "Find out if your website is at risk of sharing your patients' private health information (PHI)."
   btn:
   - btn-label: "Get Free Analysis"
-    btn-link: "/website-analysis"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 ---

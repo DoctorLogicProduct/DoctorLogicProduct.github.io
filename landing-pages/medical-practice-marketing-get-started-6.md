@@ -19,7 +19,7 @@ page_sections:
     then organize and instantly display those reviews from around the web.
   button:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo.html"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
   img: "/uploads/online-visibility.jpg"
   alt: DoctorLogic Online Reputation Management
   btn:

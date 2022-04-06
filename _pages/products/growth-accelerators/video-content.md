@@ -63,5 +63,6 @@ page_sections:
   text: "It’s easy. Contact us for package and pricing information"
   btn:
   - btn-label: "Let's Get Started"
-    btn-link: "/get-started"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 ---

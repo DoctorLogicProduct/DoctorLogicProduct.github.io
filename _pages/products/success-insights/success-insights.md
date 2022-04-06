@@ -56,5 +56,6 @@ page_sections:
   text: "Have a visual representation of your practice growth in one place. Schedule a personalized demo today."
   btn:
   - btn-label: "Get A Demo"
-    btn-link: "/get-a-demo"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 ---

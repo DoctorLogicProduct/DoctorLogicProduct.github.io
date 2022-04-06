@@ -18,7 +18,7 @@ page_sections:
     designed to help your practice stand out online and convert patients.
   button:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo.html"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
   img: "/uploads/vision-3up-hires.jpg"
   alt: Ophthalmology websites powered by DoctorLogic
   btn:

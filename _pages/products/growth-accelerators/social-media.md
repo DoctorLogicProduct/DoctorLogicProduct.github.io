@@ -56,5 +56,6 @@ page_sections:
   text: "Increase opportunities for new patients and brand awareness with new and existing patients."
   btn:
   - btn-label: "Let's Get Started"
-    btn-link: "/get-started"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 ---

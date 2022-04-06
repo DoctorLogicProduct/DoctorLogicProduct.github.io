@@ -75,7 +75,7 @@ Having a secure website is also best practice for your patients’ security as w
 
 Google also released they removed [80%](https://www.webarxsecurity.com/5-reasons-website-security-important-2018/) of hacked sites from search results. Being blacklisted by Google is a large hurdle to overcome. It’s better to update your website security than to risk being blacklisted.
 
-\*[Find out](https://doctorlogic.com/website-analysis) if your website is at risk of sharing your patients’ private health information.
+\*[Find out](https://growth.doctorlogic.com/get-a-demo) if your website is at risk of sharing your patients’ private health information.
 
 3. **Mobile User Experience Will Determine Your Rankings**
 

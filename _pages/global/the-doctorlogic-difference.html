@@ -47,7 +47,7 @@ success:
 callout:
 - headline: Ready To See The Difference?
   text: It's easy to get started.  Schedule a one-on-one demo with a sales representative today.
-  btn-link: /get-a-demo.html
+  btn-link: https://growth.doctorlogic.com/get-a-demo
   btn-label: Get a Demo
 ---
 
@@ -144,6 +144,6 @@ callout:
 <section class="difference-callout">
   <h3>{{ callout.headline }}</h3>
   <p>{{ callout.text }}</p>
-  <a href="{{ callout.btn-link }}" class="btn">{{ callout.btn-label }}</a>
+  <a href="{{ callout.btn-link }}" class="btn" target="_blank">{{ callout.btn-label }}</a>
 </section>
 {% endfor %}

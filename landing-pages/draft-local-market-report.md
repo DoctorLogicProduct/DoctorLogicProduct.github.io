@@ -18,11 +18,11 @@ page_sections:
     breakdown, competitive landscape, and more.
   button:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo.html"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
   img: "/uploads/group-4.png"
   alt: DoctorLogic Local Market Report
   btn:
-  - btn-link: https://doctorlogic.com/get-a-demo.html
+  - btn-link: https://growth.doctorlogic.com/get-a-demo
     btn-label: Get Report
   text-link: []
   wistia-link: []
@@ -74,7 +74,7 @@ page_sections:
   - headline: Ready to learn the secret to SEO?
   text: ''
   btn:
-  - btn-link: https://doctorlogic.com/get-a-demo.html
+  - btn-link: https://growth.doctorlogic.com/get-a-demo
     btn-label: Try it Out
   class: ''
   img: []

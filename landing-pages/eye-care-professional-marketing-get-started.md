@@ -21,7 +21,7 @@ page_sections:
     medical practice:'
   button:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo.html"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
   img: "/uploads/ec005aa3-f826-4ea6-9f0e-8e9152806289-760x400.jpeg"
   alt: Google Ads for Doctors
   btn: []

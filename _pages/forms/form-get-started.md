@@ -4,7 +4,7 @@ title: Get Started Today
 description: "Ready to take your practice to the next level? Get started today!"
 meta_image: "/img/meta/dl.jpg"
 nofollow: true
-permalink: "/get-started"
+permalink: "https://growth.doctorlogic.com/get-a-demo"
 page_class:
 - class: form-page
 headline: Let's Get Started

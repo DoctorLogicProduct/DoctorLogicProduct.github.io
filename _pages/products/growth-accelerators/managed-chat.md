@@ -75,5 +75,6 @@ page_sections:
   text: "It’s easy. Contact us to get started with Managed Chat today."
   btn:
   - btn-label: "Get a Demo"
-    btn-link: "/get-a-demo"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 ---

@@ -22,7 +22,7 @@ page_sections:
     wistia-link-label: About DoctorLogic
   btn:
   - btn-label: Free Website Analysis
-    btn-link: https://doctorlogic.com/website-analysis
+    btn-link: https://growth.doctorlogic.com/get-a-demo
   tagline: []
 - template: text-component
   component: text-component

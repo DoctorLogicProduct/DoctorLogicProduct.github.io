@@ -19,11 +19,11 @@ page_sections:
     you need to address to stand out online.
   button:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo.html"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
   img: "/uploads/unlimited-pages-1.jpg"
   alt: Dental websites powered by DoctorLogic
   btn:
-  - btn-link: "/website-analysis-ppc"
+  - btn-link: "https://growth.doctorlogic.com/get-a-demo"
     btn-label: Free Analysis
   text-link: []
   wistia-link: []
@@ -94,7 +94,7 @@ page_sections:
   headline:
   - headline: Ready to get started?
   btn:
-  - btn-link: "/website-analysis-ppc"
+  - btn-link: "https://growth.doctorlogic.com/get-a-demo"
     btn-label: Free Analysis
   text: We Make Beautiful Websites That Are Designed To Grow Your Practice
   class: section-gray

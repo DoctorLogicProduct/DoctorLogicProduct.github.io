@@ -75,5 +75,6 @@ page_sections:
   text: "View, organize, and filter all incoming inquiries - phone calls, web form submissions, chats, and more."
   btn:
   - btn-label: "Get a Demo"
-    btn-link: "/get-a-demo"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 ---

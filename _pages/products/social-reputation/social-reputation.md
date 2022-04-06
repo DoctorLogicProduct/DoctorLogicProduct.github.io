@@ -113,6 +113,7 @@ page_sections:
   text: "Request your FREE report today."
   btn:
   - btn-label: "Get Free Analysis"
-    btn-link: "/website-analysis"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
   
 ---

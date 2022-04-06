@@ -104,7 +104,7 @@ plugin:
 callout:
 - headline: Ready To Get Started?
   text: It's easy. Schedule a one-on-one demo with a sales representative today.
-  btn-link: /get-a-demo.html
+  btn-link: https://growth.doctorlogic.com/get-a-demo
   btn-label: Get a Demo
 ---
 
@@ -224,7 +224,7 @@ callout:
 <section class="partnership-callout">
   <h3>{{ callout.headline }}</h3>
   <p>{{ callout.text }}</p>
-  <a href="{{ callout.btn-link }}" class="btn">{{ callout.btn-label }}</a>
+  <a href="{{ callout.btn-link }}" class="btn" target="_blank">{{ callout.btn-label }}</a>
 </section>
 {% endfor %}
 

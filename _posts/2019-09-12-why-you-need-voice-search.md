@@ -82,4 +82,4 @@ How else can you make your website voice-search friendly? We’ve mentioned this
 
 Check out Google’s [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) to see how your website performs, both on the desktop _and_ mobile, and get recommendations for how to make it load even faster.
 
-_Want to learn how DoctorLogic can help you optimize your practice’s website for voice search?_ [_Request a demo_](https://doctorlogic.com/get-a-demo.html)_._
+_Want to learn how DoctorLogic can help you optimize your practice’s website for voice search?_ [_Request a demo_](https://growth.doctorlogic.com/get-a-demo)_._

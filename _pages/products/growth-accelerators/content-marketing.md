@@ -83,6 +83,7 @@ page_sections:
     practice.
   btn:
   - btn-label: Let's Get Started
-    btn-link: "/get-started"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 
 ---

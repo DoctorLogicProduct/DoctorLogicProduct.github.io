@@ -99,6 +99,7 @@ page_sections:
   text: Help your website get discovered with a high quality link building strategy.
   btn:
   - btn-label: Get a Demo
-    btn-link: "/get-a-demo"
+    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+    btn-target: _blank
 
 ---
