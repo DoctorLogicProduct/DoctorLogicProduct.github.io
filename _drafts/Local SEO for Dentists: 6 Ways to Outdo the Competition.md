@@ -25,7 +25,7 @@ product:
 ---
 **Local SEO for Dentists: 6 Ways to Outdo the Competition**
 
-Search engines are one of the top tools that patients use when searching for dental services. In fact, [97% of people](https://blog.hubspot.com/marketing/local-seo-stats) learn more about a local company online than they do anywhere else. That’s why local SEO for dentists deserves to be an integral part of your practice’s marketing campaign.
+![](/uploads/map-pack-dentists.JPG)Search engines are one of the top tools that patients use when searching for dental services. In fact, [97% of people](https://blog.hubspot.com/marketing/local-seo-stats) learn more about a local company online than they do anywhere else. That’s why local SEO for dentists deserves to be an integral part of your practice’s marketing campaign.
 
 Potential patients usually begin the search with general phrases such as “teeth whitening near me.” If your practice appears on top of the SERPs (Search Engine Results Pages) in response to this query, the potential patient will likely visit your website.
 
@@ -78,8 +78,6 @@ The [number one ranking factor](https://backlinko.com/local-seo-guide) for ranki
 To optimize your practices GBP profile for local search, you need to add:
 
 * **NAP (Name, Address, Phone) and business hours** – use accurate information.
-
-
 * **Categories** - select relevant categories for your listing.
 * **Description** – create a concise description with local keywords.
 * **Photos** – add as many high-quality photos as you can.
@@ -108,8 +106,6 @@ To look appealing to Google’s local rankings effort, you need to monitor:
 * **NAP consistency** – company details on your website must be consistent with your GBP profile and other resources that patients may check when looking for a nearby practice. Otherwise, you risk confusing and frustrating both the searcher and Google.
 * **Map Intents to Pages** - instead of using exact keywords on your web pages, focus on the searcher’s intent. For example, you need to have a page dedicated specifically to procedure + location and specialty +location keywords (e.g., dental implants New York, pediatric dentist Seattle).
 * **On-Page SEO** – to help Google understand the relevance and trustworthiness of your website, you have to add local keywords to metadata (title tags, headers, descriptions). You should also use specific details (street names, landmarks) in your content.
-
-
 * **Schema mark-up -** this map of your website should include important information such as addresses, reviews, business hours, and service area geo-shapes. Optimizing schema gives you more control over what Google crawlers see on your page.
 
 You should also use “local business” [structured data](https://developers.google.com/search/docs/advanced/structured-data/local-business) to give search engine crawlers a clear understanding of your website.
