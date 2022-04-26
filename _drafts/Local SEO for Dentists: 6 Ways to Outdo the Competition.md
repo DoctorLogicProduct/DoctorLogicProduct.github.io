@@ -1,7 +1,7 @@
 ---
 post_title: 'Local SEO for Dentists: 6 Ways to Outdo the Competition'
 date: 2022-04-26 05:00:00 +0000
-post_author: ''
+post_author: DoctorLogic Employee
 tags:
 - Local SEO for dentist
 - " SEO services for dentists"
