@@ -49,6 +49,8 @@ While Google uses over 200 ranking factors to figure out where your website belo
 
 **Proximity**
 
+![](/uploads/shutterstock_1634800528.jpg)
+
 Google evaluates how close your practice is to the searcher’s location. The closer you are, the more likely your office is to appear on the first SERP and in the 3-pack.
 
 Accordingly, if the hypothetical patient is searching for “teeth whitening near me,” the closest practice has a chance to rank higher than other dental offices in the area.
