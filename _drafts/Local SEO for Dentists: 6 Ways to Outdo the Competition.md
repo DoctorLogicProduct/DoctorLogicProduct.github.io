@@ -13,7 +13,10 @@ post_intro: 'Search engines are one of the top tools that patients use when sear
   than they do anywhere else. That’s why local SEO for dentists deserves to be an
   integral part of your practice’s marketing campaign. '
 post_image: "/uploads/istock_000023459671_large.jpg"
-post_highlight: ''
+post_highlight: 'Search engines are one of the top tools that patients use when searching
+  for dental services. In fact, 97% of people learn more about a local company online
+  than they do anywhere else. That’s why local SEO for dentists deserves to be an
+  integral part of your practice’s marketing campaign. '
 post_type:
 - blog
 product:
