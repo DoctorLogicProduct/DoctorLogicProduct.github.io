@@ -12,7 +12,7 @@ post_intro: 'One of the most critical assets for a medical practice''s marketing
   considering purchasing a new or retired domain name. Some older techniques like
   Exact Match Domains (EMD) no longer offer the same kind of SEO benefit they once
   had, but they can still drive traffic when used correctly.  '
-post_image: ''
+post_image: "/uploads/shutterstock_531456541.jpg"
 post_highlight: 'One of the most critical assets for a medical practice''s marketing
   efforts is its website''s domain name. Following best practices is essential whether
   you''re considering purchasing a new or retired domain name. Some older techniques
@@ -32,6 +32,8 @@ The first decision you'll need to make is what to use as a Top-Level Domain (TLD
 
 **Should you get a .com, .org, or .doctor domain?**
 
+![](/uploads/shutterstock_369323672.jpg)
+
 When selecting a domain name for [your medical practice's new website](https://doctorlogic.com/blog/signs-your-medical-practice-needs-a-new-website), you can choose different TLD types, depending on what's best for you. A TLD is a part of the structure of a domain.
 
 Generally, you can separate the sections of a domain based on the dots between different words, numbers, or letters in the domain. For instance, consider the domain name "my.domainname.com." Each dot separating the words and letters in this particular domain comprises a different level, with the second-level domain being "domainname" and the top-level domain being ".com." In this case, the third-level domain would be "my", which also functions as a subdomain here.
@@ -49,6 +51,8 @@ Country Code Top-Level Domains (ccTLDs) are TLDs that represent various countrie
 The best practice here is to try to secure a ".com" domain since people are used to typing it into their browsers' uniform resource location (URL) i.e., address bar. Otherwise, they may look twice if they see a URL with an odd and unfamiliar TLD.
 
 **How to choose a new domain name for your medical practice**
+
+![](/uploads/shutterstock_327528635.jpg)
 
 To help you choose the right domain name for your medical practice, consider the following tips.
 
