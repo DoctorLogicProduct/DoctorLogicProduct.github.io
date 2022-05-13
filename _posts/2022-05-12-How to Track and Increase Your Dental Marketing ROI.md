@@ -21,6 +21,8 @@ product:
 ---
 **How to Track and Increase Your Dental Marketing ROI**
 
+![](/uploads/shutterstock_2135522675.jpg)
+
 Even the most effective dental marketing strategy is only as good as its Return on Investment (ROI). When planning your marketing budget, you need to clearly understand what the current ROI is and how to increase it.
 
 While seemingly straightforward, calculating the ROI of your dental marketing strategy isn’t always straightforward. However, with the right data and tools in your arsenal, it’s possible to calculate, track, and increase the ROI while getting excellent marketing results.
@@ -91,8 +93,6 @@ To track the ROI, you need to pay attention to several essential [marketing metr
 * **Leads** - how many leads your marketing efforts generate (doesn’t account for conversions).
 * **Conversion rate** – how many leads take action in response to your marketing efforts.
 * **Lead close rate** – how many leads turn into patients.
-
-
 * **Patient lifetime value** – how much money a customer spends during their lifecycle with your clinic.
 * **Cost per lead** – how much money you are spending on each lead.
 * **Cost per acquisition** – how much money you are spending on conversions.
@@ -135,8 +135,6 @@ If you aren’t happy with the current ROI, you may not be exploring the proper 
 
 * [SEO](https://doctorlogic.com/blog/2019-12-25dental-seo-attract-more-patients.html)
 * Paid ads (Paid search, Google Display, Social Media Ads)
-
-
 * [Content marketing](https://doctorlogic.com/blog/grow-practice-content-marketing.html) ([blogging](https://doctorlogic.com/blog/blogging-fundamentals.html), guest posting, creating lead magnets)
 * Email marketing
 * Social media marketing
@@ -150,8 +148,6 @@ Multichannel marketing is integral to a successful marketing campaign for dentis
 Conversion rate optimization (CRO) increases your conversion rate by implementing on-site tactics that encourage visitors to take action. The most effective CRO practices include:
 
 * Incentivizing patients to take action
-
-
 * A/B testing CTAs
 * Posting gated content
 * Beefing up the internal linking tactics
@@ -165,8 +161,6 @@ The more patients remain loyal to your clinic, the higher their lifetime value b
 * Delivering high-quality content that builds authority.
 * Improving the lead nurturing process.
 * Automating some processes such as online appointment scheduling.
-
-
 * Offering discounts and bonuses to loyal patients.
 
 Improving patient experience is the key to reducing the churn rate. Keep in mind that the experience on your website is just as important as the in-clinic experience.
