@@ -1,6 +1,6 @@
 ---
 post_title: How to Optimize Before-and-After Photo Galleries for Medical SEO
-date: 2022-05-13 05:00:00 +0000
+date: 2022-05-09 05:00:00 +0000
 post_author: DoctorLogic Employee
 tags:
 - medical seo
