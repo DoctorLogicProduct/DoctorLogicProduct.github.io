@@ -1,6 +1,6 @@
 ---
-post_title: 'Leads for Plastic Surgeons'
-date: 2022-05-11 05:00:00 +0000
+post_title: 7 Lead Generation Tactics for Plastic Surgeons
+date: 2022-05-11T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags:
 - lead generation
