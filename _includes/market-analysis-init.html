@@ -30,6 +30,20 @@
         });
 
         init(document.getElementById('root'), config);
+
+        // add listener for custom dlsubmit event
+        document.addEventListener('dlsubmit', ev => {
+            let detail = ev.detail || {};
+
+            if (typeof gtag === 'function') {
+                gtag('event', 'dlsubmit', detail);
+            } else if (typeof dataLayer !== 'undefined' && typeof dataLayer.push === 'function') {
+                dataLayer.push({
+                    event: 'dlsubmit',
+                    ...detail,
+                });
+            }
+        });
 	};
 </script>
 <script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
