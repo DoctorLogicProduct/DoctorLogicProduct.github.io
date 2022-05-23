@@ -1,8 +1,9 @@
 ---
 post_title: 'New Feature: Review Pinning'
-date: 2020-10-28 14:00:00 +0000
+date: 2020-10-28T14:00:00.000+00:00
 post_author: Josh Feinberg
-tags: []
+tags:
+- Product-Updates
 post_intro: New Feature now available for all DoctorLogic clients.
 post_image: "/uploads/product-update-image-3.jpg"
 post_highlight: ''
