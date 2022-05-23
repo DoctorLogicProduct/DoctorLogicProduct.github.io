@@ -2,10 +2,7 @@
 post_title: How to Track and Increase Your Dental Marketing ROI
 date: 2022-05-12T05:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- dental marketing
-- dental marketing roi
-- roi for dentists
+tags: []
 post_intro: Even the most effective dental marketing strategy is only as good as its
   Return on Investment (ROI). When planning your marketing budget, you need to clearly
   understand what the current ROI is and how to increase it.

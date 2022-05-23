@@ -1,10 +1,8 @@
 ---
 post_title: 'LASIK Target Market: Everything You Need To Know'
-date: 2022-05-13 05:00:00 +0000
+date: 2022-05-13T05:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- lasik marketing
-- lasik target market
+tags: []
 post_intro: Based on recent market research by Technavio, the LASIK eye operation
   devices market expects to grow by $774.01 million by 2025. Demand for LASIK operation
   devices will increase at a CAGR of 6.48%.

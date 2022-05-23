@@ -2,11 +2,7 @@
 post_title: 7 Lead Generation Tactics for Plastic Surgeons
 date: 2022-05-11T05:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- lead generation
-- lead gen
-- lead gen for doctors
-- lead generations for doctors
+tags: []
 post_intro: Regardless of how successful your practice is, attracting new patients
   is always a challenge. Even though the COVID-19 pandemic increased the number of
   people who want plastic surgery, bringing them to your clinic still requires a comprehensive
