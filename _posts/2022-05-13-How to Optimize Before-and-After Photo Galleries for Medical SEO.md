@@ -2,8 +2,7 @@
 post_title: How to Optimize Before-and-After Photo Galleries for Medical SEO
 date: 2022-05-09T05:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- before after gallery
+tags: []
 post_intro: Medical providers have long known that great before-and-after photos have
   incredible value. As soon as a patient enters their website, they see proof of concrete
   results. The positive impact of photo galleries on new patients cannot be underestimated.
