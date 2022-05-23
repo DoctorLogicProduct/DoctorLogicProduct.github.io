@@ -99,6 +99,11 @@
 			  width: 200px;
 			  padding: 5px 0;
 			}
+
+			@include desktop-sm-min {
+				width: 250px;
+			}
+			
 			
 		}
 
@@ -119,7 +124,45 @@
 			  padding-right: 35px;
 			  margin-left: 0;
 			  padding-right: 0;
-			  width: 200px;
+			  width: 250px;
+			  gap: 10px;
+			}
+
+
+			&--analysis {
+				text-transform: uppercase;
+				font-size: .6rem;
+				font-weight: 400;
+				text-decoration: none;
+				padding: 6px 12px;
+				letter-spacing: 1px;
+				background: $websites;
+				background-position: 1% 50%;
+				background-size: 400% 300%;
+				transition: 700ms ease-out;
+				color: $color-2;
+				border-top-left-radius: 10px;
+				border-bottom-right-radius: 10px;
+
+				&:hover {
+					color: $color-2;
+				}
+
+				@include desktop-sm-min {
+
+				&:hover {
+						background-position: 60% 50%;
+						color: $color-2;
+				}
+
+				@include desktop-min {
+					padding: 8px 16px;
+					font-size: .7rem;
+				}
+				
+
+			}
+
 			}
 			
 
