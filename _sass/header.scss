@@ -283,6 +283,23 @@
 				}
 			}
 
+			.mobile-analysis {
+				background: $websites;
+				display: flex;
+				padding: 20px;
+				margin-bottom: 20px !important;
+
+				a {
+					color: $color-2;
+					width: 100%;
+					text-align: center;
+
+					&:hover {
+						color: $color-2;
+					}
+				}
+			}
+
 			.mobile-demo {
 				background: $websites-2;
 				display: flex;
@@ -310,6 +327,10 @@
 				top: 0;
 				width: 100%;
 				text-align: center;
+
+				.mobile-analysis {
+					display: none;
+				}
 
 				.mobile-demo {
 					display: none;
