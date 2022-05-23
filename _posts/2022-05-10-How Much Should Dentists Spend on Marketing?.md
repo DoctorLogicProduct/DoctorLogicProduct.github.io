@@ -2,9 +2,7 @@
 post_title: How Much Should Dentists Spend on Marketing?
 date: 2022-05-10 05:00:00 +0000
 post_author: DoctorLogic Employee
-tags:
-- dental marketing
-- dental marketing spend
+tags: []
 post_intro: Whether you’re an existing or de novo dental practice, you will struggle
   to survive without a competitive marketing budget. You must set aside a specific
   amount of money you’re willing to spend to maximize profitability and return on

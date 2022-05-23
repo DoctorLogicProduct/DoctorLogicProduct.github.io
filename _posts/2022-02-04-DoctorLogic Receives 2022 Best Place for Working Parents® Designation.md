@@ -1,14 +1,8 @@
 ---
 post_title: DoctorLogic Receives 2022 Best Place for Working Parents® Designation
-date: 2022-02-04 06:00:00 +0000
+date: 2022-02-04T06:00:00.000+00:00
 post_author: Chris Libby
-tags:
-- Best place for working parents
-- doctorlogic
-- 'digital marketing '
-- healthcare marketing
-- seo
-- strategy
+tags: []
 post_intro: DoctorLogic, an all-in-one Website Marketing Platform created exclusively
   for healthcare providers, recently received the honored designation of a 2022 Best
   Place for Working Parents award.

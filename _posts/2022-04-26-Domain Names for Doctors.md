@@ -1,12 +1,8 @@
 ---
 post_title: 9 Tips for Choosing a Domain Name for Your Medical Practice
-date: 2022-04-26 05:00:00 +0000
+date: 2022-04-26T05:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- Uniform resource location (URL)
-- URL structure
-- how to choose a domain name
-- medical practice domain name
+tags: []
 post_intro: 'One of the most critical assets for a medical practice''s marketing efforts
   is its website''s domain name. Following best practices is essential whether you''re
   considering purchasing a new or retired domain name. Some older techniques like
