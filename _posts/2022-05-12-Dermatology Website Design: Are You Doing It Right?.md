@@ -1,6 +1,6 @@
 ---
 post_title: 'Dermatology Website Design: Are You Doing It Right?'
-date: 2022-05-12T05:00:00.000+00:00
+date: 2022-05-12 05:00:00 +0000
 post_author: DoctorLogic Employee
 tags: []
 post_intro: Dermatology practice marketing starts with a high-quality website. It

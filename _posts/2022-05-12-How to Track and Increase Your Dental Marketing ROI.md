@@ -1,6 +1,6 @@
 ---
 post_title: How to Track and Increase Your Dental Marketing ROI
-date: 2022-05-12T05:00:00.000+00:00
+date: 2022-05-12 05:00:00 +0000
 post_author: DoctorLogic Employee
 tags: []
 post_intro: Even the most effective dental marketing strategy is only as good as its
