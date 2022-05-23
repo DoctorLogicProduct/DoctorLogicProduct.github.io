@@ -1,13 +1,8 @@
 ---
 post_title: 'Local SEO for Dentists: 6 Ways to Outdo the Competition'
-date: 2022-04-26 05:00:00 +0000
+date: 2022-04-26T05:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- Local SEO for dentist
-- " SEO services for dentists"
-- " Dental SEO strategy "
-- " Local SEO campaign for dentists "
-- " Marketing for dentists "
+tags: []
 post_intro: 'Search engines are one of the top tools that patients use when searching
   for dental services. In fact, 97% of people learn more about a local company online
   than they do anywhere else. That’s why local SEO for dentists deserves to be an

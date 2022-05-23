@@ -1,6 +1,6 @@
 ---
 post_title: How Much Should Dentists Spend on Marketing?
-date: 2022-05-10T05:00:00.000+00:00
+date: 2022-05-10 05:00:00 +0000
 post_author: DoctorLogic Employee
 tags: []
 post_intro: Whether you’re an existing or de novo dental practice, you will struggle
