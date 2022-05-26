@@ -22,8 +22,6 @@ When Write It For Me is run, our proprietary content creation tools will take da
 
 ![](/uploads/wifm-1.png)
 
-This new feature is being added into Step #5 of the current Galleries workflow within your DoctorLogic account. For this initial release, the Write It For Me functionality will be available for a specific subset of our customer base, based on specialties and procedures. For additional information on the Write It For Me feature, please [visit our help site](https://help.doctorlogic.com/docs/apps/gallery/new-feature-write-it-for-me "Write It For Me").
-
 **Key features**
 
 * Automatically create rich content for gallery Headline and Description fields
@@ -35,5 +33,7 @@ This new feature is being added into Step #5 of the current Galleries workflow w
 * Save time by not having to struggle to create unique content each time. Gallery creation and publishing will be much faster!
 * Receive SEO benefits from the rich, detailed Write It For Me content that is created
 * Use this feature when creating brand new galleries or when editing/updating an existing gallery that you've previously created
+
+For this initial release, the Write It For Me feature will be available for a subset of our customers, based on specialties and procedures. For additional information on the Write It For Me feature, please [visit our help site](https://help.doctorlogic.com/docs/apps/gallery/new-feature-write-it-for-me "Write It For Me").
 
 If you have any questions or feedback about the new Write It For Me feature for Galleries, please [email us today](mailto:success@doctorlogic.com).
