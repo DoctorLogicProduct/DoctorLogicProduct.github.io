@@ -1,5 +1,5 @@
 ---
-post_title: 'New Feature: Navigation Updates!'
+post_title: 'New Feature: Navigation Updates'
 date: 2022-05-17T13:00:00.000+00:00
 post_author: DoctorLogic
 tags:
