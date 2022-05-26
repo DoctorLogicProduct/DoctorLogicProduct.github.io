@@ -30,7 +30,7 @@ When Write It For Me is run, our proprietary content creation tools will take da
 
 **Key benefits**
 
-* Save time by not having to struggle to create unique content each time. Gallery creation and publishing will be much faster!
+* Save time by not having to always struggle to create unique content. Gallery creation and publishing will be much faster!
 * Receive SEO benefits from the rich, detailed Write It For Me content that is created
 * Use this feature when creating brand new galleries or when editing/updating an existing gallery that you've previously created
 
