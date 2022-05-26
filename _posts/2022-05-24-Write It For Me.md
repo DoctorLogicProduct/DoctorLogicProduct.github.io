@@ -20,7 +20,7 @@ Write It For Me (WIFM) is an automated content authoring assistant. It helps pra
 
 When Write It For Me is run, our proprietary content creation tools will take data points from the patient, procedure, and practitioner information you've added and automatically generate a Headline and Description for the Gallery. [Click here](https://doctorlogic.wistia.com/medias/4097tduhqi "WIFM Demo") to watch a demo video of Write It For Me.
 
-![](/uploads/wifm-1.png)
+![](/uploads/wifm_screen.png)
 
 **Key features**
 
