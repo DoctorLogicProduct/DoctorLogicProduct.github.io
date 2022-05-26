@@ -33,3 +33,5 @@ This new feature is being added into Step #5 of the current Galleries workflow w
 * Save time by not having to struggle to create unique content each time. Gallery creation and publishing will be much faster!
 * Receive SEO benefits from the rich, detailed Write It For Me content that is created
 * Use this feature when creating brand new galleries or when editing/updating an existing gallery that you've previously created
+
+If you have any questions or feedback about the new Write It For Me feature for Galleries, please [email us today](mailto:success@doctorlogic.com).
