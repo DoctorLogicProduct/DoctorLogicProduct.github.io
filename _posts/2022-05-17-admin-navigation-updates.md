@@ -35,6 +35,6 @@ Most importantly, we've made these updates based on feedback we received from yo
 * One click access. Sections that don't have any drop-down menu items (ex. Opportunities) will only require a single click to reach the desired location.
 * Menu is open by default when you log in. You can still manually collapse it if you choose.
 
-We hope you find these new navigation changes useful and that they improve your overall experience within your DoctorLogic account. If you have any questions or feedback about these upcoming changes, please [email us today](mailto:success@doctorlogic.com).
+We hope you find these new navigation changes useful and that they improve your overall experience within your DoctorLogic account. If you have any questions or feedback about these recent changes, please [email us today](mailto:success@doctorlogic.com).
 
 For additional information about these recent upgrades, please visit our [help site](https://help.doctorlogic.com/docs/apps/the-new-admin-portal-navigation).
