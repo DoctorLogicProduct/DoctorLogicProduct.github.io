@@ -7,7 +7,9 @@ tags:
 post_intro: "'Write It For Me' is a powerful new tool to help you create compelling
   content for your photo galleries without even touching your keyboard!"
 post_image: "/uploads/wifm-1.png"
-post_highlight: ''
+post_highlight: Struggling to create unique content for your photo galleries? Writer's
+  block stopped you in your tracks? Introducing 'Write It For Me'- a great cure for
+  those content creation blues.
 post_type:
 - blog
 product:
