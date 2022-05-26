@@ -1,5 +1,5 @@
 ---
-post_title: 'New Feature: Review Pinning'
+post_title: New Feature - Review Pinning
 date: 2020-10-28T14:00:00.000+00:00
 post_author: Josh Feinberg
 tags:
