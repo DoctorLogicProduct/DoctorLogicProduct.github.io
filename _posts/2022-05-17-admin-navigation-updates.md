@@ -1,6 +1,6 @@
 ---
 post_title: New Feature - Navigation Updates!
-date: 2022-05-17 13:00:00 +0000
+date: 2022-05-17T13:00:00.000+00:00
 post_author: DoctorLogic
 tags:
 - Product-Updates
@@ -8,7 +8,8 @@ post_intro: We've updated the left-hand navigation for your DoctorLogic account 
   make it easier and faster to find the things you are looking for and discover new
   parts of our platform!
 post_image: "/uploads/static_nav.png"
-post_highlight: ''
+post_highlight: You asked. We delivered! New navigation enhancements to make your
+  DoctorLogic user experience easier and faster.
 post_type:
 - blog
 product:
