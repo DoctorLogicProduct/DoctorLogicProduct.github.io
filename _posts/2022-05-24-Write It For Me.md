@@ -16,7 +16,9 @@ product:
 - content multiplier
 
 ---
-Write It For Me (WIFM) is an automated content authoring assistant. It helps practices quickly and effortlessly generate content for their photo galleries without touching their keyboard. Write It For Me is the perfect cure for writer's block and helps you create and publish galleries even faster.
+[Creating and optimizing photo galleries](https://doctorlogic.com/blog/how-to-optimize-before-and-after-photo-galleries-for-medical-seo) for your website is a crucial factor in your practice's growth. Helping visitors learn about your specialized skills and exceptional patient results can improve your conversion rate with new and existing patients. 
+
+With Write It For Me (WIFM), our brand new automated content authoring assistant, practices quickly and effortlessly generate content for their photo galleries without touching their keyboard. Write It For Me is the perfect cure for writer's block and helps you create and publish galleries even faster.
 
 When Write It For Me is run, our proprietary content creation tools will take data points from the patient, procedure, and practitioner information you've added and automatically generate a Headline and Description for the Gallery. [Click here](https://doctorlogic.wistia.com/medias/4097tduhqi "WIFM Demo") to watch a demo video of Write It For Me.
 
