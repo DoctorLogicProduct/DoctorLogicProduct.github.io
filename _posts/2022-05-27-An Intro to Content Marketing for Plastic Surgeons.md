@@ -98,8 +98,6 @@ There are many forms of gated content that you can use for plastic surgery marke
 * Whitepapers
 * Checklists
 * eBooks
-
-
 * Case studies
 * Webinars
 
