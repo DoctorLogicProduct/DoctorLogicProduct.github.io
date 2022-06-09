@@ -18,6 +18,8 @@ product:
 ---
 **9 LASIK Patient Retention Strategies**
 
+![](/uploads/shutterstock_421203052.jpg)
+
 On a patient-to-patient level, your LASIK eye surgery center provides excellent service. You know your patients, their goals and treatment plans, and how to ensure they each have the right post-surgery experience.
 
 But once you zoom out a little, the details start to get fuzzy.
@@ -63,8 +65,6 @@ Some reception area marketing content you can create to engage and wow patients 
 * Phone Hold Messages: Before patients make it to your waiting room, they may call with questions. Upgrade with a professional and pleasant phone hold message and directory system.
 * Information Packets: Provide professional-looking, helpful information packets about the major services you offer. This can entertain and educate bored clients, creating a stronger first impression. Opt for color prints and glossy brochures.
 * Posters: Decorate your waiting room with engaging but professional and relevant posters.
-
-
 * Counter Cards: Place helpful or entertaining cards along the ledge between your waiting room and the back offices.
 * Photos of Celebrity Patients: Social proof is important to any marketing endeavor. If you have celebrity patients ranging from influencers and local politicians to Hollywood stars, hang photos in your waiting room. This boosts patients’ confidence in the quality of your services.
 * Testimonials: Just like celebrity photos, testimonials are referrals that can establish your quality of services, overall customer satisfaction, and more.
@@ -81,8 +81,6 @@ After LASIK surgery, patients will still need ongoing care. For example, they’
 
 * Cataract Surgery
 * Glaucoma Management
-
-
 * Retinal Disorders
 
 Focus on comprehensive eye care, not just one procedure. This builds trust, creates better patient outcomes, and leads to longer patient retention.
