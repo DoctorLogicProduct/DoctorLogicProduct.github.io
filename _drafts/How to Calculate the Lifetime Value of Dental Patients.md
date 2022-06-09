@@ -22,6 +22,8 @@ product:
 ---
 **How to Calculate the Lifetime Value of Dental Patients**
 
+![](/uploads/shutterstock_1805218612.jpg)
+
 The average lifetime value of your patients is a simple metric that can drastically improve your marketing efforts. Understanding how to track and calculate this vital metric can improve your ability to bring high-value patients into your practice. You'll be able to make your marketing dollar stretch further and improve your [dental marketing ROI](https://doctorlogic.com/blog/How-to-Track-and-Increase-Your-Dental-Marketing-ROI.html).
 
 **What is patient lifetime value?**
@@ -35,6 +37,8 @@ The lifetime value of an individual patient isn't very helpful on its own. You m
 Marketing can be targeted to help you increase the lifetime value of a patient by seeking out those who are more likely to increase the metrics mentioned above. But you can't guarantee that only the highest value patients will respond to your ads. Therefore, you must take the average lifetime value of all your patients to calculate how much ROI you can expect from your marketing efforts. As your external and internal marketing improves, you'll go from bringing in one-time patients who are worth a few hundred dollars to recurring ones who are worth as much as $50,000 over the course of a decade.
 
 **How can dentists calculate the lifetime value of a patient?**
+
+![](/uploads/shutterstock_371279323.jpg)
 
 Before you can calculate the lifetime value of a patient, you need to decide what value means. This may sound simple, but there are two ways of calculating how much a patient is worth: the amount they are charged per year and the amount of your actual collections per year. Which you choose is largely a matter of personal preference, though you should pick one and stick to it for consistency purposes.
 
