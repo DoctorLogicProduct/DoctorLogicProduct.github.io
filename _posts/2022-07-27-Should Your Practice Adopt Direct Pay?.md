@@ -16,7 +16,7 @@ product:
 - website management
 
 ---
-# **Should Your Practice Adopt Direct Pay?**
+### **Should Your Practice Adopt Direct Pay?**
 
 ![](/uploads/shutterstock_1741084496.jpg)
 
@@ -30,15 +30,15 @@ The Direct Primary Care model, or DPC, is a practice and payment model that enab
 
 Three types of direct pay practices may use the DPC model. These could include:
 
-###### _Membership Fee-Only_
+**_Membership Fee-Only_**
 
 This model uses membership fees that patients pay to receive lab and clinical care along with extended visits. Patients with a membership can also receive comprehensive care management, which involves working with a team of doctors and specialists. Some of the benefits of membership fee-only DPC include consultative services, unlimited office visits, personalized care coordination, email or phone access to healthcare services, comprehensive care management, after-hours availability, and clinical and lab services.
 
-###### _Fee for Service-Only_
+**_Fee for Service-Only_**
 
 Instead of a membership fee, this model charges a retainer-based fee for services. This is a pay-as-you-go system that enables patients to see their physician as needed. The fixed monthly retainer fee covers care services, lab work, and office visits. Unlike membership fee-only systems, service-only DPC doesn't typically come with other perks like comprehensive care management or unlimited office visits.
 
-###### _Hybrid Direct Pay Model_
+**_Hybrid Direct Pay Model_**
 
 This DPC payment model combines membership and retainer fee-based direct pay care models. Patients will pay a membership fee every year along with fixed rates for certain care services.
 
