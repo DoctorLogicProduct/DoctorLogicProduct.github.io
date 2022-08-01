@@ -67,8 +67,6 @@ Variety is important for medical photo galleries no matter how narrow the focus 
 
 * **Show different procedures.** Even if two procedures are incredibly similar, make sure to show off positive results from each.
 * **Use subtly different angles.** The privacy concerns outlined above may limit options for dramatic photography. That’s fine! Even _subtle_ differences in angles and lighting choices can make content pop on the page. This is helpful for converting leads into patients, and SEO prefers original content whenever possible.
-
-
 * **Showcase a variety of patients.** Differences in age, for example, can help cast a wider net for potential patients. People prefer to see what results might look like on someone who looks like them.
 * **Adjust the fundamentals of photo galleries based on your practice.** For example, a practice focused on ethnic rhinoplasty for younger people should focus on photos that reflect that population.
 
@@ -79,8 +77,6 @@ Variety is important for medical photo galleries no matter how narrow the focus 
 Use a professional photographer if possible. If not, quality shots are more achievable than ever:
 
 * **Consistent lighting is key.** As noted above, subtle changes can be helpful. Just consider everything in terms of category. A slight lighting change to mark different procedures, for example.
-
-
 * **Choose a background that helps make images clear at a glance.** Users won’t always take a long look at individual photographs. The best way to make pictures stand out while visitors scroll around? A strong silhouette.
 * **Pick the camera angles that best highlight the before-and-after dichotomy.** Nothing matters more than instantly communicating to potential patients how effective a medical procedure is.
 * **Use high-resolution camera.** Many [flagship smartphones have incredible cameras](https://www.tomsguide.com/us/best-phone-cameras,review-2272.html) that are appropriate. But don’t assume that is the case. Always take a moment to learn how to properly use the camera in a high-end phone. And as ever, the best results still come from dedicated, high-resolution professional cameras.
@@ -96,8 +92,6 @@ Don’t do an old-school internet static gallery. Instead, treat your before-and
 * **Structure each page as a case study.** This helps potential patients see how serious your practice is. And it provides a major opportunity for including keywords to help with SEO.
 * **Stick to describing procedures, not patients.** Confidentiality laws discourage sharing too much personal medical information.
 * **Keep content relevant to users.** An underdiscussed aspect of SEO is that humans often go through local results to check for quality content. “Keyword stuffing” can lead to a sudden drop in ranking.
-
-
 * **Update often.** Search engines prefer websites that update regularly. While this won’t guarantee a boost in SEO, it encourages algorithms to re-check websites. If the content there is improved, the ranking tends to reflect that.
 
 **Use a Keyword Tagging Tool**
@@ -116,4 +110,4 @@ Consider the story of Dr. Rolando Morales, a Houston area cosmetic surgeon. Afte
 
 The gallery he built brings in 74% of page view traffic. And 27% of leads come straight from the gallery page. Most importantly, his patients often reference the gallery directly to help communicate their unique needs before receiving treatment.
 
-That incredible result wasn’t a matter of luck. Dr. Morales leveraged the ever-improving power of a tool built to supercharge the best lead-conversion aspect of any medical practice website -- the photo gallery. A strong before-and-after photo gallery landing page is a powerful place for potential patients to find. Read more about Dr. Morales’ experiences here.
+That incredible result wasn’t a matter of luck. Dr. Morales leveraged the ever-improving power of a tool built to supercharge the best lead-conversion aspect of any medical practice website -- the photo gallery. A strong before-and-after photo gallery landing page is a powerful place for potential patients to find. [Read more](https://doctorlogic.com/case-studies/morales-plastic-surgery) about Dr. Morales’ experiences here.

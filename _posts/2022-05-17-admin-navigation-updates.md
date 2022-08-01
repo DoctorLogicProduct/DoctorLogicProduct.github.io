@@ -1,6 +1,6 @@
 ---
-post_title: New Feature - Navigation Updates!
-date: 2022-05-17 13:00:00 +0000
+post_title: 'New Feature: Navigation Updates'
+date: 2022-05-17T13:00:00.000+00:00
 post_author: DoctorLogic
 tags:
 - Product-Updates
@@ -8,7 +8,8 @@ post_intro: We've updated the left-hand navigation for your DoctorLogic account 
   make it easier and faster to find the things you are looking for and discover new
   parts of our platform!
 post_image: "/uploads/static_nav.png"
-post_highlight: ''
+post_highlight: You asked. We delivered! New navigation enhancements to make your
+  DoctorLogic user experience easier and faster.
 post_type:
 - blog
 product:
@@ -34,6 +35,6 @@ Most importantly, we've made these updates based on feedback we received from yo
 * One click access. Sections that don't have any drop-down menu items (ex. Opportunities) will only require a single click to reach the desired location.
 * Menu is open by default when you log in. You can still manually collapse it if you choose.
 
-We hope you find these new navigation changes useful and that they improve your overall experience within your DoctorLogic account. If you have any questions or feedback about these upcoming changes, please [email us today](mailto:success@doctorlogic.com).
+We hope you find these new navigation changes useful and that they improve your overall experience within your DoctorLogic account. If you have any questions or feedback about these recent changes, please [email us today](mailto:success@doctorlogic.com).
 
 For additional information about these recent upgrades, please visit our [help site](https://help.doctorlogic.com/docs/apps/the-new-admin-portal-navigation).
