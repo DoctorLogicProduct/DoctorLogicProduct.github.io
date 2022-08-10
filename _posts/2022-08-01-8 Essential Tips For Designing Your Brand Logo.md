@@ -23,7 +23,7 @@ Medical practices should have a logo that distinguishes their brand from others.
 
 Before designing your logo, you must understand the nuance of choosing colors. This is because the colors on your logo may evoke different [emotions](https://onlinelibrary.wiley.com/doi/full/10.1002/col.22171).
 
-# **Do Logo Colors Convey Different Emotions?**
+## **Do Logo Colors Convey Different Emotions?**
 
 When selecting your logo's color, know that you will also choose the emotions you want to evoke. The psychology of colors is a significant consideration when creating your brand's identity. The right choice of color can convey more information about your brand values. It will also evoke specific behaviors in the process.
 
@@ -31,7 +31,7 @@ For instance, many people associate the color blue with credibility, assertivene
 
 In a study published in the psychological science journal, [different cultures](https://www.verywellmind.com/are-color-emotion-associations-cultural-or-psychological-5082606) perceive the significance of colors differently. For example, the Chinese wear white to funerals, while black is the standard color in the US. A color may evoke happiness in one culture but sadness in another culture. If you design a logo color in a highly diverse practice area, you need to consider that people come from diverse backgrounds.
 
-# **8 Essential Logo Design Tips**
+## **8 Essential Logo Design Tips**
 
 The following are eight essential logo tips you can use to design your logo:
 
@@ -79,7 +79,7 @@ Thus, you need to convert text into different scalable and editable shapes. This
 
 Even after completing your logo design, retaining a working version for later use is essential. The text and fonts in your logo should be editable if you want to make any changes in the future. Retaining a working copy for yourself will ensure you have a backup in case any issues arise.
 
-# **What are the characteristics Of an Excellent Logo?**
+## **What are the characteristics Of an Excellent Logo?**
 
 Logos exist everywhere and are the best way to make your brand easily recognizable. If you intend to design a great logo, it should be:
 
