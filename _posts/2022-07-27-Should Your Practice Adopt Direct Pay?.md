@@ -22,7 +22,7 @@ In the health care industry, prior authorization requirements haven't improved. 
 
 One alternative that can help is transforming insurance-based care into direct pay practices. Using a direct pay model, you can improve payment efficiency and avoid prior authorization headaches.
 
-# What is direct pay in healthcare?
+## What is direct pay in healthcare?
 
 The Direct Primary Care model, or DPC, is a practice and payment model that enables patients to pay their practices or primary care physicians directly. They can do so by making periodic payments for certain primary care services, usually in the form of an annual or monthly fee.
 
