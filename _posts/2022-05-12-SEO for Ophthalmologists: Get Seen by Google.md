@@ -1,6 +1,6 @@
 ---
 post_title: 'SEO for Ophthalmologists: Get Seen by Google'
-date: 2022-05-12 05:00:00 +0000
+date: 2022-05-12T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags: []
 post_intro: Let’s take a closer look at ophthalmology SEO marketing and how it fits
@@ -14,7 +14,7 @@ product:
 - search amplifier
 
 ---
-**SEO for Ophthalmologists: Get seen by Google**
+## **SEO for Ophthalmologists: Get seen by Google**
 
 While important, high-quality website design is just the first step toward turning visitors into patients. Next up is search engine optimization (SEO).
 
@@ -22,7 +22,7 @@ Since [68% of online experiences](https://videos.brightedge.com/research-report/
 
 Let’s take a closer look at ophthalmology SEO marketing and how it fits into your clinic’s marketing strategy.
 
-**What Is SEO for Ophthalmologists?**
+## **What Is SEO for Ophthalmologists?**
 
 ![](/uploads/shutterstock_1919080937.jpg)
 
@@ -32,13 +32,11 @@ Three main types of SEO for your eyecare practice are:
 
 * **On-page SEO** – optimizing web pages to make them attractive to the user and the search engine.
 * **Off-page SEO** – tactics implemented outside the website to improve its authoritativeness, trustworthiness, and relevance in the “eyes” of the search engine.
-
-
 * **Technical SEO** – optimizing the technical points of your website to make it easier for the search engine to rank it.
 
 Search engine optimization tactics can focus on local or worldwide audiences. If you are offering eye care services to local patients, you would need to work on local SEO. If you are trying to achieve national or global visibility, your tactics would involve regular SEO.
 
-**Why Is SEO Important for Ophthalmologists?**
+## **Why Is SEO Important for Ophthalmologists?**
 
 Patients who are looking for eye care services usually start their search online. Be it a simple annual eye exam or a serious glaucoma surgery, people need information before choosing a clinic.
 
@@ -46,22 +44,20 @@ In fact, research shows that over [60% of people](https://www.inc.com/peter-roes
 
 SEO helps put your website as close to the top of the first search result page as possible. It increases the clinic’s visibility while building your website’s trustworthiness and authority.
 
-**How Can You Outrank Ophthalmology Competitors with SEO?**
+## **How Can You Outrank Ophthalmology Competitors with SEO?**
 
 One of the key goals of your SEO tactics is to bring your practice to the top of the search engine result pages (SERPs). Meanwhile, your competition is working hard to grab as much real estate on the first pages as possible. Here is what you can do to outrank them.
 
-**On-Page SEO for Ophthalmologists**
+#### **On-Page SEO for Ophthalmologists**
 
 On-page SEO is one of the most critical parts of search engine optimization efforts. You need to juggle user experience with search engine algorithm requirements. To do that, you have to focus on:
 
-**Keyword Research**
+#### **Keyword Research**
 
 High-quality keyword research is the key to both organic and paid marketing tactics. It starts with brainstorming for terms that potential patients may be typing into the search field when looking for your services. Such keywords may be:
 
 * Refractive surgery
 * Cataracts
-
-
 * Eye disease
 
 Then you continue elaborating on these keywords with the user’s intent in mind. At this stage, you can divide keywords into commercial and informative.
@@ -71,7 +67,7 @@ Then you continue elaborating on these keywords with the user’s intent in mind
 
 While it’s easier to get a conversion by targeting commercial keywords, informational keywords are also important. By creating content around them, you are building your website's authority and achieving higher rankings.
 
-**On-Page Optimization**
+#### **On-Page Optimization**
 
 Long gone are the days when stuffing keywords all over your website tricked search engines into giving it higher rankings. Google algorithms have grown complex over time. Today, they don’t just recognize tricks. They punish you for them.
 
@@ -85,11 +81,11 @@ For on-page optimization, you need to focus on:
 
 The best time to start practicing on-page SEO is at the [new website](https://doctorlogic.com/blog/signs-your-medical-practice-needs-a-new-website) design stage. If you already have a website, you need to audit it carefully to find optimization opportunities.
 
-**Off-Site SEO for Ophthalmologists**
+### **Off-Site SEO for Ophthalmologists**
 
 Off-site SEO is just as crucial to your rankings as on-page optimization.
 
-**Backlinks**
+#### **Backlinks**
 
 The key to high-quality SEO is backlinks. Backlinks demonstrate your website’s authoritativeness, trustworthiness, and relevance to the search engine.
 
@@ -97,7 +93,7 @@ While obtaining backlinks can be a tough job, you should never buy them. [Backli
 
 The best way to get backlinks is to attract them organically through authoritative content. Ophthalmologists have significant knowledge to share with patients. If you turn it into high-quality content, you can get plenty of natural backlinks.
 
-**Citations**
+#### **Citations**
 
 Citations are the mentions of your practice’s contact details on other websites. When your clinic’s name, address, and phone number (NAP) appear consistently on other websites, Google considers your business more credible than those without NAP consistency.
 
@@ -108,13 +104,11 @@ You can list your practice in general and medical directories, including:
 * Yellowpages.com
 * Doctors.com
 * Webmd.com
-
-
 * Ratemds.com
 
 You also need to claim or create your [Google Business Profile (GBP)](https://www.google.com/business/). Information from GBP appears on [Google Maps](https://doctorlogic.com/blog/google-maps-turns-a-sweet-16-and-why-it-s-important.html) and Google Places during local searches.
 
-**Technical SEO for Ophthalmologists**
+### **Technical SEO for Ophthalmologists**
 
 Technical SEO may be the most complex part of your SEO strategy. It includes:
 
@@ -126,7 +120,7 @@ Technical SEO may be the most complex part of your SEO strategy. It includes:
 
 If you have a WordPress site, technical SEO requires some serious effort. Instead of struggling with the [disadvantages of WordPress](https://doctorlogic.com/blog/disadvantages-of-wordpress.html) tools, you may want to consider building a new website.
 
-**Content Marketing for Ophthalmologists**
+## **Content Marketing for Ophthalmologists**
 
 ![](/uploads/shutterstock_1660948543.jpg)
 
@@ -142,7 +136,7 @@ Content marketing includes:
 
 A high-quality content marketing strategy doesn’t just help with SEO. It’s an integral part of the entire marketing strategy, including paid search and offline advertising.
 
-**The Future of Ophthalmology SEO**
+## **The Future of Ophthalmology SEO**
 
 Today, the highest-ranking ophthalmology websites are created by outsourced marketing agencies. Some of them also provide ophthalmology SEO services. As more and more companies delegate SEO practices to third-party experts, the marginal benefits of the above techniques begin to fade.
 
