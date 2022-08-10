@@ -1,6 +1,6 @@
 ---
 post_title: 5 Tips to Ethically Upsell Ophthalmology Patients
-date: 2022-06-20 05:00:00 +0000
+date: 2022-06-20T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags: []
 post_intro: '"Upsell" is typically regarded as a dirty word in healthcare, as it gives
@@ -18,19 +18,17 @@ product:
 - growth accelerators
 
 ---
-**5 Tips to Ethically Upsell Ophthalmology Patients**
-
 ![](/uploads/shutterstock_363458510.jpg)
 
 "Upsell" is typically regarded as a dirty word in healthcare, as it gives the impression that the practitioner is primarily out to make money as opposed to helping patients. However, there's nothing inherently wrong with offering premium as long as you are doing so with the patient's best interest in mind.
 
 If you're wondering how to ethically upsell your patients, the following guide will get you started with some helpful tips.
 
-**5 Tips to Ethically Upsell**
+## **5 Tips to Ethically Upsell**
 
 There are several ways you can upsell ophthalmology patients while remaining ethical. These methods include:
 
-**1. Plant the Seed During the Initial Phone Call**
+#### **1. Plant the Seed During the Initial Phone Call**
 
 You can start by gathering patients' individual goals and details about their medical history. This will illuminate candidacy for appropriate potential treatments or upgrades.
 
@@ -42,19 +40,19 @@ Be sure to outline the features and benefits of each level of procedure, includi
 
 When the patient enters the practice, your patient coordinator can then repeat relevant steps. These could include reconfirming the patient's desires, re-educating the patient on the specific practice and procedure, and regaining commitment to a specific course of action. Taking these steps will help reassure the patient and make them feel heard.
 
-**2. Outline a Plan Using the Patient Chart**
+#### **2. Outline a Plan Using the Patient Chart**
 
 You should never consider upselling if it won't benefit the patient. The patient's well-being is always a top priority, but certain additional procedures may contribute to it and be worth the upsell.
 
 You can use treatment and product history to predict what other procedures or products would be useful. When questioning patients about their needs and desired outcomes, you can also use the patient chart to supplement those questions.
 
-**3. Nurture Patients Digitally**
+#### **3. Nurture Patients Digitally**
 
 Keep in mind that patients may want more in-depth knowledge about certain elective procedures. They'll want to learn as much as they can to secure their decision when determining whether a procedure is right for them. This is especially the case when a lot of money is at stake. This is where content marketing can come into play.
 
 Great content marketing will not only attract ophthalmology leads through [search engine optimization (SEO)](https://doctorlogic.com/blog/seo-for-ophthalmologists-get-seen-by-google), but it will also retain and upsell existing patients. There's no limit to the types of content you can create and share to help upsell patients. For example, you can create informative blogs, videos, case studies, [social media posts](https://doctorlogic.com/growth-accelerators/medical-social-media-content), and other forms of content. As a result, patients will feel more confident in additional procedures and be more inclined to commit to them.
 
-**4. Be Direct, Not Aggressive**
+#### **4. Be Direct, Not Aggressive**
 
 Following the digital nurturing process and the initial phone call, it's up to the doctor to make the final recommendation. This will entail striking the right balance of communication. It shouldn't be passive in the sense of "choose either option, it's up to you," nor should it be aggressive in the sense of "you have to choose the upgrade."
 
@@ -62,7 +60,7 @@ Instead, be direct with your patients. You should communicate that "you're a gre
 
 Also, be prepared to answer any questions the patient is likely to have about the procedure. Oftentimes, ophthalmic procedures such as cataract surgery and LASIK come with certain preparation steps and risks that might concern patients. Alleviate these concerns by further discussing them and reassuring your patients in the process.
 
-**5. Waiting Room Collateral**
+#### **5. Waiting Room Collateral**
 
 Education about additional procedures doesn't stop once the patient is in the office and waiting to see you—it can also continue in the waiting room.
 
@@ -76,7 +74,7 @@ Instead, stick to a few key options that you want to focus on, including procedu
 
 Making your waiting room an in-depth resource for additional information will also make your practice feel more accommodating and generally comforting. This is crucial in helping your patients relax when visiting your office, which will make them more comfortable with the idea of returning for future procedures.
 
-**Upselling Ophthalmology Procedures Through Content Marketing**
+## **Upselling Ophthalmology Procedures Through Content Marketing**
 
 ![](/uploads/shutterstock_530747020.jpg)
 
