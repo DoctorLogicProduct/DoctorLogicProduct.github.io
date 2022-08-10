@@ -109,10 +109,10 @@ page_sections:
   component_css: callout
   background: false
   class: callout__reputation
-  headline: "Know the state of your reputation"
-  text: "Request your FREE report today."
+  headline: "Get your online reputation in order!"
+  text: "Schedule a demo today."
   btn:
-  - btn-label: "Get Free Analysis"
+  - btn-label: "Get A Demo"
     btn-link: "https://growth.doctorlogic.com/get-a-demo"
     btn-target: _blank
   
