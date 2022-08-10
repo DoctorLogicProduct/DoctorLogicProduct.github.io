@@ -50,8 +50,6 @@ Once you create a Google Business Profile, you need to optimize it for local SEO
 * Uploading high-quality photos of your practice.
 * Choosing relevant categories (e.g., ophthalmologist, ophthalmology clinic, optometrist)
 * Sharing a full list of services.
-
-
 * Creating a Q&A section (while you are waiting for patients to ask questions, you can use this as a FAQ section, in which questions contain appropriate ophthalmology keywords).
 * Adding a "book an appointment" button
 
@@ -67,8 +65,6 @@ Local SEO for ophthalmologists focuses on [keywords](https://doctorlogic.com/blo
 
 * **Procedure keywords** – LASIK surgery, refractive eye surgery, eye exam.
 * **Specialty keywords** – eye doctors, LASIK surgeon, ophthalmologist
-
-
 * **Location keywords** – Seattle, Boston, Houston.
 
 These categories are then used in combinations:
@@ -84,19 +80,19 @@ If you aren't working with a marketing agency, you can rely on such free tools a
 
 To appeal to local patients, your website should comply with relevant SEO practices.
 
-**NAP Consistency**
+##### **NAP Consistency**
 
 Your clinic's Name, Address, and Phone Number (NAP) should be the same across all the possible touchpoints. This includes GBP, website footnotes, CTAs, contact us pages, and citations.
 
 If this data is inconsistent, it can confuse potential patients and send them shopping around for another eye healthcare provider. It also will confuse Google which can hurt your rankings.
 
-**On-Page SEO**
+##### **On-Page SEO**
 
 For local SEO, you need to optimize website elements to help search engine crawlers understand the relevance of the webpage to the user's query. To do that, you can add local keywords to meta descriptions, title tags, URLs, and headers.
 
 **Pro tip:** Always put the keyword closer to the beginning of the title, URL, meta description, and header.
 
-**Schema Markup**
+##### **Schema Markup**
 
 Schema markup (also called [structured data](https://developers.google.com/search/docs/advanced/structured-data/local-business)) is a machine-readable language designed specifically to help search engines crawl, categorize, and rank web pages. While Google can rank your site without structured data, adding local schema markups streamlines the process and improves the way your website appears in the SERPs.
 
@@ -127,8 +123,6 @@ Sourcing reviews are a significant part of local SEO for ophthalmologists. Accor
 
 * Ask for reviews in a follow-up email.
 * Send a text message with reminders to leave a review.
-
-
 * Put up office signs that ask for reviews.
 * Make it easy to leave a review on your website.
 
