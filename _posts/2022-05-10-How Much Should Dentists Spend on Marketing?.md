@@ -1,6 +1,6 @@
 ---
 post_title: How Much Should Dentists Spend on Marketing?
-date: 2022-05-10 05:00:00 +0000
+date: 2022-05-10T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags: []
 post_intro: Whether you’re an existing or de novo dental practice, you will struggle
@@ -19,7 +19,7 @@ product:
 - search amplifier
 
 ---
-**How Much Should Dentists Spend on Marketing?**
+## **How Much Should Dentists Spend on Marketing?**
 
 Whether you’re an existing or de novo dental practice, you will struggle to survive without a competitive marketing budget. You must set aside a specific amount of money you’re willing to spend to maximize profitability and return on investment (ROI).
 
@@ -27,7 +27,7 @@ Some practices may budget based on a percentage of revenue. Meanwhile, others st
 
 Keep in mind that it’s always best to start with a general benchmark. If you know what you’re willing to spend and what available in your budget, you’ll avoid spending too much or too little on your marketing.
 
-**How much does the average business spend on marketing?**
+## **How much does the average business spend on marketing?**
 
 ![](/uploads/shutterstock_2118853838.jpg)
 
@@ -35,17 +35,17 @@ Today, businesses are spending considerably more on marketing than they had in t
 
 While these figures account for the average business spend, dental practices typically spend even more on their marketing.
 
-**Why do dentists spend more than average on marketing?**
+## **Why do dentists spend more than average on marketing?**
 
 What sets dental practices apart from other types of businesses is their hyper-competitiveness. Many dental practices in a given area want to attract the highest number of local clients and earn their loyalty, and many patients seek a reliable long-term dentist that they can visit for years.
 
 This level of competitiveness means that your budget must be competitive with other dentists’ spending, which is already higher than average. You need to be able to fill seats at your practice consistently, or else it will suffer. Also, understand that patients rarely drive far for initial examinations, which makes for even more competition for the same patients than for a company offering goods anywhere. Convenience is critical to these patients, which is why you need to show what sets you apart from practices that are potentially even closer to prospective patients.
 
-**What should you budget for dental marketing?**
+## **What should you budget for dental marketing?**
 
 The budget you set for your dental practice will largely depend on whether your practice is new or more established in the industry.
 
-**De Novo Dental Practices**
+#### **De Novo Dental Practices**
 
 New dental practices will need to market their business effectively to attract new patients, but they’ll also require a larger marketing budget to build initial brand awareness. This will help introduce prospective patients to your brand and increase both recognition and trust over time.
 
@@ -53,13 +53,13 @@ In addition, new practices will need to spend money on [building a dental websit
 
 To increase your website’s visibility on Google and other search engines, you’ll also need to invest in [dental search engine optimization (SEO) strategies that attract more patients](https://doctorlogic.com/blog/2019-12-25dental-seo-attract-more-patients.html). This will entail targeting relevant keywords in your industry, including locally targeted search terms that people enter when looking for a dentist in their area.
 
-**Existing Dental Practices**
+#### **Existing Dental Practices**
 
 For dental practices that have already built a foundation in their area, marketing spend will largely go toward growth. In facilitating this, you will need to invest in pay-per-click (PPC) ads on Google and various social media platforms such as Facebook. These ads will help ensure more people learn about your practice and visit your website.
 
 If you find that your existing traffic isn’t converting into leads, you may want to consider investing in redesigning your website. You might discover that you’re not providing enough detail about your services or that people are having a hard time navigating your site. By conducting an audit of your website, you can better determine what’s working and what needs improvement.
 
-**What metrics matter when budgeting for dental marketing?**
+## **What metrics matter when budgeting for dental marketing?**
 
 Dental practices can benefit from tracking certain key metrics when launching their marketing campaigns. Some of the most important metrics for these practices include:
 
@@ -81,7 +81,7 @@ Another crucial metric to track for dental practices is new patient value (NPV),
 
 Patient lifetime value (PLV) tracks the revenue earned from each patient throughout their lifetime with the dental practice. Each practice has a unique PLV that can range from thousands to tens of thousands of dollars.
 
-**How much do dental marketing services cost each month?**
+## **How much do dental marketing services cost each month?**
 
 There isn’t a universal cost for dental marketing services for every practice. The final cost will depend on how quickly you need to acquire patients and the number of marketing vendors you choose.
 
@@ -113,7 +113,7 @@ Simply posting on social media isn’t enough due to the steep decline in organi
 
 For these campaigns, you will need to budget for boosting your best posts and delivering social media dark ads to prospective patients. In most cases, you can generate leads through social media with an investment of $1,000 to $2,000.
 
-**Why invest in a patient acquisition platform?**
+## **Why invest in a patient acquisition platform?**
 
 ![](/uploads/shutterstock_2081842702.jpg)
 
@@ -121,7 +121,7 @@ Instead of paying different vendors for dental marketing services and covering e
 
 DoctorLogic has all the tools you need to attract dental patients and grow your practice.
 
-**How much should you spend on dental marketing?**
+## **How much should you spend on dental marketing?**
 
 Generally, in somewhat competitive markets, dental practices should spend a minimum of $1,000 per month on marketing. On the other hand, in highly competitive markets, practices should spend at least $3,500. This price excludes the one-time payment required to set up or redesign your website.
 
