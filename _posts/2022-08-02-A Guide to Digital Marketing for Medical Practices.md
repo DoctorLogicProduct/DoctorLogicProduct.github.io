@@ -19,7 +19,7 @@ product:
 - website management
 
 ---
-# **A Guide to Digital Marketing for Medical Practices**
+## **A Guide to Digital Marketing for Medical Practices**
 
 ![](/uploads/shutterstock_765947833.jpg)
 
@@ -44,8 +44,6 @@ If you already use tried-and-tested offline advertising methods, why do you need
 When patients need medical information assistance, the majority of them:
 
 * Research their symptoms online
-
-
 * Look for the nearest practice online
 * Read reviews on doctor review websites
 * Check the list of services or working hours of the medical practice online
@@ -88,8 +86,6 @@ If you are handling protected health information (PHI) through patient reviews, 
 
 * Purchasing SSL certificate
 * Using encrypted e-mail servers
-
-
 * Choosing HIPPA-compliant web hosting
 * Encrypting patient forms
 * Managing authorization for handling PHI
@@ -111,8 +107,6 @@ To create an effective SEO strategy, you need to:
 * Add citations through business listings
 * Create valuable content
 * Leverage schema
-
-
 * Monitor Google algorithm updates
 
 SEO is an excellent way to bring organic traffic to your website where you can use other tactics to convert visitors into leads.
@@ -135,8 +129,6 @@ PPC ads are an excellent lead generation tool since they target potential client
 
 * Posting valuable content (make sure not to share PHI in your feed)
 * Leveraging social ads
-
-
 * Researching the target audience’s preferences
 * Engaging with your audience
 * Soliciting reviews
@@ -151,8 +143,6 @@ You may have heard that content is king. When it comes to healthcare marketing, 
 
 * Help with SEO tactics
 * Attract backlinks
-
-
 * Generate feedback
 * Educate patients
 * Increase brand awareness
@@ -168,8 +158,6 @@ The most common content types that doctors use include blogs, infographics, vide
 One example of reputation management for doctors involves:
 
 * Claiming or creating [Google Business Profile](https://support.google.com/business/answer/2911778?hl=en&co=GENIE.Platform%3DDesktop)
-
-
 * Filling out all the necessary information
 * Soliciting reviews from patients
 * Replying to reviews (both positive and negative) immediately
