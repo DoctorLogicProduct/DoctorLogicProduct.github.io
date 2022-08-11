@@ -19,8 +19,6 @@ product:
 - website management
 
 ---
-## **A Guide to Digital Marketing for Medical Practices**
-
 ![](/uploads/shutterstock_765947833.jpg)
 
 With [77% of potential patients](https://searchengineland.com/77-percent-of-online-health-seekers-start-at-search-engines-pew-study-145105) researching health information online, digital marketing is a vital part of any medical marketing strategy. If the ROI (return on investment) of your medical practice’s marketing is less than satisfactory, you may not be paying enough attention to your digital presence.
