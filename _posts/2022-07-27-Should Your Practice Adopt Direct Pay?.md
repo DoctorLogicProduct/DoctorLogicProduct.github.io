@@ -1,11 +1,12 @@
 ---
 post_title: Should Your Practice Adopt Direct Pay?
-date: 2022-07-27 05:00:00 +0000
+date: 2022-07-27T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags: []
-post_intro: In the health care industry, prior authorization requirements haven't
-  improved. According to a recent poll of 644 medical practices, 79% reported that
-  prior authorization requirements rose.
+post_intro: The Direct Primary Care model, or DPC, is a practice and payment model
+  that enables patients to pay their practices or primary care physicians directly.
+  They can do so by making periodic payments for certain primary care services, usually
+  in the form of an annual or monthly fee.
 post_image: "/uploads/shutterstock_1439351843.jpg"
 post_highlight: In the health care industry, prior authorization requirements haven't
   improved. According to a recent poll of 644 medical practices, 79% reported that
