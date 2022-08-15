@@ -8,7 +8,7 @@ tags:
 post_intro: Giving your website a professional makeover is the first step in building
   a marketing strategy that will set your services apart from your competitors and
   help you grow the business.
-post_image: ''
+post_image: "/uploads/confirmation_page.jpg"
 post_highlight: Giving your website a professional makeover is the first step in building
   a marketing strategy that will set your services apart from your competitors and
   help you grow the business.
