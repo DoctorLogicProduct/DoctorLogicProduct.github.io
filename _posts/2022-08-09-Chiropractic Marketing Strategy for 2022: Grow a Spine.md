@@ -1,5 +1,5 @@
 ---
-post_title: 'Chiropractic Marketing Strategy for 2022: Grow a Spine'
+post_title: 'Chiropractic Marketing Strategy for 2022: Grow a Spine!'
 date: 2022-08-09 05:00:00 +0000
 post_author: DoctorLogic Employee
 tags:
