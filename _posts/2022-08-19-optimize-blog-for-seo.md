@@ -1,6 +1,6 @@
 ---
 post_title: 7 SEO Practices to Optimize Your Blog Posts
-date: 2022-08-19 05:01:00 +0000
+date: 2022-08-20 05:01:00 +0000
 post_author: DoctorLogic Employee
 tags:
 - Medical SEO
