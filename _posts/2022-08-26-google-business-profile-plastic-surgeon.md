@@ -79,6 +79,9 @@ GBPs also make it easy for prospects to connect with you. Not only will they be 
 
 7. **Performing Local SEO**
 
+
+7. **Performing Local SEO**
+
 Finally, a GBP will help you perform local SEO more effectively. Local SEO involves improving the online visibility of your business in local search results, which is crucial as [71% of search traffic clicks](https://www.forbes.com/sites/forbesagencycouncil/2017/10/30/the-value-of-search-results-rankings/?sh=677f80d344d3) go to websites located on the first page of Google search results. Local SEO is especially important given that practices typically serve well-defined communities. An accurate and active GBP is essential to boosting any business or practice's ranking in local search results, making it easier for those in your community to find you.
 
 ## **Creating a Great First Impression With Your GBP**
