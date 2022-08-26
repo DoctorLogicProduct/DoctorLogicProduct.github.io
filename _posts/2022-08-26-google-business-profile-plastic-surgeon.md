@@ -47,7 +47,7 @@ GBPs are automatically created using basic information Google finds online about
 
 ![](/uploads/shutterstock_474699898-1.jpg)
 
-If you're still not sold on why you need to take advantage of this free marketing tool, here are seven benefits your practice will see from claiming and updating your GBP. 
+If you're still not sold on why you need to take advantage of this free marketing tool, here are seven benefits your practice will see from claiming and updating your GBP.
 
 1. **Attracting New Patients**
 
