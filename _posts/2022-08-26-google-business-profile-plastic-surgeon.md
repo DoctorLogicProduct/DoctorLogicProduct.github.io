@@ -49,38 +49,35 @@ GBPs are automatically created using basic information Google finds online about
 
 If you're still not sold on why you need to take advantage of this free marketing tool, here are seven benefits your practice will see from claiming and updating your GBP.
 
-1. **Attracting New Patients**
+**Attracting New Patients**
 
 GBPs provide plastic surgery practices with an excellent opportunity to attract new patients. An optimized GBP improves your practice's online visibility, helping local prospects find you when they search for you by name or the services you offer. Having an up-to-date GBP is especially helpful when you have a competitor with a similar name nearby. Your GBP can help your practice stand out, improve your search engine ranking, and [attract more visitors to your website](https://doctorlogic.com/blog/7-lead-generation-tactics-for-plastic-surgeons) and office.
 
-2. **Maintaining Accurate Information**
+**Maintaining Accurate Information**
 
 Claiming your GBP helps you ensure that information online about your practice is accurate. Many consumers have found themselves driving to a business using a GBP and Google Maps, only to find that that business has changed locations. Businesses and practices lose prospects that way, so it's imperative you claim your GBP to keep information about you online accurate and current.
 
-3. **Educating Through Photos and Video**
+**Educating Through Photos and Video**
 
 When prospects approach any healthcare provider for the first time, they often do so with a certain amount of trepidation. After all, healthcare services, and especially plastic surgery, are not like other services. You can request a refund if a dry cleaning business mistakenly damages your clothes. But if a healthcare provider makes a mistake, the consequences are far greater.
 
 Using photos and videos to humanize your practice can help prospects feel more comfortable about the care you'll provide. Clean facilities, welcoming staff, and clear explanations of your services are just a few ways you can use photos and videos on your GBP to market your practice effectively.
 
-4. **Demonstrating Social Proof**
+**Demonstrating Social Proof**
 
 When your GBP is populated with positive reviews, prospects also feel more comfortable about your practice. They may see reviewers who've successfully gotten the same services they seek from you, which can help make the difference between them choosing you or a local competitor.
 
 But reviews do more than allay prospect fears. Positive reviews increase your visibility in Google search engine results pages (SERPs), making it easier for prospects to find your practice when seeking plastic surgery services.
 
-5. **Interacting With Potential and Existing Patients**
+**Interacting With Potential and Existing Patients**
 
 GBPs also provide you the opportunity to interact with prospects and existing customers. Sometimes, all it takes is a thank you post on a positive review to encourage a past customer to come back to you for future services or refer your practice to their friends. It may seem small, but engaging people positively and quickly on GBPs can drive as much traffic to your website and practice as an expensive digital campaign.
 
-6. **Book Appointments from the SERP**
+**Book Appointments from the SERP**
 
 GBPs also make it easy for prospects to connect with you. Not only will they be able to get to your office more efficiently using Google Maps. If they access your GBP using their smartphone, they'll be able to click the "Call" button or phone number link and dial you automatically. And if you enable the "Book Appointment" feature and synchronize it with your in-house scheduling system, prospects will be able to arrange a consultation with you immediately.
 
-7. **Performing Local SEO**
-
-
-7. **Performing Local SEO**
+**Performing Local SEO**
 
 Finally, a GBP will help you perform local SEO more effectively. Local SEO involves improving the online visibility of your business in local search results, which is crucial as [71% of search traffic clicks](https://www.forbes.com/sites/forbesagencycouncil/2017/10/30/the-value-of-search-results-rankings/?sh=677f80d344d3) go to websites located on the first page of Google search results. Local SEO is especially important given that practices typically serve well-defined communities. An accurate and active GBP is essential to boosting any business or practice's ranking in local search results, making it easier for those in your community to find you.
 
