@@ -26,17 +26,18 @@ product:
 ---
 ![](/uploads/shutterstock_2170753197.jpg)
 
-Google unveiled its first measurement tool, Urchin from Google, in 2005. Google followed this up with Google Analytics (or Google Analytics Classic) in 2007 and in 2012, Universal Analytics was released. 
+Google unveiled its first measurement tool, Urchin from Google, in 2005. Google followed this up with Google Analytics (or Google Analytics Classic) in 2007 and in 2012, Universal Analytics was released.
 
 So it was no great shock to the DoctorLogic team to learn that Google was again upgrading its measurement tools to Google Analytics 4 (GA4). However, Google inspired minor panic when the company said it would stop processing new UA data on July 1, 2023.
-
-To mitigate this issue, DoctorLogic has already integrated GA4 and currently uses it in conjunction with UA.
 
 So, what does this mean for DoctorLogic clients, exactly?
 
 ### What is changing about DoctorLogic's Google Analytics reporting?
 
-Everything will remain the same for now. The DoctorLogic team will continue to use UA to measure pageviews, conversions, sessions, and more. Once UA is no longer used in 2023, our reporting will switch to an entirely GA4-based system. GA4 will use different metrics, but reporting capabilities will remain at the same level.
+Everything will remain the same for now and all the reporting within your dashboard will continue to function as normal.
+
+  
+The DoctorLogic team will continue to use UA to measure pageviews, conversions, sessions, and more. Once UA is no longer used in 2023, our reporting will switch to an entirely GA4-based system. GA4 will use different metrics, but reporting capabilities will remain at the same level.
 
 ### What is the biggest difference between UA and GA4?
 
