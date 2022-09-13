@@ -37,7 +37,7 @@ So, what does this mean for DoctorLogic clients, exactly?
 Everything will remain the same for now and all the reporting within your dashboard will continue to function as normal.
 
   
-The DoctorLogic team will continue to use UA to measure pageviews, conversions, sessions, and more. Once UA is no longer used in 2023, our reporting will switch to an entirely GA4-based system. GA4 will use different metrics, but reporting capabilities will remain at the same level.
+The DoctorLogic team will continue to use UA to measure pageviews, conversions, sessions, and more. Once Google phases out UA in July 2023, DoctorLogic's reporting will then be powered by GA4 data points.. Although GA4's reporting capabilities differ from UA, the ability to track website acquisition, engagement, and conversion metrics will still be supported.
 
 ### What is the biggest difference between UA and GA4?
 
@@ -65,22 +65,10 @@ With the implementation of GA4, DoctorLogic and its clients will be able to comp
 
 Put simply, **no**, you don't need to do anything to make the transition to GA4.
 
-If you're currently a DoctorLogic client, we've already set up Google Analytics 4 on your account. You can ignore any email warnings you may receive about the deprecation of Universal Analytics. You'll be able to experience the benefits of the new platform without any additional installations or upgrades.
-
-UA is still available, but we understand how important it is to engage in early implementation of GA4. This way, we can start collecting valuable data, allowing us to accurately compare year-over-year numbers.
-
-### How DoctorLogic uses Google Analytics 4
-
-![](/uploads/shutterstock_1994339615.jpg)
-
-GA4 comes with powerful out-of-the-box measurements to help track performance. These metrics include outbound clicks, scroll-depth, video engagements, and file downloads along with other data.
-
-While GA4 offers reliable data tracking capabilities, you will need to further customize GA4 if you want to measure lead generation and lead conversion efforts. You may need to add specific parameters that pertain to this data, such as thank you page visits that count as trackable events. Ultimately, there are plenty of ways to get the most from GA4 analytics with the right approach.
-
-As we continue to move away from UA and into GA4, we're preparing our clients for the future of digital marketing and analytics. We're also remaining diligent in the industry and ready to adopt any new tools and resources that help us keep our clients ahead.
+If you're currently a DoctorLogic client, we've already set up Google Analytics 4 on your account. In the upcoming months you'll be able to experience the benefits of the new platform without any additional installations or upgrades. If you receive any emails from Google on these topics that are confusing, we encourage you to reach out to our team so we can answer any questions. You can rely on our expertise -- we've got you covered!
 
 ### What's next for DoctorLogic and GA4?
 
-The DoctorLogic analytics team is busy creating new reporting for the admin dashboard. The DoctorLogic team is is currently integrating GA4 into the Admin Dashboard to take advantage of any potential new metrics, visualizations, and insights that may become available. At the same time, it will harness the new data that GA4 will provide around user behavior on the website.
+The DoctorLogic analytics team is busy creating new reporting for the admin dashboard. The DoctorLogic team is is currently integrating GA4 into the Admin Dashboard to take advantage of any potential new metrics, visualizations, and insights that may become available. At the same time, it will harness the new data that GA4 will provide around user behavior on the website.![](/uploads/shutterstock_1994339615.jpg)
 
 This process will involve developing custom events for various types of page views, such as procedure pages, gallery views, phone calls, and form submissions. These events will enable clients to track user paths through their websites with ease. You'll then be able to use this data to optimize engagement and, ultimately, convert more visitors into patients.
