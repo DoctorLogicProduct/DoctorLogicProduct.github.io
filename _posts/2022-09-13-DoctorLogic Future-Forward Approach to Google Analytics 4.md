@@ -53,7 +53,9 @@ As such, GA4's model works differently from UA. In UA, a session comprises vario
 
 Put simply, **no**, you don't need to do anything to make the transition to GA4.
 
-If you're currently a DoctorLogic client, we've already set up Google Analytics 4 on your account. In the upcoming months you'll be able to experience the benefits of the new platform without any additional installations or upgrades. If you receive any emails from Google on these topics that are confusing, we encourage you to reach out to our team so we can answer any questions. You can rely on our expertise -- we've got you covered!
+If you're currently a DoctorLogic client, we've already set up Google Analytics 4 on your account so we can begin tracking historical data well in advance of the UA deprecation next summer. This advanced planning will ensure you'll be able to experience the benefits of GA4 without any additional installations or upgrades.
+
+If you receive any emails from Google on these topics that are confusing, we encourage you to reach out to our team so we can answer any questions. You can rely on our expertise -- we've got you covered!
 
 ### What's next for DoctorLogic and GA4?
 
