@@ -1,6 +1,6 @@
 ---
 post_title: 'Beyond Blue and White: A Guide to Choosing Medical Logo Colors'
-date: 2022-09-27 05:00:00 +0000
+date: 2022-09-26 05:00:00 +0000
 post_author: DoctorLogic Employee
 tags:
 - Strategy
