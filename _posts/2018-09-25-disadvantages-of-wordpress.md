@@ -27,7 +27,7 @@ product:
 ---
 It’s important to note that not all websites are created equally.
 
-Websites can experience technical difficulties and may need a lot of management from an agency, especially if it is created on WordPress. 
+Websites can experience technical difficulties and may need a lot of management from an agency, especially if it is created on WordPress.
 
 We are going to share with you six disadvantages of a WordPress website.
 
@@ -40,6 +40,8 @@ However, if you want to add features to your website, your agency would have to 
 For example, if you want to add your Instagram feed on your website, you would have to download [InstaWidget](https://instawidget.net/).
 
 Your agency would have to install, manage, and update the plugins. This can be difficult to manage and rarely happens with agencies.
+
+![Subscribe to the DoctorLogic blog Banner](/uploads/2022-doctorlogic-subscribeblog-cta-01-1.png "Subscribe to the DoctorLogic blog.")
 
 ### 2. Frequent Theme and Plugin Updates
 
@@ -79,15 +81,15 @@ Any website vulnerability can have a negative impact on your credibility and cou
 
 Websites can go down for many reasons without notice.
 
-If you aren’t paying attention to your site, you may not realize it is down. It could be down for a couple of hours or even days, therefore, negatively impacting your business.
+If you aren’t paying attention to your site, you may not realize it is down. It could be down for a couple of hours or even days, negatively impacting your business.
 
-Then you have to hire an agency to help you get it back up, which again is another expense that you don’t want to have.
+Then you have to hire an agency to help you get it back up, which is another expense you don’t want to have.
 
 ### In Closing
 
-Although WordPress is a popular content management system due to its simplicity and is considered an inexpensive way for businesses to get started online, think twice about building your business website on WordPress.
+Although WordPress is a popular content management system for its simplicity and is considered an inexpensive way for businesses to get started online, think twice about building your business website on WordPress.
 
-Save yourself money and avoid the headache.
+Save yourself money and avoid headaches.
 
 Get in touch with [DoctorLogic](https://doctorlogic.com/pricing/) to learn more about our platform to help you grow your practice.
 
