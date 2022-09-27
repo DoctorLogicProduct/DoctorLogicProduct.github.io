@@ -35,9 +35,9 @@ We are going to share with you six disadvantages of a WordPress website.
 
 When your agency purchases a design template, they typically get fully designed website pages that have to be updated with your branded content (images and text).
 
-However, if you want to add features to your website, your agency would have to search for plugins on WordPress. Some plugins are free and others come with a fee. Sometimes, the plugins found are outdated and are no longer being used.
+However, if you want to add features to your website, your agency would have to search for plugins on WordPress. Some plugins are free, and others come with a fee. Sometimes, the plugins found are outdated and are no longer being used.
 
-For example, if you want to add your Instagram feed on your website, you would have to download [InstaWidget](https://instawidget.net/).
+For example, if you want to add your Instagram feed to your website, you must download [InstaWidget](https://instawidget.net/).
 
 Your agency would have to install, manage, and update the plugins. This can be difficult to manage and rarely happens with agencies.
 
@@ -47,35 +47,35 @@ Your agency would have to install, manage, and update the plugins. This can be d
 
 Keep in mind that in the digital age, things are constantly changing to benefit and improve the user experience.
 
-Your agency would have to constantly log on to your site to review the dashboard to see if your theme or plugins need to be updated. This is something your agency can miss with other projects going on because they constantly need to be checked and updated.
+Your agency would have to constantly log on to your site to review the dashboard to see if your theme or plugins need to be updated. Your agency can miss this with other projects because they constantly need to be checked and updated.
 
-Don’t forget with all technology advancements, glitches and errors do happen. You can experience broken links or your site can crash.
+Don’t forget with all technological advancements, glitches and errors do happen. You can experience broken links, or your site can crash.
 
 ### 3. Slow Page Speed
 
-WordPress is still a slow platform due to the all the added plugins, oversaturated databases, and codebases.
+WordPress is still a slow platform due to all the added plugins, oversaturated databases, and codebases.
 
 However, those are not the only things that can slow down your website. Large images, a lot of wording on a page, and unreliable hosting can impact your website speed.
 
-Page speed is crucial to your website. You want a fast loading website so your audience doesn’t get impatient and decide to leave, which can cause you to lose business because they won’t see what you have to offer.
+Page speed is crucial to your website. You want a fast-loading website so your audience doesn’t get impatient and decide to leave, which can cause you to lose business because they won’t see what you have to offer.
 
 ### 4. Poor SEO Ranking
 
-WordPress only offers limited SEO optimizing features in its packages, which is not enough to help you rank in Google.
+WordPress only offers limited SEO optimizing features in its packages, which is not enough to help you rank on Google.
 
-If you want to truly maximize your SEO efforts, then you need a stronger software and technology to outrank other medical practices in a competitive market.
+To truly maximize your SEO efforts, you need stronger software and technology to outrank other medical practices in a competitive market.
 
-Additionally, you will need an agency that will target thousands of relevant keywords versus only a handful of keywords. Most agencies only do a handful of keywords, which isn’t going to make an impact on your search engine rankings. With more relevant keywords, it will help your practice be found in the search engines by potential and current clients.
+Additionally, you will need an agency that will target thousands of relevant keywords versus only a handful of keywords. Most agencies only do a handful of keywords, which isn’t going to make an impact on your search engine rankings. More relevant keywords will help your practice be found in the search engines by potential and current clients.
 
 ### 5. Website Vulnerability
 
-Like all things on the internet, your website is susceptible of getting hacked and spammed.
+Like all things on the internet, your website is susceptible to getting hacked and spammed.
 
 Due to the popularity of WordPress, it is the main target for hackers and spammers. Even if your agency downloads all the security plugins WordPress offers, it is not enough to keep your website safe.
 
-Your website will likely get spammed if you have a blog section that allows comments or if you have a contact us form. It can be time consuming to go through the comments and emails.
+Your website will likely get spammed if you have a blog section that allows comments or if you have a contact us form. It can be time-consuming to go through the comments and emails.
 
-Any website vulnerability can have a negative impact on your credibility and could potentially spread viruses to your users.
+Any website vulnerability can hurt your credibility and potentially spread viruses to your users.
 
 ### 6. Website Can Go Down Without Notice
 
