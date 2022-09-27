@@ -41,7 +41,7 @@ For example, if you want to add your Instagram feed on your website, you would h
 
 Your agency would have to install, manage, and update the plugins. This can be difficult to manage and rarely happens with agencies.
 
-![Subscribe to the DoctorLogic blog Banner](/uploads/2022-doctorlogic-subscribeblog-cta-01-1.png "Subscribe to the DoctorLogic blog.")
+[![Subscribe to the DoctorLogic blog Banner](/uploads/2022-doctorlogic-subscribeblog-cta-01-1.png "Subscribe to the DoctorLogic blog.")](https://growth.doctorlogic.com/subscribe-to-the-blog?utm_campaign=Blog%20Subscriptions&utm_source=DoctorLogic%20Blog%20Post&utm_medium=DoctorLogic%20Blog%20CTA "Subscribe to the DoctorLogic blog.")
 
 ### 2. Frequent Theme and Plugin Updates
 
