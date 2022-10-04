@@ -1,0 +1,349 @@
+---
+layout: blank
+page_name: ma_new_test
+title: Digital Marketing Agency for Doctors | DoctorLogic
+description: "DoctorLogic is a medical website platform giving doctors control of online reputation, photo galleries, search optimization, lead generation and website marketing."
+meta_image: "/img/meta/dl.jpg"
+permalink: /ma_new_test
+header_clear: true
+page_class:
+- class: ma_new_test
+hero:
+  - text:
+      - headline: Xavier Logic, MD
+        practice_type: Plastic Surgery
+        address: 123 Main St. Plano, TX 75402
+    stats:
+      - value: "5,084,036"
+        label: Local Population within 15 miles
+      - value: $174,605,400
+        label: Local Revenue for Plastic Surgery
+      - value: "1,304,700"
+        label: Local SEO Keywords for Your Practice
+procedures:
+  - header: 
+        - value: $174,605,400
+    procedures:
+        - count: "1,885"
+          image: /img/ma_new/1.jpg
+          label: Mommy Makeover
+          value: $26,390,000
+          type: Patients
+          price: "14,000"
+        - count: "1,739"
+          image: /img/ma_new/2.jpg
+          label: Facelift
+          value: $15,477,100
+          type: Patients
+          price: "8,900"
+        - count: "11,544"
+          image: /img/ma_new/3.jpg
+          label: BOTOX Injections
+          value: $13,852,100
+          type: Patients
+          price: "1,200"
+        - count: "1,633"
+          image: /img/ma_new/4.jpg
+          label: Hair Restoration
+          value: $10,614,500
+          type: Patients
+          price: "6,500"
+        - count: "3,800"
+          image: /img/ma_new/5.jpg
+          label: Laser Skin Resurfacing
+          value: $9,120,100
+          type: Patients
+          price: "2,400"
+        - count: "801"
+          image: /img/ma_new/6.jpg
+          label: Rhinoplasty
+          value: $8,811,000
+          type: Patients
+          price: "11,000"
+        - count: "3,577"
+          image: /img/ma_new/7.jpg
+          label: Laser Hair Removal
+          value: $5,723,200
+          type: Patients
+          price: "1,600"
+        - count: "607"
+          image: /img/ma_new/8.jpg
+          label: Eyelid Lift
+          value: $3,945,500
+          type: Patients
+          price: "6,500"
+        - count: "209"
+          image: /img/ma_new/9.jpg
+          label: Tummy Tuck
+          value: $3,435,000
+          type: Patients
+          price: "15,000"
+keywords:
+  - value: "1,340,700"
+    items:
+      - label: "Xavier Logic, MD"
+      - label: "Xavier Logic, MD Plano"
+      - label: "Xavier Logic, MD Dallas"
+      - label: "Xavier Logic, MD DFW"
+      - label: "Xavier Logic, MD McKinney"
+      - label: "Xavier Logic, MD Allen"
+      - label: "Xavier Logic, MD Southlake"
+      - label: "Xavier Logic, MD Highland Park"
+      - label: "Xavier Logic Plastic Surgeon"
+      - label: "Xavier Logic Plastic Surgeon Dallas"
+      - label: "Xavier Logic Plastic Surgeon Frisco"
+      - label: "Xavier Logic Plastic Surgeon DFW"
+      - label: "Xavier Logic Plastic Surgeon McKinney"
+      - label: "Xavier Logic Plastic Surgeon Southlake"
+      - label: "Xavier Logic Plastic Surgeon Highland Park"
+      - label: "Xavier Logic Plastic Surgery"
+      - label: "Xavier Logic Plastic Surgery Plano"
+      - label: "Xavier Logic Plastic Surgery Dallas"
+      - label: "Xavier Logic Plastic Surgery Frisco"
+      - label: "Xavier Logic Plastic Surgery DFW"
+      - label: "Xavier Logic Plastic Surgery McKinney"
+      - label: "Xavier Logic Plastic Surgery Southlake"
+      - label: "Xavier Logic Plastic Surgery Highland Park"
+      - label: "Plano Plastic Surgery"
+      - label: "Plano Plastic Surgeon"
+      - label: "Plastic Surgery in Plano"
+      - label: "Plastic Surgeon in Plano"
+      - label: "Plastic Surgery near Plano"
+      - label: "Plastic Surgeon near Plano"
+      - label: "Plastic Surgery in Plano"
+      - label: "Board Certified Plastic Surgeon Plano"
+      - label: "Board Certified Plastic Surgeon in Plano"
+      - label: "Board Certified Plastic Surgeon near Plano"
+      - label: "Plano Cosmetic Surgery"
+      - label: "Plano Cosmetic Surgeon"
+      - label: "Cosmetic Surgery in Plano"
+      - label: "Cosmetic Surgeon in Plano"
+      - label: "Cosmetic Surgery near Plano"
+      - label: "Cosmetic Surgeon near Plano"
+      - label: "Breast Augmentation"
+      - label: "Breast Augmentation Cost"
+      - label: "Breast Augmentation Photos"
+      - label: "Breast Augmentation Surgery"
+      - label: "Breast Augmentation Reviews"
+      - label: "Breast Augmentation Plano"
+      - label: "Breast Augmentation in Plano"
+      - label: "Breast Augmentation near Plano"
+      - label: "Breast Augmentation Doctor in Plano"
+      - label: "Breast Augmentation Doctor near Plano"
+      - label: <a href="#">View All 1,340,700 Keywords</a>
+---
+
+<div class="ma_new">
+  <div class="header">
+    <div class="header__logo">
+      <img src="/img/header-logo-white.svg" alt="">
+    </div>
+    <nav>
+      <input type="checkbox" id="nav" class="hidden"/>
+      <label for="nav" class="nav-open"><i></i><i></i><i></i></label>
+      <div class="nav-container">
+        
+        <ul>
+          <li><a href="#">Reset</a></li>
+          <li><a href="#">Save</a></li>
+          <li><a href="#">Print</a></li>
+          <li><a href="#">Share</a></li>
+          <li><a href="#">Demo</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+  
+  {% for hero in page.hero %}
+  <div class="ma_new-hero">
+    {% for text in hero.text %}
+    <div class="ma_new-hero__text">
+      <h1 class="ma_new-hero__headline">{{ text.headline }}</h1>
+      <h3 class="ma_new-hero__practice-type">{{ text.practice_type }}</h3>
+      <p class="ma_new-hero__address">{{ text.address }}</p>
+    </div>
+    {% endfor %}
+    <div class="ma_new-hero__stats">
+      {% for stat in hero.stats %}
+      <div class="ma_new-hero__stat">
+        <h2>{{stat.value}}</h2>
+        <p>{{stat.label}}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+  <div class="ma_new-container">
+    <div class="ma_new-demographics">
+      <div class="ma_new-demographics__sliders">
+        <label class="input input--range">
+          <span class="input__label">5,084,036 People Within 15 Miles</span>
+          <span class="input__range-wrapper">
+            <input min="5" max="25" step="5" class="input__input" type="range"
+              value="15">
+              <span class="input__steps">
+                <span class="input__step input__step--1">5</span>
+                <span class="input__step input__step--2">10</span>
+                <span class="input__step input__step--3">15</span>
+                <span class="input__step input__step--4">20</span>
+                <span class="input__step input__step--5">25</span>
+              </span>
+            </span>
+          </label>
+          <label class="input input--range">
+            <span class="input__label">50% of Prospects Become Patients</span>
+            <span class="input__range-wrapper">
+              <input min="5" max="25" step="5" class="input__input" type="range"
+                value="15">
+                <span class="input__steps">
+                  <span class="input__step input__step--1">30%</span>
+                  <span class="input__step input__step--2">40%</span>
+                  <span class="input__step input__step--3">50%</span>
+                  <span class="input__step input__step--4">60%</span>
+                  <span class="input__step input__step--5">70%</span>
+                </span>
+              </span>
+            </label>
+      </div>
+      <div class="ma_new-demographics__list">
+        <table class="table table--demographics">
+          <thead>
+            <tr>
+              <th>Demographic</th>
+              <th>75093</th>
+              <th>15 Miles</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Population</td>
+              <td>47,411</td>
+              <td>5,084,036</td>
+            </tr>
+            <tr>
+              <td>Female</td>
+              <td>24,464</td>
+              <td>690,721</td>
+            </tr>
+            <tr>
+              <td>Male</td>
+              <td>22,946</td>
+              <td>666,698</td>
+            </tr>
+            <tr>
+              <td>White</td>
+              <td>71%</td>
+              <td>64%</td>
+            </tr>
+            <tr>
+              <td>Black</td>
+              <td>7%</td>
+              <td>11%</td>
+            </tr>
+            <tr>
+              <td>Asian</td>
+              <td>15%</td>
+              <td>13%</td>
+            </tr>
+            <tr>
+              <td>Other</td>
+              <td>7%</td>
+              <td>12%</td>
+            </tr>
+            <tr>
+              <td>Hispanic</td>
+              <td>6%</td>
+              <td>24%</td>
+            </tr>
+            <tr>
+              <td>Non-Hispanic</td>
+              <td>94%</td>
+              <td>76%</td>
+            </tr>
+            <tr>
+              <td>Avg Income</td>
+              <td>$108,718</td>
+              <td>$78,389</td>
+            </tr>
+            <tr>
+              <td>Home Value</td>
+              <td>$431,886</td>
+              <td>$295,333</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    {% for procedures in page.procedures %}
+    <div class="ma_new-procedures">
+      {% for header in procedures.header %}
+        <div class="ma_new-procedures__header">
+          <div class="ma_new-procedures__header-value">
+            <h3>{{header.value}} Local Revenue</h3>
+          </div>
+          <div class="ma_new-procedures__header-filters">
+            <span><a href="#">Add All</a></span>
+            <span><a href="#">Remove All</a></span>
+            <div class="ma_new-procedures__header-select">
+              <select>
+                <option value="1">Add A Service</option>
+                <option value="2">Service Option</option>
+                <option value="3">Service Option</option>
+                <option value="4">Service Option</option>
+                <option value="5">Service Option</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+      {% for procedure in procedures.procedures %}
+      <div class="ma_new-procedure">
+        <div class="ma_new-procedure__image" style="background:url('{{ procedure.image }}') center center/cover no-repeat;">
+          <div class="ma_new-procedure__image-text">
+            <p>{{procedure.label}}</p>
+            <h3>{{procedure.value}}</h3>
+          </div>
+          <div class="ma_new-procedure__image-close">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#fff"><path d="M16,0A16,16,0,1,0,32,16,16.047,16.047,0,0,0,16,0Zm8.121,22L22,24.121l-6-6-6,6L7.879,22l6-6-6-6L10,7.879l6,6,6-6L24.121,10l-6,6Z" fill="#fff"></path></g></svg>
+          </div>
+        </div>
+        <div class="ma_new-procedure__footer">
+          <p class="ma_new-procedure__footer-label">{{procedure.count}} {{procedure.type}}</p>
+          <span class="ma_new-procedure__footer-price-label">Price:</span>
+          <div class="ma_new-procedure__footer-price">
+            <input type="text" placeholder="Price" value="{{procedure.price}}">
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endfor %}
+    {% for keywords in page.keywords %}
+  <div class="ma_new-keywords">
+    <div class="ma_new-keywords__header">
+      <h3>{{keywords.value}} Local Revenue</h3>
+    </div>
+    <div class="ma_new-keywords__items">
+      {% for item in keywords.items %}
+      <p class="ma_new-keywords__item">{{item.label}}</p>
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+  <div class="ma_new-map">
+    <div class="ma_new-map__header">
+      <div class="ma_new-map__header-value">
+        <h3>15 Minute Local Drive Time</h3>
+      </div>
+      <div class="ma_new-map__header-filters">
+          <span>Drive Time:</span>
+          <span><a href="#">15 Minutes</a></span>
+          <span><a href="#" class="ma_new-map__header-filters--disabled">30 Minutes</a></span>
+      </div>
+    </div>
+    <div class="ma_new-map__map">
+      <img src="/img/ma_new/map.png" alt="Drive Radius">
+    </div>
+  </div>
+  </div>
+</div>
