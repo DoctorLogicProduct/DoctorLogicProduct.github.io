@@ -108,8 +108,6 @@ Top practices for dental SMM include:
 
 * Choose the best social media platforms for your needs (Instagram and Facebook usually take center stage. With time, you can extend your efforts to cover other platforms).
 * Share patient testimonials and reviews in your posts.
-
-
 * Post before and after photos (with consent from the patient).
 * Provide relevant information about dental health.
 * Share information about your team (photos, credentials, success stories)
