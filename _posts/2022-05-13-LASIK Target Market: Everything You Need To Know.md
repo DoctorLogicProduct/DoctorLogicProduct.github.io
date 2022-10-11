@@ -49,7 +49,7 @@ The fourth theory is that the growth in eye surgery is due to the high number of
 
 ## **Who Is In The Target Market For LASIK?**
 
-[![Get Your Free Market Analysis](/uploads/subscribeblog.png "Get Your Free Market Analysis")](https://growth.doctorlogic.com/how-to-turn-online-leads-into-primary-care-patients-ebook?utm_campaign=Vision&utm_source=DoctorLogic%20Vision%20Blog%20Posts&utm_medium=LASIK%20eBook&utm_content=LASIK%20eBook "Get Your Free Market Analysis")
+[![Get Your Free Market Analysis](/uploads/lasik.png "Get Your Free Market Analysis")](https://growth.doctorlogic.com/how-to-turn-online-leads-into-primary-care-patients-ebook?utm_campaign=Vision&utm_source=DoctorLogic%20Vision%20Blog%20Posts&utm_medium=LASIK%20eBook&utm_content=LASIK%20eBook "Get Your Free Market Analysis")
 
 Before coming up with marketing strategies for the LASIK procedure, it's essential to know who your target market is. People between 35 and 42 years are the most common group to get LASIK.
 
