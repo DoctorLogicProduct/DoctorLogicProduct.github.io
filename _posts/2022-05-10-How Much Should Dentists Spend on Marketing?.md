@@ -41,6 +41,8 @@ What sets dental practices apart from other types of businesses is their hyper-c
 
 This level of competitiveness means that your budget must be competitive with other dentists’ spending, which is already higher than average. You need to be able to fill seats at your practice consistently, or else it will suffer. Also, understand that patients rarely drive far for initial examinations, which makes for even more competition for the same patients than for a company offering goods anywhere. Convenience is critical to these patients, which is why you need to show what sets you apart from practices that are potentially even closer to prospective patients.
 
+[![Get Your Free Market Analysis](/uploads/dentalanalysis.png "Get Your Free Market Analysis")](https://growth.doctorlogic.com/local-market-analysis-for-dentists-ebook?utm_campaign=Dental%20Market%20Analysis%20and%20Demo&utm_source=DoctorLogic%20Dental%20Blog%20Post&utm_medium=Dental%20Market%20Analysis%20CTA "Get Your Free Market Analysis")
+
 ## **What should you budget for dental marketing?**
 
 The budget you set for your dental practice will largely depend on whether your practice is new or more established in the industry.
