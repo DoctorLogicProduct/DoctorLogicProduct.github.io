@@ -21,6 +21,8 @@ Only 1% of [eligible patients](https://www.bariatricsurgerynewjersey.com/why-onl
 
 Personally, when I’m nervous about something I have a tendency to research to ease my nervousness. I’m not an anomaly. Today’s consumer is digital savvy and turn to Google to find everything. Potential patients are not ignoring Google when it comes to important searches and this includes weight loss surgery. And if you’re Bariatric practice is not sitting at the **top** of Google’s search ranking, then it’s **buried** under a list of other Bariatric providers and needless to say, _that’s not good_.
 
+[![Request a Demo with DoctorLogic](/uploads/cosmetic.png "Request a Demo with DoctorLogic")](https://growth.doctorlogic.com/cosmetic_surgeon_demo?utm_campaign=Get%20a%20Demo&utm_source=DoctorLogic%20Cosmetic%20Surgeon%20Blog%20Post&utm_medium=DoctorLogic%20Cosmetic%20Surgeon%20CTA "Request a Demo with DoctorLogic")
+
 ### So, how do you fix this?
 
 A patient acquisition strategy is a great place to start. In order to acquire new Bariatric patients you need to address the process of finding a lead, turning the lead into a prospect and then turning them into patients. I know this sounds like a long process, but actually finding lead and prospects isn’t as difficult as it may seem. There’s really no shortage, the challenge is getting them through the final stage.
