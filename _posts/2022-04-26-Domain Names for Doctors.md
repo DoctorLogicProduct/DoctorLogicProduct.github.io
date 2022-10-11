@@ -104,6 +104,8 @@ If you're dead-set on a specific domain name, you can always offer to buy it fro
 
 ## **What is next after choosing a domain name?**
 
+[![Subcribe to the DoctorLogic Blog](/uploads/subscribeblog.png "Subcribe to the DoctorLogic Blog")](https://growth.doctorlogic.com/subscribe-to-the-blog?utm_campaign=Blog%20Subscriptions&utm_source=DoctorLogic%20Blog%20Post&utm_medium=DoctorLogic%20Blog%20CTA "Subcribe to the DoctorLogic Blog")
+
 Once you've purchased a domain for your medical practice, it's time to develop your website and maximize its appeal and performance.
 
 Remember, [your website must have a mix of functionality and stunning design](https://doctorlogic.com/blog/medical-website-must-have.html). If it's not well-designed, this will turn away prospects. On the other hand, if it's not functional, then prospects won't be turned into leads.
