@@ -28,7 +28,7 @@ Making the content of your website SEO optimized will attract more traffic to yo
 
 Eventually, your page will rank high and appear more frequently on search engine results. By ranking high on various search engines, you can increase the visibility and exposure of your business significantly.
 
-[![Request a Demo with DoctorLogic](/uploads/cosmetic.png "Subscribe to the DoctorLogic blog.")](https://growth.doctorlogic.com/cosmetic_surgeon_demo?utm_campaign=Get%20a%20Demo&utm_source=DoctorLogic%20Cosmetic%20Surgeon%20Blog%20Post&utm_medium=DoctorLogic%20Cosmetic%20Surgeon%20CTA" Get a Demo with DoctorLogic.")
+\[![Request a Demo with DoctorLogic](/uploads/cosmetic.png "Request a Demo with DoctorLogic")\](https://growth.doctorlogic.com/cosmetic_surgeon_demo?utm_campaign=Get%20a%20Demo&utm_source=DoctorLogic%20Cosmetic%20Surgeon%20Blog%20Post&utm_medium=DoctorLogic%20Cosmetic%20Surgeon%20CTA" Get a Demo with DoctorLogic.")
 
 #### 2. Adding Private Pay Patients to Your Business
 
