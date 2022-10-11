@@ -31,6 +31,8 @@ So what types of subjects should you write blog series on?
 * **At-home treatments:** Are there DIY, at-home, or natural treatments prospective patients can try in addition to the services you provide?
 * **Patient testimonials:** Interview multiple patients who have had your most popular procedure. Ask them the same questions so prospective patients can get an idea of the different experiences people have had.
 
+[![Get Your Free Market Analysis](/uploads/analysis.png "Get Your Free Market Analysis")](https://doctorlogic.com/analysis?utm_campaign=Market%20Analysis&utm_source=Market%20Analysis&utm_medium=Market%20Analysis%20CTA "Get Your Free Market Analysis")
+
 ### Infographics
 
 Most people are visual learners, which is why infographics are so popular. Consider creating infographics based on statistics relevant to your practice (recovery time based on procedure, number of procedures+which types performed annually), as well as ones that are more instructional (what to expect during your recovery, how family+friends can help, etc.).
