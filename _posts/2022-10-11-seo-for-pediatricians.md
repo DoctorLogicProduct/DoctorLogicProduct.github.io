@@ -121,6 +121,8 @@ When it comes to local SEO, a filled-out and well-maintained GBP is a positive r
 
 The key to excellent reputation management is replying to all patient reviews across all directories, including GBP. Keep in mind that GBP reviews are a ranking factor.
 
+[![Get Your Free Market Analysis](/uploads/analysis.png "Get Your Free Market Analysis")](https://doctorlogic.com/analysis?utm_campaign=Market%20Analysis&utm_source=Market%20Analysis&utm_medium=Market%20Analysis%20CTA "Get Your Free Market Analysis")
+
 #### **Technical SEO for Pediatricians**
 
 By optimizing the technical aspects of your website, you are making it easier for search engine crawlers to collect information and rank it properly. Without excellent technical SEO, the rest of your tactics may not work.
