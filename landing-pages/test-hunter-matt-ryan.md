@@ -2,8 +2,8 @@
 layout: components
 title: test hunter matt ryan
 alt-header: false
-marketing_header: true
-marketing_footer: true
+marketing_header: false
+marketing_footer: false
 tracking-number: ''
 permalink: testhmr
 page_class: []
@@ -24,6 +24,17 @@ page_sections:
   text-link: []
   wistia-link: []
   alt: ''
+- template: text-component
+  component: text-component
+  component_css: text-component
+  headline:
+  - headline: Section 2
+  text: "<p>jfoeifoejfiowefg</p>"
+  class: ''
+  img: []
+  btn: []
+  link: []
+  wistia-link: []
 published: false
 
 ---
