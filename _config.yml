@@ -9,6 +9,8 @@ permalink: none
 
 # Build settings
 include: ['_pages', '_redirects']
+exclude:
+  - vendor/bundle
 plugins:
   - jekyll-feed
   - octopress-autoprefixer
