@@ -35,6 +35,28 @@ page_sections:
   btn: []
   link: []
   wistia-link: []
+- template: item-grid-component
+  component: item-grid
+  component_css: item-grid
+  per-row-count: '3'
+  items:
+  - img:
+    - src: "/uploads/medical-growth-strategy1.jpg"
+      alt: ''
+    headline: "1"
+    text: "1"
+    link: []
+  - img:
+    - src: "/uploads/medical-growth-strategy4.jpg"
+      alt: ''
+    headline: "2"
+    text: "2"
+    link: []
+  background-image: ''
+  class: ''
+  headline: ''
+  text: ''
+  btn: []
 published: false
 
 ---
