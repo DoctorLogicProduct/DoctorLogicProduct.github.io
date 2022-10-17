@@ -20,6 +20,7 @@ post_highlight: Think of a website as an extension of your business.  Your curre
   quickly.
 post_type:
 - blog
+- blog
 product:
 - search amplifier
 - website management

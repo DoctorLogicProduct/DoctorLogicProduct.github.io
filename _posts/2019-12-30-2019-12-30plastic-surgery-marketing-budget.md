@@ -32,6 +32,8 @@ Spending too much on marketing can take away from the costs needed for a healthy
 
 ### Marketing Strategy
 
+[![Get Your Free Market Analysis](/uploads/analysis.png "Get Your Free Market Analysis")](https://doctorlogic.com/analysis?utm_campaign=Market%20Analysis&utm_source=Market%20Analysis&utm_medium=Market%20Analysis%20CTA "Get Your Free Market Analysis")
+
 When building a strategy for marketing your plastic surgery practice, three things must be considered: the age of the practice, the location of the practice, and the size of the practice.
 
 **Age -** A practice that is just starting up will need to invest more money upfront to help build brand awareness in its market. This can include internal marketing software, branding, and website and digital marketing (SEO/SEM).

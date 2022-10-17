@@ -41,6 +41,8 @@ Some website owners think you can create a microsite, link back to the main webs
 
 Google has determined sites created for the sole purpose directing back to website with back links, or to boost certain keywords, is actually a [black hat SEO](https://www.wordstream.com/black-hat-seo) tactic and looks spammy. Not only that, but Google considers sites like this to be extremely low quality. And remember, Google penalizes sites they deem to be low quality. To avoid a penalty, it’s best to avoid setting up microsites unless it’s for branding purposes.
 
+[![Get Your Free Market Analysis](/uploads/analysis.png "Get Your Free Market Analysis")](https://doctorlogic.com/analysis?utm_campaign=Market%20Analysis&utm_source=Market%20Analysis&utm_medium=Market%20Analysis%20CTA "Get Your Free Market Analysis")
+
 ### Why Say No to Microsites?
 
 The reasons are many.

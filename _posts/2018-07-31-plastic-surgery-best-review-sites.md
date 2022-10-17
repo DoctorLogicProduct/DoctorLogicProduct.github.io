@@ -28,6 +28,8 @@ The best way for plastic surgeons to get overall [feedback of their overall serv
 
 Surveys suggest that one of the first things that potential patients look for while choosing their plastic surgeon is online reviews. If you are a 21st-century plastic surgeon, providing best quality service to your patients, you cannot just rely on word-of-mouth advertising to gain exposure for your business. You need to make your presence felt in [online reviews](https://doctorlogic.com/features/reviews/).
 
+[![Request a Demo with DoctorLogic](/uploads/cosmetic.png "Request a Demo with DoctorLogic")](https://growth.doctorlogic.com/cosmetic_surgeon_demo?utm_campaign=Get%20a%20Demo&utm_source=DoctorLogic%20Cosmetic%20Surgeon%20Blog%20Post&utm_medium=DoctorLogic%20Cosmetic%20Surgeon%20CTA "Request a Demo with DoctorLogic")
+
 #### 2. Makes yourself visible to the local population
 
 Registering your plastic surgery on review websites such as Yelp acts as a useful plastic surgery marketing tool for your local community. If the patient is in the vicinity of your practice and is searching for a nearby plastic surgery practice, they can view your facility on search websites such as Google and contact you immediately. This will increase your number of patients and can promote repeat customers as well.

@@ -28,6 +28,9 @@ Making the content of your website SEO optimized will attract more traffic to yo
 
 Eventually, your page will rank high and appear more frequently on search engine results. By ranking high on various search engines, you can increase the visibility and exposure of your business significantly.
 
+[![Request a Demo with DoctorLogic](/uploads/cosmetic.png "Request a Demo with DoctorLogic")](https://growth.doctorlogic.com/cosmetic_surgeon_demo?utm_campaign=Get%20a%20Demo&utm_source=DoctorLogic%20Cosmetic%20Surgeon%20Blog%20Post&utm_medium=DoctorLogic%20Cosmetic%20Surgeon%20CTA "Request a Demo with DoctorLogic")
+  
+
 #### 2. Adding Private Pay Patients to Your Business
 
 Patients who are not bound by their managed care contracts can choose any plastic surgeon they want based on their own research. To gain the attention of these private pay customers, it is essential that your website appears on the first page in search engine results.

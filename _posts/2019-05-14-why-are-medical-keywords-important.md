@@ -27,6 +27,8 @@ With Google accommodating billions of users with top-notch, reliable medical inf
 
 When you’re evaluating how to stand out in these search terms, one of the key factors you should be considering is a keyword or keyword phrase strategy.
 
+[![Subcribe to the DoctorLogic Blog](/uploads/subscribeblog.png "Subcribe to the DoctorLogic Blog")](https://growth.doctorlogic.com/subscribe-to-the-blog?utm_campaign=Blog%20Subscriptions&utm_source=DoctorLogic%20Blog%20Post&utm_medium=DoctorLogic%20Blog%20CTA "Subcribe to the DoctorLogic Blog")
+
 ### What’s a Keyword?
 
 The exact definition states a [keyword or keyword phrase](https://moz.com/learn/seo/what-are-keywords) is a query term entered into a search engine or website by patients. A keyword can be a single word or a series of words. It’s the search term you want to rank for with a certain page. So when people search for a keyword or phrase in Google or other search engines, they should find the page on your website.

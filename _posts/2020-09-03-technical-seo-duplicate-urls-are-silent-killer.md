@@ -26,7 +26,7 @@ In this example, one of our clients was ranking really well for a few keywords w
 
 A ranking decrease of only a few spots may not seem like a lot, but it’s extremely significant in the SEO world as there are huge drop-offs in the amount of traffic a website gets based on rankings. Depending on what study or model used, the top spot can generate 30% of all clicks for a given search with the top three generating almost 60%. The amount of traffic drops considerably after the top results, and if you’re on page two, you’re not likely to be generating any significant amounts of traffic.
 
-In the previous chart and this one, there is a direct correlation with the traffic numbers and rankings during the same timeframe. There were big drops throughout the 2019 year to the point of almost generating no traffic. 
+In the previous chart and this one, there is a direct correlation with the traffic numbers and rankings during the same timeframe. There were big drops throughout the 2019 year to the point of almost generating no traffic.
 
 ![](/uploads/traffic-chart-1.png)
 
@@ -41,3 +41,5 @@ The traffic chart also correlates with the ranking as well, showing a little bit
 ![](/uploads/traffic-chart-2.png)
 
 While the amount of traffic isn’t exactly what it was before, it’s still much higher and on an uptrend. With other ongoing trends and algorithm updates, it’s possible the page may never receive the same amount of traffic it once did. However, the website is well on its way to capitalizing on as much traffic as possible.
+
+[![Subcribe to the DoctorLogic Blog](/uploads/subscribeblog.png "Subcribe to the DoctorLogic Blog")](https://growth.doctorlogic.com/subscribe-to-the-blog?utm_campaign=Blog%20Subscriptions&utm_source=DoctorLogic%20Blog%20Post&utm_medium=DoctorLogic%20Blog%20CTA "Subcribe to the DoctorLogic Blog")
