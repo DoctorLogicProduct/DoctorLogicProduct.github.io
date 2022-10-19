@@ -1,6 +1,6 @@
 ---
 post_title: 7 Medical Practice Growth Strategies for Existing vs. New Patients
-date: 2022-10-14 05:00:00 +0000
+date: 2022-10-14T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags:
 - Strategy
@@ -81,8 +81,6 @@ A smart approach to nurturing doesn't just retain your patients. It also turns t
 * Listen to what your followers have to say and act upon it when possible.
 * Provide educational and valuable content.
 * Share offers for existing patients
-
-
 * Leverage user-generated content to demonstrate appreciation for your patients.
 
 Make sure to post regularly. As soon as you stop, your posts disappear from the feed, causing you to lose your patients' attention.
@@ -100,8 +98,6 @@ All aspects of digital marketing revolve around your website. Your paid advertis
 Besides being well-designed and easy to navigate, the website should be functional enough to initiate conversions. This includes:
 
 * Designing optimized contact forms
-
-
 * Leveraging gated content
 * Localizing content
 * Improving page loading speed
@@ -123,8 +119,6 @@ To implement successful PPC marketing, you can use:
 
 * [**Google Paid Search Ads**](https://doctorlogic.com/blog/paid-search-for-doctors-how-to-see-immediate-results-with-your-ppc-campaigns) – ads that appear on top of the search results in response to relevant queries.
 * **Google Display Ads** – ads that appear on websites that your potential patients browse.
-
-
 * [**Facebook dark posts**](https://doctorlogic.com/blog/why-your-facebook-posts-need-to-go-dark) – promotional posts that appear organically in your potential patients' feeds but don't clutter yours.
 * **Instagram Ads** – an impressive variety of social media advertising options that brings new patients to your digital doorstep.
 
