@@ -17,9 +17,6 @@ product:
 - social reputation
 
 ---
-
-![](/uploads/shutterstock_1951179922.jpg)
-
 For dermatologists, an online reputation can power a clinic’s success. If your practice generates positive online reviews, your local rankings, lead-generation efforts, and conversion tactics get a significant boost.
 
 However, doing stellar work isn’t sufficient if you want an excellent reputation. You must also encourage reviews, manage them, and make the feedback visible.
@@ -28,11 +25,11 @@ Meanwhile, a poor reputation can hinder your [digital marketing](https://doctorl
 
 ## **What Is Online Reputation Management for Dermatologists?**
 
+![](/uploads/shutterstock_1951179922.jpg)
+
 Online reputation management for dermatologists is the process of soliciting patient feedback, replying to reviews, and making these reviews available to potential patients.
 
 * **Soliciting reviews** – encouraging patients to leave reviews, making it easy to leave reviews, and asking existing patients to share reviews on different channels.
-
-
 * **Managing reviews** – replying to reviews as soon as they appear, whether they are positive or negative.
 * **Placing reviews** – adding positive reviews on different channels, including your website, social media, and printed marketing materials.
 
@@ -50,8 +47,6 @@ For your GBP to impact your lead generation and conversion efforts, you need to:
 
 * [Claim or create](https://support.google.com/business/answer/2911778?hl=en&co=GENIE.Platform%3DDesktop) the profile.
 * Fill out all relevant information (don’t forget to use relevant [medical keywords](https://doctorlogic.com/blog/why-are-medical-keywords-important.html)).
-
-
 * Keep NAP (name, address, phone number) information consistent and updated.
 * Add relevant, high-quality photos.
 * Fill out the Q&A section with common questions that include keywords.
@@ -76,8 +71,6 @@ No matter how many reviews your patients leave, you need to respond to each one 
 While responding to positive reviews is essential, replying to negative feedback is even more vital to maintaining a stellar reputation. When responding to negative reviews:
 
 * Be polite and acknowledge the issue
-
-
 * Apologize (even if the patient is wrong. E.g., “We are sorry you are unhappy with…”)
 * Provide an explanation if applicable
 * Give an option of discussing the problem on the phone or over email.
@@ -103,8 +96,6 @@ Your Google Business Profile is a vital directory link, but it’s not the only 
 * Healthgrades
 * Vitals
 * ZocDoc
-
-
 * WebMD
 * Yelp
 
