@@ -36,8 +36,6 @@ Healthcare marketing starts with understanding your patients. Before building a 
 * Demographic data (age, education, income employment)
 * Goals (what the patient hopes to achieve by choosing your practice)
 * Interests (what patient enjoys doing)
-
-
 * Challenges (what the patient is struggling with)
 
 For example, for ophthalmological clinics that offer LASIK, the [target group](https://doctorlogic.com/blog/lasik-target-market-everything-you-need-to-know) is people between 35 and 42 with an income of at least $50,000.
