@@ -21,7 +21,6 @@ product:
 - lead generator
 
 ---
-
 ![](/uploads/shutterstock_536023099.jpeg)Marketing is just as crucial to urgent care clinics as it is to dental or ophthalmology practices. However, several marketing tactics are different.
 
 Since your urgent care clinic depends mostly on walk-in patients, your goal is to maintain [top-of-the-mind status](https://en.wikipedia.org/wiki/Top-of-mind_awareness) for your prospects. Meanwhile, the buyer’s journey is short, and patient retention is extremely low.
@@ -50,13 +49,13 @@ When a person needs urgent care, they may have trouble thinking clearly. An inte
 
 The entire audience of your urgent care clinic is local. When you design a digital marketing strategy, your SEO tactics must also be local.
 
-###### **Local SEO**
+**Local SEO**
 
 Local SEO aims to put your clinic on top of the SERPs (Search Engine Result Pages) in response to such queries as “urgent care clinic near me.”
 
 More than [25% of users](https://www.searchenginejournal.com/google-first-page-clicks/374516/) click on the first search result. People in need of urgent care are less likely to look further. That’s why staying on top of the SERPs is vital.
 
-###### **Google Business Profile**
+**Google Business Profile**
 
 Regarding local queries, [42% of the searchers](https://backlinko.com/google-user-behavior) click on Google 3-pack. Without a well-maintained Google Business Profile (GBP), your chances of appearing on this 3-pack are low.
 
