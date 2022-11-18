@@ -1,6 +1,6 @@
 ---
 post_title: How Can Urgent Care Clinics Market to New Patients
-date: 2022-11-01 05:01:00 +0000
+date: 2022-11-01T05:01:00.000+00:00
 post_author: DoctorLogic Employee
 tags:
 - Strategy
