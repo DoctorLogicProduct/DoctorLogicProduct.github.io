@@ -36,11 +36,9 @@ We are going to share with you six disadvantages of a WordPress website.
 
 When your agency purchases a design template, they typically get fully designed website pages that have to be updated with your branded content (images and text).
 
-However, if you want to add features to your website, your agency would have to search for plugins on WordPress. Some plugins are free, and others come with a fee. Sometimes, the plugins found are outdated and are no longer being used.
+However, if you want to add features to your website, your agency must search for WordPress plugins. Some plugins are free, and others come with a fee. Sometimes, the plugins found are outdated and are no longer being used.
 
-For example, if you want to add your Instagram feed to your website, you must download [InstaWidget](https://instawidget.net/).
-
-Your agency would have to install, manage, and update the plugins. This can be difficult to manage and rarely happens with agencies.
+Your agency would have to install, manage, and update the plugins, and this can be not easy to operate and rarely happens with agencies.
 
 [![Subscribe to the DoctorLogic blog Banner](/uploads/2022-doctorlogic-subscribeblog-cta-01-1.png "Subscribe to the DoctorLogic blog.")](https://growth.doctorlogic.com/subscribe-to-the-blog?utm_campaign=Blog%20Subscriptions&utm_source=DoctorLogic%20Blog%20Post&utm_medium=DoctorLogic%20Blog%20CTA "Subscribe to the DoctorLogic blog.")
 
@@ -58,15 +56,15 @@ WordPress is still a slow platform due to all the added plugins, oversaturated d
 
 However, those are not the only things that can slow down your website. Large images, a lot of wording on a page, and unreliable hosting can impact your website speed.
 
-Page speed is crucial to your website. You want a fast-loading website so your audience doesn’t get impatient and decide to leave, which can cause you to lose business because they won’t see what you have to offer.
+Page speed is crucial to your website. You want a fast-loading website so your audience doesn’t get impatient and decide to leave, which can cause you to lose business because they won’t see what you offer.
 
 ### 4. Poor SEO Ranking
 
 WordPress only offers limited SEO optimizing features in its packages, which is not enough to help you rank on Google.
 
-To truly maximize your SEO efforts, you need stronger software and technology to outrank other medical practices in a competitive market.
+To truly maximize your SEO efforts, you need more robust software and technology to outrank other medical practices in a competitive market.
 
-Additionally, you will need an agency that will target thousands of relevant keywords versus only a handful of keywords. Most agencies only do a handful of keywords, which isn’t going to make an impact on your search engine rankings. More relevant keywords will help your practice be found in the search engines by potential and current clients.
+Additionally, you will need an agency targeting thousands of relevant keywords versus only a handful. Most agencies only do a handful of keywords, which isn’t going to make an impact on your search engine rankings. More relevant keywords will help your practice be found in the search engines by potential and current clients.
 
 ### 5. Website Vulnerability
 
@@ -88,11 +86,11 @@ Then you have to hire an agency to help you get it back up, which is another exp
 
 ### In Closing
 
-Although WordPress is a popular content management system for its simplicity and is considered an inexpensive way for businesses to get started online, think twice about building your business website on WordPress.
+Although WordPress is a popular content management system for its simplicity and is considered an inexpensive way for businesses to get started online, think twice about building your website on WordPress.
 
 Save yourself money and avoid headaches.
 
-Get in touch with [DoctorLogic](https://doctorlogic.com/pricing/) to learn more about our platform to help you grow your practice.
+Get in touch with [DoctorLogic](https://growth.doctorlogic.com/get-a-demo) to learn more about our platform to help you grow your practice.
 
 We will design your website so you can showcase your work with a video or photo gallery. Additionally, we can add our review tool to help you get reviews from your clients.
 
