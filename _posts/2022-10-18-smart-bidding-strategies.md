@@ -2,8 +2,7 @@
 post_title: 'Medical PPC Hack: Smart Bidding Strategies to Optimize Your Ad Spend'
 date: 2022-10-18 05:00:00 +0000
 post_author: DoctorLogic Employee
-tags:
-- Medical PPC
+tags: []
 post_intro: The world of paid advertising for medical practices continues to evolve.
   If you want to get immediate results with your PPC campaign, you need to keep up
   with trends and ensure that your keywords, content, and bidding all follow current
