@@ -1,11 +1,8 @@
 ---
 post_title: How To Build Your Dental Website Like a DSO
-date: 2019-08-21 19:45:00 +0000
+date: 2019-08-21T19:45:00.000+00:00
 post_author: Keisha Dunstan
-tags:
-- Strategy
-- Website
-- News
+tags: []
 post_intro: What if you're not a DSO and want to compete on their level digitally?
   DSO News caught up with Andre Riley, Chief Revenue Officer at DoctorLogic to learn
   more about how solo-practices, small groups, emerging groups and even mid-size DSOs

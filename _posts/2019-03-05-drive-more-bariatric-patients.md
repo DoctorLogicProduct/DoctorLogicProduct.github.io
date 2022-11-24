@@ -2,8 +2,7 @@
 post_title: 6 Ideas to Drive More Patients for Bariatric Surgeons
 date: 2019-03-05T06:00:00.000+00:00
 post_author: 'Keisha Dunstan '
-tags:
-- Healthcare-Marketing
+tags: []
 post_intro: 'Only 1% of eligible patients choose Bariatric Surgery as an option. Although
   it’s the #1 solution for long term, weight loss with proven results, it’s the most
   underutilized method for weight loss.'
