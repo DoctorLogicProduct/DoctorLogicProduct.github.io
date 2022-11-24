@@ -2,9 +2,7 @@
 post_title: 'Content Marketing for Therapists: How to Turn Strangers into Patients'
 date: 2022-09-16 05:00:00 +0000
 post_author: DoctorLogic Employee
-tags:
-- Strategy
-- Healthcare Marketing
+tags: []
 post_intro: Today, 82% of successful marketers are investing in content marketing.
   Besides providing an impressive ROI, this marketing tactic has many benefits for
   mental health professionals.

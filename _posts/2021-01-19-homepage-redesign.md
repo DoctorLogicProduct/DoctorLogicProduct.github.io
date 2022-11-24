@@ -1,9 +1,8 @@
 ---
 post_title: 'Coming Soon: Homepage Redesign'
-date: 2021-01-18 14:00:00 +0000
+date: 2021-01-18T14:00:00.000+00:00
 post_author: Josh Feinberg
-tags:
-- Product-Updates
+tags: []
 post_intro: New Homepage Redesign coming soon for all DoctorLogic clients.
 post_image: "/uploads/newsletters-_-product-update-images-1.png"
 post_highlight: We redesigned the new homepage to highlight your most important performance
