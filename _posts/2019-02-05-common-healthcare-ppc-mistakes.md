@@ -2,8 +2,7 @@
 post_title: 5 Common PPC Mistakes and How to Avoid Them
 date: 2019-02-05T06:00:00.000+00:00
 post_author: 'Keisha Dunstan '
-tags:
-- Medical-PPC
+tags: []
 post_intro: PPC is a constantly evolving landscape, and it can be hard to keep up
   with all of the best practices. So instead, let’s take a look at the most common
   PPC mistakes people make and how they can be rectified.
