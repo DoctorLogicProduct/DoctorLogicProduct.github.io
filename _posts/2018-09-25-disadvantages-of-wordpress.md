@@ -2,8 +2,7 @@
 post_title: The Disadvantages of Wordpress
 date: 2018-09-25T05:00:00.000+00:00
 post_author: Kandace Cortez
-tags:
-- SEO
+tags: []
 post_intro: |-
   Think of a website as an extension of your business.
 
