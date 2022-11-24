@@ -2,8 +2,7 @@
 post_title: Increase New Patient Leads Through Pay-Per-Click (PPC)
 date: 2018-08-16T05:00:00.000+00:00
 post_author: Kaitlin Waits
-tags:
-- Medical-PPC
+tags: []
 post_intro: Patients search in so many different ways these days. But how can your
   practice keep up with all the competition in the Google space? That’s where PPC
   can take your online presence to the next level.
