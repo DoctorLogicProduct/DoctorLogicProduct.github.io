@@ -2,9 +2,7 @@
 post_title: How to Calculate the Lifetime Value of Dental Patients
 date: 2022-05-31 05:00:00 +0000
 post_author: DoctorLogic Employee
-tags:
-- Healthcare-Marketing
-- Strategy
+tags: []
 post_intro: The average lifetime value of your patients is a simple metric that can
   drastically improve your marketing efforts. Understanding how to track and calculate
   this vital metric can improve your ability to bring high-value patients into your

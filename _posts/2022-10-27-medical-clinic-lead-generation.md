@@ -2,8 +2,7 @@
 post_title: 9 Proven Lead Generation Strategies for Medical Clinics
 date: 2022-10-27T05:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- Healthcare-Marketing
+tags: []
 post_intro: The number of healthcare digital marketing agencies is growing together
   with the number of your competitors. Staying ahead is no longer a matter of implementing
   standard marketing tactics. To be on top of the game, you need to revolutionize
