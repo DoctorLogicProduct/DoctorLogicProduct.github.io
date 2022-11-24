@@ -2,8 +2,7 @@
 post_title: How to Sell Invisalign to Both New and Existing Patients
 date: 2022-09-20 05:00:00 +0000
 post_author: DoctorLogic Employee
-tags:
-- Healthcare Marketing
+tags: []
 post_intro: If your dental practice offers Invisalign treatments to patients, you
   have a potentially crucial marketing advantage. Align Technology, the company behind
   the Invisalign brand, spends more than $250 million every year on marketing its

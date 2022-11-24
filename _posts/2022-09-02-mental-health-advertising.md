@@ -2,8 +2,7 @@
 post_title: Advertising Mental Health Services with Pay-Per-Click Campaigns
 date: 2022-09-02 05:00:00 +0000
 post_author: DoctorLogic Employee
-tags:
-- Medical PPC
+tags: []
 post_intro: In the wake of a global pandemic and economic uncertainties, the demand
   for mental health services providers is rising. According to a 2021 survey by the
   American Psychological Association, psychologists experienced a significant increase
