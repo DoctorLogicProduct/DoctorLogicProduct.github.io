@@ -1,9 +1,9 @@
 ---
 post_title: Why Invest in Healthcare Marketing Technology?
-date: 2022-06-08 05:00:00 +0000
+date: 2022-06-08T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags:
-- Healthcare Marketing
+- Healthcare-Marketing
 post_intro: All too often, medical practitioners are led to believe that the way to
   achieve marketing success is to outsource everything to an agency. However, great
   content is only part of the equation. Outsourcing ignores the role of technology
