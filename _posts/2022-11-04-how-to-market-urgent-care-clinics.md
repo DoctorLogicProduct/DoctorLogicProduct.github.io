@@ -1,9 +1,8 @@
 ---
 post_title: How Can Urgent Care Clinics Market to New Patients
-date: 2022-11-04 05:00:00 +0000
+date: 2022-11-04T05:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- Strategy
+tags: []
 post_intro: "Marketing is just as crucial to urgent care clinics as it is to dental
   or ophthalmology practices. However, several marketing tactics are different. Since
   your urgent care clinic depends mostly on walk-in patients, your goal is to maintain
@@ -21,7 +20,6 @@ product:
 - lead generator
 
 ---
-
 ![](/uploads/shutterstock_536023099.jpeg)Marketing is just as crucial to urgent care clinics as it is to dental or ophthalmology practices. However, several marketing tactics are different.
 
 Since your urgent care clinic depends mostly on walk-in patients, your goal is to maintain [top-of-the-mind status](https://en.wikipedia.org/wiki/Top-of-mind_awareness) for your prospects. Meanwhile, the buyer’s journey is short, and patient retention is extremely low.

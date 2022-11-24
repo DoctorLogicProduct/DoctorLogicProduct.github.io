@@ -2,8 +2,7 @@
 post_title: A Look Into Employee Benefits in 2021
 date: 2021-01-18T14:00:00.000+00:00
 post_author: Michelle Peralta
-tags:
-- Strategy
+tags: []
 post_intro: How has the pandemic shaped the employee benefits structure?
 post_image: "/uploads/website-_-blog-post-image-1.png"
 post_highlight: How has the pandemic shaped the employee benefits structure?

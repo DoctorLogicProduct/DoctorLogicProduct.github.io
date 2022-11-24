@@ -1,9 +1,8 @@
 ---
 post_title: 'How the Best Dermatology Websites Generate Patients     '
-date: 2022-11-17 06:00:00 +0000
+date: 2022-11-17T06:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- strategy
+tags: []
 post_intro: For modern dermatology practices, a website is a data-packed calling card.
   Without one, converting patients is often ineffective. However, a well-designed
   site is just the beginning. The next step is making sure it can turn visitors into

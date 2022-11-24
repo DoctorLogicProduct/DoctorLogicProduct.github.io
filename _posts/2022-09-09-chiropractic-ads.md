@@ -2,10 +2,7 @@
 post_title: 'Chiropractic Ads: How to Stretch Your Budget'
 date: 2022-09-09 05:00:00 +0000
 post_author: DoctorLogic Employee
-tags:
-- Medical PPC
-- Strategy
-- Healthcare Marketing
+tags: []
 post_intro: Building a successful chiropractic marketing strategy is a complex endeavor.
   Too often, online ads fail to produce a great return on investment (ROI), despite
   the best intentions from the advertiser and medical professional behind them.
