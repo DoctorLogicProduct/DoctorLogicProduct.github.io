@@ -29,7 +29,7 @@ page_sections:
   headline: Reputation Management Made Simple
   text: Online reputation can make or break your medical practice – and your marketing
     efforts. Our Reputation Management tool helps you acquire more reviews from patients
-    then organize and instantly display those reviews from around the web.
+    and then organize and instantly display those reviews from around the web.
   wistia-link:
   - wistia-link-id: g1ui0z4apc
     wistia-link-label: Watch Video
@@ -39,10 +39,10 @@ page_sections:
   component_css: image-group
   class: social-reputation__image-group--1
   headline: Organize Your Reviews
-  text: With our solution, you can manage reviews from different sources, including
-    Google, Facebook, Yelp, RealSelf, and more. Display your reviews from across the
-    web in one place, prioritize your favorites, and tag each review to make it simple
-    to find.
+  text: Our solution allows you to manage reviews from different sources, including
+    Google Business Profile, Facebook, Yelp, RealSelf, and more. Display your reviews
+    from across the web in one place, prioritize your favorites, and tag each review
+    to make it simple to find.
   btn: 
   items:
   - class: image-group__image--1
@@ -84,7 +84,7 @@ page_sections:
 - component: callout-headline
   component_css: callout-headline
   class: callout-headline__reputation
-  headline: "<span>94%</span> of patients use online reviews to evaluate physicians."
+  headline: "<span>94%</span> of patients use online reviews to evaluate medical providers."
   source: Software Advice
 - component: feature-1
   headline: Receive Notifications
@@ -99,10 +99,11 @@ page_sections:
 - component: feature-1
   headline: Display Your Testimonials
   class: social-reputation__feature--2
-  text: Easily showcase your reputation by organizing reviews by source, doctor, procedure,
-    and more. Positive testimonials are tagged and posted to your practice website.
-    Our platform then automatically integrates these testimonials to relevant content
-    pages and displays the star ratings in search results.
+  text: Easily showcase your sterling reputation by organizing reviews by source,
+    medical provider, procedure, service, and more. Positive testimonials are tagged
+    and posted to your practice website. Our platform automatically integrates these
+    testimonials to relevant content pages and displays the star ratings in search
+    results.
   btn: 
   img: "/img/products/social-reputation/reviews-feature.jpg"
   alt: Display Testimonials
@@ -123,11 +124,11 @@ page_sections:
   component_css: callout
   background: false
   class: callout__reputation
-  headline: "Get your online reputation in order!"
-  text: "Schedule a demo today."
+  headline: Get your online reputation in order!
+  text: Schedule a demo today.
   btn:
-  - btn-label: "Get A Demo"
-    btn-link: "https://growth.doctorlogic.com/get-a-demo"
+  - btn-label: Get A Demo
+    btn-link: https://growth.doctorlogic.com/get-a-demo
     btn-target: _blank
-  
+
 ---
