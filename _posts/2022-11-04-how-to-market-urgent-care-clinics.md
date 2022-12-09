@@ -30,7 +30,7 @@ The following are just some of the tactics available to urgent care clinics.
 
 Marketing an urgent care clinic requires a comprehensive approach to available marketing tactics coupled with an in-depth understanding of the local patients’ needs. The following are effective ways to establish top-of-mind status and generate leads.
 
-### **1. Create Physical Reminders**
+#### **1. Create Physical Reminders**
 
 While most medical practices are moving away from offline marketing, urgent care clinics should pay close attention to the impact of physical reminders on top-of-mind awareness.
 
@@ -44,17 +44,17 @@ For example, swag with your contact details on it:
 
 When a person needs urgent care, they may have trouble thinking clearly. An intelligent reminder system removes the need to search for help, ask around, or even google. With your clinic’s swag in front of their eyes, a patient isn’t likely to look elsewhere.
 
-### **2. Establish a Local Digital Presence**
+#### **2. Establish a Local Digital Presence**
 
 The entire audience of your urgent care clinic is local. When you design a digital marketing strategy, your SEO tactics must also be local.
 
-#### **Local SEO**
+###### **Local SEO**
 
 Local SEO aims to put your clinic on top of the SERPs (Search Engine Result Pages) in response to such queries as “urgent care clinic near me.”
 
 More than [25% of users](https://www.searchenginejournal.com/google-first-page-clicks/374516/) click on the first search result. People in need of urgent care are less likely to look further. That’s why staying on top of the SERPs is vital.
 
-#### **Google Business Profile**
+###### **Google Business Profile**
 
 Regarding local queries, [42% of the searchers](https://backlinko.com/google-user-behavior) click on Google 3-pack. Without a well-maintained Google Business Profile (GBP), your chances of appearing on this 3-pack are low.
 
@@ -62,7 +62,7 @@ Regarding local queries, [42% of the searchers](https://backlinko.com/google-use
 
 Besides GBP, it’s essential to list your clinic on other local directories, such as Yelp, and national directories, such as the [Urgent Care Association](https://www.ucaoa.org/).
 
-### **3. Make It Easy to Set Up Appointments**
+#### **3. Make It Easy to Set Up Appointments**
 
 While patients understand that urgent care may require waiting in line, they aren’t happy about it. If you allow them to make an appointment online, these people are likely to choose your clinic over a nearby competitor.
 
@@ -70,7 +70,7 @@ Adding real-time scheduling to your website can increase the number of appointme
 
 If you run PPC ads, ensure the landing page includes real-time appointment scheduling options. This can significantly shorten the patient’s journey.
 
-### **4. Convert Website Visitors**
+#### **4. Convert Website Visitors**
 
 When a potential patient lands on your website, you only have a limited amount of time to catch their attention and drive conversion. To improve on-site conversion rates, it’s essential to:
 
@@ -83,7 +83,7 @@ More often than not, website visitors have questions about your clinic and servi
 
 A [medical managed chat](https://doctorlogic.com/growth-accelerators/medical-managed-chat) allows visitors to speak to specialists who receive training in supporting medical providers. These specialists will answer questions and convert patients 24/7.
 
-### **5. Set Up a Referral Process**
+#### **5. Set Up a Referral Process**
 
 In urgent care clinics, the patient lifetime value can be low. In many cases, it’s a one-visit relationship.
 
@@ -95,7 +95,7 @@ Instead of trying to retain patients who may never need your services again, you
 
 You can set up a referral program that, for example, gives a patient a gift certificate to a local restaurant or gym in exchange for five referrals. It’s also possible to partner with other clinics or doctors in the area and refer patients to each other.
 
-### **6. Pay-Per-Click Ads**
+#### **6. Pay-Per-Click Ads**
 
 Pay-per-click (PPC) ads are digital ads that appear in front of visitors when they search the web or browse related websites.
 
