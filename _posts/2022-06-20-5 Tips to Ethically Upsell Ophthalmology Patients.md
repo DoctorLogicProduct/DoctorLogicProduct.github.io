@@ -14,6 +14,7 @@ post_highlight: '"Upsell" is typically regarded as a dirty word in healthcare, a
   premium as long as you are doing so with the patient''s best interest in mind.'
 post_type:
 - blog
+- blog
 product:
 - growth accelerators
 
