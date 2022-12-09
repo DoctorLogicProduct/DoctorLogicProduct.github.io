@@ -3,17 +3,16 @@ post_title: 5 Tips to Ethically Upsell Ophthalmology Patients
 date: 2022-06-20T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags: []
-post_intro: '"Upsell" is typically regarded as a dirty word in healthcare, as it gives
-  the impression that the practitioner is primarily out to make money as opposed to
-  helping patients. However, there''s nothing inherently wrong with offering premium
-  as long as you are doing so with the patient''s best interest in mind.'
+post_intro: The term "Upsell" is typically regarded as a dirty word in healthcare,
+  as it gives the impression that the practitioner is primarily out to make money
+  as opposed to helping patients. However, there's nothing inherently wrong with offering
+  premium as long as you are doing so with the patient's best interest in mind.
 post_image: "/uploads/shutterstock_363458510.jpg"
-post_highlight: '"Upsell" is typically regarded as a dirty word in healthcare, as
-  it gives the impression that the practitioner is primarily out to make money as
-  opposed to helping patients. However, there''s nothing inherently wrong with offering
-  premium as long as you are doing so with the patient''s best interest in mind.'
+post_highlight: The term "Upsell" is typically regarded as a dirty word in healthcare,
+  as it gives the impression that the practitioner is primarily out to make money
+  as opposed to helping patients. However, there's nothing inherently wrong with offering
+  premium as long as you are doing so with the patient's best interest in mind.
 post_type:
-- blog
 - blog
 product:
 - growth accelerators
