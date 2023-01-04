@@ -1,6 +1,6 @@
 ---
 post_title: 7 Inbound Marketing Strategies for Dentists
-date: 2022-10-07 05:00:00 +0000
+date: 2022-10-07T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags:
 - Strategy
@@ -19,19 +19,19 @@ product:
 ---
 ![](/uploads/shutterstock_1228675459.jpg)
 
-Gone are the days when outbound marketing led the way to effective lead generation and patient conversion. Today, dental inbound marketing is taking center stage and giving outbound strategies the second-row seat.
+Gone are the days when outbound marketing led to effective lead generation and patient conversion. Dental inbound marketing is taking center stage today and giving outbound strategies the second-row seat.
 
-Inbound marketing doesn't just bring patients in. It builds your brand, retains a loyal audience, and saves money. Let's take a closer look at inbound digital marketing for dentists.
+Inbound marketing doesn't just bring patients in; it builds your brand, retains a loyal audience, and saves money. Let's take a closer look at inbound digital marketing for dentists.
 
 ## **Inbound Marketing Versus Outbound Marketing**
 
-Outbound marketing is a traditional marketing strategy that involves actively searching for patients and pushing your message to them. Common examples of outbound marketing for dentists involve TV ads, banner ads, direct mail marketing, and print advertising.
+Outbound marketing is a traditional marketing strategy involving actively searching for patients and pushing your message. Common examples of outbound marketing for dentists involve TV ads, banner ads, direct mail marketing, and print advertising.
 
 Inbound marketing focuses on pulling patients in by showing them that you have solutions to their problems and provide better options than the competition. Common examples of inbound dental marketing are SEO (Search Engine Optimization), content marketing, and social media marketing.
 
 While outbound marketing can yield satisfactory results, it's less cost-effective than inbound marketing because the latter is patient-driven.
 
-You don't need to interrupt the patient's activities to sell them your services. They organically come to your doorstep when they are ready. Inbound marketing tactics involve precise targeting and minimizing spending on leads with low conversion potential.
+You don't need to interrupt the patient's activities to sell them your services; they organically come to your doorstep when they are ready. Inbound marketing tactics involve precise targeting and minimizing spending on leads with low conversion potential.
 
 ## **Stages of Inbound Marketing for Dentists**
 
@@ -45,7 +45,7 @@ The main stages of inbound marketing are:
 
 **Attract**
 
-At this stage, you are drawing patients in with valuable content and solutions to their problems. It works on patients who recently discovered a dental problem. They search for information online or Google "cheapest dental implants in Boston," "oral health tips," or "best dentists near me."
+You are drawing patients in at this stage with valuable content and solutions to their problems. It works on patients who recently discovered a dental problem. They search for information online or Google "cheapest dental implants in Boston," "oral health tips," or "best dentists near me."
 
 **Convert**
 
@@ -59,22 +59,22 @@ This can involve providing simple online scheduling solutions, sending emails en
 
 **Delight**
 
-The final stage of inbound marketing focuses on retaining existing patients and increasing their LTV. This can involve a reward system, thank you messages, personalized follow-up calls, and more.
+The final stage of inbound marketing focuses on retaining existing patients and increasing their LTV. This can involve a reward system, thank-you messages, personalized follow-up calls, and more.
 
 ## **7 Inbound Marketing Strategies for Dentists**
 
 ![](/uploads/shutterstock_1736528657.jpg)
 
-Effective inbound healthcare marketing starts with identifying key strategies to help achieve your practice's marketing goals. Some of them include:
+Effective inbound healthcare marketing starts with identifying key strategies to help achieve your practice's marketing goals. Some of them include the following:
 
 #### **1. Content Marketing**
 
-Content is the primary building block of both traditional advertising and inbound marketing strategies. Content marketing is the process of creating and distributing content across the right channels at the right time.
+Content is the primary building block of traditional advertising and inbound marketing strategies. Content marketing is creating and distributing content across the proper channels at the right time.
 
 Content can help you attract leads, make conversions, retain clients, and improve brand awareness. Here are some of the top practices to consider:
 
 * Assess the current needs of your practice and identify marketing goals.
-* Work on creating a stellar patient persona (all of your content will revolve around it).
+* Work on creating a stellar patient persona (all your content will revolve around it).
 
 
 * Determine the best channels for content distribution (blog, social media, website).
@@ -82,27 +82,27 @@ Content can help you attract leads, make conversions, retain clients, and improv
 
 The best part about content marketing for dentists is the wide variety of topics you can provide valuable information about. Take advantage of your expertise and share it with potential patients.
 
-**Pro tip:** You don't need to create new pieces of content for each channel. You can repurpose existing content to fit the channel's requirements or put the content in a new format (e.g., turn text into an infographic).
+**Pro tip:** You don't need to create new content for each channel. You can repurpose existing content to fit the channel's requirements or put the content in a new format (e.g., turn text into an infographic).
 
 #### **2. Search Engine Optimization**
 
-One out of two marketers believes that SEO has the [highest ROI of all inbound marketing channels](https://www.searchenginejournal.com/digital-marketing-channel-highest-roi/263757/#close). Search engine optimization is the process of streamlining your website to bring it to the top SERPs (Search Engine Result Pages).
+One of two marketers believes that SEO has the [highest ROI of all inbound marketing channels](https://www.searchenginejournal.com/digital-marketing-channel-highest-roi/263757/#close). Search engine optimization is streamlining your website to bring it to the top SERPs (Search Engine Result Pages).
 
-The best practices for dental SEO include:
+The best practices for dental SEO include the following:
 
-* Paying sufficient attention to [local SEO](https://doctorlogic.com/blog/local-seo-for-dentists) (a strategy that targets local patients).
+* Paying attention to local SEO (a strategy targeting local patients).
 * Work on [reputation management](https://doctorlogic.com/online-reputation-management-doctors) by replying to reviews and comments in your Google Business Profile.
 
 
 * Using well-researched dental keywords coupled with location (pulling wisdom teeth in Boston, root canal cost in Seattle).
-* Optimizing visual elements on your website to make them appealing to both patients and search engines.
-* Making a sitemap of your website to make it easier for search engines to crawl and rank it.
+* You are optimizing visual elements on your website to make them appealing to both patients and search engines.
+* You are making a sitemap of your website to make it easier for search engines to crawl and rank it.
 
-High-quality relevant content is a pillar of SEO. You need to create easy-to-read content pieces that bring value to your potential patients.
+High-quality, relevant content is a pillar of SEO. You need to create easy-to-read content pieces that bring value to your potential patients.
 
 #### **3. Social Media Marketing**
 
-[Social media marketing](https://doctorlogic.com/blog/how-to-improve-your-social-media-presence.html) (SMM) is the process of advertising your practice across social media channels. Social media platforms offer opportunities for both organic and paid advertising.
+[Social media marketing](https://doctorlogic.com/blog/how-to-improve-your-social-media-presence.html) (SMM) is advertising your practice across social media channels. Social media platforms offer opportunities for both organic and paid advertising.
 
 Top practices for dental SMM include:
 
@@ -125,24 +125,24 @@ A better UI (User Interface) can [increase your conversion rate by 200%](https:/
 
 
 * Simplify website navigation and improve content quality.
-* Create landing pages for each one of your main services.
+* Create landing pages for each one of your primary services.
 
-The key to stellar website design is continuous optimization with a focus on user experience.
+The key to stellar website design is continuous optimization focusing on user experience.
 
 #### **5. Conversion Rate Optimization**
 
-No matter how excellent your lead generation efforts are, you need to work on your conversion rate. The conversion rate is the percentage of website visitors who become your patients.
+You must always work on your conversion rate, no matter how productive your lead generation efforts are. The conversion rate is the percentage of website visitors who become your patients.
 
 Best conversion rate optimization practices for dentists include:
 
-* Working on your CTAs (e.g., making sure they are catchy, using only one CTA per page).
-* Making it easy for patients to convert (e.g., implementing online appointment scheduling).
-* Adding a [24/7 managed chat](https://doctorlogic.com/growth-accelerators/medical-managed-chat) option to your website to answer questions round the clock.
+* You are working on your CTAs (e.g., making sure they are catchy, using only one CTA per page).
+* You are making it easy for patients to convert (e.g., by implementing online appointment scheduling).
+* You are adding a [24/7 managed chat](https://doctorlogic.com/growth-accelerators/medical-managed-chat) option to your website to answer questions around the clock.
 
 
 * Improving website navigation
 
-If your conversion rate is low, give some thought to your lead generation efforts. You may need to review your patient persona if you are attracting low-quality leads.
+If your conversion rate is low, consider your lead generation efforts. You may need to review your patient persona if you are attracting low-quality leads.
 
 #### **6. Email Marketing**
 
@@ -154,7 +154,7 @@ Top email marketing practices for dentists are:
 * Create high-quality content for each email message.
 * Leverage user-generated content (reviews, before-after photos).
 
-Email marketing is highly useful for converting and retaining your patients, but only if you emphasize personalization.
+Email marketing is beneficial for converting and retaining your patients, but only if you emphasize personalization.
 
 #### **7. Video Marketing**
 
@@ -162,12 +162,12 @@ Email marketing is highly useful for converting and retaining your patients, but
 
 Best video marketing practices for dental clinics include:
 
-* Producing videos of your clinic to communicate a safe, clinical, and credible environment.
-* Introducing your team through videos to create a patient-doctor connection.
-* Using high-quality videos while adding a personal touch.
+* You are producing videos of your clinic to communicate a safe, clinical, and credible environment.
+* You are introducing your team through videos to create a patient-doctor connection.
+* You are using high-quality videos while adding a personal touch.
 * Shooting patient testimonial videos with before and after photos.
 
-Today, [86% of businesses](https://blog.hubspot.com/marketing/state-of-video-marketing-new-data) take advantage of video marketing since it does a great job of attracting, converting, and retaining clients and patients.
+Today, [86% of businesses](https://blog.hubspot.com/marketing/state-of-video-marketing-new-data) take advantage of video marketing since it does a great job attracting, converting, and retaining clients and patients.
 
 ## **Improve Dental Inbound Marketing with a Patient Acquisition Platform**
 
