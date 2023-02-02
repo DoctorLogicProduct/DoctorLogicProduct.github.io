@@ -1,6 +1,6 @@
 ---
 post_title: 7 MedSpa Marketing Ideas that Can Leverage Artificial Intelligence
-date: 2023-02-01 06:00:00 +0000
+date: 2023-02-08 06:00:00 +0000
 post_author: DoctorLogic Employee
 tags:
 - strategy
