@@ -92,8 +92,6 @@ YouTube optimization is an essential part of [video marketing for healthcare pra
 
 * **Consistent branding –** ensure that your colors, logos, and other brand elements are consistent across all videos on your channel. When a potential patient visits your channel, they should recognize your practice's individuality.
 * **Full contact information –** fill out the profile to provide contact information, links to your website, service description, and anything else about your business that fits into the bio.
-
-
 * **Create playlists –** a structured approach to posting videos makes your channel easier to use. Instead of struggling to find important information, the user should browse playlists comfortably.
 * **Make a channel trailer –** create a short channel trailer that introduces users to your channel and encourages them to sign up.
 * **Use the "community" tab –** YouTube Community Tab allows you to interact with the audience beyond the videos you post. You can use it to provide updates that your viewers can reply to and share with friends. To gain access to the tab, you need to have over 1,000 subscribers.
@@ -107,8 +105,6 @@ The key to the success of your YouTube videos is content quality. However, witho
 
 * **Add keywords to the title, description, and tags** – Like in Google SEO, you need to conduct a [medical keyword](https://doctorlogic.com/blog/why-are-medical-keywords-important.html) search and optimize metadata.
 * **Use timestamps** – these allow you to [direct a user to a specific moment](https://support.google.com/youtube/answer/9884579?hl=en&_ga=2.62624172.1695224148.1674390810-1469425446.1637080900) in your video instead of forcing them to jump back and forth.
-
-
 * **Create compelling thumbnails** – a thumbnail is a calling card of your YouTube video. While YouTube can generate one for you, remember that [90% of best-performing videos](https://support.google.com/youtube/answer/12340300?hl=en) have custom thumbnails.
 * **Work on accessibility** – to make your videos accessible to people with disabilities, always add a transcript. As a bonus, keywords in transcripts contribute to your SEO efforts.
 
