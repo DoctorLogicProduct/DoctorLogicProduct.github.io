@@ -2,8 +2,7 @@
 post_title: Increase Traffic & Conversions Through Your Before-and-After Gallery
 date: 2018-07-24T05:00:00.000+00:00
 post_author: Kaitlin Waits
-tags:
-- Before-After-Gallery
+tags: []
 post_intro: Plastic surgeons are in demand more than ever, all thanks to the latest
   technology such as smartphones and social media platforms that have made marketing
   a breeze for them. More and more people today are joining the selfie culture taking

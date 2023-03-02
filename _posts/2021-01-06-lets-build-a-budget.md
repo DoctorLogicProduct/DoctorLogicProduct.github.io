@@ -2,8 +2,7 @@
 post_title: Let's Build a Budget!
 date: 2021-01-06T16:00:00.000+00:00
 post_author: Christopher Ellis
-tags:
-- strategy
+tags: []
 post_intro: How to Prepare a Simple New Year Budget for your Practice
 post_image: "/uploads/1-1.png"
 post_highlight: In our latest blog post, our Director of Growth Marketing (and former

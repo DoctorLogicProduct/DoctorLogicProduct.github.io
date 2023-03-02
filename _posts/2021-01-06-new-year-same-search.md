@@ -2,10 +2,7 @@
 post_title: New Year, Same Search?
 date: 2021-01-06T16:00:00.000+00:00
 post_author: Heather Kelldorf
-tags:
-- Healthcare-Marketing
-- Strategy
-- Medical-PPC
+tags: []
 post_intro: How Seasonal Search Trends Impact Digital Marketing Campaigns.
 post_image: "/uploads/2-1.png"
 post_highlight: In our latest blog post, our Head of Paid Search dives into the value

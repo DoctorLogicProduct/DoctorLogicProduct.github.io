@@ -2,9 +2,7 @@
 post_title: Is SEO Still Important for Plastic Surgeons?
 date: 2018-07-05T05:00:00.000+00:00
 post_author: Andre Riley
-tags:
-- SEO
-- Healthcare-Marketing
+tags: []
 post_intro: 'In today’s technology-focused business environment, a strong online presence
   plays an important role in the success of any professional service provider. '
 post_image: "/uploads/PracticeSEOThumb.jpg"

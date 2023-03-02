@@ -2,8 +2,7 @@
 post_title: 'Medical PPC Hack: Maximizing Google Ads for Clicks vs. Conversions'
 date: 2022-10-04 05:00:00 +0000
 post_author: DoctorLogic Employee
-tags:
-- Medical PPC
+tags: []
 post_intro: 'Advertisers must adjust as search engines like Google continue to refine
   their targeting and ad structures. The latest: a change to Google Ads that requires
   us to evaluate two popular bid strategies: maximizing clicks vs maximizing conversions.'

@@ -2,8 +2,7 @@
 post_title: Why Word of Mouth Isn't Enough to Grow Your Practice
 date: 2019-01-08T06:00:00.000+00:00
 post_author: Andre Riley
-tags:
-- Healthcare-Marketing
+tags: []
 post_intro: By now you’ve probably heard—and experienced firsthand—how word of mouth
   can benefit your business. After all, Nielsen found 92% of consumers believe recommendations
   from friends and family over all forms of advertising.

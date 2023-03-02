@@ -1,9 +1,8 @@
 ---
 post_title: 'Online Reputation Management For Dermatologists: Best Practices'
-date: 2022-10-25 05:00:00 +0000
+date: 2022-10-25T05:00:00.000+00:00
 post_author: DoctorLogic Employee
-tags:
-- Reputation Management
+tags: []
 post_intro: For dermatologists, an online reputation can power a clinic’s success.
   If your practice generates positive online reviews, your local rankings, lead-generation
   efforts, and conversion tactics get a significant boost.

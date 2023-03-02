@@ -1,9 +1,9 @@
 ---
 post_title: A Guide to Digital Marketing for Medical Practices
-date: 2022-08-02 05:00:00 +0000
+date: 2022-08-02T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags:
-- Healthcare Marketing
+- healthcare-marketing
 post_intro: Digital marketing for doctors is a set of tactics that attract, convert,
   and retain patients on the internet. Since the majority of patients search for medical
   information and look for doctors online, the virtual realm is the best place to

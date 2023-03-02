@@ -2,9 +2,7 @@
 post_title: Five Ways Healthcare Marketing Will Look Different In 2021
 date: 2021-01-13T14:00:00.000+00:00
 post_author: Amber Maceyra
-tags:
-- healthcare-marketing
-- seo
+tags: []
 post_intro: Let's make 2021 your most successful year yet!
 post_image: "/uploads/3.png"
 post_highlight: Let's make 2021 your most successful year yet!

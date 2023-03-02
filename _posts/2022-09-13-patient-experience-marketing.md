@@ -2,8 +2,7 @@
 post_title: How DoctorLogic Improves the Patient Experience
 date: 2022-09-13 05:00:00 +0000
 post_author: DoctorLogic Employee
-tags:
-- Strategy
+tags: []
 post_intro: |-
   Many healthcare providers mistakenly believe that the patient experience begins when the patient first walks through the door. However, like any other customer experience for a business, the patient experience actually begins much earlier.
 

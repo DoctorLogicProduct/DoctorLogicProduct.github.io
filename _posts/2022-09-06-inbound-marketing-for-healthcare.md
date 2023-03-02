@@ -1,9 +1,9 @@
 ---
 post_title: How to Get Started with Inbound Marketing for Healthcare
-date: 2022-09-06 05:00:00 +0000
+date: 2022-09-06T05:00:00.000+00:00
 post_author: DoctorLogic Employee
 tags:
-- Healthcare Marketing
+- healthcare-marketing
 post_intro: For decades, healthcare providers have been leveraging traditional marketing
   tactics to generate leads and turn them into loyal patients. Digital marketing has
   revolutionized your ability to find potential patients and build a connection that
