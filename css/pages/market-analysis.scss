@@ -1168,3 +1168,26 @@ body.market-analysis {
 
     }
 }
+
+.adso-analysis {
+
+    .form__above {
+
+        &::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 20px;
+            width: 40%;
+            height: auto;
+            min-height: 75px;
+            background: url('/img/market-analysis/adso-logo.png') center center/contain no-repeat;
+
+            @include phone-wide-min {
+                min-height: 200px;
+            }
+            
+        }
+
+    }
+}
