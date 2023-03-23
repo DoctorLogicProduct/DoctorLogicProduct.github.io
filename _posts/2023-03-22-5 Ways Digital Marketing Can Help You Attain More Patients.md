@@ -7,7 +7,7 @@ tags:
 - Healthcare Marketing
 post_intro: Explore how a digital marketing strategy can help you attract, attain,
   and retain more patients to grow your medical or dental practice.
-post_image: ''
+post_image: "/uploads/carlos-muza-hpjsku2uysu-unsplash-1.jpg"
 post_highlight: Explore how a digital marketing strategy can help you attract, attain,
   and retain more patients to grow your medical or dental practice.
 post_type:
