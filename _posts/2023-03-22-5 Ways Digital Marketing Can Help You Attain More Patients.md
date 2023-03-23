@@ -17,6 +17,8 @@ product:
 - website management
 
 ---
+![](/uploads/carlos-muza-hpjsku2uysu-unsplash-1.jpg)
+
 A strong digital marketing strategy is a key component in attaining patients within the healthcare space. It helps doctors and medical providers across all specialties grow their reach, promote their practice and services, and connect with patients in ways that extend beyond the physical.
 
 ## Why is Digital Marketing Important?
