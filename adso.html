@@ -144,7 +144,7 @@ market_analysis:
             LastName: form.lastName,
             Email: form.email,
             Phone: form.phone,
-            LeadSource: leadSource,
+            LeadSource: '{{ page.market_analysis.form.leadSource }}',
             __raw__: form,
         };
 
