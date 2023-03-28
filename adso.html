@@ -53,7 +53,9 @@ market_analysis:
     procedures: https://function-prod-dl.azurewebsites.net/api/leadgen/procedures?code=5KC9jwOH7TG6ZdBjnIBI1C2kK6MkMUw3GAJvcunXu4GQ7I1MmrVDKA==
     mapbox: https://function-prod-dl.azurewebsites.net/api/leadgen/mapboxtile?code=fGmzY2tmFNVsFE8DafEM6K366amMfm9nLdJevzrEhqIBcX29aTIcjw==&x={x}&y={y}&z={z}&id={id}
     isoline: https://function-prod-dl.azurewebsites.net/api/leadgen/isoline?code=RMfRKl0JNFzCB7oi3kxmmssp/Nol00b4vuca9MBh8M14Bx/gfZ0Xtg==
-    submitLead: https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?dest=adso-leads@doctorlogic.com&subject=New+market+analysis+lead:+ADSO
+    submitLead:
+      - https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?dest=adso-leads@doctorlogic.com&subject=New+market+analysis+lead:+ADSO
+      - https://hooks.zapier.com/hooks/catch/1502676/3303m9x/
 ---
 
 <div id="root" class="market-analysis-app-container adso-analysis"></div>
