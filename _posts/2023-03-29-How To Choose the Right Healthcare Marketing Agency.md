@@ -7,7 +7,7 @@ tags:
 - Strategy
 post_intro: A qualified healthcare marketing agency can help take your practice to
   new heights. Read on for five things to look for when choosing an agency.
-post_image: ''
+post_image: "/uploads/screen-shot-2023-03-29-at-1-16-37-pm.jpg"
 post_highlight: A qualified healthcare marketing agency can help take your practice
   to new heights. Read on for five things to look for when choosing an agency.
 post_type:
@@ -19,6 +19,8 @@ product:
 - growth accelerators
 
 ---
+![](/uploads/screen-shot-2023-03-29-at-1-16-37-pm.jpg)
+
 In today's competitive healthcare industry, it's crucial for healthcare providers to partner with a reliable marketing agency that can help them reach their target audience and achieve their business goals. However, choosing the right healthcare marketing agency can be a daunting task. It is essential to take the time to research and evaluate each option before making a decision. Here are five key factors to consider when choosing the right healthcare marketing agency:
 
 ## 1. Experience and Expertise
