@@ -1,22 +1,25 @@
 ---
 post_title: Should Your Practice Adopt Direct Pay?
-date: 2022-07-27T05:00:00.000+00:00
+date: 2022-07-27T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags: []
-post_intro: The Direct Primary Care model, or DPC, is a practice and payment model
-  that enables patients to pay their practices or primary care physicians directly.
-  They can do so by making periodic payments for certain primary care services, usually
-  in the form of an annual or monthly fee.
-post_image: "/uploads/shutterstock_1439351843.jpg"
-post_highlight: In the health care industry, prior authorization requirements haven't
-  improved. According to a recent poll of 644 medical practices, 79% reported that
-  prior authorization requirements rose.
+post_intro: >-
+  The Direct Primary Care model, or DPC, is a practice and payment model that
+  enables patients to pay their practices or primary care physicians directly.
+  They can do so by making periodic payments for certain primary care services,
+  usually in the form of an annual or monthly fee.
+post_image: /uploads/shutterstock_1439351843.jpg
+post_highlight: >-
+  In the health care industry, prior authorization requirements haven't
+  improved. According to a recent poll of 644 medical practices, 79% reported
+  that prior authorization requirements rose.
 post_type:
-- blog
+  - blog
 product:
-- website management
-
+  - website management
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1741084496.jpg)
 
 In the health care industry, prior authorization requirements haven't improved. According to [a recent poll of 644 medical practices](https://www.healthcaredive.com/news/medical-groups-prior-authorization-burdens-pandemic/619980/), 79% reported that prior authorization requirements rose. It's still a top regulatory challenge for medical practices, even when compared to COVID-19 reporting requirements and work mandates. Healthcare practices often have to deal with insurance companies and third-party payers, leading to care delays and large amounts of unnecessary administrative work.

@@ -1,24 +1,27 @@
 ---
 post_title: A Guide to Digital Marketing for Medical Practices
-date: 2022-08-02T05:00:00.000+00:00
+date: 2022-08-02T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
-- healthcare-marketing
-post_intro: Digital marketing for doctors is a set of tactics that attract, convert,
-  and retain patients on the internet. Since the majority of patients search for medical
-  information and look for doctors online, the virtual realm is the best place to
-  implement your marketing efforts.
-post_image: "/uploads/shutterstock_587975705.jpg"
-post_highlight: Digital marketing for doctors is a set of tactics that attract, convert,
-  and retain patients on the internet. Since the majority of patients search for medical
-  information and look for doctors online, the virtual realm is the best place to
-  implement your marketing efforts.
+  - healthcare-marketing
+post_intro: >-
+  Digital marketing for doctors is a set of tactics that attract, convert, and
+  retain patients on the internet. Since the majority of patients search for
+  medical information and look for doctors online, the virtual realm is the best
+  place to implement your marketing efforts.
+post_image: /uploads/shutterstock_587975705.jpg
+post_highlight: >-
+  Digital marketing for doctors is a set of tactics that attract, convert, and
+  retain patients on the internet. Since the majority of patients search for
+  medical information and look for doctors online, the virtual realm is the best
+  place to implement your marketing efforts.
 post_type:
-- blog
+  - blog
 product:
-- website management
-
+  - website management
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_765947833.jpg)
 
 With [77% of potential patients](https://searchengineland.com/77-percent-of-online-health-seekers-start-at-search-engines-pew-study-145105) researching health information online, digital marketing is a vital part of any medical marketing strategy. If the ROI (return on investment) of your medical practice’s marketing is less than satisfactory, you may not be paying enough attention to your digital presence.

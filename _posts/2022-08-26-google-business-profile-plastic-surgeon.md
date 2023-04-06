@@ -1,24 +1,29 @@
 ---
 post_title: 7 Ways Google Business Profiles Help Plastic Surgery Practices Grow
-date: 2022-08-26 05:00:00 +0000
+date: '2022-08-26 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- Strategy
-- SEO
-post_intro: Google Business Profiles (GBPs) are a free and easy way to connect with
-  prospective customers. In fact, 64% of consumers have used GBPs to find local business
-  contact information, making them important to use and keep up-to-date.
-post_image: "/uploads/shutterstock_1942111819-1.jpg"
-post_highlight: Google Business Profiles (GBPs) are a free and easy way to connect
-  with prospective customers. In fact, 64% of consumers have used GBPs to find local
-  business contact information, making them important to use and keep up-to-date.
+  - Strategy
+  - SEO
+post_intro: >-
+  Google Business Profiles (GBPs) are a free and easy way to connect with
+  prospective customers. In fact, 64% of consumers have used GBPs to find local
+  business contact information, making them important to use and keep
+  up-to-date.
+post_image: /uploads/shutterstock_1942111819-1.jpg
+post_highlight: >-
+  Google Business Profiles (GBPs) are a free and easy way to connect with
+  prospective customers. In fact, 64% of consumers have used GBPs to find local
+  business contact information, making them important to use and keep
+  up-to-date.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-- social reputation
-
+  - search amplifier
+  - social reputation
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1192398814.jpg)
 
 Google Business Profiles (GBPs) are a free and easy way to connect with prospective customers. In fact, [64% of consumers](https://www.brightlocal.com/research/google-my-business-insights-study/) have used GBPs to find local business contact information, making them important to use and keep up-to-date.

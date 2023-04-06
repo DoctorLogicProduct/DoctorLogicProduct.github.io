@@ -1,24 +1,27 @@
 ---
 post_title: Why SEO and Content Matters to Your Medical Private Practice
-date: 2018-12-10T06:00:00.000+00:00
+date: 2018-12-10T06:00:00.000Z
 post_author: John Vakidis
 tags: []
-post_intro: With the Internet age came a new way to promote your practice, reach more
-  people, and grow your business. But all the opportunities afforded by the digital
-  era can be confusing and difficult to mill through, especially when it comes to
-  digital marketing.
-post_image: "/uploads/WhySEOThumb.jpg"
-post_highlight: With the Internet age came a new way to promote your practice, reach
-  more people, and grow your business. But all the opportunities afforded by the digital
-  era can be confusing and difficult to mill through, especially when it comes to
-  digital marketing.
+post_intro: >-
+  With the Internet age came a new way to promote your practice, reach more
+  people, and grow your business. But all the opportunities afforded by the
+  digital era can be confusing and difficult to mill through, especially when it
+  comes to digital marketing.
+post_image: /uploads/WhySEOThumb.jpg
+post_highlight: >-
+  With the Internet age came a new way to promote your practice, reach more
+  people, and grow your business. But all the opportunities afforded by the
+  digital era can be confusing and difficult to mill through, especially when it
+  comes to digital marketing.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-- growth accelerators
-
+  - search amplifier
+  - growth accelerators
+_template: post_template
 ---
+
 In this post, we hope to resolve some of this confusion by explaining why aspects of digital marketing, like SEO and content, are so crucial to your practice’s success today.
 
 Let’s dive in.

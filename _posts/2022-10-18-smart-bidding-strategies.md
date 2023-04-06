@@ -1,23 +1,26 @@
 ---
 post_title: 'Medical PPC Hack: Smart Bidding Strategies to Optimize Your Ad Spend'
-date: 2022-10-18T05:00:00.000+00:00
+date: 2022-10-18T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags: []
-post_intro: The world of paid advertising for medical practices continues to evolve.
-  If you want to get immediate results with your PPC campaign, you need to keep up
-  with trends and ensure that your keywords, content, and bidding all follow current
-  best practices.
-post_image: "/uploads/shutterstock_1956303571.jpg"
-post_highlight: The world of paid advertising for medical practices continues to evolve.
-  If you want to get immediate results with your PPC campaign, you need to keep up
-  with trends and ensure that your keywords, content, and bidding all follow current
-  best practices.
+post_intro: >-
+  The world of paid advertising for medical practices continues to evolve. If
+  you want to get immediate results with your PPC campaign, you need to keep up
+  with trends and ensure that your keywords, content, and bidding all follow
+  current best practices.
+post_image: /uploads/shutterstock_1956303571.jpg
+post_highlight: >-
+  The world of paid advertising for medical practices continues to evolve. If
+  you want to get immediate results with your PPC campaign, you need to keep up
+  with trends and ensure that your keywords, content, and bidding all follow
+  current best practices.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-
+  - growth accelerators
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1803639133.jpg)
 
 The world of [paid advertising for medical practices](https://doctorlogic.com/growth-accelerators/medical-paid-advertising) continues to evolve. If you want to [get immediate results with your PPC campaign](https://doctorlogic.com/blog/paid-search-for-doctors-how-to-see-immediate-results-with-your-ppc-campaigns), you need to keep up with trends and ensure that your keywords, content, and bidding all follow current best practices.

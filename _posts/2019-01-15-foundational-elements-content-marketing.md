@@ -1,19 +1,22 @@
 ---
 post_title: 5 Foundational Elements of Content Marketing
-date: 2019-01-15T06:00:00.000+00:00
+date: 2019-01-15T06:00:00.000Z
 post_author: 'Sydnie Summers-Schroeder '
 tags: []
-post_intro: Is your practice leveraging content to reach more prospective patients
-  and ultimately grow your business?
-post_image: "/uploads/ContentMarketingThumb.jpg"
-post_highlight: Is your practice leveraging content to reach more prospective patients
-  and ultimately grow your business?
+post_intro: >-
+  Is your practice leveraging content to reach more prospective patients and
+  ultimately grow your business?
+post_image: /uploads/ContentMarketingThumb.jpg
+post_highlight: >-
+  Is your practice leveraging content to reach more prospective patients and
+  ultimately grow your business?
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-
+  - content multiplier
+_template: post_template
 ---
+
 Content marketing is a crucial part of any digital marketing strategy, and for good reason:
 
 * It gets [three times more leads](https://www.hubspot.com/marketing-statistics?__hstc=37514559.86908053a04deef209d41cbbf486b52a.1546876321479.1554478540077.1554489730953.54&__hssc=37514559.4.1554489730953&__hsfp=1915899968) than paid search advertising

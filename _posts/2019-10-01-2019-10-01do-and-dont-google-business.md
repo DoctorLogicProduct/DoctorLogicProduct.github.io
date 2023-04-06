@@ -1,21 +1,21 @@
 ---
 post_title: The Do's and Don'ts for Your Google My Business Listing
-date: 2019-10-01T16:00:00.000+00:00
+date: 2019-10-01T16:00:00.000Z
 post_author: Kandace Cortez
 tags: []
-post_intro: A practice’s Google My Business profile is what appears when people are
-  searching for that business, or a business like it, on Google Search or in Google
-  Maps.
-post_image: "/uploads/online-visibility-2.jpg"
-post_highlight: " practice’s Google My Business profile is what appears when people
-  are searching for that business, or a business like it, on Google Search or in Google
-  Maps."
+post_intro: >-
+  A practice’s Google My Business profile is what appears when people are
+  searching for that business, or a business like it, on Google Search or in
+  Google Maps.
+post_image: /uploads/online-visibility-2.jpg
+post_highlight: ' practice’s Google My Business profile is what appears when people are searching for that business, or a business like it, on Google Search or in Google Maps.'
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 Google My Business is an important tool in any business owner’s toolbox, especially if you’re managing a physical location.
 
 That’s because a practice's Google My Business profile is what appears when people are searching for that business, or a business like it, on Google Search or in Google Maps.

@@ -1,26 +1,29 @@
 ---
 post_title: How To Build Your Dental Website Like a DSO
-date: 2019-08-21T19:45:00.000+00:00
+date: 2019-08-21T19:45:00.000Z
 post_author: Keisha Dunstan
 tags: []
-post_intro: What if you're not a DSO and want to compete on their level digitally?
-  DSO News caught up with Andre Riley, Chief Revenue Officer at DoctorLogic to learn
-  more about how solo-practices, small groups, emerging groups and even mid-size DSOs
-  can compete with even the biggest players online.
-post_image: "/uploads/email-blast-designs.jpg"
-post_highlight: What if you're not a DSO and want to compete on their level digitally?
-  DSO News caught up with Andre Riley, Chief Revenue Officer at DoctorLogic to learn
-  more about how solo-practices, small groups, emerging groups and even mid-size DSOs
-  can compete with even the biggest players online.
+post_intro: >-
+  What if you're not a DSO and want to compete on their level digitally? DSO
+  News caught up with Andre Riley, Chief Revenue Officer at DoctorLogic to learn
+  more about how solo-practices, small groups, emerging groups and even mid-size
+  DSOs can compete with even the biggest players online.
+post_image: /uploads/email-blast-designs.jpg
+post_highlight: >-
+  What if you're not a DSO and want to compete on their level digitally? DSO
+  News caught up with Andre Riley, Chief Revenue Officer at DoctorLogic to learn
+  more about how solo-practices, small groups, emerging groups and even mid-size
+  DSOs can compete with even the biggest players online.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-- content multiplier
-- search amplifier
-- website management
-
+  - growth accelerators
+  - content multiplier
+  - search amplifier
+  - website management
+_template: post_template
 ---
+
 Your website is a combination of the explanation of your culture, your business card, an old Yellow Pages ad. Review sites have now become a new and powerful “word of mouth” referral source, with many turning to such sites before choosing a new practice.
 
 Just like your office projects your culture and image, so too should your website. Larger DSOs have figured this out and invest heavily in their digital presence.

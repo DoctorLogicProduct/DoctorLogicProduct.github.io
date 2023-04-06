@@ -1,19 +1,22 @@
 ---
 post_title: How Important Are Links to Credibility And Rankings?
-date: 2020-11-20T18:30:00.000+00:00
+date: 2020-11-20T18:30:00.000Z
 post_author: Ryan Metcalf
 tags: []
-post_intro: 'In our latest blog post, our Head of SEO looks into why links are an
-  important part of a successful SEO strategy. '
-post_image: "/uploads/pinclipart-com_chain-links-clipart_989061.png"
-post_highlight: 'In our latest blog post, our Head of SEO looks into why links are
-  an important part of a successful SEO strategy. '
+post_intro: >-
+  In our latest blog post, our Head of SEO looks into why links are an important
+  part of a successful SEO strategy. 
+post_image: /uploads/pinclipart-com_chain-links-clipart_989061.png
+post_highlight: >-
+  In our latest blog post, our Head of SEO looks into why links are an important
+  part of a successful SEO strategy. 
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 **How Important Are Links to Credibility And SEO Rankings?**
 
 How many links do I need to succeed in SEO? How important are links? These are just two of the most common questions when it comes to the very polarizing linking and authority part of SEO. While it’s true that Google has put less emphasis on link-building in recent years, it's still a very important strategy to consider adopting. To figure out the importance of links, we need to first start at the beginning.

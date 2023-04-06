@@ -1,20 +1,22 @@
 ---
 post_title: 'Coming Soon: Homepage Redesign'
-date: 2021-01-18T14:00:00.000+00:00
+date: 2021-01-18T14:00:00.000Z
 post_author: Josh Feinberg
 tags: []
 post_intro: New Homepage Redesign coming soon for all DoctorLogic clients.
-post_image: "/uploads/newsletters-_-product-update-images-1.png"
-post_highlight: We redesigned the new homepage to highlight your most important performance
-  metrics and give you a better understanding of your top website, SEO, & conversion
-  results.
+post_image: /uploads/newsletters-_-product-update-images-1.png
+post_highlight: >-
+  We redesigned the new homepage to highlight your most important performance
+  metrics and give you a better understanding of your top website, SEO, &
+  conversion results.
 post_type:
-- blog
+  - blog
 product:
-- website management
+  - website management
 title: Homepage Redesign
-
+_template: post_template
 ---
+
 **Coming soon: Your new DoctorLogic "Homepage"**
 
 New year. New look! We're starting off 2021 strong and today we wanted to share a sneak peek of an exciting new change coming soon to your DoctorLogic account. In a few weeks we'll be rolling out a brand new account Homepage which will be the first page you'll land on each time you login.

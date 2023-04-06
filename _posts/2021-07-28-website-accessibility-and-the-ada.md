@@ -1,22 +1,26 @@
 ---
 post_title: Website Accessibility and the Americans With Disabilities Act (ADA)
-date: 2021-07-28T13:00:00.000+00:00
-post_author: Audrey Mross, Partner at Munck Wilson Mandala LLP
+date: 2021-07-28T13:00:00.000Z
+post_author: 'Audrey Mross, Partner at Munck Wilson Mandala LLP'
 tags:
-- Website
-- Healthcare-Marketing
-post_intro: A brief overview (and some helpful tips) regarding the ADA & Website Accessibility
-post_image: "/uploads/website-blog-post-ada-reduced.png"
-post_highlight: This article explains why there is no single legal standard (yet)
-  and provides practical tips to avoid or defend against litigation, including a website
+  - Website
+  - Healthcare-Marketing
+post_intro: >-
+  A brief overview (and some helpful tips) regarding the ADA & Website
+  Accessibility
+post_image: /uploads/website-blog-post-ada-reduced.png
+post_highlight: >-
+  This article explains why there is no single legal standard (yet) and provides
+  practical tips to avoid or defend against litigation, including a website
   widget that might help you.
 post_type:
-- blog
+  - blog
 product:
-- website management
+  - website management
 title: 2021-07-28-website-accessibility-and-the-ADA
-
+_template: post_template
 ---
+
 **Executive Summary:** 
 
 The Americans With Disabilities Act requires accommodation of individuals with disabilities, which includes access to places of business. There is an ongoing legal battle over whether this accessibility mandate includes business websites and mobile apps. This article explains why there is no single legal standard (yet) and provides practical tips to avoid or defend against litigation, including a website widget that might help you.

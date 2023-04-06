@@ -51,8 +51,8 @@ fields:
     label: Class Name
     description: Class name of this page
   config:
-    min: 
-    max: '3'
+    min: 1
+    max: 3 
     labelField: class
   label: Page Class
   description: Not Required. CSS Class of this page
@@ -93,8 +93,8 @@ fields:
   - wistia-embed
   - case-study-feature
   config:
-    min: 
-    max: 
+    min: 1
+    max: 9999
   label: Page Sections
 pages:
 - landing-pages/2021.02-ppc-competitor-page.md

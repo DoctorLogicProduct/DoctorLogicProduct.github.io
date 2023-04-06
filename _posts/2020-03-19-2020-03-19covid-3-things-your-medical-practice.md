@@ -1,21 +1,24 @@
 ---
 post_title: 'COVID-19: 3 Things Your Medical Practice Should Do'
-date: 2020-03-19 20:30:00 +0000
+date: '2020-03-19 20:30:00 +0000'
 post_author: Janelle Amos
 tags:
-- Strategy
-post_intro: During the spread of COVID-19 here are a few things your practice can
-  do during these difficult times to gear up for better times.
-post_image: "/uploads/iStock-1176810187.jpg"
-post_highlight: During the spread of COVID-19 here are a few things your practice
-  can do during these difficult times to gear up for better times.
+  - Strategy
+post_intro: >-
+  During the spread of COVID-19 here are a few things your practice can do
+  during these difficult times to gear up for better times.
+post_image: /uploads/iStock-1176810187.jpg
+post_highlight: >-
+  During the spread of COVID-19 here are a few things your practice can do
+  during these difficult times to gear up for better times.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-- website management
-
+  - success insights
+  - website management
+_template: post_template
 ---
+
 The spread of COVID-19, or coronavirus, has forced us into a national emergency, shutting down several restaurants, bars, and small businesses. The general public has been encouraged to practice social distancing to help prevent the spread of the infection… which means more downtime than we’re used to. Our lives have been quickly disrupted in so many ways.
 
 If you’re fortunate enough to be healthy during this time and find yourself and your practice staff with extra time on your hands, here are a few things your practice can do during these difficult times to gear up for better times.

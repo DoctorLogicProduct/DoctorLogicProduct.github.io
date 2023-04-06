@@ -1,24 +1,28 @@
 ---
 post_title: Video Marketing for Healthcare Practices
-date: 2021-03-23T13:00:00.000+00:00
+date: 2021-03-23T13:00:00.000Z
 post_author: Christopher Ellis
 tags:
-- SEO
-- Content-Marketing
-post_intro: Is your practice benefiting from one of the most underutilized marketing
+  - SEO
+  - Content-Marketing
+post_intro: >-
+  Is your practice benefiting from one of the most underutilized marketing
   strategies in healthcare?
-post_image: "/uploads/video-marketing-for-practices.png"
-post_highlight: In an effort to help your practice incorporate video in your practice
-  marketing strategy, we have outlined a few recommendations to help get you started.
+post_image: /uploads/video-marketing-for-practices.png
+post_highlight: >-
+  In an effort to help your practice incorporate video in your practice
+  marketing strategy, we have outlined a few recommendations to help get you
+  started.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-- growth accelerators
-- content multiplier
+  - lead generator
+  - growth accelerators
+  - content multiplier
 title: 2021-03-23-video-marketing-for-healthcare-practices
-
+_template: post_template
 ---
+
 When you think about “content marketing”, what specifically comes to mind? Chances are you are thinking about blogs, infographics, or articles. Perhaps you are thinking about social media and online posts? While those are all extremely useful and important weapons in your “Content Marketing” arsenal, there is still one glaring omission you should be considering; videos.
 
 Video Marketing is arguably one of the most underutilized strategies in most healthcare practices; though it really is a shame given the significant benefits videos provide. For example, studies have shown that 74% of users who watched an explainer video for a product or service resulted in a purchase. Furthermore, 80% of marketers noted an increased dwell time on their website due to videos and on social media, videos tend to generate 1,200% more shares than text & image content combined. These are just a few of the incredible stats all reiterating the undeniable positive impact video has in marketing. But how do healthcare providers successfully utilize video in their marketing strategy you might ask? It may actually be easier than you think!

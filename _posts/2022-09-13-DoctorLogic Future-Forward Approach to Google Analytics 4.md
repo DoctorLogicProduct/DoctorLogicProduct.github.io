@@ -1,29 +1,34 @@
 ---
 post_title: DoctorLogic’s Future-Forward Approach to Google Analytics 4
-date: 2022-09-13 05:00:00 +0000
+date: '2022-09-13 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- Strategy
-- Website
-- Healthcare Marketing
-- SEO
-post_intro: "Google unveiled its first measurement tool, Urchin from Google, in 2005.
-  Google followed this up with Google Analytics (or Google Analytics Classic) in 2007
-  and in 2012, Universal Analytics was released. \n\nSo it was no great shock to the
-  DoctorLogic team to learn that Google was again upgrading its measurement tools
-  to Google Analytics 4 (GA4)."
-post_image: "/uploads/shutterstock_719262103-1.jpg"
-post_highlight: Google unveiled its first measurement tool, Urchin from Google, in
-  2005. Google followed this up with Google Analytics (or Google Analytics Classic)
-  in 2007 and in 2012, Universal Analytics was released.   So it was no great shock
-  to the DoctorLogic team to learn that Google was again upgrading its measurement
-  tools to Google Analytics 4 (GA4).
-post_type:
-- blog
-product:
-- success insights
+  - Strategy
+  - Website
+  - Healthcare Marketing
+  - SEO
+post_intro: >-
+  Google unveiled its first measurement tool, Urchin from Google, in 2005.
+  Google followed this up with Google Analytics (or Google Analytics Classic) in
+  2007 and in 2012, Universal Analytics was released. 
 
+
+  So it was no great shock to the DoctorLogic team to learn that Google was
+  again upgrading its measurement tools to Google Analytics 4 (GA4).
+post_image: /uploads/shutterstock_719262103-1.jpg
+post_highlight: >-
+  Google unveiled its first measurement tool, Urchin from Google, in 2005.
+  Google followed this up with Google Analytics (or Google Analytics Classic) in
+  2007 and in 2012, Universal Analytics was released.   So it was no great shock
+  to the DoctorLogic team to learn that Google was again upgrading its
+  measurement tools to Google Analytics 4 (GA4).
+post_type:
+  - blog
+product:
+  - success insights
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_2170753197.jpg)
 
 Google unveiled its first measurement tool, Urchin from Google, in 2005. Google followed this up with Google Analytics (commonly referred to as Google Analytics Classic) in 2007, and in 2012, Universal Analytics was released.

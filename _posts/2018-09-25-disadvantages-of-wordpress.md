@@ -1,30 +1,37 @@
 ---
 post_title: The Disadvantages of Wordpress
-date: 2018-09-25T05:00:00.000+00:00
+date: 2018-09-25T05:00:00.000Z
 post_author: Kandace Cortez
 tags: []
-post_intro: |-
+post_intro: >-
   Think of a website as an extension of your business.
+
 
   Your current and potential clients are visiting you online.
 
-  You want to give them an easy and pleasant user experience so they can associate positive feelings with your business.
 
-  You can give them this experience by having a fully functioning website that loads up quickly.
-post_image: "/uploads/CodeThumb.jpg"
-post_highlight: Think of a website as an extension of your business.  Your current
-  and potential clients are visiting you online.  You want to give them an easy and
-  pleasant user experience so they can associate positive feelings with your business.  You
-  can give them this experience by having a fully functioning website that loads up
-  quickly.
+  You want to give them an easy and pleasant user experience so they can
+  associate positive feelings with your business.
+
+
+  You can give them this experience by having a fully functioning website that
+  loads up quickly.
+post_image: /uploads/CodeThumb.jpg
+post_highlight: >-
+  Think of a website as an extension of your business.  Your current and
+  potential clients are visiting you online.  You want to give them an easy and
+  pleasant user experience so they can associate positive feelings with your
+  business.  You can give them this experience by having a fully functioning
+  website that loads up quickly.
 post_type:
-- blog
-- blog
+  - blog
+  - blog
 product:
-- search amplifier
-- website management
-
+  - search amplifier
+  - website management
+_template: post_template
 ---
+
 It’s important to note that not all websites are created equally.
 
 Websites can experience technical difficulties and may need a lot of management from an agency, especially if it is created on WordPress.

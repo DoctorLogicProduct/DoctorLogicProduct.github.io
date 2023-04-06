@@ -1,23 +1,26 @@
 ---
 post_title: How to Sell Invisalign to Both New and Existing Patients
-date: 2022-09-20 05:00:00 +0000
+date: '2022-09-20 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags: []
-post_intro: If your dental practice offers Invisalign treatments to patients, you
-  have a potentially crucial marketing advantage. Align Technology, the company behind
-  the Invisalign brand, spends more than $250 million every year on marketing its
-  product in North America.
-post_image: "/uploads/shutterstock_739359838.jpg"
-post_highlight: If your dental practice offers Invisalign treatments to patients,
-  you have a potentially crucial marketing advantage. Align Technology, the company
-  behind the Invisalign brand, spends more than $250 million every year on marketing
+post_intro: >-
+  If your dental practice offers Invisalign treatments to patients, you have a
+  potentially crucial marketing advantage. Align Technology, the company behind
+  the Invisalign brand, spends more than $250 million every year on marketing
+  its product in North America.
+post_image: /uploads/shutterstock_739359838.jpg
+post_highlight: >-
+  If your dental practice offers Invisalign treatments to patients, you have a
+  potentially crucial marketing advantage. Align Technology, the company behind
+  the Invisalign brand, spends more than $250 million every year on marketing
   its product in North America.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-
+  - lead generator
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1072908650.jpg)
 
 If your dental practice offers Invisalign treatments to patients, you have a potentially crucial marketing advantage. Align Technology, the company behind the Invisalign brand, [spends more than $250 million every year](https://investor.aligntech.com/news-releases/news-release-details/align-technology-expands-its-invis-consumer-advertising-campaign#:\~:text=Commenting%20on%20Align's%20expanded%20consumer,500%20million%20potential%20Invisalign%20patients) on marketing its product in North America.

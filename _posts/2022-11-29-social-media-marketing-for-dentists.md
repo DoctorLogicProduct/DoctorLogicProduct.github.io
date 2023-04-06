@@ -1,22 +1,27 @@
 ---
 post_title: 'Social Media Marketing for Dental Clinics: Remember to Smile'
-date: 2022-11-29 06:00:00 +0000
+date: '2022-11-29 06:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- strategy
-post_intro: Social media has quickly become a core part of marketing many dental practices.
-  You can attract and engage potential patients through social media platforms like
-  Facebook and Instagram as you promote your services and expertise.
-post_image: "/uploads/istock_000071387231_large.jpeg"
-post_highlight: Social media has quickly become a core part of marketing many dental
-  practices. You can attract and engage potential patients through social media platforms
-  like Facebook and Instagram as you promote your services and expertise.
+  - strategy
+post_intro: >-
+  Social media has quickly become a core part of marketing many dental
+  practices. You can attract and engage potential patients through social media
+  platforms like Facebook and Instagram as you promote your services and
+  expertise.
+post_image: /uploads/istock_000071387231_large.jpeg
+post_highlight: >-
+  Social media has quickly become a core part of marketing many dental
+  practices. You can attract and engage potential patients through social media
+  platforms like Facebook and Instagram as you promote your services and
+  expertise.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-
+  - growth accelerators
+_template: post_template
 ---
+
 ## **5 Choices that Can Optimize Your Dental Social Media Marketing**
 
 ![](/uploads/istock_000040967806_large.jpeg)

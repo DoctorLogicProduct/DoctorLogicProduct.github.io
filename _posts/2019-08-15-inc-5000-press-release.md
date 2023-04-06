@@ -1,26 +1,23 @@
 ---
-post_title: " DoctorLogic Appears on the 2019 Inc. 5000 list for the 2nd Year in a
-  Row, Ranking No. 1285 "
-date: 2019-08-15 15:00:00 +0000
+post_title: ' DoctorLogic Appears on the 2019 Inc. 5000 list for the 2nd Year in a Row, Ranking No. 1285 '
+date: '2019-08-15 15:00:00 +0000'
 post_author: Keisha Dunstan
 tags:
-- News
-post_intro: " Inc. magazine ranked DoctorLogic #1285 on the 2019 Inc. 5000 list, the
-  most prestigious ranking of the nation’s fastest-growing private companies in America."
-post_image: "/uploads/Inc.5000_CigarBand-Rank-blog.png"
-post_highlight: " Inc. magazine ranked DoctorLogic #1285 on the 2019 Inc. 5000 list,
-  the most prestigious ranking of the nation’s fastest-growing private companies in
-  America."
+  - News
+post_intro: ' Inc. magazine ranked DoctorLogic #1285 on the 2019 Inc. 5000 list, the most prestigious ranking of the nation’s fastest-growing private companies in America.'
+post_image: /uploads/Inc.5000_CigarBand-Rank-blog.png
+post_highlight: ' Inc. magazine ranked DoctorLogic #1285 on the 2019 Inc. 5000 list, the most prestigious ranking of the nation’s fastest-growing private companies in America.'
 post_type:
-- press-release
+  - press-release
 product:
-- success insights
-- lead generator
-- content multiplier
-- social reputation
-- website management
-
+  - success insights
+  - lead generator
+  - content multiplier
+  - social reputation
+  - website management
+_template: post_template
 ---
+
 **Dallas, TX. August 15, 2019** – _Inc._ magazine ranked DoctorLogic #1285 on the [2019 Inc. 5000](https://www.inc.com/inc5000/2019/top-private-companies-2019-inc5000.html) list, the most prestigious ranking of the nation’s fastest-growing private companies in America. The list represents a unique look at the most successful companies within the American economy’s most dynamic segment—its independent small businesses. Microsoft, Dell, Domino’s Pizza, Pandora, Timberland, LinkedIn, Yelp, Zillow, and many other well-known names gained their first national exposure as honorees on the Inc. 5000.
 
 “We’re beyond excited to have DoctorLogic as part of the prestigious Inc. 5000 list for the 2nd year in a row,” said Andre Riley, Chief Revenue Officer of DoctorLogic. “This award belongs to each and every person who works at DoctorLogic, our amazing clients, and everyone who helped support us along the way. Our team is very passionate about our products and services and I’m grateful and proud of all of their hard work. ”

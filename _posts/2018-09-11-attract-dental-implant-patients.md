@@ -1,23 +1,26 @@
 ---
 post_title: Attracting Patients for Dental Implants
-date: 2018-09-11T05:00:00.000+00:00
+date: 2018-09-11T05:00:00.000Z
 post_author: John Vakidis
 tags: []
-post_intro: Have you ever thought to yourself, Is Digital Marketing Necessary for
-  My Dental Practice? If you are a dentist who specializes in implant dentistry, you
-  are missing out on potentially millions of dollars in revenue for every year you
-  decide to ignore digital marketing for your practice.
-post_image: "/uploads/5-types-edit.jpg"
-post_highlight: Have you ever thought to yourself, Is Digital Marketing Necessary
-  for My Dental Practice? If you are a dentist who specializes in implant dentistry,
-  you are missing out on potentially millions of dollars in revenue for every year
-  you decide to ignore digital marketing for your practice.
+post_intro: >-
+  Have you ever thought to yourself, Is Digital Marketing Necessary for My
+  Dental Practice? If you are a dentist who specializes in implant dentistry,
+  you are missing out on potentially millions of dollars in revenue for every
+  year you decide to ignore digital marketing for your practice.
+post_image: /uploads/5-types-edit.jpg
+post_highlight: >-
+  Have you ever thought to yourself, Is Digital Marketing Necessary for My
+  Dental Practice? If you are a dentist who specializes in implant dentistry,
+  you are missing out on potentially millions of dollars in revenue for every
+  year you decide to ignore digital marketing for your practice.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-
+  - success insights
+_template: post_template
 ---
+
 According to an [article from the New York Times](https://www.nytimes.com/2010/07/31/health/31patient.html), “An implant to replace a single tooth can cost $3,000 to $4,500, depending on where you live. Implants to replace a full or partial set of teeth can run from $20,000 to as much as $45,000.”
 
 With as little as 5 additional partial or full cases per month, you could potentially increase your revenue by $1,200,000 to $2,700,000 per year. If your lead generation efforts are bringing you more than 5 new cases, then the additional revenue can be much higher!

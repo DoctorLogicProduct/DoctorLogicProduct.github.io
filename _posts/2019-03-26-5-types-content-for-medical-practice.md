@@ -1,24 +1,27 @@
 ---
 post_title: 5 Types of Content to Employ for Your Medical Practice
-date: 2019-03-28T16:00:00.000+00:00
+date: 2019-03-28T16:00:00.000Z
 post_author: Keisha Dunstan
 tags:
-- Content-Marketing
-post_intro: Now that you know the five foundational elements of content marketing,
-  including creating value, knowing your audience, promoting properly, honing technical
-  skills and analyzing what’s working (and what’s not), what types of content should
-  you be creating?
-post_image: "/uploads/5-types-edit.jpg"
-post_highlight: Now that you know the five foundational elements of content marketing,
-  including creating value, knowing your audience, promoting properly, honing technical
-  skills and analyzing what’s working (and what’s not), what types of content should
-  you be creating?
+  - Content-Marketing
+post_intro: >-
+  Now that you know the five foundational elements of content marketing,
+  including creating value, knowing your audience, promoting properly, honing
+  technical skills and analyzing what’s working (and what’s not), what types of
+  content should you be creating?
+post_image: /uploads/5-types-edit.jpg
+post_highlight: >-
+  Now that you know the five foundational elements of content marketing,
+  including creating value, knowing your audience, promoting properly, honing
+  technical skills and analyzing what’s working (and what’s not), what types of
+  content should you be creating?
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-
+  - content multiplier
+_template: post_template
 ---
+
 Here are a few ideas to get your content creation juices flowing.
 
 ### Blog Series

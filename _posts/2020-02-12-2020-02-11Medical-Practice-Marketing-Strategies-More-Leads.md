@@ -1,27 +1,32 @@
 ---
-post_title: 6 Medical Practice Marketing Strategies that can TRIPLE Your Leads in
-  2020
-date: 2020-02-12T03:45:00.000+00:00
+post_title: 6 Medical Practice Marketing Strategies that can TRIPLE Your Leads in 2020
+date: 2020-02-12T03:45:00.000Z
 post_author: Keisha Dunstan
 tags: []
-post_intro: |
-  To stay competitive and achieve year-over-year increases doctors should consider all core marketing and technology initiatives, as well as some new and noteworthy ones.
+post_intro: >
+  To stay competitive and achieve year-over-year increases doctors should
+  consider all core marketing and technology initiatives, as well as some new
+  and noteworthy ones.
 
-  Here are 6 easy (but highly effective) strategies you can implement to increase patient volume.
-post_image: "/uploads/iStock-1059661862.jpg"
-post_highlight: To stay competitive and achieve year-over-year increases doctors should
-  consider all core marketing and technology initiatives, as well as some new and
-  noteworthy ones.  Here are 5 easy (but highly effective) strategies you can implement
-  to increase patient volume.
+
+  Here are 6 easy (but highly effective) strategies you can implement to
+  increase patient volume.
+post_image: /uploads/iStock-1059661862.jpg
+post_highlight: >-
+  To stay competitive and achieve year-over-year increases doctors should
+  consider all core marketing and technology initiatives, as well as some new
+  and noteworthy ones.  Here are 5 easy (but highly effective) strategies you
+  can implement to increase patient volume.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-- success insights
-- social reputation
-- website management
-
+  - search amplifier
+  - success insights
+  - social reputation
+  - website management
+_template: post_template
 ---
+
 Each month, consumers in the U.S. perform more than **4.7 million online searches** for local doctors. For you to convert those searchers into new patients, you need to dominate the web—in the search engines, local directories, social media, and everywhere else your target audience spends time.
 
 To stay competitive and achieve year-over-year increases doctors should consider **_all_** core marketing and technology initiatives, as well as some new and noteworthy ones.

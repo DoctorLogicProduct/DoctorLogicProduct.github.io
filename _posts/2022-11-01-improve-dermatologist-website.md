@@ -1,25 +1,28 @@
 ---
 post_title: 5 Ways Dermatologists Can Improve Their Website
-date: 2022-11-01 05:00:00 +0000
+date: '2022-11-01 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- Website
-- Strategy
-post_intro: The website for your dermatology practice will serve as its “digital doorstep.”
-  It’s your business’s primary online representative and will be the central platform
-  where people research your practice. Because of its importance, your website must
-  be at its best.
-post_image: "/uploads/shutterstock_1992047612-1.jpg"
-post_highlight: The website for your dermatology practice will serve as its “digital
-  doorstep.” It’s your business’s primary online representative and will be the central
-  platform where people research your practice. Because of its importance, your website
-  must be at its best.
+  - Website
+  - Strategy
+post_intro: >-
+  The website for your dermatology practice will serve as its “digital
+  doorstep.” It’s your business’s primary online representative and will be the
+  central platform where people research your practice. Because of its
+  importance, your website must be at its best.
+post_image: /uploads/shutterstock_1992047612-1.jpg
+post_highlight: >-
+  The website for your dermatology practice will serve as its “digital
+  doorstep.” It’s your business’s primary online representative and will be the
+  central platform where people research your practice. Because of its
+  importance, your website must be at its best.
 post_type:
-- blog
+  - blog
 product:
-- website management
-
+  - website management
+_template: post_template
 ---
+
 The website for your dermatology practice will serve as its “digital doorstep.” It’s your business’s primary online representative and will be the central platform where people research your practice. Because of its importance, your website must be at its best.
 
 It’s not enough to have an attractive website design—your website must also be fully functional. If you’re wondering how to optimize your website’s functionality, there are ways to do so while maintaining stunning design.

@@ -1,21 +1,25 @@
 ---
 post_title: How To Convert Phone Calls Into New Patients
-date: 2019-06-24T16:00:00.000+00:00
+date: 2019-06-24T16:00:00.000Z
 post_author: Keisha Dunstan
 tags:
-- Strategy
-post_intro: 'Your front desk staff and the way they handle the first phone conversation
-  can quite literally mean the difference between a thriving practice full of referrals
-  and delighted patients and a practice struggling just to get by. '
-post_image: "/uploads/PhoneConversion.webp"
-post_highlight: Having friendly and sincere people representing your practice is the
-  thing that will leave the most lasting impression on patients, especially new patients.
+  - Strategy
+post_intro: >-
+  Your front desk staff and the way they handle the first phone conversation can
+  quite literally mean the difference between a thriving practice full of
+  referrals and delighted patients and a practice struggling just to get by. 
+post_image: /uploads/PhoneConversion.webp
+post_highlight: >-
+  Having friendly and sincere people representing your practice is the thing
+  that will leave the most lasting impression on patients, especially new
+  patients.
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 Recently, I was in search for a dentist who could accept walk ins and emergencies due to a cracked tooth caused by a popcorn kernel. I found this dentist online and called them after seeing their website. I dialed the number. The phone rang. I was greeted with a robotic voice mail, “Thank you for calling our Dentist office. We are very busy with our current patients. Leave your name and number and we’ll call you as soon as we can.” Click. So, I left a message.
 
 One hour later, and no call back, so I called again. After the second ring, I was greeted with, “Dentist office, can you please hold.” Before I could respond I was put on hold. This was not a great experience…needless to say I hung up and did not call back.

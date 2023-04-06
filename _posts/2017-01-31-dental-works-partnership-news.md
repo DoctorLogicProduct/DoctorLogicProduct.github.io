@@ -1,23 +1,26 @@
 ---
 post_title: Press Release - DoctorLogic & DentalWorks Partnership
-date: 2017-01-31T06:00:00.000+00:00
+date: 2017-01-31T06:00:00.000Z
 post_author: Kristie Theis
 tags: []
-post_intro: In 2016, DoctorLogic partnered with one of the nation’s largest dental
-  service organizations to help them maximize their presence online. DentalWorks,
-  a subsidiary of DentalOne Partners, Inc. is a dental enterprise with more than 164
-  locations and dentists across the U.S.
-post_image: "/uploads/DentalWorks_DoctorLogic-Thumb.png"
-post_highlight: In 2016, DoctorLogic partnered with one of the nation’s largest dental
-  service organizations to help them maximize their presence online. DentalWorks,
-  a subsidiary of DentalOne Partners, Inc. is a dental enterprise with more than 164
-  locations and dentists across the U.S.
+post_intro: >-
+  In 2016, DoctorLogic partnered with one of the nation’s largest dental service
+  organizations to help them maximize their presence online. DentalWorks, a
+  subsidiary of DentalOne Partners, Inc. is a dental enterprise with more than
+  164 locations and dentists across the U.S.
+post_image: /uploads/DentalWorks_DoctorLogic-Thumb.png
+post_highlight: >-
+  In 2016, DoctorLogic partnered with one of the nation’s largest dental service
+  organizations to help them maximize their presence online. DentalWorks, a
+  subsidiary of DentalOne Partners, Inc. is a dental enterprise with more than
+  164 locations and dentists across the U.S.
 post_type:
-- press-release
+  - press-release
 product:
-- success insights
-
+  - success insights
+_template: post_template
 ---
+
 To the read the press release, visit:
 
 [www.prnewswire.com/news-releases/doctorlogic…](http://www.prnewswire.com/news-releases/doctorlogic-partners-with-dentalworks-to-successfully-launch-164-unique-websites-in-under-6-months-300399020.html)

@@ -1,24 +1,27 @@
 ---
 post_title: The 7 Pillars of Great Ophthalmology Web Design
-date: 2022-06-22 05:00:00 +0000
+date: '2022-06-22 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- Website
-post_intro: Excellent website design is integral to the success of your ophthalmology
-  digital marketing campaign. According to studies, 94% of first impressions about
-  a website are design-related. These impressions have a direct effect on conversion
-  rates and word-of-mouth marketing.
-post_image: "/uploads/shutterstock_1889998894.jpg"
-post_highlight: 'Excellent website design is integral to the success of your ophthalmology
-  digital marketing campaign. According to studies, 94% of first impressions about
-  a website are design-related. These impressions have a direct effect on conversion
-  rates and word-of-mouth marketing. '
+  - Website
+post_intro: >-
+  Excellent website design is integral to the success of your ophthalmology
+  digital marketing campaign. According to studies, 94% of first impressions
+  about a website are design-related. These impressions have a direct effect on
+  conversion rates and word-of-mouth marketing.
+post_image: /uploads/shutterstock_1889998894.jpg
+post_highlight: >-
+  Excellent website design is integral to the success of your ophthalmology
+  digital marketing campaign. According to studies, 94% of first impressions
+  about a website are design-related. These impressions have a direct effect on
+  conversion rates and word-of-mouth marketing. 
 post_type:
-- blog
+  - blog
 product:
-- website management
-
+  - website management
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_628335110.jpg)
 
 Excellent website design is integral to the success of your ophthalmology digital marketing campaign. According to [studies](https://www.researchgate.net/publication/259149186_User_evaluation_of_websites_From_first_impression_to_recommendation), 94% of first impressions about a website are design-related. These impressions have a direct effect on conversion rates and word-of-mouth marketing.

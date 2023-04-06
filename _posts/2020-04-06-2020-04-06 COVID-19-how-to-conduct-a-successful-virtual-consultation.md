@@ -1,21 +1,24 @@
 ---
 post_title: 'COVID-19: How to Conduct a Successful Virtual Consultation'
-date: 2020-04-06 19:00:00 +0000
+date: '2020-04-06 19:00:00 +0000'
 post_author: Audra London
 tags: []
-post_intro: The health and safety of patients and staff is a priority among medical
-  practices. Virtual consultations allow you to continue providing service in a private
-  and efficient manner.
-post_image: "/uploads/vip_corona_update.jpg"
-post_highlight: The health and safety of patients and staff is a priority among medical
-  practices. Virtual consultations allow you to continue providing service in a private
-  and efficient manner.
+post_intro: >-
+  The health and safety of patients and staff is a priority among medical
+  practices. Virtual consultations allow you to continue providing service in a
+  private and efficient manner.
+post_image: /uploads/vip_corona_update.jpg
+post_highlight: >-
+  The health and safety of patients and staff is a priority among medical
+  practices. Virtual consultations allow you to continue providing service in a
+  private and efficient manner.
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-
+  - content multiplier
+_template: post_template
 ---
+
 Four months ago, the thought of being able to only talk online with a medical practitioner, like a plastic surgeon or dentist, about a medical concern or surgical procedure as opposed to “face to face” seemed like something out of a movie. However, due to the spread of COVID-19, or the coronavirus, virtual consultations are not only a reality today, they are an alternative that many practices are taking on to continue helping their clients in these unprecedented times.
 
 The role of telemedicine and virtual consultations are becoming increasingly more popular as practices are temporarily closing their offices. In response to the coronavirus pandemic, elective surgeries across the country are being rescheduled and medical practices are no longer available for routine visits like check-ups, consultations, and follow-up appointments. It is important for patients to understand that there are legitimate reasons why physicians are taking these kinds of measures. The cancellations and rescheduling of appointments and procedures are to provide protection to all parties by helping to slow down or even stop the potential spread of the disease among staff and patients. This is also allowing the health care system to have better access to vital resources that are needed to attend to severely ill patients.

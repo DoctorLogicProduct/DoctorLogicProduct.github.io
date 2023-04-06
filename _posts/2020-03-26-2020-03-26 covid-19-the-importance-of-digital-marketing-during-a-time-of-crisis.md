@@ -1,21 +1,24 @@
 ---
 post_title: 'COVID-19: The Importance of Digital Marketing During A Time of Crisis'
-date: 2020-03-26T14:00:00.000+00:00
+date: 2020-03-26T14:00:00.000Z
 post_author: Audra London
 tags: []
-post_intro: As COVID-19 continues to impact business, the role of digital marketing
-  is becoming increasingly more important to create continued awareness.
-post_image: "/uploads/blog-image.jpg"
-post_highlight: As COVID-19 continues to impact business, the role of digital marketing
-  is becoming increasingly more important to create continued awareness.
+post_intro: >-
+  As COVID-19 continues to impact business, the role of digital marketing is
+  becoming increasingly more important to create continued awareness.
+post_image: /uploads/blog-image.jpg
+post_highlight: >-
+  As COVID-19 continues to impact business, the role of digital marketing is
+  becoming increasingly more important to create continued awareness.
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-- success insights
-- website management
-
+  - content multiplier
+  - success insights
+  - website management
+_template: post_template
 ---
+
 We've all been impacted by the coronavirus (COVID-19), both professionally and personally. There is a vast amount of information going out 24/7 regarding COVID-19 via the internet, through social media channels, on television, in newspapers and magazines, etc. These outlets are sharing important information about how to avoid it, proper hand-washing techniques, the role of social distancing, and what to do if you get the virus. In addition to the task of how to reduce the spread of the coronavirus, businesses of all sizes and genres are concerned about how to minimize the financial impact of COVID-19 when the dust finally settles.
 
 There are many questions that we are asking ourselves as we continue to service our clients here at DoctorLogic, and that you as a business owner may be asking as the number of days your business is shut down continues to increase.

@@ -1,20 +1,23 @@
 ---
 post_title: How Doctors Manage Their Reputation in a Digital World
-date: 2019-03-05T06:00:00.000+00:00
+date: 2019-03-05T06:00:00.000Z
 post_author: Keisha Dunstan
 tags:
-- Reputation-Management
-post_intro: Reputation management for doctors can be tricky in the digital world.
-  That’s because the internet—along with its pros—definitely has its cons.
-post_image: "/uploads/ReputationManagementThumb.jpg"
-post_highlight: Reputation management for doctors can be tricky in the digital world.
-  That’s because the internet—along with its pros—definitely has its cons.
+  - Reputation-Management
+post_intro: >-
+  Reputation management for doctors can be tricky in the digital world. That’s
+  because the internet—along with its pros—definitely has its cons.
+post_image: /uploads/ReputationManagementThumb.jpg
+post_highlight: >-
+  Reputation management for doctors can be tricky in the digital world. That’s
+  because the internet—along with its pros—definitely has its cons.
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 For example, one of the first things disgruntled patients do these days is find where online they can post about their negative experience. Oftentimes, this is a doctor’s personal website or review page (think Yelp or Google reviews).
 
 So what can you do to better manage your online reputation and how do you respond when you do in fact receive a negative review?

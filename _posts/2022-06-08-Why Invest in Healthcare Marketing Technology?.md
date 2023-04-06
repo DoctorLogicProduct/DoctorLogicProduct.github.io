@@ -1,28 +1,33 @@
 ---
 post_title: Why Invest in Healthcare Marketing Technology?
-date: 2022-06-08T05:00:00.000+00:00
+date: 2022-06-08T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
-- Healthcare-Marketing
-post_intro: All too often, medical practitioners are led to believe that the way to
-  achieve marketing success is to outsource everything to an agency. However, great
-  content is only part of the equation. Outsourcing ignores the role of technology
-  in converting leads into patients. The best way to increase the return on your marketing
-  investment is to partner with an agency that provides healthcare marketing technology.
-post_image: "/uploads/shutterstock_527544358.jpg"
-post_highlight: All too often, medical practitioners are led to believe that the way
-  to achieve marketing success is to outsource everything to an agency. However, great
-  content is only part of the equation. Outsourcing ignores the role of technology
-  in converting leads into patients. The best way to increase the return on your marketing
-  investment is to partner with an agency that provides healthcare marketing technology.
+  - Healthcare-Marketing
+post_intro: >-
+  All too often, medical practitioners are led to believe that the way to
+  achieve marketing success is to outsource everything to an agency. However,
+  great content is only part of the equation. Outsourcing ignores the role of
+  technology in converting leads into patients. The best way to increase the
+  return on your marketing investment is to partner with an agency that provides
+  healthcare marketing technology.
+post_image: /uploads/shutterstock_527544358.jpg
+post_highlight: >-
+  All too often, medical practitioners are led to believe that the way to
+  achieve marketing success is to outsource everything to an agency. However,
+  great content is only part of the equation. Outsourcing ignores the role of
+  technology in converting leads into patients. The best way to increase the
+  return on your marketing investment is to partner with an agency that provides
+  healthcare marketing technology.
 post_type:
-- blog
-- blog
+  - blog
+  - blog
 product:
-- website management
-- website management
-
+  - website management
+  - website management
+_template: post_template
 ---
+
 **Why Invest in Healthcare Marketing Technology?**
 
 ![](/uploads/shutterstock_576494155.jpg)

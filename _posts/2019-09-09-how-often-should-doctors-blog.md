@@ -1,26 +1,29 @@
 ---
 post_title: How Often Should You Blog For Your Practice?
-date: 2019-09-09T16:00:00.000+00:00
+date: 2019-09-09T16:00:00.000Z
 post_author: Janelle Amos
 tags:
-- Content-Marketing
-- Strategy
-post_intro: In this post, we’ll lay out why content is important, how often you should
-  blog, and what types of content you can create to easily fill up your queue. These
-  tips will give you a better idea of how you should be incorporating content into
-  your overall digital marketing strategy.
-post_image: "/uploads/iStock-544651402.jpg"
-post_highlight: In this post, we’ll lay out why content is important, how often you
-  should blog, and what types of content you can create to easily fill up your queue.
-  These tips will give you a better idea of how you should be incorporating content
-  into your overall digital marketing strategy.
+  - Content-Marketing
+  - Strategy
+post_intro: >-
+  In this post, we’ll lay out why content is important, how often you should
+  blog, and what types of content you can create to easily fill up your queue.
+  These tips will give you a better idea of how you should be incorporating
+  content into your overall digital marketing strategy.
+post_image: /uploads/iStock-544651402.jpg
+post_highlight: >-
+  In this post, we’ll lay out why content is important, how often you should
+  blog, and what types of content you can create to easily fill up your queue.
+  These tips will give you a better idea of how you should be incorporating
+  content into your overall digital marketing strategy.
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-- growth accelerators
-
+  - content multiplier
+  - growth accelerators
+_template: post_template
 ---
+
 It takes a well thought-out content strategy to appeal to both patients and search engines, but how much content should you be creating, and how often should doctors blog?
 
 In this post, we’ll lay out why content is important, how often you should blog, and what types of content you can create to easily fill up your queue. These tips will give you a better idea of how you should be incorporating content into your overall digital marketing strategy.

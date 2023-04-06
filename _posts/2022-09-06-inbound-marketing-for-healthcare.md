@@ -1,25 +1,28 @@
 ---
 post_title: How to Get Started with Inbound Marketing for Healthcare
-date: 2022-09-06T05:00:00.000+00:00
+date: 2022-09-06T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
-- healthcare-marketing
-post_intro: For decades, healthcare providers have been leveraging traditional marketing
-  tactics to generate leads and turn them into loyal patients. Digital marketing has
-  revolutionized your ability to find potential patients and build a connection that
-  keeps them with the clinic for years.
-post_image: "/uploads/shutterstock_582545173.jpg"
-post_highlight: For decades, healthcare providers have been leveraging traditional
-  marketing tactics to generate leads and turn them into loyal patients. Digital marketing
-  has revolutionized your ability to find potential patients and build a connection
-  that keeps them with the clinic for years.
+  - healthcare-marketing
+post_intro: >-
+  For decades, healthcare providers have been leveraging traditional marketing
+  tactics to generate leads and turn them into loyal patients. Digital marketing
+  has revolutionized your ability to find potential patients and build a
+  connection that keeps them with the clinic for years.
+post_image: /uploads/shutterstock_582545173.jpg
+post_highlight: >-
+  For decades, healthcare providers have been leveraging traditional marketing
+  tactics to generate leads and turn them into loyal patients. Digital marketing
+  has revolutionized your ability to find potential patients and build a
+  connection that keeps them with the clinic for years.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-- website management
-
+  - lead generator
+  - website management
+_template: post_template
 ---
+
 ## **How to Get Started with Inbound Marketing for Healthcare**
 
 ![](/uploads/shutterstock_426009253.jpg)

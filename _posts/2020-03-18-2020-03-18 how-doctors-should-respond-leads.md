@@ -1,32 +1,36 @@
 ---
 component: ''
 component_css: ''
-bg_img: "/uploads/001-iPad-portrait-3.jpg"
+bg_img: /uploads/001-iPad-portrait-3.jpg
 tagline: []
 headline: 'Stop Letting Technology Get In The Way Of Your Growth '
-text: 'Growing your DSO doesn’t have to be hard. Get the patient growth you need while
-  dominating your local markets.  '
+text: >-
+  Growing your DSO doesn’t have to be hard. Get the patient growth you need
+  while dominating your local markets.  
 btn:
-- btn-label: ''
-  btn-link: ''
+  - btn-label: ''
+    btn-link: ''
 form_template: ''
 form_handler: ''
 post_title: The 7 Rules of Online Lead Engagement For Doctors
-date: 2020-03-18 03:36:00 +0000
+date: '2020-03-18 03:36:00 +0000'
 post_author: Keisha Dunstan
 tags:
-- Strategy
-post_intro: Studies have shown that if you aren’t getting in contact with your prospects
-  within 5 minutes of them submitting an appointment request or requesting additional
-  information—you are running an exponential risk of losing that prospect.
+  - Strategy
+post_intro: >-
+  Studies have shown that if you aren’t getting in contact with your prospects
+  within 5 minutes of them submitting an appointment request or requesting
+  additional information—you are running an exponential risk of losing that
+  prospect.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-post_image: "/uploads/iStock-1211520437-1.jpg"
+  - growth accelerators
+post_image: /uploads/iStock-1211520437-1.jpg
 post_highlight: ''
-
+_template: post_template
 ---
+
 In a world full of noise, time is becoming one of the most valuable resources at our disposal, and this is particularly true for medical practices.
 
 Studies have shown that if you aren’t getting in contact with your prospects within 5 minutes of them submitting an appointment request or requesting additional information—you are running an exponential risk of losing that prospect. With the high costs of paid advertising and the ever-increasing competition in the digital landscape, you literally can’t afford to waste another moment.

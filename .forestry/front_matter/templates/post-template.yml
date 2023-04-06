@@ -41,8 +41,8 @@ fields:
   label: Post Type
   description: Type of post
   config:
-    min: '1'
-    max: '5'
+    min: 1 
+    max: 5 
     use_select: true
     source:
       type: simple
@@ -55,8 +55,8 @@ fields:
   name: product
   description: Product(s) related to this post
   config:
-    min: '1'
-    max: '7'
+    min: 1 
+    max: 7 
     use_select: true
     source:
       type: simple

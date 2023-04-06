@@ -1,24 +1,29 @@
 ---
 post_title: 'Dental SEO: Attract More Patients Online'
-date: 2019-12-26 23:00:00 +0000
+date: '2019-12-26 23:00:00 +0000'
 post_author: Keisha Dunstan
 tags:
-- SEO
-post_intro: "At its core, search engine optimization (SEO) is about increasing your
-  website’s visibility in the organic search results of major search engines. \n\nIn
-  this blog, you’ll get an overview of SEO for dentistry and why you need it for your
-  practice, as well as a few basic SEO tips to help you get started."
-post_image: "/uploads/iStock-961769234.jpg"
-post_highlight: At its core, search engine optimization (SEO) is about increasing
-  your website’s visibility in the organic search results of major search engines.   In
-  this blog, you’ll get an overview of SEO for dentistry and why you need it for your
-  practice, as well as a few basic SEO tips to help you get started.
-post_type:
-- blog
-product:
-- search amplifier
+  - SEO
+post_intro: >-
+  At its core, search engine optimization (SEO) is about increasing your
+  website’s visibility in the organic search results of major search engines. 
 
+
+  In this blog, you’ll get an overview of SEO for dentistry and why you need it
+  for your practice, as well as a few basic SEO tips to help you get started.
+post_image: /uploads/iStock-961769234.jpg
+post_highlight: >-
+  At its core, search engine optimization (SEO) is about increasing your
+  website’s visibility in the organic search results of major search engines.  
+  In this blog, you’ll get an overview of SEO for dentistry and why you need it
+  for your practice, as well as a few basic SEO tips to help you get started.
+post_type:
+  - blog
+product:
+  - search amplifier
+_template: post_template
 ---
+
 Dentists are quickly learning [the importance of marketing their practices online.](https://doctorlogic.com/case-studies/emigh-dental)
 
 More and more dentists are taking a serious look at their websites and are making decisions to redesign their sites to keep in contact with patients and attract new ones. Some of them are even adopting [content marketing strategies](https://doctorlogic.com/growth-accelerators/healthcare-content-marketing "Dentist Blogs") to get more shares on social media. However, these creative marketing efforts will go unnoticed if they are not optimized for search engines.

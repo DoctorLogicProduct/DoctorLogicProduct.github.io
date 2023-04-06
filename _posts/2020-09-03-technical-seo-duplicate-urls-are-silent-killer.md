@@ -1,23 +1,27 @@
 ---
 post_title: 'Technical SEO Case Study: Duplicate URLs Are a Silent SEO Killer'
-date: 2020-09-03T20:00:00.000+00:00
+date: 2020-09-03T20:00:00.000Z
 post_author: Ryan Metcalf
 tags:
-- strategy
-- SEO
-- website
-post_intro: 'When referring to SEO we tend to think about content, but in this post
-  we showcase why technical issues can prevent a page from ranking as well. In this
-  case study, we saw rankings make dramatic changes which lead to increased performance. '
-post_image: "/uploads/seo-image.jpg"
-post_highlight: 'When referring to SEO we tend to think about content, but in this
-  post we showcase why technical issues can prevent a page from ranking as well. '
+  - strategy
+  - SEO
+  - website
+post_intro: >-
+  When referring to SEO we tend to think about content, but in this post we
+  showcase why technical issues can prevent a page from ranking as well. In this
+  case study, we saw rankings make dramatic changes which lead to increased
+  performance. 
+post_image: /uploads/seo-image.jpg
+post_highlight: >-
+  When referring to SEO we tend to think about content, but in this post we
+  showcase why technical issues can prevent a page from ranking as well. 
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 In the SEO world, it’s no secret that URLs have a major impact on SEO. However, it’s often more related to taxonomy or having the right keywords in the URL. It’s less often the topic of duplicate URLs comes up in a conversation. This is because it’s not obvious when sites have this problem, let alone diagnose the problem. In this case study from one of our doctors, we cover that very topic.
 
 In this example, one of our clients was ranking really well for a few keywords with many on page one — the most important place to be in SEO. However, throughout the 2019 year, those rankings were suddenly falling (going up on the charts) for some reason. Upon research, it was discovered the top-ranking page was a URL with capitalized words. Normally, this wouldn’t be a big problem as you certainly can have capital letters in the URL. The ultimate problem was because the same page had a lowercase version of the same URL. Even though they are essentially the same URL, Google treats capitalization and lowercase as separate pages, which essentially means duplicate content. When there’s duplicate content, Google gets confused on what page to index, resulting in lower performance. It’s also likely these results were even more dramatic, thanks to big algorithm updates that heavily impacted healthcare-related sites throughout the 2019 year.

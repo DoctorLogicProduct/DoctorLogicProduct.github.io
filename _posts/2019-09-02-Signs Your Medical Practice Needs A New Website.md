@@ -1,25 +1,30 @@
 ---
 post_title: '6 Signs Your Medical Practice Needs A New Website '
-date: 2019-09-03 16:00:00 +0000
+date: '2019-09-03 16:00:00 +0000'
 post_author: Keisha Dunstan
 tags:
-- Website
-- Strategy
-post_intro: We’re often asked how often you should update or redesign your website.
-  The answer isn’t as straightforward as you might think. So, to help with this question,
-  here are 6 signs to look for when asking if your practice needs a new website.
-post_image: "/uploads/iStock-1067359358.jpg"
-post_highlight: We’re often asked how often you should update or redesign your website.
-  The answer isn’t as straightforward as you might think. So, to help with this question,
-  here are 6 signs to look for when asking if your practice needs a new website.
+  - Website
+  - Strategy
+post_intro: >-
+  We’re often asked how often you should update or redesign your website. The
+  answer isn’t as straightforward as you might think. So, to help with this
+  question, here are 6 signs to look for when asking if your practice needs a
+  new website.
+post_image: /uploads/iStock-1067359358.jpg
+post_highlight: >-
+  We’re often asked how often you should update or redesign your website. The
+  answer isn’t as straightforward as you might think. So, to help with this
+  question, here are 6 signs to look for when asking if your practice needs a
+  new website.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-- lead generator
-- website management
-
+  - search amplifier
+  - lead generator
+  - website management
+_template: post_template
 ---
+
 We’re often asked how often you should update or redesign your website. The answer isn’t as straightforward as you might think. So, to help with this question, here are 6 signs to look for when asking if your practice needs a new website.
 
 **Your Site Looks Out of Date**

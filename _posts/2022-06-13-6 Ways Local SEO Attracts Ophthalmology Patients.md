@@ -1,24 +1,27 @@
 ---
 post_title: 6 Ways Local SEO Attracts Ophthalmology Patients
-date: 2022-06-13 05:00:00 +0000
+date: '2022-06-13 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- SEO
-post_intro: A brief look at Google Trends demonstrates that over the past few years,
-  more and more people are typing "eye exam near me" into the search box. If you aren't
-  seeing an increase in online leads for the eye exam service, your local SEO may
-  need some work.
-post_image: "/uploads/shutterstock_693905410.jpg"
-post_highlight: A brief look at Google Trends demonstrates that over the past few
-  years, more and more people are typing "eye exam near me" into the search box. If
-  you aren't seeing an increase in online leads for the eye exam service, your local
+  - SEO
+post_intro: >-
+  A brief look at Google Trends demonstrates that over the past few years, more
+  and more people are typing "eye exam near me" into the search box. If you
+  aren't seeing an increase in online leads for the eye exam service, your local
+  SEO may need some work.
+post_image: /uploads/shutterstock_693905410.jpg
+post_highlight: >-
+  A brief look at Google Trends demonstrates that over the past few years, more
+  and more people are typing "eye exam near me" into the search box. If you
+  aren't seeing an increase in online leads for the eye exam service, your local
   SEO may need some work.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-
+  - lead generator
+_template: post_template
 ---
+
 **6 Ways Local SEO Attracts Ophthalmology Patients**
 
 ![](/uploads/shutterstock_395497651.jpg)

@@ -1,26 +1,29 @@
 ---
 post_title: Are Microsites Good for SEO?
-date: 2019-05-19T05:00:00.000+00:00
+date: 2019-05-19T05:00:00.000Z
 post_author: Keisha Dunstan
 tags:
-- Website
-- SEO
-post_intro: When considering the direction for your website, a strong SEO strategy
-  is absolutely key to your success. And when putting together your SEO campaign,
-  you may be wondering if it’s a good idea to set up a few microsites in addition
-  to your main website or in lieu of it.
-post_image: "/uploads/MicrositeThumb-1.png"
-post_highlight: When considering the direction for your website, a strong SEO strategy
-  is absolutely key to your success. And when putting together your SEO campaign,
-  you may be wondering if it’s a good idea to set up a few microsites in addition
-  to your main website or in lieu of it.
+  - Website
+  - SEO
+post_intro: >-
+  When considering the direction for your website, a strong SEO strategy is
+  absolutely key to your success. And when putting together your SEO campaign,
+  you may be wondering if it’s a good idea to set up a few microsites in
+  addition to your main website or in lieu of it.
+post_image: /uploads/MicrositeThumb-1.png
+post_highlight: >-
+  When considering the direction for your website, a strong SEO strategy is
+  absolutely key to your success. And when putting together your SEO campaign,
+  you may be wondering if it’s a good idea to set up a few microsites in
+  addition to your main website or in lieu of it.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-- website management
-
+  - lead generator
+  - website management
+_template: post_template
 ---
+
 Before you consider a microsite, understand there are pros and cons to using them as part of your marketing strategy.
 
 ### What is a Microsite?

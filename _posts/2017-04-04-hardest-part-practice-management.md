@@ -1,20 +1,23 @@
 ---
 post_title: The Hardest Part of the Job
-date: 2017-04-04T05:00:00.000+00:00
+date: 2017-04-04T05:00:00.000Z
 post_author: Julie Davis
 tags: []
-post_intro: Owning a busy medical practice comes with some unique business challenges,
+post_intro: >-
+  Owning a busy medical practice comes with some unique business challenges,
   largely due to the rapidly changing environment of healthcare.
-post_image: "/uploads/HardestPartThumb.jpg"
-post_highlight: Owning a busy medical practice comes with some unique business challenges,
+post_image: /uploads/HardestPartThumb.jpg
+post_highlight: >-
+  Owning a busy medical practice comes with some unique business challenges,
   largely due to the rapidly changing environment of healthcare.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-- success insights
-
+  - success insights
+  - success insights
+_template: post_template
 ---
+
 Whether your practice is dealing with reimbursement methodology changes and/or new technologies coming to market, the negative impact can be significant unless you have a workforce that can keep up.
 
 Finding and retaining the right workforce might sound easy, but believe me, it is not. Ask any practice manager, “what’s the hardest part of your job,” and most will say, it’s managing the staff. In truth, managing people is the hardest part of owning any business. For more than 20 years, I struggled with this, daily. I took every leadership class I could. I studied relentlessly to learn how to be the best leader possible. I tried tailoring my management style based upon supposed generational needs. I tried everything!

@@ -1,21 +1,24 @@
 ---
 post_title: 5 Healthcare Marketing Trends for Providers in 2019
-date: 2019-01-15T06:00:00.000+00:00
+date: 2019-01-15T06:00:00.000Z
 post_author: Keisha Dunstan
 tags: []
-post_intro: If you want to grow your practice, these 5 healthcare marketing trends
-  can help do just that.
-post_image: "/uploads/HealthcareMarketingTrendsThumb.jpg"
-post_highlight: If you want to grow your practice, these 5 healthcare marketing trends
-  can help do just that.
+post_intro: >-
+  If you want to grow your practice, these 5 healthcare marketing trends can
+  help do just that.
+post_image: /uploads/HealthcareMarketingTrendsThumb.jpg
+post_highlight: >-
+  If you want to grow your practice, these 5 healthcare marketing trends can
+  help do just that.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-- social reputation
-- growth accelerators
-
+  - search amplifier
+  - social reputation
+  - growth accelerators
+_template: post_template
 ---
+
 #### 1. Content is King
 
 ![Content Marketing](/uploads/HealthcareMarketingTrends1.jpg)

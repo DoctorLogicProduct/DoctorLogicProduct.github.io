@@ -1,24 +1,27 @@
 ---
 post_title: 'Meet BERT: Google''s Biggest SEO Update in 5 Years'
-date: 2019-11-05 19:45:00 +0000
+date: '2019-11-05 19:45:00 +0000'
 post_author: Ryan Metcalf
 tags:
-- Strategy
-- Website
-- Healthcare-Marketing
-post_intro: Google is rolling out what it says is the biggest step forward for search
-  in the past 5 years, and one of the biggest steps forward in the history of Search
-  altogether.
-post_image: "/uploads/google-algorithm-letter-1465907220.jpg"
-post_highlight: Google is rolling out what it says is the biggest step forward for
-  search in the past 5 years, and one of the biggest steps forward in the history
-  of Search altogether.
+  - Strategy
+  - Website
+  - Healthcare-Marketing
+post_intro: >-
+  Google is rolling out what it says is the biggest step forward for search in
+  the past 5 years, and one of the biggest steps forward in the history of
+  Search altogether.
+post_image: /uploads/google-algorithm-letter-1465907220.jpg
+post_highlight: >-
+  Google is rolling out what it says is the biggest step forward for search in
+  the past 5 years, and one of the biggest steps forward in the history of
+  Search altogether.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 ![](/uploads/unnamed (2).png)**(No, not this Bert)**
 
 Over the course of 2019, Google has been very busy with multiple algorithm updates and last week contained the biggest news in the landscape in the past 5 years. Specifically, BERT will impact one in 10 searches (10%) in the U.S. for English related searches with future plans to expand it across the entire search landscape.

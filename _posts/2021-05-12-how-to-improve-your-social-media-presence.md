@@ -1,25 +1,28 @@
 ---
 post_title: How to Improve Your Social Media Presence
-date: 2021-05-12 13:00:00 +0000
+date: '2021-05-12 13:00:00 +0000'
 post_author: Christopher Ellis
 tags:
-- Website
-- Healthcare-Marketing
-- Reputation-Management
-- SEO
-post_intro: A strong social media presence is great for acquiring leads, building
-  trust, and growing your practice. Use these strategies to help improve yours.
-post_image: "/uploads/blog-how-to-improve-your-social-media-presence.png"
-post_highlight: Whether or not you tend to use social media yourself, there really
-  is no denying its value as a marketing channel when it comes to acquiring leads,
+  - Website
+  - Healthcare-Marketing
+  - Reputation-Management
+  - SEO
+post_intro: >-
+  A strong social media presence is great for acquiring leads, building trust,
+  and growing your practice. Use these strategies to help improve yours.
+post_image: /uploads/blog-how-to-improve-your-social-media-presence.png
+post_highlight: >-
+  Whether or not you tend to use social media yourself, there really is no
+  denying its value as a marketing channel when it comes to acquiring leads,
   building trust, and growing your practice.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
+  - growth accelerators
 title: 2021-05-12-how-to-strengthen-your-social-media-presence
-
+_template: post_template
 ---
+
 Does your practice have a strong social media presence? If not, you may want to seriously consider investing more in your social marketing channel. According to a [2018 Doctor.com survey](https://www.doctor.com/cxtrends2018), 63% of patients choose one provider over another based on a strong online presence. Whether or not you tend to use social media yourself, there really is no denying its value as a marketing channel when it comes to acquiring leads, building trust, and growing your practice.
 
 **Strategy 1 - Provide Patient Education through your Social Media Channels**

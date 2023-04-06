@@ -1,24 +1,27 @@
 ---
 post_title: 'SEO for Podiatrists: Put Your Best Foot Forward'
-date: 2022-07-02 05:00:00 +0000
+date: '2022-07-02 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- seo
-post_intro: With the market size of the podiatrist industry growing by over 2% every
-  year, the competition for podiatry practices is becoming more and more fierce. Search
-  engine optimization (SEO) is essential to taking market share and positioning your
-  clinic as the local industry leader.
-post_image: "/uploads/shutterstock_1102035677.jpg"
-post_highlight: With the market size of the podiatrist industry growing by over 2%
-  every year, the competition for podiatry practices is becoming more and more fierce.
-  Search engine optimization (SEO) is essential to taking market share and positioning
-  your clinic as the local industry leader.
+  - seo
+post_intro: >-
+  With the market size of the podiatrist industry growing by over 2% every year,
+  the competition for podiatry practices is becoming more and more fierce.
+  Search engine optimization (SEO) is essential to taking market share and
+  positioning your clinic as the local industry leader.
+post_image: /uploads/shutterstock_1102035677.jpg
+post_highlight: >-
+  With the market size of the podiatrist industry growing by over 2% every year,
+  the competition for podiatry practices is becoming more and more fierce.
+  Search engine optimization (SEO) is essential to taking market share and
+  positioning your clinic as the local industry leader.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1408206383.jpg)
 
 With the market size of the podiatrist industry growing by over [2% every year](https://www.ibisworld.com/industry-statistics/market-size/podiatrists-united-states/#:\~:text=The%20market%20size%20of%20the%20Podiatrists%20industry%20is%20expected%20to,average%20between%202017%20and%202022.), the competition for podiatry practices is becoming more and more fierce. Search engine optimization (SEO) is essential to taking market share and positioning your clinic as the local industry leader.

@@ -1,24 +1,27 @@
 ---
 post_title: Spring Cleaning Website Checklist
-date: 2021-03-08 14:00:00 +0000
+date: '2021-03-08 14:00:00 +0000'
 post_author: Christopher Ellis
 tags:
-- SEO
-- Content-Marketing
-post_intro: With Spring right around the corner, we put together a checklist you can
-  use to ensure everything is up-to-date and running smoothly.
-post_image: "/uploads/spring-cleaning.png"
-post_highlight: With Spring right around the corner, we put together a checklist you
-  can use to ensure everything is up-to-date and running smoothly.
+  - SEO
+  - Content-Marketing
+post_intro: >-
+  With Spring right around the corner, we put together a checklist you can use
+  to ensure everything is up-to-date and running smoothly.
+post_image: /uploads/spring-cleaning.png
+post_highlight: >-
+  With Spring right around the corner, we put together a checklist you can use
+  to ensure everything is up-to-date and running smoothly.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-- growth accelerators
-- content multiplier
+  - lead generator
+  - growth accelerators
+  - content multiplier
 title: 2021-03-08-spring-cleaning-checklist-for-your-website
-
+_template: post_template
 ---
+
 With Spring right around the corner, there’s no better time to dust off the metaphorical cobwebs on your practice’s website and get things squeaky clean. But when it comes to website management, there are a lot of moving parts to keep track of so we put together a checklist that will help you freshen things up.
 
   

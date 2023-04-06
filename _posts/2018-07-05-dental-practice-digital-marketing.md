@@ -1,23 +1,26 @@
 ---
 post_title: Is Digital Marketing Necessary for My Dental Practice?
-date: 2018-07-05T05:00:00.000+00:00
+date: 2018-07-05T05:00:00.000Z
 post_author: Janelle Amos
 tags: []
-post_intro: As a dental practice owner, it is essential that you realize how fierce
-  the competition is before you decide on your marketing strategy for this year. If
-  you haven’t given digital marketing a thought until now, it is definitely time to
-  do so.
-post_image: "/uploads/DigitalMarketingThumb.jpg"
-post_highlight: As a dental practice owner, it is essential that you realize how fierce
-  the competition is before you decide on your marketing strategy for this year. If
-  you haven’t given digital marketing a thought until now, it is definitely time to
-  do so.
+post_intro: >-
+  As a dental practice owner, it is essential that you realize how fierce the
+  competition is before you decide on your marketing strategy for this year. If
+  you haven’t given digital marketing a thought until now, it is definitely time
+  to do so.
+post_image: /uploads/DigitalMarketingThumb.jpg
+post_highlight: >-
+  As a dental practice owner, it is essential that you realize how fierce the
+  competition is before you decide on your marketing strategy for this year. If
+  you haven’t given digital marketing a thought until now, it is definitely time
+  to do so.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-
+  - growth accelerators
+_template: post_template
 ---
+
 Digital marketing has revolutionized the world of marketing and is therefore considered to be an absolute must for every business. Now more than ever, patients seek help from [different sources available](https://doctorlogic.com/features/reviews) on the internet when trying to decide their healthcare options.
 
 In this article, we will explain the importance of digital marketing for dentists and how it can be achieved.

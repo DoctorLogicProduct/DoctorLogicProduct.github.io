@@ -1,22 +1,25 @@
 ---
 post_title: 'Beyond Blue and White: A Guide to Choosing Medical Logo Colors'
-date: 2022-09-26 05:00:00 +0000
+date: '2022-09-26 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- Strategy
-post_intro: Over 80% of organizations within the healthcare sector use blue and white
-  in their logo. This isn't a mistake. It is a direct influence of "color psychology"
-  in practice branding.
-post_image: "/uploads/shutterstock_778487254.jpg"
-post_highlight: Over 80% of organizations within the healthcare sector use blue and
-  white in their logo. This isn't a mistake. It is a direct influence of "color psychology"
-  in practice branding.
+  - Strategy
+post_intro: >-
+  Over 80% of organizations within the healthcare sector use blue and white in
+  their logo. This isn't a mistake. It is a direct influence of "color
+  psychology" in practice branding.
+post_image: /uploads/shutterstock_778487254.jpg
+post_highlight: >-
+  Over 80% of organizations within the healthcare sector use blue and white in
+  their logo. This isn't a mistake. It is a direct influence of "color
+  psychology" in practice branding.
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1017155545.jpg)
 
 According to 99Designs, over 80% of organizations within the healthcare sector use blue and white in their logo. This isn't a mistake. It is a direct influence of "color psychology" in practice branding. However, while these two colors are the most dominant in the healthcare sector, organizations should consider the patient population carefully before choosing brand colors because patients react to color differently. The feeling, emotions, and expressions of different colors differ from one patient to another.

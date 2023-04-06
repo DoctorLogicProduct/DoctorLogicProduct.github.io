@@ -63,8 +63,8 @@ fields:
     label: Practice Name
     description: Name of the practice.
   config:
-    min: 
-    max: 
+    min: 1
+    max: 9999
     labelField: 
   label: Featured Case Studies
   description: Case studies you want to feature.   Rows of 2 or 3.
@@ -84,8 +84,8 @@ fields:
     label: Button Label
     description: Label for button
   config:
-    min: 
-    max: 
+    min: 1
+    max: 9999
     labelField: 
   label: Button
   description: Section Button (Not Required)
@@ -105,8 +105,8 @@ fields:
     label: Link Label
     description: Label for link
   config:
-    min: 
-    max: 
+    min: 1
+    max: 9999
     labelField: 
   label: Wistia Link
   description: Wistia popover link. (Not Required)

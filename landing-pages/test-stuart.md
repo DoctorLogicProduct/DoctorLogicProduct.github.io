@@ -10,27 +10,28 @@ custom_js: ''
 description: ''
 meta_image: ''
 page_sections:
-- template: hero-with-image
-  component: hero-1
-  component_css: hero
-  headline: test-hello
-  text: test
-  img: "/uploads/product-update-image-3.jpg"
-  btn: []
-  text-link: []
-  wistia-link: []
-  alt: ''
-- template: feature
-  component: feature-1
-  component_css: feature
-  img_alignment: Left
-  headline: Feature
-  text: text text
-  img: "/uploads/4.png"
-  class: ''
-  btn: []
-  wistia-link: []
-  alt: ''
+  - template: hero-with-image
+    component: hero-1
+    component_css: hero
+    headline: test-hello
+    text: test
+    img: /uploads/product-update-image-3.jpg
+    btn: []
+    text-link: []
+    wistia-link: []
+    alt: ''
+  - template: feature
+    component: feature-1
+    component_css: feature
+    img_alignment: Left
+    headline: Feature
+    text: text text
+    img: /uploads/4.png
+    class: ''
+    btn: []
+    wistia-link: []
+    alt: ''
 published: false
-
+_template: component_page_builder
 ---
+

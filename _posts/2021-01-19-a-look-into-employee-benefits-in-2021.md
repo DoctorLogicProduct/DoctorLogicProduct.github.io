@@ -1,18 +1,19 @@
 ---
 post_title: A Look Into Employee Benefits in 2021
-date: 2021-01-18T14:00:00.000+00:00
+date: 2021-01-18T14:00:00.000Z
 post_author: Michelle Peralta
 tags: []
 post_intro: How has the pandemic shaped the employee benefits structure?
-post_image: "/uploads/website-_-blog-post-image-1.png"
+post_image: /uploads/website-_-blog-post-image-1.png
 post_highlight: How has the pandemic shaped the employee benefits structure?
 post_type:
-- blog
+  - blog
 product:
-- website management
+  - website management
 title: A Look Into Employee Benefits in 2021
-
+_template: post_template
 ---
+
 As a practice and a business, your employees are your greatest asset and integral to delivering comprehensive care to your patients. Offering a competitive benefits package can help attract and retain top talent in your field. Employee benefits can be a driving factor for many individuals when it comes to job acceptance and satisfaction. While you want to maintain a high level of employee contentment, it’s also essential to strike the right balance between the fiscal health of your practice and keeping your employees happy.
 
 Such a balancing act, however, has become even more of a challenge in the face of the on-going COVID-19 environment. What can your practice do to mitigate these changes, prevent employee attrition, and still offer an attractive employee benefits package, all while maintaining a healthy bottom line? Understanding how employee benefits are forecasted to evolve in 2021 can help the decision-makers in your practice determine the ideal path to take.

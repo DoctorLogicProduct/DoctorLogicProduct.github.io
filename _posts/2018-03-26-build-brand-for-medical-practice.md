@@ -1,21 +1,24 @@
 ---
 post_title: How to Build A High Impact Brand for Your Medical Practice
-date: 2019-03-22T18:00:00.000+00:00
+date: 2019-03-22T18:00:00.000Z
 post_author: Keisha Dunstan
 tags: []
-post_intro: Does your medical practice have a brand? Branding is incredibly important
-  to all businesses, medical practices included, because it tells prospective patients
-  what they can expect from your practice.
-post_image: "/uploads/BrandingThumb.jpg"
-post_highlight: Does your medical practice have a brand?  Branding is incredibly important
-  to all businesses, medical practices included, because it tells prospective patients
-  what they can expect from your practice.
+post_intro: >-
+  Does your medical practice have a brand? Branding is incredibly important to
+  all businesses, medical practices included, because it tells prospective
+  patients what they can expect from your practice.
+post_image: /uploads/BrandingThumb.jpg
+post_highlight: >-
+  Does your medical practice have a brand?  Branding is incredibly important to
+  all businesses, medical practices included, because it tells prospective
+  patients what they can expect from your practice.
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 Branding your practice will affect everything from language and marketing to your website, office and promotional materials.
 
 So how do you start defining your brand?

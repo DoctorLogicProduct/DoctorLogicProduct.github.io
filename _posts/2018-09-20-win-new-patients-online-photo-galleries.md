@@ -1,21 +1,26 @@
 ---
 post_title: How to Win with Online Photo Galleries
-date: 2018-09-20T05:00:00.000+00:00
+date: 2018-09-20T05:00:00.000Z
 post_author: Kristy Theis
 tags: []
-post_intro: We live in a visual era, where consumers may engage in a product or service
-  based on a single photograph. For this reason, one of the most compelling components
-  of an online marketing arsenal, is a before and after photo gallery.
-post_image: "/uploads/EstablishTrustThumb.jpg"
-post_highlight: We live in a visual era, where consumers may engage in a product or
-  service based on a single photograph. For this reason, one of the most compelling
-  components of an online marketing arsenal, is a before and after photo gallery.
+post_intro: >-
+  We live in a visual era, where consumers may engage in a product or service
+  based on a single photograph. For this reason, one of the most compelling
+  components of an online marketing arsenal, is a before and after photo
+  gallery.
+post_image: /uploads/EstablishTrustThumb.jpg
+post_highlight: >-
+  We live in a visual era, where consumers may engage in a product or service
+  based on a single photograph. For this reason, one of the most compelling
+  components of an online marketing arsenal, is a before and after photo
+  gallery.
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-
+  - content multiplier
+_template: post_template
 ---
+
 For physicians in the aesthetic industry, such as plastic surgeons and cosmetic dentists, the gallery is often the inspiring factor that motivates patients to make contact.
 
 Publishing pictures of your work helps establish trust with patients online.

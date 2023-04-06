@@ -1,19 +1,22 @@
 ---
 post_title: 'SEO for Ophthalmologists: Get Seen by Google'
-date: 2022-05-12T05:00:00.000+00:00
+date: 2022-05-12T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags: []
-post_intro: Let’s take a closer look at ophthalmology SEO marketing and how it fits
-  into your clinic’s marketing strategy.
-post_image: "/uploads/shutterstock_1495065803.jpg"
-post_highlight: Let’s take a closer look at ophthalmology SEO marketing and how it
-  fits into your clinic’s marketing strategy.
+post_intro: >-
+  Let’s take a closer look at ophthalmology SEO marketing and how it fits into
+  your clinic’s marketing strategy.
+post_image: /uploads/shutterstock_1495065803.jpg
+post_highlight: >-
+  Let’s take a closer look at ophthalmology SEO marketing and how it fits into
+  your clinic’s marketing strategy.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 ## **SEO for Ophthalmologists: Get seen by Google**
 
 While important, high-quality website design is just the first step toward turning visitors into patients. Next up is search engine optimization (SEO).

@@ -1,24 +1,28 @@
 ---
 post_title: How do you know if it's time to update your site?
-date: 2021-02-08 16:00:00 +0000
+date: '2021-02-08 16:00:00 +0000'
 post_author: Christopher Ellis
 tags:
-- Healthcare-Marketing
-- Strategy
-- SEO
-post_intro: 5 subtle (and 4 not-so-subtle) ways to tell your website needs to be refreshed.
-post_image: "/uploads/website-_-blog-post-image-1-1.png"
-post_highlight: 5 subtle (and 4 not-so-subtle) ways to tell your website needs to
-  be refreshed.
+  - Healthcare-Marketing
+  - Strategy
+  - SEO
+post_intro: >-
+  5 subtle (and 4 not-so-subtle) ways to tell your website needs to be
+  refreshed.
+post_image: /uploads/website-_-blog-post-image-1-1.png
+post_highlight: >-
+  5 subtle (and 4 not-so-subtle) ways to tell your website needs to be
+  refreshed.
 post_type:
-- blog
+  - blog
 product:
-- website management
-- lead generator
-- search amplifier
+  - website management
+  - lead generator
+  - search amplifier
 title: 2021-02-12-How-do-you-know-if-it's-time-to-update-your-site?
-
+_template: post_template
 ---
+
 Maintaining a website and active online presence is a lot of work because there are so many things to keep track of and, as a result, we sometimes get in the habit of ‘set and forget’ when it comes to our website. In an effort to help you make sure everything is looking current from an outsider’s perspective, we put together this list of some subtle (and not so subtle) ways of determining whether your website could use a refresh.
 
 **Subtle: Showcasing Dated Reviews & Testimonials**

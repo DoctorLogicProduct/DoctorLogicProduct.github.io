@@ -1,21 +1,24 @@
 ---
 post_title: 5 Common PPC Mistakes and How to Avoid Them
-date: 2019-02-05T06:00:00.000+00:00
+date: 2019-02-05T06:00:00.000Z
 post_author: 'Keisha Dunstan '
 tags: []
-post_intro: PPC is a constantly evolving landscape, and it can be hard to keep up
-  with all of the best practices. So instead, let’s take a look at the most common
-  PPC mistakes people make and how they can be rectified.
-post_image: "/uploads/PPCMistakesThumb-1.jpg"
-post_highlight: PPC is a constantly evolving landscape, and it can be hard to keep
-  up with all of the best practices. So instead, let’s take a look at the most common
-  PPC mistakes people make and how they can be rectified.
+post_intro: >-
+  PPC is a constantly evolving landscape, and it can be hard to keep up with all
+  of the best practices. So instead, let’s take a look at the most common PPC
+  mistakes people make and how they can be rectified.
+post_image: /uploads/PPCMistakesThumb-1.jpg
+post_highlight: >-
+  PPC is a constantly evolving landscape, and it can be hard to keep up with all
+  of the best practices. So instead, let’s take a look at the most common PPC
+  mistakes people make and how they can be rectified.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-
+  - growth accelerators
+_template: post_template
 ---
+
 After all, doing a fix on some of the mistakes listed below (that you may have been making for a while) will most likely mean seeing an instant improvement the next time you’re asked to pull reports.
 
 #### 1. Your Keywords Aren’t Specific Enough
