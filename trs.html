@@ -1,0 +1,165 @@
+---
+layout: default
+nofollow: true
+permalink: /trs
+page_class:
+  - class: market-analysis
+disclaimer: "Marketing estimate & reports created by DoctorLogic LLC. Copyright. All Rights Reserved. Confidential & Proprietary Information for Medical Practices Only. Patent Pending. This analysis report is based on public & proprietary data estimates & market trends and does NOT constitute any guarantee of actual performance or results for any Medical Practice."
+market_analysis:
+  #debug: true
+  hideRevenueReport: false
+  disableLeadSubmission: false
+  disableOtherSpecialty: false
+  form:
+    leadSource: Market Analysis - TRS
+    fields:
+      specialty:
+        disable: true
+        default:
+          SpecialtyId: 9
+          Label: Cosmetic Surgery
+          Description: Cosmetic Surgery
+  language:
+    form:
+      title: TRS Members, Get Your Free Instant Market Analysis Report!
+      subtitle:
+      text: Instantly see how much potential revenue you are missing for top procedures in your local market.
+      fields:
+        practice:
+          placeholder: Find Your Business
+        specialty:
+          placeholder: Select Specialty
+        website:
+          placeholder: Enter Your Website
+        firstName:
+          placeholder: Enter First Name
+        lastName:
+          placeholder: Enter Last Name
+        email:
+          placeholder: Enter Email
+        phone:
+          placeholder: Enter Phone Number
+  urls:
+    # dev
+    #demographic: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/demographics?code=cS09aUa1Sj60BIgnDWLjp7cFg5rXJ4uhOnU8ZNmfAEEtYNwkXdQleA==
+    ##specialties: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/specialties?code=HcSqLm7TZsQwRgXkiDgAjEd0eBK6yS4zjxxk79DmEjz4k4Ud1a7m6Q==&include=2
+    #procedures: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/procedures?code=RD4F5E1IcqdcxsGhfLgrQFMtGM6ni6QkM8ISnLBQG2S2ijpCKA4ANg==
+    #mapbox: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/mapboxtile?code=XVi1BqtUJ1SDHgMnB2k8cFWqjs/d5iYvxfxJYrvCL5YpQNOiFoSAQQ==&x={x}&y={y}&z={z}&id={id}
+    #isoline: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/isoline?code=KzByQitOkJ3948ZAwxzmyCGlLLSs508VN2dNbOYCFgogfMlRTyZ6YA==
+
+    # prod
+    demographic: https://function-prod-dl.azurewebsites.net/api/leadgen/demographics?code=iErsjpx9JgBRjErOcEirCo3Pvgzr1feB1OSTNhGYTKxo6kgiZQ5Fgg==
+    #specialties: https://function-prod-dl.azurewebsites.net/api/leadgen/specialties?code=lxYJNyK4lWGXAi6rz7XMPJmO9CLRpbDbBLbdWk/Xb4WZElgir1ovjg==&include=2
+    procedures: https://function-prod-dl.azurewebsites.net/api/leadgen/procedures?code=5KC9jwOH7TG6ZdBjnIBI1C2kK6MkMUw3GAJvcunXu4GQ7I1MmrVDKA==
+    mapbox: https://function-prod-dl.azurewebsites.net/api/leadgen/mapboxtile?code=fGmzY2tmFNVsFE8DafEM6K366amMfm9nLdJevzrEhqIBcX29aTIcjw==&x={x}&y={y}&z={z}&id={id}
+    isoline: https://function-prod-dl.azurewebsites.net/api/leadgen/isoline?code=RMfRKl0JNFzCB7oi3kxmmssp/Nol00b4vuca9MBh8M14Bx/gfZ0Xtg==
+    submitLead: https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?dest=marketing@doctorlogic.com&subject=New+market+analysis+lead:+TRS
+---
+
+<div id="root" class="market-analysis-app-container trs-analysis"></div>
+
+<template id="formAbove">
+    <img src="img/market-analysis/market-analysis-image-dental.png" />
+</template>
+
+<template id="formBelow">
+  <div class="content content-1">
+    <div class="content__text content-1__text">
+      <h2 class="content__headline">
+        Instantly analyze your local market
+      </h2>
+      <p class="content__text">
+        DoctorLogic has analyzed the demographic data of all 41,500 zip codes in the US. Instantly adjust the settings to fine tune the report to a radius around your practice and your conversion rate of patient leads to patients.
+      </p>
+      <h2 class="content__headline">
+        Build your free revenue report
+      </h2>
+      <p class="content__text">
+        In seconds, you can build a revenue report based on local population, industry data and Google search trends to see the potential revenue spent per year in your local market to better inform your marketing decisions.
+      </p>
+    </div>
+    <div class="content__image content-1__image">
+      <img src="/img/market-analysis/aacd-ma-local-market.png" alt="Your Local Market Analysis">
+    </div>
+  </div>
+  <div class="content content-2">
+    <div class="content__text content-2__text">
+      <h2 class="content__headline">
+        View patient drive times in your area
+      </h2>
+      <p class="content__text">
+        Patients prefer to visit doctors within 15 to 30 minutes of drive time to their home or office. This handy mapping tool will show you the average drive times along freeways & around natural barriers such as lakes or mountains.
+      </p>
+      <h2 class="content__headline">
+        Visit TRS for news, trends, & events
+      </h2>
+      <p class="content__text">
+        Visit our website to learn more about industry news, trends & events, and much more.
+      </p>
+      <div class="content-2__cta">
+        <a href="https://rhinoplastysociety.org/" target="_blank" class="btn ma-link">Visit TRS</a>
+      </div>
+    </div>
+    <div class="content__image content-2__image">
+      <img src="/img/market-analysis/aacd-ma-drive-times.png" alt="Local Drive Times to Your Facility">
+    </div>
+  </div>
+</template>
+
+<template id="reportPageHeader"></template>
+<template id="backIcon">
+    <div class="back-icon">
+        <img src="img/market-analysis/back.svg" />
+        <span>Back</span>
+    </div>
+</template>
+<template id="locationIcon">
+    <img src="img/market-analysis/position-pin.svg" />
+</template>
+<!-- <template id="printIcon">
+    <div class="print-icon">
+        <img src="img/market-analysis/print.svg" />
+        <span>Print</span>
+    </div>
+</template> -->
+<template id="downloadIcon">
+    <div class="download-icon">
+        <img src="img/market-analysis/download.svg" />
+        <span>Save</span>
+    </div>
+</template>
+<template id="reportDisclaimer">
+    <p>{{ page.disclaimer }}</p>
+</template>
+
+{%- comment -%}
+<script>
+    // submit lead data to zapier for additional processing
+    document.addEventListener('dlsubmit', async (ev) => {
+        const form = ev.detail || {};
+        const lead = {
+            PracticeName: form.practice.name,
+            Specialty: form.specialty?.Label,
+            Website: form.website,
+            FirstName: form.firstName,
+            LastName: form.lastName,
+            Email: form.email,
+            Phone: form.phone,
+            LeadSource: '{{ page.market_analysis.form.leadSource }}',
+            __raw__: form,
+        };
+
+
+        const resp = await fetch(
+            'https://hooks.zapier.com/hooks/catch/1502676/3303m9x/',
+            {
+                method: 'post',
+                body: JSON.stringify(lead),
+            });
+
+        const result = await resp.text();
+
+        console.debug(`zapier response[${resp.status}]: ${result}`);
+    });
+</script>
+{%- endcomment -%}
