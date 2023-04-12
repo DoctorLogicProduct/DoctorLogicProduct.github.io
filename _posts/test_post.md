@@ -9,6 +9,7 @@ post_highlight: |
   test hightlight
 post_type: blog
 product: website management
+post_image: /uploads/1.jpg
 ---
 
-test-post
+2023 04-03 test-post

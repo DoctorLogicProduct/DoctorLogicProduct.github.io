@@ -129,6 +129,11 @@ export default defineConfig({
             isBody: true,
           },
           {
+            type: "image",
+            name: "post_image",
+            label: "Post Image",
+          },
+          {
             type: "rich-text",
             name: "post_intro",
             label: "Post Intro",
