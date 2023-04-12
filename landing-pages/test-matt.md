@@ -43,5 +43,22 @@ page_sections:
   wistia-link: []
   img: ''
   alt: ''
+- template: case-study-feature
+  component: case-studies-feature
+  component_css: case-studies-feature
+  per-row-count: '3'
+  class: ''
+  headline: Test Matt
+  text: test bob
+  practices:
+  - name: VIP Plastic Surgery
+  - name: Sonterra Dermatology
+  - name: Cosmetic Surgery Affililiates
+  btn: []
+  wistia-link: []
+alt-header: false
+marketing_header: false
+marketing_footer: false
+tracking-number: ''
 
 ---
