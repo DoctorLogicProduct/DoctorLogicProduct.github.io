@@ -110,7 +110,6 @@ export default defineConfig({
             name: "post_title",
             label: "Post Title",
             description: "This is the title",
-            isBody: true,
           },
           {
             type: "datetime",
@@ -126,7 +125,6 @@ export default defineConfig({
             name: "post_author",
             label: "Post Author",
             description: "This is the author",
-            isBody: true,
           },
           {
             type: "image",
@@ -138,7 +136,6 @@ export default defineConfig({
             name: "post_intro",
             label: "Post Intro",
             description: "This is the post intro",
-            isBody: true,
           },
           {
             type: "rich-text",
@@ -152,12 +149,12 @@ export default defineConfig({
             name: "post_highlight",
             label: "Post Highlight",
             description: "This is the highlight text",
-            isBody: true,
           },
           {
             type: "string",
             label: "Post Type",
             name: "post_type",
+            list: true,
             options: [
               { label: "Blog", value: "blog" },
               { label: "Press Release", value: "press-release" },
@@ -168,6 +165,7 @@ export default defineConfig({
             type: "string",
             label: "Related Product",
             name: "product",
+            list: true,
             options: [
               { label: "Website Management", value: "website management" },
               { label: "Social Reputation", value: "social reputation" },
@@ -177,7 +175,17 @@ export default defineConfig({
               { label: "Growth Accelerators", value: "growth accelerators" },
               { label: "Search Amplifier", value: "search amplifier" }
             ],
-          }
+          },
+          {
+            type: 'string',
+            name: 'tags',
+            label: 'Tags',
+            description: 'Tags for this post',
+            list: true,
+            ui: {
+              component: 'tags',
+            }
+          },
         ],
       },
     ],
