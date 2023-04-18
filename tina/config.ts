@@ -21,11 +21,13 @@ import { wistia_embedFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const clientId = process.env.TINA_CLIENT_ID || null;
+const token = process.env.TINA_TOKEN || null;
 
 export default defineConfig({
   branch,
-  clientId: null, // Get this from tina.io
-  token: null, // Get this from tina.io
+  clientId,
+  token,
   client: { skip: true },
   build: {
     outputFolder: "admin",
