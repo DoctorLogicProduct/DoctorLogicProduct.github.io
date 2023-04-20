@@ -6,7 +6,7 @@ tags:
 - Content Marketing
 post_intro: Learn how to optimize your existing blog content by utilizing Google Search
   Console to prioritize queries and increase your ranking.
-post_image: "/uploads/contentmarketing-teaser-animated.svg"
+post_image: "/uploads/shutterstock_663018469.jpg"
 post_highlight: Learn how to optimize your existing blog content by utilizing Google
   Search Console to prioritize queries and increase your ranking.
 post_type:
