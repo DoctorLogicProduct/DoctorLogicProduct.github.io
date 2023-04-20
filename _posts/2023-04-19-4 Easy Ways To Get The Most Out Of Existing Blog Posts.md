@@ -17,8 +17,6 @@ product:
 ---
 For any business, generating high-quality leads grows your brand. One of the most effective ways to achieve this is by publishing original content. [Consistent blogging](https://doctorlogic.com/blog/blogging-fundamentals.html) can help your business establish industry expertise, discuss new products, and showcase who you are and your mission beyond just what you’re selling.
 
-![](/uploads/contentmarketing-teaser-animated.svg)![](/uploads/contentmarketing-teaser-animated.svg)
-
 But what if you’ve already written a collection of blog posts and still receive little to no traffic? This is where optimization comes in. By looking deeper at your existing content, you can improve your website's ranking, boost impressions, and attract quality leads. Here are four simple and effective ways to maximize exposure and boost your search engine ranking.
 
 ## **Step 1: Use Search Console to Identify Target Keywords**
