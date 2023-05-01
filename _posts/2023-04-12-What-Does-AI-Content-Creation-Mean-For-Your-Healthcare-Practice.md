@@ -1,17 +1,17 @@
 ---
 post_title: What Does AI Content Creation Mean For Your Healthcare Practice?
-date: '2023-04-12T05:00:00.000Z'
+date: 2023-04-12T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
   - Content Marketing
   - AI
 post_intro: >
   AI can help healthcare practices provide reputable, relevant content to
-  improve their digital presence and maintain a trusted repour with patients.
+  improve their digital presence and maintain a trusted rapport with patients.
 post_image: /uploads/medical-growth-strategy4.jpg
 post_highlight: >
   AI can help healthcare practices provide reputable, relevant content to
-  improve their digital presence and maintain a trusted repour with patients.
+  improve their digital presence and maintain a trusted rapport with patients.
 post_type:
   - blog
 product:
