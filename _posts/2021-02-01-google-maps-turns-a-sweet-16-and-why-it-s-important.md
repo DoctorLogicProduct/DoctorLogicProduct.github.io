@@ -1,25 +1,28 @@
 ---
 post_title: Google Maps Turns A Sweet 16 and Why It’s Important
-date: 2021-02-01T16:00:00.000+00:00
+date: 2021-02-01T16:00:00.000Z
 post_author: Ryan Metcalf
 tags:
-- Healthcare-Marketing
-- Strategy
-- SEO
-post_intro: A fun look back at the history of this groundbreaking service & how to
-  utilize it in your marketing today.
-post_image: "/uploads/google-maps-blog-post.png"
-post_highlight: A fun look back at the history of this groundbreaking service & how
-  to utilize it in your marketing today.
+  - Healthcare-Marketing
+  - Strategy
+  - SEO
+post_intro: >-
+  A fun look back at the history of this groundbreaking service & how to utilize
+  it in your marketing today.
+post_image: /uploads/google-maps-blog-post.png
+post_highlight: >-
+  A fun look back at the history of this groundbreaking service & how to utilize
+  it in your marketing today.
 post_type:
-- blog
+  - blog
 product:
-- website management
-- lead generator
-- search amplifier
+  - website management
+  - lead generator
+  - search amplifier
 title: 2021-02-01-Google-Maps-Turns-A-Sweet-16-and-Why-It’s-Important
-
+_template: post_template
 ---
+
 When Google Maps first launched (Feb 8th, 2005), it’s unlikely we could have foreseen it becoming what it is today and such an integral part of our lives. As the product now turns a sweet 16 it’s time to take a look at how it’s changed with the times and why it’s important in the SEO landscape.
 
 **The Beginning of Google Maps**

@@ -1,24 +1,27 @@
 ---
 post_title: 7 Med Spa Marketing Strategies to Attract New Patients and Grow Your Business
-date: 2022-07-16T05:00:00.000+00:00
+date: 2022-07-16T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
-- strategy
-post_intro: To say that the med spa industry is competitive might be an understatement.
-  According to the most recent Medical Spa State of the Industry Report, more than
-  5,400 med spas are open in the United States alone - that's more than 100 med spa
-  businesses for every state in the country.
-post_image: "/uploads/shutterstock_1588153138.jpg"
-post_highlight: To say that the med spa industry is competitive might be an understatement.
-  According to the most recent Medical Spa State of the Industry Report, more than
-  5,400 med spas are open in the United States alone - that's more than 100 med spa
-  businesses for every state in the country.
+  - strategy
+post_intro: >-
+  To say that the med spa industry is competitive might be an understatement.
+  According to the most recent Medical Spa State of the Industry Report, more
+  than 5,400 med spas are open in the United States alone - that's more than 100
+  med spa businesses for every state in the country.
+post_image: /uploads/shutterstock_1588153138.jpg
+post_highlight: >-
+  To say that the med spa industry is competitive might be an understatement.
+  According to the most recent Medical Spa State of the Industry Report, more
+  than 5,400 med spas are open in the United States alone - that's more than 100
+  med spa businesses for every state in the country.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-
+  - growth accelerators
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1975285325.jpg)
 
 To say that the med spa industry is competitive might be an understatement. According to the [most recent Medical Spa State of the Industry Report](https://www.americanmedspa.org/page/med-spa-statistics#:\~:text=The%202019%20Medical%20Spa%20State,total%20value%20of%20%2410%20billion.), more than 5,400 med spas are open in the United States alone - that's more than 100 med spa businesses for every state in the country.

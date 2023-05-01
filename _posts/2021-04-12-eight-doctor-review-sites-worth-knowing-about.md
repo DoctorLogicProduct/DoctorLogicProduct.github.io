@@ -1,23 +1,27 @@
 ---
 post_title: Eight Doctor Review Sites Worth Knowing About
-date: 2021-04-13 13:00:00 +0000
+date: '2021-04-13 13:00:00 +0000'
 post_author: Christopher Ellis
 tags:
-- SEO
-- Reputation-Management
-- Website
-post_intro: If you are new to the world of online doctor reviews or want a quick refresher,
-  here’s a list of some of the most popular healthcare review platforms on the internet.
-post_image: "/uploads/website-blog-post-image.png"
-post_highlight: Having an up-to-date presence on popular review sites is a simple,
-  effective way to start building trust with prospective patients.
+  - SEO
+  - Reputation-Management
+  - Website
+post_intro: >-
+  If you are new to the world of online doctor reviews or want a quick
+  refresher, here’s a list of some of the most popular healthcare review
+  platforms on the internet.
+post_image: /uploads/website-blog-post-image.png
+post_highlight: >-
+  Having an up-to-date presence on popular review sites is a simple, effective
+  way to start building trust with prospective patients.
 post_type:
-- blog
+  - blog
 product:
-- social reputation
+  - social reputation
 title: 2021-04-12-Eight-Doctor-Review-Sites-Worth-Knowing-About
-
+_template: post_template
 ---
+
 Finding new patients can be hard, but one of the most effective ways to acquire new patients is by establishing trust with prospective patients. If you’re struggling for ways to establish trust with new patients, here’s a helpful hint; reviews, reviews, reviews!
 
 If you thought patients rarely reference online reviews before booking an appointment with a new doctor, think again! There are numerous surveys and studies referencing the importance of online reviews in the patient selection process, so you need to take online reviews seriously. Acquiring a steady stream of positive reviews is not only helpful for establishing trust with prospective patients but if leveraged properly, it can also work wonders for your website’s SEO.

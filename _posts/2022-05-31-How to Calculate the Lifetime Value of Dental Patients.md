@@ -1,25 +1,28 @@
 ---
 post_title: How to Calculate the Lifetime Value of Dental Patients
-date: 2022-05-31 05:00:00 +0000
+date: '2022-05-31 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags: []
-post_intro: The average lifetime value of your patients is a simple metric that can
-  drastically improve your marketing efforts. Understanding how to track and calculate
-  this vital metric can improve your ability to bring high-value patients into your
-  practice. You'll be able to make your marketing dollar stretch further and improve
-  your dental marketing ROI.
-post_image: "/uploads/shutterstock_421134493.jpg"
-post_highlight: The average lifetime value of your patients is a simple metric that
-  can drastically improve your marketing efforts. Understanding how to track and calculate
-  this vital metric can improve your ability to bring high-value patients into your
-  practice. You'll be able to make your marketing dollar stretch further and improve
-  your dental marketing ROI.
+post_intro: >-
+  The average lifetime value of your patients is a simple metric that can
+  drastically improve your marketing efforts. Understanding how to track and
+  calculate this vital metric can improve your ability to bring high-value
+  patients into your practice. You'll be able to make your marketing dollar
+  stretch further and improve your dental marketing ROI.
+post_image: /uploads/shutterstock_421134493.jpg
+post_highlight: >-
+  The average lifetime value of your patients is a simple metric that can
+  drastically improve your marketing efforts. Understanding how to track and
+  calculate this vital metric can improve your ability to bring high-value
+  patients into your practice. You'll be able to make your marketing dollar
+  stretch further and improve your dental marketing ROI.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-
+  - lead generator
+_template: post_template
 ---
+
 **How to Calculate the Lifetime Value of Dental Patients**
 
 ![](/uploads/shutterstock_1805218612.jpg)

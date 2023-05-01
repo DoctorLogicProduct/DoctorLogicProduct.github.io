@@ -1,21 +1,26 @@
 ---
 post_title: Benefits of Hiring a Marketing Company to Handle Your Marketing Strategy
-date: 2018-08-30T05:00:00.000+00:00
+date: 2018-08-30T05:00:00.000Z
 post_author: Kandace Cortez
 tags: []
-post_intro: Marketing plays a key role in the success and growth of your practice.
-  The information provided to prospective patients about who you are, what you stand
-  for, what you offer, and why people should give your practice a visit must be strategic.
-post_image: "/uploads/MarketingThumb.jpg"
-post_highlight: Marketing plays a key role in the success and growth of your practice.
-  The information provided to prospective patients about who you are, what you stand
-  for, what you offer, and why people should give your practice a visit must be strategic.
+post_intro: >-
+  Marketing plays a key role in the success and growth of your practice. The
+  information provided to prospective patients about who you are, what you stand
+  for, what you offer, and why people should give your practice a visit must be
+  strategic.
+post_image: /uploads/MarketingThumb.jpg
+post_highlight: >-
+  Marketing plays a key role in the success and growth of your practice. The
+  information provided to prospective patients about who you are, what you stand
+  for, what you offer, and why people should give your practice a visit must be
+  strategic.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-
+  - success insights
+_template: post_template
 ---
+
 Your messaging and presentation from a marketing perspective can make a world of a difference in whether a new patient walks through your front door or seeks out your competitors.
 
 When it comes to handling your marketing efforts and strategy, there really is no room for failure nor mediocrity. In order to grow and thrive, your marketing will need to be handled strategically and professionally.

@@ -1,22 +1,26 @@
 ---
 post_title: '2020 Top Ranking SEO Signals: What Really Matters to Market your Practice'
-date: 2020-01-06 17:00:00 +0000
+date: '2020-01-06 17:00:00 +0000'
 post_author: Keisha Dunstan
 tags:
-- SEO
-- Strategy
-post_intro: New to SEO? Or just wonder what are the trends for 2020? Strengthen your
-  online presence and grow your practice with these SEO trends that matter in 2020.
-post_image: "/uploads/iStock-1169192820.jpg"
-post_highlight: New to SEO? Or just wonder what are the trends for 2020? Strengthen
-  your online presence and grow your practice with these SEO trends that matter in
+  - SEO
+  - Strategy
+post_intro: >-
+  New to SEO? Or just wonder what are the trends for 2020? Strengthen your
+  online presence and grow your practice with these SEO trends that matter in
+  2020.
+post_image: /uploads/iStock-1169192820.jpg
+post_highlight: >-
+  New to SEO? Or just wonder what are the trends for 2020? Strengthen your
+  online presence and grow your practice with these SEO trends that matter in
   2020.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 Every year it seems Google gives us a new ranking factor.
 
 In 2018, mobile page speed looked to be the next big ranking factor to focus on.

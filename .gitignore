@@ -9,3 +9,5 @@ _site
 
 # Ruby
 vendor/bundle
+
+node_modules

@@ -1,20 +1,23 @@
 ---
 post_title: Boost Medical Practice Growth with Content Marketing
-date: 2019-02-26T06:00:00.000+00:00
+date: 2019-02-26T06:00:00.000Z
 post_author: Brittany Pinder
 tags: []
-post_intro: With 1 in 20 Google searches being health related, it’s no wonder healthcare
+post_intro: >-
+  With 1 in 20 Google searches being health related, it’s no wonder healthcare
   providers are implementing content marketing into their marketing strategies.
-post_image: "/uploads/ContentMarketing2Thumb.jpg"
-post_highlight: With 1 in 20 Google searches being health related, it’s no wonder
-  healthcare providers are implementing content marketing into their marketing strategies.
+post_image: /uploads/ContentMarketing2Thumb.jpg
+post_highlight: >-
+  With 1 in 20 Google searches being health related, it’s no wonder healthcare
+  providers are implementing content marketing into their marketing strategies.
 post_type:
-- blog
-- blog
+  - blog
+  - blog
 product:
-- growth accelerators
-
+  - growth accelerators
+_template: post_template
 ---
+
 ### Valuable Content Targets Ideal Customers
 
 As a healthcare provider, you want to be sure the content on your website provides value to potential and existing patients. Content can be used to drive patients where you would like them to visit on your site.

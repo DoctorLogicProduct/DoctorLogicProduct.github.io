@@ -1,23 +1,26 @@
 ---
 post_title: 5 Things Every Website Must Have
-date: 2018-08-09T05:00:00.000+00:00
+date: 2018-08-09T05:00:00.000Z
 post_author: John Vakidis
 tags: []
-post_intro: There is no doubt that businesses nowadays encounter an unprecedented
-  level of cyber attacks in the form of malware, ransomware, hacking, and DDoS attacks.
-  That is essentially why you must ensure that your website is properly secured and
-  trustable.
-post_image: "/uploads/DesignThumb.jpg"
-post_highlight: There is no doubt that businesses nowadays encounter an unprecedented
-  level of cyber attacks in the form of malware, ransomware, hacking, and DDoS attacks.
-  That is essentially why you must ensure that your website is properly secured and
-  trustable.
+post_intro: >-
+  There is no doubt that businesses nowadays encounter an unprecedented level of
+  cyber attacks in the form of malware, ransomware, hacking, and DDoS attacks.
+  That is essentially why you must ensure that your website is properly secured
+  and trustable.
+post_image: /uploads/DesignThumb.jpg
+post_highlight: >-
+  There is no doubt that businesses nowadays encounter an unprecedented level of
+  cyber attacks in the form of malware, ransomware, hacking, and DDoS attacks.
+  That is essentially why you must ensure that your website is properly secured
+  and trustable.
 post_type:
-- blog
+  - blog
 product:
-- website management
-
+  - website management
+_template: post_template
 ---
+
 HTTPS security is the same level of online security on banking websites and e-commerce businesses such as eBay and Amazon.
 
 In light of this, mentioned below is a list of five of the most essential components that your website absolutely must have to become well known and visited.

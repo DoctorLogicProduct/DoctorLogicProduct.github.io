@@ -1,23 +1,26 @@
 ---
 post_title: 7 MedSpa Marketing Ideas that Can Leverage Artificial Intelligence
-date: 2023-02-08 07:00:00 +0000
+date: '2023-02-08 07:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- strategy
-- healthcare marketing
-post_intro: 2023 is set to be the year in which artificial intelligence makes marketing
-  achievable and accessible to any business. That comes just in time for Medical Spas,
-  which are seeing explosive growth in competition across the nation.
-post_image: "/uploads/massage-at-medspa.jpg"
-post_highlight: 2023 is set to be the year in which artificial intelligence makes
-  marketing achievable and accessible to any business. That comes just in time for
-  Medical Spas, which are seeing explosive growth in competition across the nation.
+  - strategy
+  - healthcare marketing
+post_intro: >-
+  2023 is set to be the year in which artificial intelligence makes marketing
+  achievable and accessible to any business. That comes just in time for Medical
+  Spas, which are seeing explosive growth in competition across the nation.
+post_image: /uploads/massage-at-medspa.jpg
+post_highlight: >-
+  2023 is set to be the year in which artificial intelligence makes marketing
+  achievable and accessible to any business. That comes just in time for Medical
+  Spas, which are seeing explosive growth in competition across the nation.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-
+  - growth accelerators
+_template: post_template
 ---
+
 ![](/uploads/procedure-at-medspa.jpg)
 
 Make no mistake: 2023 is set to be the year in which artificial intelligence makes marketing achievable and accessible to any business. That comes just in time for Medical Spas, which are seeing explosive growth in competition across the nation.

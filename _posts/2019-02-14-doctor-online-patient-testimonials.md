@@ -1,22 +1,25 @@
 ---
 post_title: Online Patient Testimonials Can Influence Prospective Patients
-date: 2019-02-14T06:00:00.000+00:00
+date: 2019-02-14T06:00:00.000Z
 post_author: Janelle Amos
 tags:
-- Reputation-Management
-post_intro: Have you ever performed an online search for a high-priced item or service
-  and narrowed your decision down to two choices, then began researching everything
+  - Reputation-Management
+post_intro: >-
+  Have you ever performed an online search for a high-priced item or service and
+  narrowed your decision down to two choices, then began researching everything
   you could out of those two to ENSURE you selected the absolute best?
-post_image: "/uploads/PatientTestimonialsThumb.jpg"
-post_highlight: Have you ever performed an online search for a high-priced item or
-  service and narrowed your decision down to two choices, then began researching everything
+post_image: /uploads/PatientTestimonialsThumb.jpg
+post_highlight: >-
+  Have you ever performed an online search for a high-priced item or service and
+  narrowed your decision down to two choices, then began researching everything
   you could out of those two to ENSURE you selected the absolute best?
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 I bet you checked out prior-customers’ reviews and testimonials, and researched the heck out of the website before determining your final decision. I know I have!
 
 This type of behavior is normal in the digital world. In fact, obtaining Internet information is the first tool of choice for more than [seven out of ten](https://www.healthcaresuccess.com/blog/doctor-marketing/online-doctor-reputation-can-make-break-patient-choices.html) users looking for health information. And just as I would read reviews from Amazon when purchasing my next pair of shoes… patients carry the same type of buying behavior when selecting a doctor or hospital.

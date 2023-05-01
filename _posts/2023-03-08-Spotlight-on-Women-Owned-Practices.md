@@ -1,19 +1,22 @@
 ---
 post_title: 'Happy International Women’s Day: Spotlight on Women-Owned Practices'
-date: 2023-03-08 06:00:00 +0000
+date: '2023-03-08 06:00:00 +0000'
 post_author: DoctorLogic Employee
 tags: []
-post_intro: Meet and learn more about some of the phenomenal and successful female-led
+post_intro: >-
+  Meet and learn more about some of the phenomenal and successful female-led
   practices we partner with here at DoctorLogic.
-post_image: "/uploads/istock_000040967806_large.jpeg"
-post_highlight: Meet and learn more about some of the phenomenal and successful female-led
+post_image: /uploads/istock_000040967806_large.jpeg
+post_highlight: >-
+  Meet and learn more about some of the phenomenal and successful female-led
   practices we partner with here at DoctorLogic.
 post_type:
-- blog
+  - blog
 product:
-- website management
-
+  - website management
+_template: post_template
 ---
+
 At DoctorLogic, we have the amazing opportunity to work with a wide range of intelligent and caring medical providers. Research shows that when patients have a gender preference for their providers, [49.8% of female patients prefer having a female provider](https://www.researchgate.net/publication/327864525_Does_physicians'_gender_has_any_influence_on_patients'_choice_of_their_treating_physicians#:\~:text=The%20majority%20of%20participants%20had,discussing%20family%20and%20psychological%20problems.).
 
 ![](/uploads/shutterstock_536023099.jpeg)

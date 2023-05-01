@@ -1,26 +1,32 @@
 ---
-post_title: Why You Should Consider Optimizing Your Website for Voice Search (& How
-  to Do It)
-date: 2019-09-12T16:00:00.000+00:00
+post_title: >-
+  Why You Should Consider Optimizing Your Website for Voice Search (& How to Do
+  It)
+date: 2019-09-12T16:00:00.000Z
 post_author: Keisha Dunstan
 tags:
-- Website
-- Strategy
-post_intro: As technology advances, the ways to search for and find information are
-  multiplying. One of the more relatively recent methods quickly gaining popularity
-  is voice search. This means in order to stay on top of the optimization game, websites
-  must now also account for voice searches in their strategy.
-post_image: "/uploads/iStock-1029428126.jpg"
-post_highlight: As technology advances, the ways to search for and find information
-  are multiplying. One of the more relatively recent methods quickly gaining popularity
-  is voice search. This means in order to stay on top of the optimization game, websites
-  must now also account for voice searches in their strategy.
+  - Website
+  - Strategy
+post_intro: >-
+  As technology advances, the ways to search for and find information are
+  multiplying. One of the more relatively recent methods quickly gaining
+  popularity is voice search. This means in order to stay on top of the
+  optimization game, websites must now also account for voice searches in their
+  strategy.
+post_image: /uploads/iStock-1029428126.jpg
+post_highlight: >-
+  As technology advances, the ways to search for and find information are
+  multiplying. One of the more relatively recent methods quickly gaining
+  popularity is voice search. This means in order to stay on top of the
+  optimization game, websites must now also account for voice searches in their
+  strategy.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 As technology advances, the ways to search for and find information are multiplying. One of the more relatively recent methods quickly gaining popularity is voice search. This means in order to stay on top of the optimization game, websites must now also account for voice searches in their strategy.
 
 In this post, we’ll look at why you need to start optimizing your website for Google voice search and how to do it. Let’s get started.

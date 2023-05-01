@@ -1,25 +1,28 @@
 ---
 post_title: 5 Reasons Your Google Business Profile Matters
-date: 2023-02-16 06:00:00 +0000
+date: '2023-02-16 06:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- reputation management
-- healthcare marketing
-- website
-post_intro: Previously known as Google My Business, Google Business Profiles (GBPs)
-  for med spas give your practice credibility and visibility with current and prospective
-  patients.
-post_image: "/uploads/istock-533250472.jpeg"
-post_highlight: Previously known as Google My Business, Google Business Profiles (GBPs)
-  for med spas give your practice credibility and visibility with current and prospective
-  patients.
+  - reputation management
+  - healthcare marketing
+  - website
+post_intro: >-
+  Previously known as Google My Business, Google Business Profiles (GBPs) for
+  med spas give your practice credibility and visibility with current and
+  prospective patients.
+post_image: /uploads/istock-533250472.jpeg
+post_highlight: >-
+  Previously known as Google My Business, Google Business Profiles (GBPs) for
+  med spas give your practice credibility and visibility with current and
+  prospective patients.
 post_type:
-- blog
+  - blog
 product:
-- website management
-- search amplifier
-
+  - website management
+  - search amplifier
+_template: post_template
 ---
+
 # ![](/uploads/istock-533250472.jpeg)
 
 Previously known as Google My Business, Google Business Profiles (GBPs) for med spas give your practice [credibility and visibility with current and prospective patients](https://doctorlogic.com/blog/google-business-profile-plastic-surgeon.html). These profiles allow aesthetic centers to provide patients with straightforward information about the practice all from one quick search, creating an efficient and simple connection with patients.

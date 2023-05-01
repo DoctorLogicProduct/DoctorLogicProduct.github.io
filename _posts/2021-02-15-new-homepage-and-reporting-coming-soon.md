@@ -1,23 +1,26 @@
 ---
 post_title: 'Reminder: New Homepage & Reporting coming soon!'
-date: 2021-02-15T14:00:00.000+00:00
+date: 2021-02-15T14:00:00.000Z
 post_author: Josh Feinberg
 tags:
-- Product-Updates
-post_intro: Last month we mentioned the new homepage redesign and with that comes
-  some shiny new reports to go with it! Get a sneak peek here.
-post_image: "/uploads/new-performance-reports.png"
-post_highlight: Last month we mentioned the new homepage redesign and with that comes
-  some shiny new reports to go with it! Get a sneak peek here.
+  - Product-Updates
+post_intro: >-
+  Last month we mentioned the new homepage redesign and with that comes some
+  shiny new reports to go with it! Get a sneak peek here.
+post_image: /uploads/new-performance-reports.png
+post_highlight: >-
+  Last month we mentioned the new homepage redesign and with that comes some
+  shiny new reports to go with it! Get a sneak peek here.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-- lead generator
-- website management
+  - success insights
+  - lead generator
+  - website management
 title: 2021-02-15-New-Homepage-and-Reporting-coming-soon!
-
+_template: post_template
 ---
+
 As mentioned in last month’s newsletter we’ve been working on an all-new, soon-to-be-launched Homepage for your DoctorLogic account. The new Homepage is where you will land after each login. It will display important performance metrics as well as useful tips and tools to help you get the most from your experience.
 
 We’re just a few short weeks away from launch and in addition to the updated Homepage, we’re also adding some brand new reporting tools to give you a deeper view into your website performance. The reports will be directly accessible from the Homepage but will also be located in a new “Reports” section on the left-side navigation bar.

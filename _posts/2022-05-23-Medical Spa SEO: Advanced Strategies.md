@@ -1,24 +1,29 @@
 ---
 post_title: 'Medical Spa SEO: Advanced Strategies'
-date: 2022-05-23T05:00:00.000+00:00
+date: 2022-05-23T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
-- SEO
-post_intro: With over 5,000 medical spas working all over the United States, the competition
-  for patients is becoming more and more fierce every year. Since many of these businesses
-  use expert search engine optimization (SEO) services, common SEO strategies are
-  no longer enough to keep you ahead of the competition.
-post_image: "/uploads/shutterstock_1121308835.jpg"
-post_highlight: With over 5,000 medical spas working all over the United States, the
-  competition for patients is becoming more and more fierce every year. Since many
-  of these businesses use expert search engine optimization (SEO) services, common
-  SEO strategies are no longer enough to keep you ahead of the competition.
+  - SEO
+post_intro: >-
+  With over 5,000 medical spas working all over the United States, the
+  competition for patients is becoming more and more fierce every year. Since
+  many of these businesses use expert search engine optimization (SEO) services,
+  common SEO strategies are no longer enough to keep you ahead of the
+  competition.
+post_image: /uploads/shutterstock_1121308835.jpg
+post_highlight: >-
+  With over 5,000 medical spas working all over the United States, the
+  competition for patients is becoming more and more fierce every year. Since
+  many of these businesses use expert search engine optimization (SEO) services,
+  common SEO strategies are no longer enough to keep you ahead of the
+  competition.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1379807987.jpg)
 
 With over [5,000 medical spas](https://www.americanmedspa.org/page/med-spa-statistics) working all over the United States, the competition for patients is becoming more and more fierce every year. Since many of these businesses use expert search engine optimization (SEO) services, common SEO strategies are no longer enough to keep you ahead of the competition.

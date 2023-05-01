@@ -1,22 +1,25 @@
 ---
 post_title: 'Plastic Surgery Marketing: How Much to Budget for Practice Growth'
-date: 2019-12-30T17:00:00.000+00:00
+date: 2019-12-30T17:00:00.000Z
 post_author: Andre Riley
 tags:
-- Strategy
-post_intro: Plastic and cosmetic surgery continues to be in high demand in the United
-  States. This demand has created a healthy yet competitive marketplace for plastic
-  surgeons.
-post_image: "/uploads/imac-vip-2.png"
-post_highlight: Plastic and cosmetic surgery continues to be in high demand in the
-  United States. This demand has created a healthy yet competitive marketplace for
+  - Strategy
+post_intro: >-
+  Plastic and cosmetic surgery continues to be in high demand in the United
+  States. This demand has created a healthy yet competitive marketplace for
+  plastic surgeons.
+post_image: /uploads/imac-vip-2.png
+post_highlight: >-
+  Plastic and cosmetic surgery continues to be in high demand in the United
+  States. This demand has created a healthy yet competitive marketplace for
   plastic surgeons.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-
+  - success insights
+_template: post_template
 ---
+
 According to the [ASPS 2018 Plastic Surgery Statistics Report](https://www.plasticsurgery.org/documents/News/Statistics/2018/plastic-surgery-statistics-full-report-2018.pdf "2018 ASPS Statistics"), breast augmentation continues to be the top cosmetic surgical procedure and has been since 2006. Silicone implants were used in 88%, and saline implants in 12%, of all breast augmentations in 2018. The other top procedures with notable gains include tummy tuck (up 107%), liposuction (up 5%), and buttock augmentation with fat grafting (up 19%).
 
 With more cutting-edge procedures and technologies hitting the market, patients are becoming more aware of new opportunities and more interested in researching the best options for their bodies.

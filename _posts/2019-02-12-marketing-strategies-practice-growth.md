@@ -1,19 +1,22 @@
 ---
 post_title: 3 Marketing Strategies for Growth in 2019
-date: 2019-02-12T06:00:00.000+00:00
+date: 2019-02-12T06:00:00.000Z
 post_author: 'Keisha Dunstan '
 tags: []
-post_intro: It’s a new year and you’re ready to spice up your marketing strategy to
-  make the most of it. But where do you start?
-post_image: "/uploads/MarketingStrategyThumb.jpg"
-post_highlight: It’s a new year and you’re ready to spice up your marketing strategy
-  to make the most of it. But where do you start?
+post_intro: >-
+  It’s a new year and you’re ready to spice up your marketing strategy to make
+  the most of it. But where do you start?
+post_image: /uploads/MarketingStrategyThumb.jpg
+post_highlight: >-
+  It’s a new year and you’re ready to spice up your marketing strategy to make
+  the most of it. But where do you start?
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-
+  - growth accelerators
+_template: post_template
 ---
+
 It can seem as if new marketing trends are popping up every day, and keeping up with them is nearly impossible. So how do you know which ones are actually worth investing in, and which ones are passing fads?
 
 In this post, we’ll look at a few marketing strategies we think will actually stick around and work for your business in 2019 and beyond.

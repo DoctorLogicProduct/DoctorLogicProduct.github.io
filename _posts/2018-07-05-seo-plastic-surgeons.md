@@ -1,19 +1,22 @@
 ---
 post_title: Is SEO Still Important for Plastic Surgeons?
-date: 2018-07-05T05:00:00.000+00:00
+date: 2018-07-05T05:00:00.000Z
 post_author: Andre Riley
 tags: []
-post_intro: 'In today’s technology-focused business environment, a strong online presence
-  plays an important role in the success of any professional service provider. '
-post_image: "/uploads/PracticeSEOThumb.jpg"
-post_highlight: In today’s technology-focused business environment, a strong online
-  presence plays an important role in the success of any professional service provider.
+post_intro: >-
+  In today’s technology-focused business environment, a strong online presence
+  plays an important role in the success of any professional service provider. 
+post_image: /uploads/PracticeSEOThumb.jpg
+post_highlight: >-
+  In today’s technology-focused business environment, a strong online presence
+  plays an important role in the success of any professional service provider.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 This is especially true for plastic surgeons who want to market their quality of service online through [before-and-after galleries](https://doctorlogic.com/features/galleries) and [patient reviews](https://doctorlogic.com/features/reviews/) that are visible to population in their community.
 
 Since there is so much content on the internet that talks about plastic surgeries, optimizing your website content for search engines is crucial. This not only gives your business a high ranking in search, but also helps in attracting and converting leads.

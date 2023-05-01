@@ -1,21 +1,26 @@
 ---
 post_title: Positive Patient Experiences Increase Your Face Value
-date: 2019-03-26T05:00:00.000+00:00
+date: 2019-03-26T05:00:00.000Z
 post_author: Janelle Amos
 tags:
-- Strategy
-- Reputation-Management
-post_intro: First impressions matter. Establishing a positive patient experience throughout
-  their visit can increase patient referrals and your online reputation.
-post_image: "/uploads/PatientExperience2.jpg"
-post_highlight: First impressions matter. Establishing a positive patient experience
-  throughout their visit can increase patient referrals and your online reputation.
+  - Strategy
+  - Reputation-Management
+post_intro: >-
+  First impressions matter. Establishing a positive patient experience
+  throughout their visit can increase patient referrals and your online
+  reputation.
+post_image: /uploads/PatientExperience2.jpg
+post_highlight: >-
+  First impressions matter. Establishing a positive patient experience
+  throughout their visit can increase patient referrals and your online
+  reputation.
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 1. **Layout and cleanliness:** The way an office looks when a patient visits gives a testament to the type of service they should expect to receive. If the waiting area has trash laying around, an unpleasant smell, or unorganized chairs, it gives the impression the staff is lazy, unorganized, or doesn’t care. This is an extreme example, but I doubt this is the type of first impression you want to give regardless of how your practice is laid out. Therefore, ensuring the entire office (waiting rooms to patient rooms) is kept tidy and clean helps the patient gain confidence the staff cares about their experience. Here are some [design tips](https://www.workspace-resource.com/office-furniture/crucial-design-tips-for-creating-a-patient-focused-healthcare-facility/) to ensure patients receive a comfortable experience.
 
 2. **Interactions with staff:** Friendliness can go a long way. When staff members are welcoming and inviting, patients feel valued and cared for. The front-desk staff must be well-trained and willing to provide information to the patient, such as expected wait time, bathroom location, any complimentary beverages, etc., Also keep in mind interactions with staff can be via phone as well. Finding ways to translate that sense of welcomeness through the phone can have the same affect towards their overall experience. [Here’s a great reference](https://www.theberylinstitute.org/blogpost/947424/302264/Phone-Skills-Making-or-Breaking-The-Patient-Experience) for scripting and guiding phone calls.

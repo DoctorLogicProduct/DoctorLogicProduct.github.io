@@ -1,24 +1,27 @@
 ---
 post_title: Why Are Medical Keywords Important
-date: 2019-05-14T17:00:00.000+00:00
+date: 2019-05-14T17:00:00.000Z
 post_author: Keisha Dunstan
 tags:
-- Medical-PPC
-- SEO
-post_intro: With Google accommodating billions of users with top-notch, reliable medical
-  information in certain search results, it’s never been more important for practices
-  to provide exceptional medical content to compete for common, high-volume search
-  terms in your field.
-post_image: "/uploads/Keywords.jpg"
-post_highlight: It’s no secret people use Google for everything — especially for health
+  - Medical-PPC
+  - SEO
+post_intro: >-
+  With Google accommodating billions of users with top-notch, reliable medical
+  information in certain search results, it’s never been more important for
+  practices to provide exceptional medical content to compete for common,
+  high-volume search terms in your field.
+post_image: /uploads/Keywords.jpg
+post_highlight: >-
+  It’s no secret people use Google for everything — especially for health
   issues.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-- content multiplier
-
+  - growth accelerators
+  - content multiplier
+_template: post_template
 ---
+
 It’s no secret people use Google for everything — especially for health issues.
 
 I recall the days where if I said I was looking up symptoms I would have been deemed a hypochondriac. It’s okay…I’m not alone. Statistics show [77% of consumers now use search engines](https://searchengineland.com/77-percent-of-online-health-seekers-start-at-search-engines-pew-study-145105) to conduct research before consulting a doctor and a surprising number of these people see a doctor about the results they find during their search.

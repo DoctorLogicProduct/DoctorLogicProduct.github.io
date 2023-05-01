@@ -1,21 +1,24 @@
 ---
 post_title: 'Dermatology Website Design: Are You Doing It Right?'
-date: 2022-05-12T05:00:00.000+00:00
+date: 2022-05-12T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags: []
-post_intro: Dermatology practice marketing starts with a high-quality website. It
-  lies at the core of lead generation, conversion, retention, and patient education.
+post_intro: >-
+  Dermatology practice marketing starts with a high-quality website. It lies at
+  the core of lead generation, conversion, retention, and patient education.
   Without a website, the marketing ROI is unlikely to meet your expectations.
-post_image: "/uploads/shutterstock_1762153823.jpg"
-post_highlight: Dermatology practice marketing starts with a high-quality website.
-  It lies at the core of lead generation, conversion, retention, and patient education.
+post_image: /uploads/shutterstock_1762153823.jpg
+post_highlight: >-
+  Dermatology practice marketing starts with a high-quality website. It lies at
+  the core of lead generation, conversion, retention, and patient education.
   Without a website, the marketing ROI is unlikely to meet your expectations.
 post_type:
-- blog
+  - blog
 product:
-- website management
-
+  - website management
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1762153823.jpg)
 
 Dermatology practice marketing starts with a high-quality website. It lies at the core of lead generation, conversion, retention, and patient education. Without a website, the marketing ROI is unlikely to meet your expectations.

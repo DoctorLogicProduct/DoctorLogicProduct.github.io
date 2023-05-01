@@ -1,25 +1,32 @@
 ---
 post_title: How DoctorLogic Improves the Patient Experience
-date: 2022-09-13 05:00:00 +0000
+date: '2022-09-13 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags: []
-post_intro: |-
-  Many healthcare providers mistakenly believe that the patient experience begins when the patient first walks through the door. However, like any other customer experience for a business, the patient experience actually begins much earlier.
+post_intro: >-
+  Many healthcare providers mistakenly believe that the patient experience
+  begins when the patient first walks through the door. However, like any other
+  customer experience for a business, the patient experience actually begins
+  much earlier.
 
-  Knowing where the experience starts can help you connect with your target audience through your healthcare marketing strategy.
-post_image: "/uploads/shutterstock_1562839528.jpg"
-post_highlight: Many healthcare providers mistakenly believe that the patient experience
-  begins when the patient first walks through the door. However, like any other customer
-  experience for a business, the patient experience actually begins much earlier.  Knowing
-  where the experience starts can help you connect with your target audience through
-  your healthcare marketing strategy.
+
+  Knowing where the experience starts can help you connect with your target
+  audience through your healthcare marketing strategy.
+post_image: /uploads/shutterstock_1562839528.jpg
+post_highlight: >-
+  Many healthcare providers mistakenly believe that the patient experience
+  begins when the patient first walks through the door. However, like any other
+  customer experience for a business, the patient experience actually begins
+  much earlier.  Knowing where the experience starts can help you connect with
+  your target audience through your healthcare marketing strategy.
 post_type:
-- blog
+  - blog
 product:
-- website management
-- lead generator
-
+  - website management
+  - lead generator
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_2013208163.jpg)
 
 According to a PricewaterhouseCoopers survey of 1,500 patients, patient experience quality comprises [five different categories](https://www.pwc.com/us/en/health-industries/health-research-institute/publications/pdf/pwc-hri-customer-experience-in-new-health-economy.pdf). The better your practice is at fulfilling each category, the more likely you are to have satisfied patients. This experience could be what sets you apart from competing practices in your area.

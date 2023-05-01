@@ -1,22 +1,25 @@
 ---
 post_title: How to Brainstorm Ophthalmology Keywords
-date: 2022-06-06T05:00:00.000+00:00
+date: 2022-06-06T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
-- SEO
-post_intro: When working to attract new patients to an ophthalmology practice, search
-  engine optimization (SEO) is crucial. Great SEO techniques go a long way in connecting
-  with new prospective patients, especially with local SEO practices.
-post_image: "/uploads/shutterstock_579031981.jpg"
-post_highlight: When working to attract new patients to an ophthalmology practice,
-  search engine optimization (SEO) is crucial. Great SEO techniques go a long way
-  in connecting with new prospective patients, especially with local SEO practices.
+  - SEO
+post_intro: >-
+  When working to attract new patients to an ophthalmology practice, search
+  engine optimization (SEO) is crucial. Great SEO techniques go a long way in
+  connecting with new prospective patients, especially with local SEO practices.
+post_image: /uploads/shutterstock_579031981.jpg
+post_highlight: >-
+  When working to attract new patients to an ophthalmology practice, search
+  engine optimization (SEO) is crucial. Great SEO techniques go a long way in
+  connecting with new prospective patients, especially with local SEO practices.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_402612793.jpg)
 
 When working to attract new patients to an ophthalmology practice, search engine optimization (SEO) is crucial. Great SEO techniques go a long way in connecting with new prospective patients, especially with local SEO practices.

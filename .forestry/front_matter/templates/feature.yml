@@ -54,8 +54,8 @@ fields:
     label: btn-label
     description: Button Label
   config:
-    min: 
-    max: 
+    min: 1
+    max: 9999
     labelField: btn-label
   label: Button
   description: Section Button (Not required)
@@ -75,8 +75,8 @@ fields:
     label: Link Label
     description: The label of the button.
   config:
-    min: 
-    max: 
+    min: 1
+    max: 9999
     labelField: 
   label: Wistia Popover
   description: Button to Wistia hosted video in a popover.

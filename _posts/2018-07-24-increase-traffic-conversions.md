@@ -1,23 +1,26 @@
 ---
 post_title: Increase Traffic & Conversions Through Your Before-and-After Gallery
-date: 2018-07-24T05:00:00.000+00:00
+date: 2018-07-24T05:00:00.000Z
 post_author: Kaitlin Waits
 tags: []
-post_intro: Plastic surgeons are in demand more than ever, all thanks to the latest
-  technology such as smartphones and social media platforms that have made marketing
-  a breeze for them. More and more people today are joining the selfie culture taking
-  their facial snaps at any place and time.
-post_image: "/uploads/GalleryConversionThumb.jpg"
-post_highlight: Plastic surgeons are in demand more than ever, all thanks to the latest
-  technology such as smartphones and social media platforms that have made marketing
-  a breeze for them. More and more people today are joining the selfie culture taking
-  their facial snaps at any place and time.
+post_intro: >-
+  Plastic surgeons are in demand more than ever, all thanks to the latest
+  technology such as smartphones and social media platforms that have made
+  marketing a breeze for them. More and more people today are joining the selfie
+  culture taking their facial snaps at any place and time.
+post_image: /uploads/GalleryConversionThumb.jpg
+post_highlight: >-
+  Plastic surgeons are in demand more than ever, all thanks to the latest
+  technology such as smartphones and social media platforms that have made
+  marketing a breeze for them. More and more people today are joining the selfie
+  culture taking their facial snaps at any place and time.
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-
+  - content multiplier
+_template: post_template
 ---
+
 This has given rise to self-consciousness about facial features, and more people are going online to find the best plastic surgery practice for either invasive and non-invasive plastic surgery procedures.
 
 In the competitive online marketplace, increasing traffic at your website and funneling it through the conversion channel is a challenge. However, adding a [before-and-after gallery](https://doctorlogic.com/features/galleries/) can bring positive changes in your conversion rates in many ways.

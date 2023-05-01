@@ -1,24 +1,27 @@
 ---
 post_title: What is Responsive Design? Does it actually matter?
-date: 2016-09-27T05:00:00.000+00:00
+date: 2016-09-27T05:00:00.000Z
 post_author: Matt Sparks
 tags: []
-post_intro: Responsive Design refers to a way a website is built in order to function
-  properly across multiple devices and screen sizes. If you’ve talked with any web
-  company in the past 6 months, you’ve probably heard a lot about responsive design.
-  Let’s find out why.
-post_image: "/uploads/ResponsiveDesignThumb.jpg"
-post_highlight: Responsive Design refers to a way a website is built in order to function
-  properly across multiple devices and screen sizes. If you’ve talked with any web
-  company in the past 6 months, you’ve probably heard a lot about responsive design.
-  Let’s find out why.
+post_intro: >-
+  Responsive Design refers to a way a website is built in order to function
+  properly across multiple devices and screen sizes. If you’ve talked with any
+  web company in the past 6 months, you’ve probably heard a lot about responsive
+  design. Let’s find out why.
+post_image: /uploads/ResponsiveDesignThumb.jpg
+post_highlight: >-
+  Responsive Design refers to a way a website is built in order to function
+  properly across multiple devices and screen sizes. If you’ve talked with any
+  web company in the past 6 months, you’ve probably heard a lot about responsive
+  design. Let’s find out why.
 post_type:
-- blog
+  - blog
 product:
-- website management
-- website management
-
+  - website management
+  - website management
+_template: post_template
 ---
+
 ### So what is responsive web design, _really?_
 
 Responsive website design refers to how a website looks across all devices - from your computer monitor sitting on your work desk (a desktop computer) to the iPhone you might be reading this message on (a mobile device). When a website adheres to proper responsive design principles, the website looks good on any of these devices. But because beauty is more than skin deep, having a responsive website also means that people have a pleasant experience with the website. It shouldn’t matter whether they use a mouse and keyboard or their fingers.

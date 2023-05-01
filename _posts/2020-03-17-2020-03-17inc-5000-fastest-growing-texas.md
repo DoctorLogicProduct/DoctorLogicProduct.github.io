@@ -1,25 +1,29 @@
 ---
-post_title: 'DoctorLogic named No. 122 on the First-Ever List of Texas’s Fastest Growing
-  Companies '
-date: 2020-03-17 21:33:00 +0000
+post_title: >-
+  DoctorLogic named No. 122 on the First-Ever List of Texas’s Fastest Growing
+  Companies 
+date: '2020-03-17 21:33:00 +0000'
 post_author: Keisha Dunstan
 tags:
-- News
-post_intro: 'The Inc. magazine today revealed that DoctorLogic, creator of the Website
-  Marketing Platform exclusively for healthcare providers, is No. 122 on its inaugural
-  Inc. 5000 Series: Texas list, the most prestigious ranking of the fastest-growing
-  Texas-based private companies.'
-post_image: "/uploads/Inc5000Series2020-Facebook.jpg"
-post_highlight: 'The Inc. magazine today revealed that DoctorLogic, creator of the
-  Website Marketing Platform exclusively for healthcare providers, is No. 122 on its
-  inaugural Inc. 5000 Series: Texas list, the most prestigious ranking of the fastest-growing
-  Texas-based private companies.'
+  - News
+post_intro: >-
+  The Inc. magazine today revealed that DoctorLogic, creator of the Website
+  Marketing Platform exclusively for healthcare providers, is No. 122 on its
+  inaugural Inc. 5000 Series: Texas list, the most prestigious ranking of the
+  fastest-growing Texas-based private companies.
+post_image: /uploads/Inc5000Series2020-Facebook.jpg
+post_highlight: >-
+  The Inc. magazine today revealed that DoctorLogic, creator of the Website
+  Marketing Platform exclusively for healthcare providers, is No. 122 on its
+  inaugural Inc. 5000 Series: Texas list, the most prestigious ranking of the
+  fastest-growing Texas-based private companies.
 post_type:
-- press-release
+  - press-release
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 **Plano, TX March 17, 2020** _The Inc._ magazine today revealed that [DoctorLogic](https://doctorlogic.com/), creator of the Website Marketing Platform exclusively for healthcare providers, is No. 122 on its inaugural Inc. 5000 Series: Texas list, the most prestigious ranking of the fastest-growing Texas-based private companies.
 
 Born of the annual Inc. 5000 franchise, this regional list represents a unique look at the most successful companies within the Texas economy’s most dynamic segment—its independent small businesses.

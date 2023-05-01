@@ -1,21 +1,24 @@
 ---
 post_title: Showcasing My Talent - An Interview with Dr. Morales
-date: 2019-08-07 16:00:00 +0000
+date: '2019-08-07 16:00:00 +0000'
 post_author: Kristy Theis
 tags:
-- Before-After-Gallery
-- Healthcare-Marketing
-post_intro: The DoctorLogic Before and Gallery solution has proven to be a fan favorite,
+  - Before-After-Gallery
+  - Healthcare-Marketing
+post_intro: >-
+  The DoctorLogic Before and Gallery solution has proven to be a fan favorite,
   allowing physicians to display their outcomes like never before.
-post_image: "/uploads/MoralesThumb.jpg"
-post_highlight: The DoctorLogic Before and Gallery solution has proven to be a fan
-  favorite, allowing physicians to display their outcomes like never before.
+post_image: /uploads/MoralesThumb.jpg
+post_highlight: >-
+  The DoctorLogic Before and Gallery solution has proven to be a fan favorite,
+  allowing physicians to display their outcomes like never before.
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-
+  - content multiplier
+_template: post_template
 ---
+
 When DoctorLogic set out to create a website product that would set a new standard in the medical industry, we knew the power behind our platform would likely reside within our photo gallery tool. This intuitive, easy-to-use, Google-friendly section of our websites has proven to be a fan favorite, allowing physicians to display their outcomes like never before.
 
 We recently reached out to Dr. Rolando Morales, a plastic surgeon in Houston, to get his feedback on how he uses the gallery tool to shed some additional insight on this awesome feature

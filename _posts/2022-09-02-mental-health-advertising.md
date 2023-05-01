@@ -1,25 +1,28 @@
 ---
 post_title: Advertising Mental Health Services with Pay-Per-Click Campaigns
-date: 2022-09-02 05:00:00 +0000
+date: '2022-09-02 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags: []
-post_intro: In the wake of a global pandemic and economic uncertainties, the demand
-  for mental health services providers is rising. According to a 2021 survey by the
-  American Psychological Association, psychologists experienced a significant increase
-  in patients managing mental health challenges. In this environment, the equation
-  for advertising mental health services has changed as well.
-post_image: "/uploads/shutterstock_460659988.jpeg"
-post_highlight: In the wake of a global pandemic and economic uncertainties, the demand
-  for mental health services providers is rising. According to a 2021 survey by the
-  American Psychological Association, psychologists experienced a significant increase
-  in patients managing mental health challenges. In this environment, the equation
-  for advertising mental health services has changed as well.
+post_intro: >-
+  In the wake of a global pandemic and economic uncertainties, the demand for
+  mental health services providers is rising. According to a 2021 survey by the
+  American Psychological Association, psychologists experienced a significant
+  increase in patients managing mental health challenges. In this environment,
+  the equation for advertising mental health services has changed as well.
+post_image: /uploads/shutterstock_460659988.jpeg
+post_highlight: >-
+  In the wake of a global pandemic and economic uncertainties, the demand for
+  mental health services providers is rising. According to a 2021 survey by the
+  American Psychological Association, psychologists experienced a significant
+  increase in patients managing mental health challenges. In this environment,
+  the equation for advertising mental health services has changed as well.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-
+  - lead generator
+_template: post_template
 ---
+
 ## **Advertising Mental Health Services with Pay-Per-Click Campaigns**
 
 In the wake of a global pandemic and economic uncertainties, the demand for mental health services providers is rising. According to a [2021 survey by the American Psychological Association](https://www.apa.org/pubs/reports/practitioner/covid-19-2021), psychologists experienced a significant increase in patients managing mental health challenges. In this environment, the equation for advertising mental health services has changed as well.

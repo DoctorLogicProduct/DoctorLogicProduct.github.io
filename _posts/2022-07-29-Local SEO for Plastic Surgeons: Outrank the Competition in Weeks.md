@@ -1,24 +1,27 @@
 ---
 post_title: 'Local SEO for Plastic Surgeons: Outrank the Competition in Weeks'
-date: 2022-07-29 05:00:00 +0000
+date: '2022-07-29 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- SEO
-post_intro: Local SEO is a marketing strategy that focuses on attracting, converting,
-  and retaining a local audience. While traditional SEO works on bringing your website
-  to the top of the SERPs (Search Engine Result Pages), local SEO also puts your practice
-  in front of the local searchers.
-post_image: "/uploads/shutterstock_472509544.jpg"
-post_highlight: Local SEO is a marketing strategy that focuses on attracting, converting,
-  and retaining a local audience. While traditional SEO works on bringing your website
-  to the top of the SERPs (Search Engine Result Pages), local SEO also puts your practice
-  in front of the local searchers.
+  - SEO
+post_intro: >-
+  Local SEO is a marketing strategy that focuses on attracting, converting, and
+  retaining a local audience. While traditional SEO works on bringing your
+  website to the top of the SERPs (Search Engine Result Pages), local SEO also
+  puts your practice in front of the local searchers.
+post_image: /uploads/shutterstock_472509544.jpg
+post_highlight: >-
+  Local SEO is a marketing strategy that focuses on attracting, converting, and
+  retaining a local audience. While traditional SEO works on bringing your
+  website to the top of the SERPs (Search Engine Result Pages), local SEO also
+  puts your practice in front of the local searchers.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_567933949-1.jpg)
 
 According to the [American Academy of Facial Plastic and Reconstructive Surgery](https://www.aafprs.org/Media/Press_Releases/2021%20Survey%20Results.aspx), in 2021, the number of performed plastic surgeries increased by 40%. In 2022, the numbers continue to rise.

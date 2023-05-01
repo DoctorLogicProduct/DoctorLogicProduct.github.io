@@ -1,22 +1,25 @@
 ---
 post_title: 'Healthcare Digital Marketing Metrics: What to Know Before You Measure'
-date: 2019-03-20T05:00:00.000+00:00
+date: 2019-03-20T05:00:00.000Z
 post_author: Keisha Dunstan
 tags:
-- Healthcare-Marketing
-- Strategy
-post_intro: When it comes to marketing your business, how do you know what’s effective
-  and what isn’t?
-post_image: "/uploads/DigitalMarketing2.jpg"
-post_highlight: If you’re new to digital marketing, knowing if your efforts are worthwhile
-  can be a mystery if you don’t know what marketing metrics you should be measuring.
+  - Healthcare-Marketing
+  - Strategy
+post_intro: >-
+  When it comes to marketing your business, how do you know what’s effective and
+  what isn’t?
+post_image: /uploads/DigitalMarketing2.jpg
+post_highlight: >-
+  If you’re new to digital marketing, knowing if your efforts are worthwhile can
+  be a mystery if you don’t know what marketing metrics you should be measuring.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-- growth accelerators
-
+  - lead generator
+  - growth accelerators
+_template: post_template
 ---
+
 When it comes to marketing your business, how do you know what’s effective and what isn’t?
 
 If you’re new to digital marketing, knowing if your efforts are worthwhile can be a mystery if you don’t know what marketing metrics you should be measuring. These metrics are important because they help demonstrate ROI, and proving there’s a return on your marketing strategy is important if you want to keep your marketing budget.

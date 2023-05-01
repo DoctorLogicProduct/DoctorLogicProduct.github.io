@@ -1,28 +1,33 @@
 ---
 post_title: 'HIPAA and Healthcare Marketing: How to Avoid Massive Fines'
-date: 2022-07-12T05:00:00.000+00:00
+date: 2022-07-12T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
-- strategy
-post_intro: The United States Department of Health and Human Services (HHS) has diligently
-  fined healthcare companies in violation of HIPAA in any way. One example of this
-  is a dental practice in North Carolina that the HHS found had disclosed a patient's
-  protected health information (PHI) online when responding to a negative review.
-  Because of this violation, the Office for Civil Rights (OCR) imposed a penalty of
-  $50,000, which is the fine for particularly serious violations.
-post_image: "/uploads/shutterstock_446120398.jpg"
-post_highlight: The United States Department of Health and Human Services (HHS) has
-  diligently fined healthcare companies in violation of HIPAA in any way. One example
-  of this is a dental practice in North Carolina that the HHS found had disclosed
-  a patient's protected health information (PHI) online when responding to a negative
-  review. Because of this violation, the Office for Civil Rights (OCR) imposed a penalty
-  of $50,000, which is the fine for particularly serious violations.
+  - strategy
+post_intro: >-
+  The United States Department of Health and Human Services (HHS) has diligently
+  fined healthcare companies in violation of HIPAA in any way. One example of
+  this is a dental practice in North Carolina that the HHS found had disclosed a
+  patient's protected health information (PHI) online when responding to a
+  negative review. Because of this violation, the Office for Civil Rights (OCR)
+  imposed a penalty of $50,000, which is the fine for particularly serious
+  violations.
+post_image: /uploads/shutterstock_446120398.jpg
+post_highlight: >-
+  The United States Department of Health and Human Services (HHS) has diligently
+  fined healthcare companies in violation of HIPAA in any way. One example of
+  this is a dental practice in North Carolina that the HHS found had disclosed a
+  patient's protected health information (PHI) online when responding to a
+  negative review. Because of this violation, the Office for Civil Rights (OCR)
+  imposed a penalty of $50,000, which is the fine for particularly serious
+  violations.
 post_type:
-- blog
+  - blog
 product:
-- website management
-
+  - website management
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_334486298.jpg)
 
 The United States Department of Health and Human Services (HHS) has diligently fined healthcare companies in violation of HIPAA in any way. One example of this is [a dental practice in North Carolina](https://www.hhs.gov/hipaa/for-professionals/compliance-enforcement/agreements/upi/index.html) that the HHS found had disclosed a patient's protected health information (PHI) online when responding to a negative review. Because of this violation, the Office for Civil Rights (OCR) imposed a penalty of $50,000, which is [the fine for particularly serious violations](https://www.hipaajournal.com/what-are-the-penalties-for-hipaa-violations-7096/).

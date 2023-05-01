@@ -1,22 +1,24 @@
 ---
 post_title: How To Build a Profitable Practice
-date: 2019-10-24 15:00:00 +0000
+date: '2019-10-24 15:00:00 +0000'
 post_author: Janelle Amos
 tags:
-- Strategy
-post_intro: Driving traffic to your practice website is essential. But not all visitors
-  prove profitable. 80% of your revenue comes from only 20% of your patients. The
-  key to building a profitable practice begins with identifying and resembling high-value
-  patients, like those similar to your 20%. Here are 5 tips to identifying profitable
-  visitors.
-post_image: "/uploads/terms-hero.jpg"
+  - Strategy
+post_intro: >-
+  Driving traffic to your practice website is essential. But not all visitors
+  prove profitable. 80% of your revenue comes from only 20% of your patients.
+  The key to building a profitable practice begins with identifying and
+  resembling high-value patients, like those similar to your 20%. Here are 5
+  tips to identifying profitable visitors.
+post_image: /uploads/terms-hero.jpg
 post_highlight: Here are 5 tips to identifying profitable visitors.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-
+  - success insights
+_template: post_template
 ---
+
 Driving traffic to your practice website is essential. But not all visitors prove profitable. 80% of your revenue comes from only 20% of your patients. The key to building a profitable practice begins with identifying and resembling high-value patients, like those similar to your 20%.
 
 **![](/uploads/cosmetic-3up-2.png)**

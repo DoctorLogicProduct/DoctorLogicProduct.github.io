@@ -1,20 +1,22 @@
 ---
 post_title: 'New DoctorLogic Website Feature: Review Pinning'
-date: 2020-10-28T14:00:00.000+00:00
+date: 2020-10-28T14:00:00.000Z
 post_author: Josh Feinberg
 tags: []
-post_intro: 'DoctorLogic sites can now pin reviews of their choice to display first
-  on their site. '
-post_image: "/uploads/product-update-image-3.jpg"
+post_intro: >-
+  DoctorLogic sites can now pin reviews of their choice to display first on
+  their site. 
+post_image: /uploads/product-update-image-3.jpg
 post_highlight: ''
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-- website management
+  - social reputation
+  - website management
 title: Review Pinning
-
+_template: post_template
 ---
+
 You asked, and we delivered! We have received a lot of feedback from practices asking for an easier way to control the display of reviews on their website. Today we are excited to introduce **Review Pinning.**
 
 Now with a single click, you can select reviews to be automatically featured at the top of your reviews page, giving you more control over what patients see first when visiting your website.

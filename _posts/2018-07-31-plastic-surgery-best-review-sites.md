@@ -1,23 +1,25 @@
 ---
 post_title: Best Review Sites for Plastic Surgeons
-date: 2018-07-31T05:00:00.000+00:00
+date: 2018-07-31T05:00:00.000Z
 post_author: 'Chris Desrochers '
 tags:
-- Reputation-Management
-- Healthcare-Marketing
-post_intro: "For a plastic surgeon, a perfect day at the practice would generally
-  comprise of performing surgical procedures to help their patients look and feel
-  better.\n\n"
-post_image: "/uploads/BestReviewsThumb.jpg"
-post_highlight: For a plastic surgeon, a perfect day at the practice would generally
-  comprise of performing surgical procedures to help their patients look and feel
-  better.
-post_type:
-- blog
-product:
-- social reputation
+  - Reputation-Management
+  - Healthcare-Marketing
+post_intro: >+
+  For a plastic surgeon, a perfect day at the practice would generally comprise
+  of performing surgical procedures to help their patients look and feel better.
 
+post_image: /uploads/BestReviewsThumb.jpg
+post_highlight: >-
+  For a plastic surgeon, a perfect day at the practice would generally comprise
+  of performing surgical procedures to help their patients look and feel better.
+post_type:
+  - blog
+product:
+  - social reputation
+_template: post_template
 ---
+
 However, recent studies have shown that patient satisfaction at a practice is not just limited to a surgeon’s expertise, but also subtle factors such as the ambiance, waiting time, and staff behavior.
 
 The best way for plastic surgeons to get overall [feedback of their overall service](https://doctorlogic.com/features/reviews/) is to register at popular review websites and gather critical patient feedback that can help make further improvements at their practice.

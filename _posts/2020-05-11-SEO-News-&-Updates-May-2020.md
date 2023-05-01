@@ -1,25 +1,29 @@
 ---
 post_title: SEO News & Updates - May 2020
-date: 2020-05-12T22:00:00.000+00:00
+date: 2020-05-12T22:00:00.000Z
 post_author: Ryan Metcalf
 tags:
-- SEO
-- News
-post_intro: In this inaugural edition of SEO News from DoctorLogic, our in-house SEO
-  expert, Ryan Metcalf, breaks down the biggest trends and Google updates in 2020
-  so far. SEO News is planned to be a monthly distribution that we hope will give
-  you further insight into the world of SEO, as well as provide a behind-the-scenes
-  look at the information DoctorLogic uses to make innovative platform upgrades.
-post_image: "/uploads/SEOUpdatesBlog.jpg"
-post_highlight: In this inaugural edition of SEO News from DoctorLogic, our in-house
-  SEO expert, Ryan Metcalf, breaks down the biggest trends and Google updates in 2020
-  so far.
+  - SEO
+  - News
+post_intro: >-
+  In this inaugural edition of SEO News from DoctorLogic, our in-house SEO
+  expert, Ryan Metcalf, breaks down the biggest trends and Google updates in
+  2020 so far. SEO News is planned to be a monthly distribution that we hope
+  will give you further insight into the world of SEO, as well as provide a
+  behind-the-scenes look at the information DoctorLogic uses to make innovative
+  platform upgrades.
+post_image: /uploads/SEOUpdatesBlog.jpg
+post_highlight: >-
+  In this inaugural edition of SEO News from DoctorLogic, our in-house SEO
+  expert, Ryan Metcalf, breaks down the biggest trends and Google updates in
+  2020 so far.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 ### **Introduction of SEO News**
 
 In this inaugural edition of SEO News from DoctorLogic, our in-house SEO expert, Ryan Metcalf, breaks down the biggest trends and Google updates in 2020 so far. SEO News is planned to be a monthly distribution that we hope will give you further insight into the world of SEO, as well as provide a behind-the-scenes look at the information DoctorLogic uses to make innovative platform upgrades.

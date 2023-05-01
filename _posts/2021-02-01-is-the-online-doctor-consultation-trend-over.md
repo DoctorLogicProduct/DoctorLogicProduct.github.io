@@ -1,25 +1,28 @@
 ---
 post_title: Is the Online Doctor Consultation Trend Over?
-date: 2021-02-01T16:00:00.000+00:00
+date: 2021-02-01T16:00:00.000Z
 post_author: Ryan Metcalf
 tags:
-- Healthcare-Marketing
-- Strategy
-- SEO
-post_intro: This post covers the overall search trends as well as industry updates
-  which relate to the topic of "Online Doctor Consultations" and similar searches.
-post_image: "/uploads/is-the-onlien-doctor-consultation-trend-over.png"
-post_highlight: This post covers the overall search trends as well as industry updates
-  which relate to the topic of "Online Doctor Consultations" and similar searches..
+  - Healthcare-Marketing
+  - Strategy
+  - SEO
+post_intro: >-
+  This post covers the overall search trends as well as industry updates which
+  relate to the topic of "Online Doctor Consultations" and similar searches.
+post_image: /uploads/is-the-onlien-doctor-consultation-trend-over.png
+post_highlight: >-
+  This post covers the overall search trends as well as industry updates which
+  relate to the topic of "Online Doctor Consultations" and similar searches..
 post_type:
-- blog
+  - blog
 product:
-- website management
-- lead generator
-- search amplifier
+  - website management
+  - lead generator
+  - search amplifier
 title: 2021-02-01-is-the-online-doctor-consultation-trend-over?
-
+_template: post_template
 ---
+
 Now that 2020 is behind us, it’s time to review the biggest change in the elective healthcare space. This is more specifically related to online healthcare and virtual consultations, which is a direct result of the Coronavirus pandemic. This post covers the overall search trends as well as industry updates which relate to the topic.
 
 **Search Trends**

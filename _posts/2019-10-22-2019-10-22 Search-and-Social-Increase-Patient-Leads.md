@@ -1,24 +1,27 @@
 ---
 post_title: Use Search and Social to Increase Patient Leads
-date: 2019-10-22T15:00:00.000+00:00
+date: 2019-10-22T15:00:00.000Z
 post_author: Keisha Dunstan
 tags:
-- Strategy
-post_intro: Not only can social reach prospective patients on a human level, but it
-  can also reach the search gods on a search engine optimization (SEO) level. That’s
-  because it’s been found that there’s a strong correlation between social activity
-  and rankings.
-post_image: "/uploads/iStock-924512692.jpg"
-post_highlight: Not only can social reach prospective patients on a human level, but
-  it can also reach the search gods on a search engine optimization (SEO) level. That’s
-  because it’s been found that there’s a strong correlation between social activity
-  and rankings.
+  - Strategy
+post_intro: >-
+  Not only can social reach prospective patients on a human level, but it can
+  also reach the search gods on a search engine optimization (SEO) level. That’s
+  because it’s been found that there’s a strong correlation between social
+  activity and rankings.
+post_image: /uploads/iStock-924512692.jpg
+post_highlight: >-
+  Not only can social reach prospective patients on a human level, but it can
+  also reach the search gods on a search engine optimization (SEO) level. That’s
+  because it’s been found that there’s a strong correlation between social
+  activity and rankings.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 Looking to increase patient leads that your website brings in?
 
 As we’ve mentioned on the blog, a practice’s website is where a lot of new business comes from these days, which is why having a user- and search-friendly website and a [good online reputation](https://doctorlogic.com/content/galleries/reputation-management-for-doctors-in-a-digital-world.html) are so important.

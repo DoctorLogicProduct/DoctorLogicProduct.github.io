@@ -1,23 +1,26 @@
 ---
 post_title: DoctorLogic Raises Funds for “Give Back a Smile”
-date: 2018-07-11T05:00:00.000+00:00
+date: 2018-07-11T05:00:00.000Z
 post_author: Kip Young
 tags: []
-post_intro: 'Each year, over five million individuals suffer domestic abuse and violence
-  in the U.S. and Canada. Considerable efforts and initiatives focus on increasing
-  awareness of this serious issue. However, there is little publicity when it comes
-  to the dental problems many victims might face. '
-post_image: "/uploads/GiveBackThumb.jpg"
-post_highlight: Each year, over five million individuals suffer domestic abuse and
-  violence in the U.S. and Canada. Considerable efforts and initiatives focus on increasing
-  awareness of this serious issue. However, there is little publicity when it comes
-  to the dental problems many victims might face.
+post_intro: >-
+  Each year, over five million individuals suffer domestic abuse and violence in
+  the U.S. and Canada. Considerable efforts and initiatives focus on increasing
+  awareness of this serious issue. However, there is little publicity when it
+  comes to the dental problems many victims might face. 
+post_image: /uploads/GiveBackThumb.jpg
+post_highlight: >-
+  Each year, over five million individuals suffer domestic abuse and violence in
+  the U.S. and Canada. Considerable efforts and initiatives focus on increasing
+  awareness of this serious issue. However, there is little publicity when it
+  comes to the dental problems many victims might face.
 post_type:
-- press-release
+  - press-release
 product:
-- website management
-
+  - website management
+_template: post_template
 ---
+
 When somebody is a victim of domestic abuse and violence, they often feel weak and powerless. A majority of victims have no place to go. Eventually, they manage to escape their cycle of abuse. However, they lose their financial resources and often their confidence as well in the process. This can make it even harder and more challenging for them to get back on their feet. Give Back a Smile strives to change that.
 
 Victims of domestic violence may experience trauma to their jaw, including chipped, broken, and knocked-out teeth. Give Back a Smile is a national charity formed by the American Academy of Cosmetic Dentistry (AACD). The charity helps people who have experienced the traumatizing and devastating effects of domestic abuse. They offer them the unique opportunity to restore their smile after enduring severe dental injuries. There is an immense need for programs such as Give Back a Smile. The dentists and members are giving back by helping to restore the smiles and lives of domestic abuse survivors.

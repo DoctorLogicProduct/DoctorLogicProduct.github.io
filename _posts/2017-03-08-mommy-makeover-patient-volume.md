@@ -1,22 +1,26 @@
 ---
 post_title: 3 Ways to Increase Your Mommy Makeover Patient Volume
-date: 2017-03-08T06:00:00.000+00:00
+date: 2017-03-08T06:00:00.000Z
 post_author: John Vakidis
 tags: []
-post_intro: Plastic surgery is one of the most competitive verticals there is in all
-  of healthcare. Doctors spend thousands of dollars each month on marketing and advertising
-  to help create brand awareness and to attempt to attract more patients online.
-post_image: "/uploads/MommyMakeoverThumb.jpg"
-post_highlight: Plastic surgery is one of the most competitive verticals there is
-  in all of healthcare. Doctors spend thousands of dollars each month on marketing
-  and advertising to help create brand awareness and to attempt to attract more patients
-  online.
+post_intro: >-
+  Plastic surgery is one of the most competitive verticals there is in all of
+  healthcare. Doctors spend thousands of dollars each month on marketing and
+  advertising to help create brand awareness and to attempt to attract more
+  patients online.
+post_image: /uploads/MommyMakeoverThumb.jpg
+post_highlight: >-
+  Plastic surgery is one of the most competitive verticals there is in all of
+  healthcare. Doctors spend thousands of dollars each month on marketing and
+  advertising to help create brand awareness and to attempt to attract more
+  patients online.
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-
+  - content multiplier
+_template: post_template
 ---
+
 A recent article on Harpers Bazaar’s website titled, ‘The New Mommy Makeover’ has been getting a ton of buzz since it was published late December 2016.
 
 Many plastic surgeons have been sharing the post on social media (LinkedIn, Twitter, Facebook, etc.). The problem, however, is that sharing the article isn’t the best way to attract new patients online, so I’m going to provide a few key tips plastic surgeons should do if they want to attract more patients actively searching for the Mommy Makeover procedure.

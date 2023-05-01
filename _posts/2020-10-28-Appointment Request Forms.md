@@ -1,19 +1,20 @@
 ---
 post_title: 'New Feature: Appointment Request Forms'
-date: 2020-10-28 14:00:00 +0000
+date: '2020-10-28 14:00:00 +0000'
 post_author: Josh Feinberg
 tags:
-- Product-Updates
+  - Product-Updates
 post_intro: New Feature now available for all DoctorLogic clients.
-post_image: "/uploads/product-update-image-2.jpg"
+post_image: /uploads/product-update-image-2.jpg
 post_highlight: ''
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-- website management
-
+  - lead generator
+  - website management
+_template: post_template
 ---
+
 Your website is the most effective destination for converting leads into new patients. In the past you’ve been able to capture new leads looking to schedule appointments with your practice but typically this was handled using a customized version of a general “Contact Us” form.
 
 With our new dedicated **Appointment Request forms** you’ll get a beautifully styled, mobile-friendly form designed specifically for collecting all the information needed to make setting up an appointment as simple as possible.

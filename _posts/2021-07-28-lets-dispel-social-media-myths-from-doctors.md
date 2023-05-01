@@ -1,24 +1,27 @@
 ---
 post_title: Let’s Dispel Some Social Media Marketing Myths for Doctors
-date: 2021-07-28T13:00:00.000+00:00
+date: 2021-07-28T13:00:00.000Z
 post_author: Christopher Ellis
 tags:
-- Website
-- Healthcare-Marketing
-- Reputation-Management
-- SEO
-post_intro: If the importance of social media is widely known, why do so many doctors
+  - Website
+  - Healthcare-Marketing
+  - Reputation-Management
+  - SEO
+post_intro: >-
+  If the importance of social media is widely known, why do so many doctors
   underutilize the channel?
-post_image: "/uploads/blog-let-s-dispel-social-media-myths-from-doctors.png"
-post_highlight: If the importance of social media is widely known, why do so many
-  doctors underutilize the channel?
+post_image: /uploads/blog-let-s-dispel-social-media-myths-from-doctors.png
+post_highlight: >-
+  If the importance of social media is widely known, why do so many doctors
+  underutilize the channel?
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
+  - growth accelerators
 title: 2021-07-28-lets-dispel-social-media-myths-from-doctors
-
+_template: post_template
 ---
+
 Did you know that as many as 80% of social media users reference social media to research doctors, hospitals, and medical news? With Facebook boasting over one billion users and the average American spending [more and more time on their phones](https://www.forbes.com/sites/petersuciu/2021/06/24/americans-spent-more-than-1300-hours-on-social-media/?sh=4577948d2547), it’s no wonder that social media is an incredibly effective way to grow your practice’s reach. With that being said, there is still plenty of misinformation we hear regularly, so let’s use this opportunity to dispel some of these ‘social media myths’ that are regularly heard from doctors.
 
 **“I don’t even have a personal social media account so I don’t see the point”**  

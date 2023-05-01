@@ -1,24 +1,27 @@
 ---
 post_title: Why Ophthalmologists Need a Google Business Profile
-date: 2022-06-15T05:00:00.000+00:00
+date: 2022-06-15T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
-- Strategy
-post_intro: 'Formerly known as Google My Business, Google Business Profiles (GBPs)
-  are a great business listing tool that helps connect businesses and consumers. These
-  business listings allow you to provide prospects with the basic information they
-  would need to know when searching for an ophthalmology practice, such as:'
-post_image: "/uploads/shutterstock_2090930200.jpg"
-post_highlight: 'Formerly known as Google My Business, Google Business Profiles (GBPs)
-  are a great business listing tool that helps connect businesses and consumers. These
-  business listings allow you to provide prospects with the basic information they
-  would need to know when searching for an ophthalmology practice, such as:'
+  - Strategy
+post_intro: >-
+  Formerly known as Google My Business, Google Business Profiles (GBPs) are a
+  great business listing tool that helps connect businesses and consumers. These
+  business listings allow you to provide prospects with the basic information
+  they would need to know when searching for an ophthalmology practice, such as:
+post_image: /uploads/shutterstock_2090930200.jpg
+post_highlight: >-
+  Formerly known as Google My Business, Google Business Profiles (GBPs) are a
+  great business listing tool that helps connect businesses and consumers. These
+  business listings allow you to provide prospects with the basic information
+  they would need to know when searching for an ophthalmology practice, such as:
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_426289192.jpg)
 
 When you're running a business whose patients come primarily from your surrounding area, such as an ophthalmology practice, you need a Google Business Profile (GBP). In fact, a recent [Google My Business Insights study](https://www.brightlocal.com/research/google-my-business-insights-study/) found that prospects take an average of 59 actions per month on a company's GBP, including making phone calls and booking appointments.

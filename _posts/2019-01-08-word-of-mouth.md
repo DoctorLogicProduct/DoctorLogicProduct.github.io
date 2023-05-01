@@ -1,23 +1,26 @@
 ---
 post_title: Why Word of Mouth Isn't Enough to Grow Your Practice
-date: 2019-01-08T06:00:00.000+00:00
+date: 2019-01-08T06:00:00.000Z
 post_author: Andre Riley
 tags: []
-post_intro: By now you’ve probably heard—and experienced firsthand—how word of mouth
-  can benefit your business. After all, Nielsen found 92% of consumers believe recommendations
-  from friends and family over all forms of advertising.
-post_image: "/uploads/GrowPracticeThumb.jpg"
-post_highlight: By now you’ve probably heard—and experienced firsthand—how word of
-  mouth can benefit your business. After all, Nielsen found 92% of consumers believe
+post_intro: >-
+  By now you’ve probably heard—and experienced firsthand—how word of mouth can
+  benefit your business. After all, Nielsen found 92% of consumers believe
+  recommendations from friends and family over all forms of advertising.
+post_image: /uploads/GrowPracticeThumb.jpg
+post_highlight: >-
+  By now you’ve probably heard—and experienced firsthand—how word of mouth can
+  benefit your business. After all, Nielsen found 92% of consumers believe
   recommendations from friends and family over all forms of advertising.
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-- growth accelerators
-- website management
-
+  - social reputation
+  - growth accelerators
+  - website management
+_template: post_template
 ---
+
 But although referrals can be a boon to your practice, it isn’t enough to keep it growing.
 
 Why is that?

@@ -1,23 +1,26 @@
 ---
 post_title: 5 Easy Steps To Gallery Success
-date: 2016-10-04T05:00:00.000+00:00
+date: 2016-10-04T05:00:00.000Z
 post_author: Justin Haber
 tags: []
-post_intro: Through my tenure as the Director of Implementation for DoctorLogic, I
-  have had the distinct pleasure of working with our clients, helping them to understand
-  how easy it is to showcase their work through their online before and after photo
-  galleries.
-post_image: "/uploads/5GalleryStepsThumb.jpg"
-post_highlight: Through my tenure as the Director of Implementation for DoctorLogic,
-  I have had the distinct pleasure of working with our clients, helping them to understand
-  how easy it is to showcase their work through their online before and after photo
-  galleries.
+post_intro: >-
+  Through my tenure as the Director of Implementation for DoctorLogic, I have
+  had the distinct pleasure of working with our clients, helping them to
+  understand how easy it is to showcase their work through their online before
+  and after photo galleries.
+post_image: /uploads/5GalleryStepsThumb.jpg
+post_highlight: >-
+  Through my tenure as the Director of Implementation for DoctorLogic, I have
+  had the distinct pleasure of working with our clients, helping them to
+  understand how easy it is to showcase their work through their online before
+  and after photo galleries.
 post_type:
-- blog
+  - blog
 product:
-- content multiplier
-
+  - content multiplier
+_template: post_template
 ---
+
 With each new customer, I often hear the same story, one that is lined with some frustration, trepidation, and just not knowing where to begin:
 
 * “I have so many great photos, but just don’t know how to get them on my website.”

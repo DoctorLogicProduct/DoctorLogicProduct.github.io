@@ -1,20 +1,21 @@
 ---
 post_title: Five Ways Healthcare Marketing Will Look Different In 2021
-date: 2021-01-13T14:00:00.000+00:00
+date: 2021-01-13T14:00:00.000Z
 post_author: Amber Maceyra
 tags: []
 post_intro: Let's make 2021 your most successful year yet!
-post_image: "/uploads/3.png"
+post_image: /uploads/3.png
 post_highlight: Let's make 2021 your most successful year yet!
 post_type:
-- blog
+  - blog
 product:
-- website management
-- lead generator
-- search amplifier
+  - website management
+  - lead generator
+  - search amplifier
 title: Five Ways Healthcare Marketing Will Look Different In 2021
-
+_template: post_template
 ---
+
 2020 brought about a vast number of incredible changes to daily life for all Americans. For the first time in many individuals’ lives, it became necessary to reevaluate their health and safety and reassess the way in which daily tasks were carried out. For healthcare professionals, the pre-pandemic business model no longer made sense for attracting potential new patients. With these changes and new “normal” following us into 2021, our New Year’s resolutions and preparations may look different this year. Let’s explore five ways healthcare marketing will look different in 2021 and what DoctorLogic can do to help you stand out from your competition.
 
 1. Telehealth is a must. While patients are taking precautions against exposing themselves and others to COVID-19, telehealth has never been more popular or important. When a potential patient is in search of care and in need of a provider, the ability to be seen in the comfort of their home just might be a game-changer. During the first quarter of 2020, the [CDC reported](https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a3.htm#:\~:text=During%20the%20first%20quarter%20of,the%20same%20period%20in%202019.) that the number of telehealth visits increased by 50%, compared with the same period in 2019, with a 154% increase in visits noted in surveillance week 13 in 2020, compared with the same period in 2019. As you can note from the Google Trends graph below, searches for “telehealth” reached an all-time high in March 2020, and though they have significantly declined since then, we are still observing search volume trends at more than double the pace we saw in 2019, suggesting that the demand for telehealth visits will likely continue through 2021.

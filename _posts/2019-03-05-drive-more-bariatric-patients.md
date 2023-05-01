@@ -1,21 +1,24 @@
 ---
 post_title: 6 Ideas to Drive More Patients for Bariatric Surgeons
-date: 2019-03-05T06:00:00.000+00:00
+date: 2019-03-05T06:00:00.000Z
 post_author: 'Keisha Dunstan '
 tags: []
-post_intro: 'Only 1% of eligible patients choose Bariatric Surgery as an option. Although
-  it’s the #1 solution for long term, weight loss with proven results, it’s the most
-  underutilized method for weight loss.'
-post_image: "/uploads/BariatricThumb.jpg"
-post_highlight: 'Only 1% of eligible patients choose Bariatric Surgery as an option.
-  Although it’s the #1 solution for long term, weight loss with proven results, it’s
-  the most underutilized method for weight loss.'
+post_intro: >-
+  Only 1% of eligible patients choose Bariatric Surgery as an option. Although
+  it’s the #1 solution for long term, weight loss with proven results, it’s the
+  most underutilized method for weight loss.
+post_image: /uploads/BariatricThumb.jpg
+post_highlight: >-
+  Only 1% of eligible patients choose Bariatric Surgery as an option. Although
+  it’s the #1 solution for long term, weight loss with proven results, it’s the
+  most underutilized method for weight loss.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-
+  - success insights
+_template: post_template
 ---
+
 Only 1% of [eligible patients](https://www.bariatricsurgerynewjersey.com/why-only-1-percent-patients-choose-bariatric-surgery/) choose Bariatric Surgery as an option. Although it’s the #1 solution for long term, weight loss with proven results, it’s the most underutilized method for weight loss. Why is this? Of course, there are legitimate reasons why someone may not move forward with the surgery. And one of those is the emotional commitment. Potential patients are nervous about having this type of surgery. They believe the surgery is more dangerous than obesity itself.
 
 Personally, when I’m nervous about something I have a tendency to research to ease my nervousness. I’m not an anomaly. Today’s consumer is digital savvy and turn to Google to find everything. Potential patients are not ignoring Google when it comes to important searches and this includes weight loss surgery. And if you’re Bariatric practice is not sitting at the **top** of Google’s search ranking, then it’s **buried** under a list of other Bariatric providers and needless to say, _that’s not good_.

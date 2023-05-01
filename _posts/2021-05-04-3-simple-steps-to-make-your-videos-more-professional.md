@@ -1,22 +1,24 @@
 ---
 post_title: 3 Simple Steps to Make Your Videos More Professional
-date: 2021-05-04 13:00:00 +0000
+date: '2021-05-04 13:00:00 +0000'
 post_author: Christopher Ellis
 tags:
-- Website
-- Healthcare-Marketing
+  - Website
+  - Healthcare-Marketing
 post_intro: Record eye-catching videos in your practice with these simple steps.
-post_image: "/uploads/how-to-make-your-videos-look-more-professional.png"
-post_highlight: 'Though expensive cameras, premium lighting, and green screen backdrops
-  are commonly used to create high-end videos, this post will give you some guidance
-  as to how to achieve professional-looking videos with minimal effort. '
+post_image: /uploads/how-to-make-your-videos-look-more-professional.png
+post_highlight: >-
+  Though expensive cameras, premium lighting, and green screen backdrops are
+  commonly used to create high-end videos, this post will give you some guidance
+  as to how to achieve professional-looking videos with minimal effort. 
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
+  - growth accelerators
 title: 2021-05-04-How-to-make-your-videos-look-more-professionals
-
+_template: post_template
 ---
+
 Has your practice embraced videos as part of its social media strategy? If not, you should as there are many good reasons to implement [video marketing for your healthcare practice](https://doctorlogic.com/blog/video-marketing-for-healthcare-practices.html).
 
 Did you know that a staggering amount of videos on Facebook and Instagram are watched on mute? This is often because videos start out muted until users click on them to hear the sound, so your video’s first impression is 100% visual. Use this to your advantage by creating videos (and images) that look great from the get-go, so you dramatically increase the chance that patients will pay attention. Though expensive cameras, premium lighting, and green screen backdrops are commonly used to create high-end videos, this post will give you some guidance as to how to achieve professional-looking videos with minimal cost and effort.

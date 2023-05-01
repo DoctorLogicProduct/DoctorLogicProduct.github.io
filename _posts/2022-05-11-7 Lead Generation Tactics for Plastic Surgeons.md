@@ -1,23 +1,26 @@
 ---
 post_title: 7 Lead Generation Tactics for Plastic Surgeons
-date: 2022-05-11T05:00:00.000+00:00
+date: 2022-05-11T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags: []
-post_intro: Regardless of how successful your practice is, attracting new patients
-  is always a challenge. Even though the COVID-19 pandemic increased the number of
-  people who want plastic surgery, bringing them to your clinic still requires a comprehensive
-  approach to digital marketing and lead generation.
-post_image: "/uploads/shutterstock_1189798558.jpg"
-post_highlight: Regardless of how successful your practice is, attracting new patients
-  is always a challenge. Even though the COVID-19 pandemic increased the number of
-  people who want plastic surgery, bringing them to your clinic still requires a comprehensive
-  approach to digital marketing and lead generation.
+post_intro: >-
+  Regardless of how successful your practice is, attracting new patients is
+  always a challenge. Even though the COVID-19 pandemic increased the number of
+  people who want plastic surgery, bringing them to your clinic still requires a
+  comprehensive approach to digital marketing and lead generation.
+post_image: /uploads/shutterstock_1189798558.jpg
+post_highlight: >-
+  Regardless of how successful your practice is, attracting new patients is
+  always a challenge. Even though the COVID-19 pandemic increased the number of
+  people who want plastic surgery, bringing them to your clinic still requires a
+  comprehensive approach to digital marketing and lead generation.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-
+  - lead generator
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1189790740.jpg)
 
 Regardless of how successful your practice is, attracting new patients is always a challenge. Even though the COVID-19 pandemic [increased the number of people who want plastic surgery](https://pubmed.ncbi.nlm.nih.gov/34703718/), bringing them to your clinic still requires a comprehensive approach to digital marketing and lead generation.

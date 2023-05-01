@@ -1,21 +1,24 @@
 ---
 post_title: 9 LASIK Patient Retention Strategies
-date: 2022-06-01T05:00:00.000+00:00
+date: 2022-06-01T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags: []
-post_intro: On a patient-to-patient level, your LASIK eye surgery center provides
-  excellent service. You know your patients, their goals and treatment plans, and
-  how to ensure they each have the right post-surgery experience.
-post_image: "/uploads/shutterstock_1175895895.jpg"
-post_highlight: On a patient-to-patient level, your LASIK eye surgery center provides
-  excellent service. You know your patients, their goals and treatment plans, and
-  how to ensure they each have the right post-surgery experience.
+post_intro: >-
+  On a patient-to-patient level, your LASIK eye surgery center provides
+  excellent service. You know your patients, their goals and treatment plans,
+  and how to ensure they each have the right post-surgery experience.
+post_image: /uploads/shutterstock_1175895895.jpg
+post_highlight: >-
+  On a patient-to-patient level, your LASIK eye surgery center provides
+  excellent service. You know your patients, their goals and treatment plans,
+  and how to ensure they each have the right post-surgery experience.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-
+  - lead generator
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_421203052.jpg)
 
 On a patient-to-patient level, your LASIK eye surgery center provides excellent service. You know your patients, their goals and treatment plans, and how to ensure they each have the right post-surgery experience.

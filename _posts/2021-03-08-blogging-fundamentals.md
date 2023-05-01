@@ -1,24 +1,27 @@
 ---
 post_title: Blogging Fundamentals
-date: 2021-03-08 14:00:00 +0000
+date: '2021-03-08 14:00:00 +0000'
 post_author: Christopher Ellis
 tags:
-- SEO
-- Content-Marketing
-post_intro: In this post, you’ll learn why you should blog, and some simple steps
-  you can take to help get the ‘blogging ball’ rolling.
-post_image: "/uploads/blog.png"
-post_highlight: In this post you’ll learn why you should blog, and some simple steps
-  you can take to help get the ‘blogging ball’ rolling.
+  - SEO
+  - Content-Marketing
+post_intro: >-
+  In this post, you’ll learn why you should blog, and some simple steps you can
+  take to help get the ‘blogging ball’ rolling.
+post_image: /uploads/blog.png
+post_highlight: >-
+  In this post you’ll learn why you should blog, and some simple steps you can
+  take to help get the ‘blogging ball’ rolling.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-- growth accelerators
-- content multiplier
+  - lead generator
+  - growth accelerators
+  - content multiplier
 title: 2021-03-08-Blogging-Fundamentals
-
+_template: post_template
 ---
+
 If you’ve heard it once, you’ve heard it a hundred times; blogging is important. While this is definitely not new thinking, there are still countless practices that have yet to utilize all the great advantages that a good blog has to offer. This begs the question, why _is_ blogging so important and what steps can you take to ensure you get the most value out of your practice’s blog? In this post, you’ll not only learn why you should blog, but we’ll also give you some simple steps you can take to help get the ‘blogging ball’ rolling.
 
 **Why is blogging important?**

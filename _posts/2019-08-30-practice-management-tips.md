@@ -1,22 +1,25 @@
 ---
 post_title: Practice Management Tips - An Interview with Andre Riley
-date: 2016-08-30T05:00:00.000+00:00
+date: 2016-08-30T05:00:00.000Z
 post_author: Andre Riley
 tags:
-- Strategy
-post_intro: The following content is an interview conducted with DoctorLogic’s VP
-  of Sales & Marketing, Andre Riley. This content was used in an article published
-  in The Aesthetic Guide Magazine. See the full article here.
-post_image: "/uploads/TheAestheticGuide0516Thumb.png"
-post_highlight: The following content is an interview conducted with DoctorLogic’s
-  VP of Sales & Marketing, Andre Riley. This content was used in an article published
-  in The Aesthetic Guide Magazine. See the full article here.
+  - Strategy
+post_intro: >-
+  The following content is an interview conducted with DoctorLogic’s VP of Sales
+  & Marketing, Andre Riley. This content was used in an article published in The
+  Aesthetic Guide Magazine. See the full article here.
+post_image: /uploads/TheAestheticGuide0516Thumb.png
+post_highlight: >-
+  The following content is an interview conducted with DoctorLogic’s VP of Sales
+  & Marketing, Andre Riley. This content was used in an article published in The
+  Aesthetic Guide Magazine. See the full article here.
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 **What are some of the top-level, “mega trends” in practice management / practice marketing for aesthetic practices?**
 
 Today, people are very quick to jump on the latest marketing trends, but because best practices change nearly every day, it can be overwhelming and exhausting for a business owner. Take a step back and recall that marketing only exists because of the services and products you provide - that part hasn’t changed for hundreds of years. When you put a focus on your service, everything else falls into line. Place an emphasis on your technique first, then surround yourself with friendly, intelligent people and your story becomes easy to tell.

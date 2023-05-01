@@ -1,22 +1,25 @@
 ---
 post_title: 5 Ways Digital Marketing Can Help You Attain More Patients
-date: 2023-03-22 05:00:00 +0000
+date: '2023-03-22 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- Strategy
-- Healthcare Marketing
-post_intro: Explore how a digital marketing strategy can help you attract, attain,
-  and retain more patients to grow your medical or dental practice.
-post_image: "/uploads/carlos-muza-hpjsku2uysu-unsplash-1.jpg"
-post_highlight: Explore how a digital marketing strategy can help you attract, attain,
-  and retain more patients to grow your medical or dental practice.
+  - Strategy
+  - Healthcare Marketing
+post_intro: >-
+  Explore how a digital marketing strategy can help you attract, attain, and
+  retain more patients to grow your medical or dental practice.
+post_image: /uploads/carlos-muza-hpjsku2uysu-unsplash-1.jpg
+post_highlight: >-
+  Explore how a digital marketing strategy can help you attract, attain, and
+  retain more patients to grow your medical or dental practice.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-- website management
-
+  - search amplifier
+  - website management
+_template: post_template
 ---
+
 ![](/uploads/carlos-muza-hpjsku2uysu-unsplash-1.jpg)
 
 A strong digital marketing strategy is a key component in attaining patients within the healthcare space. It helps doctors and medical providers across all specialties grow their reach, promote their practice and services, and connect with patients in ways that extend beyond the physical.

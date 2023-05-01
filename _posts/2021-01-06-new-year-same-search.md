@@ -1,20 +1,22 @@
 ---
-post_title: New Year, Same Search?
-date: 2021-01-06T16:00:00.000+00:00
+post_title: 'New Year, Same Search?'
+date: 2021-01-06T16:00:00.000Z
 post_author: Heather Kelldorf
 tags: []
 post_intro: How Seasonal Search Trends Impact Digital Marketing Campaigns.
-post_image: "/uploads/2-1.png"
-post_highlight: In our latest blog post, our Head of Paid Search dives into the value
-  in utilizing search trends in your ad campaigns.
+post_image: /uploads/2-1.png
+post_highlight: >-
+  In our latest blog post, our Head of Paid Search dives into the value in
+  utilizing search trends in your ad campaigns.
 post_type:
-- blog
+  - blog
 product:
-- website management
-- lead generator
-- search amplifier
-
+  - website management
+  - lead generator
+  - search amplifier
+_template: post_template
 ---
+
 At the start of a new year, people set resolutions to shed themselves of the bad habits from the previous year. This is why we hear a lot of people say, “New year, new me.” In January, it is common to see trending searches for people who are looking to make a change, whether it be to their lifestyle, appearance, and/or habits. Digital marketing professionals and those with a knowledge of SEO and the workings of Google will likely tell you that seasonal keywords tend to generate most of their search volume during certain targeted times of the year.
 
 **What are seasonal search trends?**

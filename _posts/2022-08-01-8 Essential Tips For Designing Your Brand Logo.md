@@ -1,22 +1,26 @@
 ---
 post_title: 8 Essential Tips For Designing Your Brand Logo
-date: 2022-08-01T05:00:00.000+00:00
+date: 2022-08-01T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags: []
-post_intro: Medical practices should have a logo that distinguishes their brand from
-  others. Your brand will help other healthcare practitioners associate with your
-  practice virtually. Thus you need to have a memorable, consistent, and clear logo.
-post_image: "/uploads/shutterstock_530963695.jpg"
-post_highlight: Medical practices should have a logo that distinguishes their brand
-  from others. Your brand will help other healthcare practitioners associate with
-  your practice virtually. Thus you need to have a memorable, consistent, and clear
-  logo.
+post_intro: >-
+  Medical practices should have a logo that distinguishes their brand from
+  others. Your brand will help other healthcare practitioners associate with
+  your practice virtually. Thus you need to have a memorable, consistent, and
+  clear logo.
+post_image: /uploads/shutterstock_530963695.jpg
+post_highlight: >-
+  Medical practices should have a logo that distinguishes their brand from
+  others. Your brand will help other healthcare practitioners associate with
+  your practice virtually. Thus you need to have a memorable, consistent, and
+  clear logo.
 post_type:
-- blog
+  - blog
 product:
-- social reputation
-
+  - social reputation
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_695759755.jpg)
 
 Medical practices should have a logo that distinguishes their brand from others. Your brand will help other healthcare practitioners associate with your practice virtually. Thus you need to have a memorable, consistent, and clear logo.

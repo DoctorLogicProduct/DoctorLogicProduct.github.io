@@ -1,23 +1,26 @@
 ---
 post_title: Three Simple Steps to Lead Management Success
-date: 2021-02-15T14:00:00.000+00:00
+date: 2021-02-15T14:00:00.000Z
 post_author: Josh Feinberg
 tags:
-- Product-Updates
-post_intro: A few tips, tricks, and best practices to help you get the most out of
-  this particularly useful Opportunities dashboard.
-post_image: "/uploads/opportunities-dashboard.png"
-post_highlight: A few tips, tricks, and best practices to help you get the most out
-  of this particularly useful Opportunities dashboard
+  - Product-Updates
+post_intro: >-
+  A few tips, tricks, and best practices to help you get the most out of this
+  particularly useful Opportunities dashboard.
+post_image: /uploads/opportunities-dashboard.png
+post_highlight: >-
+  A few tips, tricks, and best practices to help you get the most out of this
+  particularly useful Opportunities dashboard
 post_type:
-- blog
+  - blog
 product:
-- success insights
-- lead generator
-- website management
+  - success insights
+  - lead generator
+  - website management
 title: 2021-02-15-Three-Simple-Steps-to-Lead-Management-Success
-
+_template: post_template
 ---
+
 Converting website visitors into booked appointments and consultations is critical for the growth of your practice. Today we’re going to cover a few topics that will help you better manage your inbound leads, conduct timely follow-ups, and drive new conversions.
 
 **Step 1: Find your leads**

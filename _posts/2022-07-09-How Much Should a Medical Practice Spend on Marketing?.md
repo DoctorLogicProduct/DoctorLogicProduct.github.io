@@ -1,26 +1,29 @@
 ---
 post_title: How Much Should a Medical Practice Spend on Marketing?
-date: 2022-07-09 05:00:00 +0000
+date: '2022-07-09 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- strategy
-post_intro: Every business needs to spend money to make money, but it's not always
-  clear exactly how much you need to spend. If you're trying to figure out how big
-  of a budget you need for your medical practice marketing, there are some key factors
-  to consider. Your budget will depend on how you set your goals and what you want
-  to achieve.
-post_image: "/uploads/shutterstock_258754922.jpg"
-post_highlight: Every business needs to spend money to make money, but it's not always
-  clear exactly how much you need to spend. If you're trying to figure out how big
-  of a budget you need for your medical practice marketing, there are some key factors
-  to consider. Your budget will depend on how you set your goals and what you want
-  to achieve.
+  - strategy
+post_intro: >-
+  Every business needs to spend money to make money, but it's not always clear
+  exactly how much you need to spend. If you're trying to figure out how big of
+  a budget you need for your medical practice marketing, there are some key
+  factors to consider. Your budget will depend on how you set your goals and
+  what you want to achieve.
+post_image: /uploads/shutterstock_258754922.jpg
+post_highlight: >-
+  Every business needs to spend money to make money, but it's not always clear
+  exactly how much you need to spend. If you're trying to figure out how big of
+  a budget you need for your medical practice marketing, there are some key
+  factors to consider. Your budget will depend on how you set your goals and
+  what you want to achieve.
 post_type:
-- blog
+  - blog
 product:
-- growth accelerators
-
+  - growth accelerators
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_357939605.jpg)
 
 Every business needs to spend money to make money, but it's not always clear exactly how much you need to spend. If you're trying to figure out how big of a budget you need for your medical practice marketing, there are some key factors to consider. Your budget will depend on how you set your goals and what you want to achieve.

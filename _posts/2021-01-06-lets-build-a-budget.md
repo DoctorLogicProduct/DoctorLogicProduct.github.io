@@ -1,19 +1,21 @@
 ---
 post_title: Let's Build a Budget!
-date: 2021-01-06T16:00:00.000+00:00
+date: 2021-01-06T16:00:00.000Z
 post_author: Christopher Ellis
 tags: []
 post_intro: How to Prepare a Simple New Year Budget for your Practice
-post_image: "/uploads/1-1.png"
-post_highlight: In our latest blog post, our Director of Growth Marketing (and former
-  Practice Management Consultant) walks you through the process of creating a simple,
+post_image: /uploads/1-1.png
+post_highlight: >-
+  In our latest blog post, our Director of Growth Marketing (and former Practice
+  Management Consultant) walks you through the process of creating a simple,
   annual budget for your practice.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-
+  - success insights
+_template: post_template
 ---
+
 **Let's Build a Budget**
 
 While you’re ringing in the new year, I’m sure planning your budget is the last thing on your mind. However, there really is no time like the present to get your new year off on the right start with a road map for what’s to come.

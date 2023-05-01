@@ -1,24 +1,27 @@
 ---
 post_title: 9 Ways to Get More Veterinary Clients
-date: 2022-09-30 05:00:00 +0000
+date: '2022-09-30 05:00:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- Healthcare Marketing
-post_intro: In the highly competitive veterinary service world, attracting modern
-  and tech-savvy clients is challenging. Regardless of the current shortage of registered
-  veterinarians and qualified workers, many veterinary practices struggle to fill
-  their schedules with new patients.
-post_image: "/uploads/shutterstock_1921650704.jpg"
-post_highlight: In the highly competitive veterinary service world, attracting modern
-  and tech-savvy clients is challenging. Regardless of the current shortage of registered
-  veterinarians and qualified workers, many veterinary practices struggle to fill
-  their schedules with new patients.
+  - Healthcare Marketing
+post_intro: >-
+  In the highly competitive veterinary service world, attracting modern and
+  tech-savvy clients is challenging. Regardless of the current shortage of
+  registered veterinarians and qualified workers, many veterinary practices
+  struggle to fill their schedules with new patients.
+post_image: /uploads/shutterstock_1921650704.jpg
+post_highlight: >-
+  In the highly competitive veterinary service world, attracting modern and
+  tech-savvy clients is challenging. Regardless of the current shortage of
+  registered veterinarians and qualified workers, many veterinary practices
+  struggle to fill their schedules with new patients.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-
+  - lead generator
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_1929437144.jpg)
 
 In the highly competitive veterinary service world, attracting modern and tech-savvy clients is challenging. Regardless of the current shortage of registered veterinarians and qualified workers, many veterinary practices struggle to fill their schedules with new patients.

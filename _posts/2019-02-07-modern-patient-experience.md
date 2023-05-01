@@ -1,21 +1,24 @@
 ---
 post_title: It’s Time to Modernize Your Patient Experience
-date: 2019-02-07T06:00:00.000+00:00
+date: 2019-02-07T06:00:00.000Z
 post_author: Janelle Amos
 tags: []
-post_intro: Online consumerism has dramatically changed the way society works today,
-  especially in healthcare. Consumers are turning more and more to the web to find
-  and check out doctors.
-post_image: "/uploads/PatientExperienceThumb.jpg"
-post_highlight: Online consumerism has dramatically changed the way society works
-  today, especially in healthcare. Consumers are turning more and more to the web
-  to find and check out doctors.
+post_intro: >-
+  Online consumerism has dramatically changed the way society works today,
+  especially in healthcare. Consumers are turning more and more to the web to
+  find and check out doctors.
+post_image: /uploads/PatientExperienceThumb.jpg
+post_highlight: >-
+  Online consumerism has dramatically changed the way society works today,
+  especially in healthcare. Consumers are turning more and more to the web to
+  find and check out doctors.
 post_type:
-- blog
+  - blog
 product:
-- success insights
-
+  - success insights
+_template: post_template
 ---
+
 In fact, [80% of consumers](https://www.digitalcommerce360.com/2018/05/22/even-with-a-referral-80-of-patients-still-check-out-doctors-online/) used the internet to make a healthcare related search in the past year.
 
 So, let me ask you this: when was the last time you evaluated your online patient experience? If it’s been a while, you might consider raising it up on your to-do list, because:

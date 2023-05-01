@@ -1,24 +1,27 @@
 ---
 post_title: 'SEO for Pediatricians: Traditional vs. Futuristic SEO Strategies'
-date: 2022-10-11 05:01:00 +0000
+date: '2022-10-11 05:01:00 +0000'
 post_author: DoctorLogic Employee
 tags:
-- SEO
-post_intro: Pediatric clinics have an advantage over other medical practices. The
-  amount of research parents are willing to do for their children often exceeds anything
-  they are ready to do for themselves. That's why having a stellar website is important
-  to attracting, converting, and retaining patients.
-post_image: "/uploads/shutterstock_698101807.jpg"
-post_highlight: Pediatric clinics have an advantage over other medical practices.
-  The amount of research parents are willing to do for their children often exceeds
-  anything they are ready to do for themselves. That's why having a stellar website
-  is important to attracting, converting, and retaining patients.
+  - SEO
+post_intro: >-
+  Pediatric clinics have an advantage over other medical practices. The amount
+  of research parents are willing to do for their children often exceeds
+  anything they are ready to do for themselves. That's why having a stellar
+  website is important to attracting, converting, and retaining patients.
+post_image: /uploads/shutterstock_698101807.jpg
+post_highlight: >-
+  Pediatric clinics have an advantage over other medical practices. The amount
+  of research parents are willing to do for their children often exceeds
+  anything they are ready to do for themselves. That's why having a stellar
+  website is important to attracting, converting, and retaining patients.
 post_type:
-- blog
+  - blog
 product:
-- search amplifier
-
+  - search amplifier
+_template: post_template
 ---
+
 ![](/uploads/shutterstock_2000457257.jpg)
 
 Pediatric clinics have an advantage over other medical practices. The amount of research parents are willing to do for their children often exceeds anything they are ready to do for themselves. That's why having a stellar website is important to attracting, converting, and retaining patients.
