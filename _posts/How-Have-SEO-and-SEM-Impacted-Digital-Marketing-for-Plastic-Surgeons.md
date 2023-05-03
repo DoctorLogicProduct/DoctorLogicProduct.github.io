@@ -4,7 +4,7 @@ date: 2023-05-03T05:00:00.000Z
 post_author: DoctorLogic Employee
 post_image: 'https://assets.tina.io/7e8e35a1-5716-49a5-a037-cd3f7e6f62e0/seo.jpg'
 post_intro: "As customers demonstrate a preference for providers who have a strong web presence, the importance of SEM and SEO for plastic surgeons is clear.\_\n"
-post_highlight: "As customers demonstrate a preference for providers who have a strong web presence, the importance of SEM & SEO for plastic surgeons is clear.\_\n"
+post_highlight: "As customers demonstrate a preference for providers who have a strong web presence, the importance of SEM and SEO for plastic surgeons is clear.\_\n"
 post_type:
   - blog
 product:
