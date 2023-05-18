@@ -16,6 +16,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules/
+  - tina/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
