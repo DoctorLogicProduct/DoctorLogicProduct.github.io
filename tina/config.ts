@@ -106,6 +106,43 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
+        ui: {
+            filename: {
+                // don't let the user edit the filename
+                readonly: true,
+                slugify: values => {
+                    console.debug(`slugify(${JSON.stringify(values)}) =>`);
+
+                    // values is an object containing all the values from the fields
+                    const post_title: string = values.post_title || '';
+                    const date: Date = new Date(Date.parse(values.date) || Date.now());
+
+                    // prefix like `YYYY-MM-DD`
+                    const datePrefix =  `${pad(date.getFullYear(), 4)}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}`;
+
+                    const slug = post_title
+                        // only allow alphanumeric and `_` (we're also allowing `-`, but by not including it here we'll collapse invalid characters around `-` like `-$$-` => `-`)
+                        .replace(/[^A-Za-z0-9_]+/g, '-')
+                        // remove `-` at beginning or end
+                        .replace(/^-|-$/g, '')
+                        // collapse multiple `-` into a single `-`
+                        .replace(/-{2,}/g, '-') 
+                        ||
+                        // fallback slug if empty
+                        'post-title';
+
+                    const filename = `${datePrefix}-${slug}`;
+                    
+                    console.debug(`  '${filename}'`);
+
+                    return filename;
+
+                    function pad(num: number, len = 2) {
+                        return `${num}`.padStart(len, '0');
+                    }
+                },
+            },
+        },
         fields: [
           {
             type: "string",
