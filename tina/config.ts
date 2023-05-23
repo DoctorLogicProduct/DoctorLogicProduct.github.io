@@ -109,7 +109,7 @@ export default defineConfig({
         ui: {
             filename: {
                 // don't let the user edit the filename
-                readonly: true,
+                readonly: false,
                 // use our custom slugify function
                 slugify: (values: Record<string, any>): string => {
                     console.debug(`slugify(${JSON.stringify(values)}) =>`);
