@@ -387,17 +387,6 @@ img {
         grid-row: 1;
         grid-column: 1;
     }
-
-    &::before {
-        content: '';
-        grid-row: 1;
-        grid-column: 1;
-        justify-self: center;
-        width: 90%;
-        padding-top: 90%;
-        background: rgba(255, 255, 255, 0.2);
-        border-radius: 50%;
-    }
 }
 
 .form {
