@@ -1,0 +1,34 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "mq", "base", "market-analysis-v2/index";
+
+body.market-analysis-v2 {
+    > header {
+        display: none;
+    }
+}
+
+.market-analysis-app-v2-container {
+    background-color: black;
+
+    h1,
+    h2,
+    h3 {
+        color: white;
+        text-align: unset;
+    }
+
+    button {
+        width: auto;
+    }
+
+    p {
+        font-size: initial;
+    }
+
+    ul > li::before {
+        content: none;
+    }
+}

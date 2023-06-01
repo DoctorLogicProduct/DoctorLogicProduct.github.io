@@ -1,0 +1,56 @@
+{% if page.market_analysis_v2 %}
+<script>
+    // setting this global callback to initialize the app
+    window.marketAnalysisConfig = init => {
+        const getTemplate = id => {
+            const el = document.getElementById(id);
+
+            if (el) {
+                return el.content;
+            }
+        };
+
+        const config = {{ page.market_analysis_v2 | jsonify }};
+
+        // get templates
+        [
+            'backIcon',
+            'downloadIcon',
+            'formAbove',
+            'formBelow',
+            'formHeader',
+            'locationIcon',
+            'printIcon',
+            'reportDisclaimer',
+            'reportPageHeader',
+            'toggle',
+            'demographicsBlurb',
+            'keywordsModalLoading',
+        ].forEach(id => {
+            config.templates = config.templates || {};
+            config.templates[id] = getTemplate(id);
+        });
+
+        init(document.getElementById('root'), config);
+
+        // add listener for custom dlsubmit event
+        document.addEventListener('dlsubmit', ev => {
+            let detail = ev.detail || {};
+
+            if (typeof gtag === 'function') {
+                gtag('event', 'dlsubmit', detail);
+            } else if (typeof dataLayer !== 'undefined' && typeof dataLayer.push === 'function') {
+                dataLayer.push({
+                    event: 'dlsubmit',
+                    ...detail,
+                });
+            }
+        });
+	};
+</script>
+<!-- <script crossorigin src="https://cdn.jsdelivr.net/npm/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.development.js"></script> -->
+<script crossorigin src="https://cdn.jsdelivr.net/npm/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="{{ base }}/js/dl-market-analysis-v2.js?v={{ site.time | date: '%s' }}"></script>
+{% endif %}

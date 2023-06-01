@@ -1,0 +1,69 @@
+@import 'vars';
+
+input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: unset;
+    border: none !important;
+    background: transparent;
+    height: max(#{$slider-thumb-size}, #{$slider-track-size});
+    overflow: hidden;
+
+    @include focus-fix;
+
+    @mixin thumb-shadow($color, $spread: calc((#{$slider-thumb-size} - #{$slider-track-size}) / 2 * -1)) {
+        $result: 1px 0 0 #{$spread} #{$color};
+
+        @for $i from 2 through 1000 {
+            $result: #{$result},
+            #{$i}px 0 0 #{$spread} #{$color};
+        }
+
+        box-shadow: $result;
+    }
+
+    @mixin thumb($bg: $brand-2, $shadow: $brand-3) {
+        width: $slider-thumb-size;
+        height: $slider-thumb-size;
+        border: none;
+        border-radius: 50%;
+        background: $bg;
+        cursor: pointer;
+        @include thumb-shadow($shadow);
+    }
+
+    @mixin track($bg: $brand-2) {
+        // this bg creates a vertically centered line the height of $slider-track-size
+        background: linear-gradient(to bottom, $bg, $bg) 100% 50% / 100% $slider-track-size no-repeat transparent;
+    }
+
+    &::-webkit-slider- {
+        &thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            @include thumb;
+        }
+
+        &runnable-track {
+            @include track;
+        }
+    }
+
+    &::-moz-range- {
+        &thumb {
+            @include thumb;
+        }
+
+        &track {
+            height: $slider-track-size;
+            @include track;
+        }
+
+        &progress {
+            @include track($brand-2);
+        }
+    }
+}

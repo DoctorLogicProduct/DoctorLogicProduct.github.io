@@ -1,0 +1,56 @@
+@import 'vars';
+@import 'mq';
+
+@mixin focus-fix {
+    &:focus {
+        outline: none;
+    }
+
+    &:focus-visible {
+        outline: 1px auto $brand-1;
+    }
+}
+
+@mixin fancy-button {
+    color: $white;
+    background: $brand-1;
+    text-transform: uppercase;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 15px 0 15px 0;
+    letter-spacing: 2px;
+    cursor: pointer;
+
+    @include focus-fix;
+}
+
+@mixin text-button {
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    padding: 0;
+    margin: 0;
+    text-decoration: underline;
+    overflow: visible;
+}
+
+@mixin no-print {
+    @include print {
+        display: none;
+    }
+}
+
+@mixin grid {
+    display: grid;
+    grid-template-columns: repeat(24, 1fr);
+    grid-template-rows: auto;
+    gap: 10px;
+
+    @include tablet-wide {
+        gap: 1em;
+    }
+}
