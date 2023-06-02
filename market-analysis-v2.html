@@ -8,6 +8,7 @@ page_class:
   - class: market-analysis-v2
 disclaimer: "Marketing estimate & reports created by DoctorLogic LLC. Copyright. All Rights Reserved. Confidential & Proprietary Information for Medical Practices Only. Patent Pending. This analysis report is based on public & proprietary data estimates & market trends and does NOT constitute any guarantee of actual performance or results for any Medical Practice."
 market_analysis_v2:
+  debug: false
   hideRevenueReport: false
   disableLeadSubmission: false
   disableOtherSpecialty: false
@@ -105,7 +106,7 @@ market_analysis_v2:
 </template> -->
 <template id="reportPageHeader">
     <img src="img/market-analysis/doctorlogic-logo-white.svg" />
-    <button type="button" class="reset-button">
+    <button type="button" class="reset-button" data-dl-mkt-analysis-reset>
         RESET
     </button>
 </template>

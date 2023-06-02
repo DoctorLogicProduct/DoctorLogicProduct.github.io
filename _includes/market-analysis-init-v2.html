@@ -12,6 +12,10 @@
 
         const config = {{ page.market_analysis_v2 | jsonify }};
 
+        if (config.debug) {
+            config.disableLeadSubmission = true;
+        }
+
         // get templates
         [
             'backIcon',
@@ -31,7 +35,17 @@
             config.templates[id] = getTemplate(id);
         });
 
+        // add api ref and register it on window
+        window.__mkt_analysis_api = config.apiRef = { current: null };
+
         init(document.getElementById('root'), config);
+
+        // add listener for reset button
+        document.addEventListener('click', ev => {
+            if (ev.target.closest?.('[data-dl-mkt-analysis-reset]')) {
+                config.apiRef.current?.reset?.();
+            }
+        });
 
         // add listener for custom dlsubmit event
         document.addEventListener('dlsubmit', ev => {
@@ -48,9 +62,12 @@
         });
 	};
 </script>
-<!-- <script crossorigin src="https://cdn.jsdelivr.net/npm/react@18/umd/react.development.js"></script>
-<script crossorigin src="https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.development.js"></script> -->
+{% if page.market_analysis_v2.debug %}
+<script crossorigin src="https://cdn.jsdelivr.net/npm/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.development.js"></script>
+{% else %}
 <script crossorigin src="https://cdn.jsdelivr.net/npm/react@18/umd/react.production.min.js"></script>
 <script crossorigin src="https://cdn.jsdelivr.net/npm/react-dom@18/umd/react-dom.production.min.js"></script>
+{% endif %}
 <script src="{{ base }}/js/dl-market-analysis-v2.js?v={{ site.time | date: '%s' }}"></script>
 {% endif %}

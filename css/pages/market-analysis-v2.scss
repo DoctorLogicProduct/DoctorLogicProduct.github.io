@@ -8,6 +8,12 @@ body.market-analysis-v2 {
     > header {
         display: none;
     }
+
+    &.header-bg {
+        .page__header {
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+    }
 }
 
 .market-analysis-app-v2-container {
