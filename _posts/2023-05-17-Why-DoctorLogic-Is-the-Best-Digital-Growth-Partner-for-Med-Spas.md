@@ -28,9 +28,7 @@ At DoctorLogic, we strive to build resourceful and useful partnerships for you a
 
 Our before-and-after galleries allow your med spa to immediately upload unlimited images directly to your site using a user-friendly interface that requires only cursory technological knowledge on your end. Need some help to start? We are happy to add photos and build galleries for you with our responsive support team structure. Plus, all image galleries to show off the results of your beautifying treatments are HIPAA-compliant. Let your work speak for itself and boost your search volume by providing [as much visual content as you want on your site.](https://doctorlogic.com/medical-website-management)
 
-[
-](https://doctorlogic.com/medical-website-management)Authentic Client Reviews
------------------------------------------------------------------------------
+## Authentic Client Reviews 
 
 Authentic content is a crucial aspect of SEO success for med spas. Google respects those that generate real-world, non-automated reviews about med spas and their practitioners. With [DoctorLogic’s reputation management tool](https://doctorlogic.com/online-reputation-management-doctors), you can easily organize testimonials according to a host of different variables and know exactly when and how to reach out to clients for reviews. With med spas garnering the more reviews than any other medical practice type, we can help you take advantage of authentic reviews, boost your online reputation, and increase search traffic.
 
