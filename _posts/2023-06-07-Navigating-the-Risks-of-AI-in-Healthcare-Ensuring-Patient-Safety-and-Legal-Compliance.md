@@ -4,7 +4,7 @@ post_title: >-
   Compliance
 date: 2023-06-07T05:00:00.000Z
 post_author: DoctorLogic Employee
-post_image: /uploads/chatgpt doctorlogic.jpg
+post_image: /uploads/Screen Shot 2023-06-14 at 1.06.30 PM.png
 post_intro: >
   Discover the potential risks and considerations of using AI language models in
   healthcare marketing. Explore how DoctorLogic's all-in-one website marketing
