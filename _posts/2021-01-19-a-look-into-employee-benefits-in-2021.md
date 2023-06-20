@@ -3,29 +3,29 @@ post_title: A Look Into Employee Benefits in 2021
 date: 2021-01-18T14:00:00.000Z
 post_author: Michelle Peralta
 tags: []
-post_intro: How has the pandemic shaped the employee benefits structure?
+post_intro: |
+  How has the pandemic shaped the employee benefits structure?
 post_image: /uploads/website-_-blog-post-image-1.png
-post_highlight: How has the pandemic shaped the employee benefits structure?
+post_highlight: |
+  How has the pandemic shaped the employee benefits structure?
 post_type:
   - blog
 product:
   - website management
 title: A Look Into Employee Benefits in 2021
-_template: post_template
 ---
 
 As a practice and a business, your employees are your greatest asset and integral to delivering comprehensive care to your patients. Offering a competitive benefits package can help attract and retain top talent in your field. Employee benefits can be a driving factor for many individuals when it comes to job acceptance and satisfaction. While you want to maintain a high level of employee contentment, it’s also essential to strike the right balance between the fiscal health of your practice and keeping your employees happy.
 
 Such a balancing act, however, has become even more of a challenge in the face of the on-going COVID-19 environment. What can your practice do to mitigate these changes, prevent employee attrition, and still offer an attractive employee benefits package, all while maintaining a healthy bottom line? Understanding how employee benefits are forecasted to evolve in 2021 can help the decision-makers in your practice determine the ideal path to take.
 
-  
 **How has the pandemic shaped the employee benefits structure?**
 
 COVID-19 has undoubtedly impacted the long-term financial health and well-being of individuals and businesses alike. It has also affected the ability of countless healthcare practices to continue providing the same level of benefits their employees have enjoyed in the past. As the future of the pandemic remains uncertain, COVID-era financial concerns are causing many practices to take a closer look at employee benefits and reevaluate what makes sense for their business while still meeting the diverse needs of their employees. A number of practices have adjusted their benefits packages in an effort to meet these multidimensional needs. Read on to explore some of the general trends top employee benefits are projected to take as we embark on the new year.
 
 **-Paid time off (PTO)**
 
-PTO may include vacation, sick, or personal days and may be accrued every pay period, allotted in a lump sum, or offered based on years of service. The U.S. Bureau of Labor Statistics [reports](https://www.bls.gov/opub/ted/2018/private-industry-workers-received-average-of-15-paid-vacation-days-after-5-years-of-service-in-2017.htm#:\~:text=Bureau%20of%20Labor%20Statistics,-The%20Economics%20Daily&text=On%20average%2C%20workers%20received%2010,15%20paid%20days%20on%20average.) that, on average, employees are given ten PTO days after one year of service. While this allotment tends to increase with tenure, PTO limits are generally capped off at a certain point.
+PTO may include vacation, sick, or personal days and may be accrued every pay period, allotted in a lump sum, or offered based on years of service. The U.S. Bureau of Labor Statistics [reports](https://www.bls.gov/opub/ted/2018/private-industry-workers-received-average-of-15-paid-vacation-days-after-5-years-of-service-in-2017.htm#:~:text=Bureau%20of%20Labor%20Statistics,-The%20Economics%20Daily\&text=On%20average%2C%20workers%20received%2010,15%20paid%20days%20on%20average.) that, on average, employees are given ten PTO days after one year of service. While this allotment tends to increase with tenure, PTO limits are generally capped off at a certain point.
 
 Depending on travel restrictions, or an unwillingness to take vacations throughout the year due to the coronavirus, employees may accrue PTO hours that could bottle up at year’s end. Some practices opt to allow a portion of the time to roll over to the following year while others may have a different policy on how they manage unused vacation time. As this [article](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/Pages/Review-Year-End-Vacation-Policies.aspx) from the Society for Human Resource Management (SHRM) reveals, having a solid plan in place that’s both well communicated to your employees and adheres to the legalities within your state can help ensure you maintain workplace productivity while effectively managing PTO requests.
 
@@ -48,7 +48,7 @@ While employees are likely to see cost-sharing increases, having the option of a
 
 **-Work from home**
 
-As COVID-induced closings forced many businesses and employees to adopt a more flexible work environment, as evidenced by this [report](https://app.keysurvey.com/reportmodule/REPORT4/report/41497603/41204105/5f7f8ac36ed9b505463e562c93410306?Dir=&Enc_Dir=8cb84448&av=IxnIBAm77ac=&afterVoting=d49f47d22482&msig=bf1679368151bd9395ae6e843c7a35c3) from Mercer, a work-from-home option has become a reality for countless people across the globe. Even jobs that traditionally required in-person employment are now adapting to a new normal in a virtual environment. While many positions still require employees to be physically present, such as dental hygienists or lab technicians, the medical and dental industries have been able to modify many administrative and billing duties to be completed remotely.
+As COVID-induced closings forced many businesses and employees to adopt a more flexible work environment, as evidenced by this [report](https://app.keysurvey.com/reportmodule/REPORT4/report/41497603/41204105/5f7f8ac36ed9b505463e562c93410306?Dir=\&Enc_Dir=8cb84448\&av=IxnIBAm77ac=\&afterVoting=d49f47d22482\&msig=bf1679368151bd9395ae6e843c7a35c3) from Mercer, a work-from-home option has become a reality for countless people across the globe. Even jobs that traditionally required in-person employment are now adapting to a new normal in a virtual environment. While many positions still require employees to be physically present, such as dental hygienists or lab technicians, the medical and dental industries have been able to modify many administrative and billing duties to be completed remotely.
 
 **The value of employee benefits**
 
@@ -64,12 +64,12 @@ Every healthcare practice is different and must determine the employee benefits 
 
 **Reference**/**Resources:**
 
-* [U.S. Bureau of Labor Statistics: TED: The Economics Daily](https://www.bls.gov/opub/ted/2018/private-industry-workers-received-average-of-15-paid-vacation-days-after-5-years-of-service-in-2017.htm#:\~:text=Bureau%20of%20Labor%20Statistics,-The%20Economics%20Daily&text=On%20average%2C%20workers%20received%2010,15%20paid%20days%20on%20average.)
-* [Mercer: Health Benefit Costs Expected to Grow 4.4% in 2021, Mercer Survey Finds](https://www.mercer.us/our-thinking/healthcare/health-benefit-costs-expected-to-grow-4-point-4-percent-in-2021-mercer-survey-finds.html) 
-* [Mercer: Global Survey #5: ](https://app.keysurvey.com/reportmodule/REPORT4/report/41497603/41204105/5f7f8ac36ed9b505463e562c93410306?Dir=&Enc_Dir=8cb84448&av=IxnIBAm77ac=&afterVoting=d49f47d22482&msig=bf1679368151bd9395ae6e843c7a35c3)
+* [U.S. Bureau of Labor Statistics: TED: The Economics Daily](https://www.bls.gov/opub/ted/2018/private-industry-workers-received-average-of-15-paid-vacation-days-after-5-years-of-service-in-2017.htm#:~:text=Bureau%20of%20Labor%20Statistics,-The%20Economics%20Daily\&text=On%20average%2C%20workers%20received%2010,15%20paid%20days%20on%20average.)
+* [Mercer: Health Benefit Costs Expected to Grow 4.4% in 2021, Mercer Survey Finds](https://www.mercer.us/our-thinking/healthcare/health-benefit-costs-expected-to-grow-4-point-4-percent-in-2021-mercer-survey-finds.html)
+* [Mercer: Global Survey #5: ](https://app.keysurvey.com/reportmodule/REPORT4/report/41497603/41204105/5f7f8ac36ed9b505463e562c93410306?Dir=\&Enc_Dir=8cb84448\&av=IxnIBAm77ac=\&afterVoting=d49f47d22482\&msig=bf1679368151bd9395ae6e843c7a35c3)
 * [Willis Towers Watson (2019/2020 Global Benefits Attitudes Survey Report): ](https://www.willistowerswatson.com/en-US/Insights/2020/02/global-benefits-attitudes-survey-report)
 * [SHRM: Pandemic Prompts Employers to Review Year-End Vacation Policies: ](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/Pages/Review-Year-End-Vacation-Policies.aspx)
 * [SHRM: Planning 2021 Benefits Changes in COVID-19 ERA: ](https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/planning-2021-benefits-changes-for-the-covid-19-era.aspx)
-* [Dentalpost.net: Front Office Salary Survey “2020 Results:” ](https://www.dentalpost.net/salary-survey/front-office-results/)
+* [Dentalpost.net: Front Office Salary Survey “2020 Results:” ](https://www.dentalpost.net/salary-survey/)
 * [Square Practice: Dental Analytics for Practice Management](https://blog.squarepractice.com/managing-the-vacation-policy-for-your-practice)
 * [ValuePenguin: The 2020 Guide to Offering Employees Paid Vacation Days]()
