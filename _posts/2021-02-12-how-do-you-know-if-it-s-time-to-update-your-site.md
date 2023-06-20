@@ -1,16 +1,16 @@
 ---
 post_title: How do you know if it's time to update your site?
-date: '2021-02-08 16:00:00 +0000'
+date: 2021-02-08T16:00:00.000Z
 post_author: Christopher Ellis
 tags:
   - Healthcare-Marketing
   - Strategy
   - SEO
-post_intro: >-
+post_intro: >
   5 subtle (and 4 not-so-subtle) ways to tell your website needs to be
   refreshed.
 post_image: /uploads/website-_-blog-post-image-1-1.png
-post_highlight: >-
+post_highlight: >
   5 subtle (and 4 not-so-subtle) ways to tell your website needs to be
   refreshed.
 post_type:
@@ -20,7 +20,6 @@ product:
   - lead generator
   - search amplifier
 title: 2021-02-12-How-do-you-know-if-it's-time-to-update-your-site?
-_template: post_template
 ---
 
 Maintaining a website and active online presence is a lot of work because there are so many things to keep track of and, as a result, we sometimes get in the habit of ‘set and forget’ when it comes to our website. In an effort to help you make sure everything is looking current from an outsider’s perspective, we put together this list of some subtle (and not so subtle) ways of determining whether your website could use a refresh.
@@ -35,7 +34,7 @@ There are a number of reasons why you may be showcasing old reviews or testimoni
 
 ![](/uploads/getty-images-1.png)
 
-Have you ever looked back at images from ten years ago and cringe at the fashion choices you made? Well, you’re not alone. If all the “Before & After” images on your site feature patients with “90s eyebrows”, “The Rachel” haircut, or "far-from-current" fashion choices - it’s time for a refresh. Luckily, DoctorLogic’s [Content Multiplier](https://kcf-bt5b1aiujg.instant.forestry.io/medical-website-content-multiplier/) not only makes it incredibly easy to add new patient testimonials, before & after photos, and videos, but it also amplifies the most relevant content pages for patients and search engines across your site. This not only helps encourage more fresh content but also helps your content gain visibility.
+Have you ever looked back at images from ten years ago and cringe at the fashion choices you made? Well, you’re not alone. If all the “Before & After” images on your site feature patients with “90s eyebrows”, “The Rachel” haircut, or "far-from-current" fashion choices - it’s time for a refresh. Luckily, DoctorLogic’s Content [Multiplier](https://doctorlogic.com/medical-website-content-multiplier) not only makes it incredibly easy to add new patient testimonials, before & after photos, and videos, but it also amplifies the most relevant content pages for patients and search engines across your site. This not only helps encourage more fresh content but also helps your content gain visibility.
 
 **Not Subtle: Displaying Old Contact Info (name, address, phone number, etc.)**
 
@@ -49,15 +48,15 @@ We get it. Posting regularly on your practice’s social channels is tough and t
 
 **Subtle: Featuring Old Staff Members (doctors, assistants, etc.)**
 
-Employee turnover happens. That’s alright. But you’re going to want to remove them from your website otherwise potential patients may try to book appointments with providers who are no longer there. While dedicated staff pages do help prospective patients learn about your practice, it is also worth noting that offices that experience more regular turnover may be better off without this strategy, if even temporarily. Either way, if you have dedicated staff pages - make sure they’re showing your recent staff _only_.
+Employee turnover happens. That’s alright. But you’re going to want to remove them from your website otherwise potential patients may try to book appointments with providers who are no longer there. While dedicated staff pages do help prospective patients learn about your practice, it is also worth noting that offices that experience more regular turnover may be better off without this strategy, if even temporarily. Either way, if you have dedicated staff pages - make sure they’re showing your recent staff *only*.
 
 **Not Subtle: Having a Non-Responsive Website**
 
-It’s 2021. At this point, if your website does _not_ look great and work seamlessly on mobile devices it is definitely time for an upgrade. With [48.62% of all online traffic](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide) taking place on mobile devices, your practice website cannot afford to have a substandard mobile experience. Seriously! That’s why every one of DoctorLogic’s websites are built to be fully responsive so they look (and work) great on every device. Go ahead and visit your website on your phone or tablet and if it doesn’t work exactly as you’d expect, you should definitely consider upgrading.
+It’s 2021. At this point, if your website does *not* look great and work seamlessly on mobile devices it is definitely time for an upgrade. With [48.62% of all online traffic](https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/worldwide) taking place on mobile devices, your practice website cannot afford to have a substandard mobile experience. Seriously! That’s why every one of DoctorLogic’s websites are built to be fully responsive so they look (and work) great on every device. Go ahead and visit your website on your phone or tablet and if it doesn’t work exactly as you’d expect, you should definitely consider upgrading.
 
 **Subtle: No Current Blogs**
 
-Check your practice blog. If your most recent post is older than **6 months** then it’s time to crack out the writing pad and get to work! In all seriousness, having relevant and current content is not only beneficial for prospective patients to learn about your practice, but it’s _extremely helpful_ for increasing your search rankings and SEO. Stick to a regular cadence, if even as little as one post a month - to get the ball rolling and start building up your library of content. And don’t forget, if you need help, DoctorLogic has a wonderful team of content writers who would be more than happy to help.
+Check your practice blog. If your most recent post is older than **6 months** then it’s time to crack out the writing pad and get to work! In all seriousness, having relevant and current content is not only beneficial for prospective patients to learn about your practice, but it’s *extremely helpful* for increasing your search rankings and SEO. Stick to a regular cadence, if even as little as one post a month - to get the ball rolling and start building up your library of content. And don’t forget, if you need help, DoctorLogic has a wonderful team of content writers who would be more than happy to help.
 
 **Subtle: Not Updating the Copyright Year in Your Footer**
 
