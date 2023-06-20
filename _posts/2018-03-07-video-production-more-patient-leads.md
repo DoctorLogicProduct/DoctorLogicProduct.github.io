@@ -3,12 +3,12 @@ post_title: Using Video Production To Generate More Leads
 date: 2018-03-07T06:00:00.000Z
 post_author: John Vakidis
 tags: []
-post_intro: >-
+post_intro: >
   There is no doubt that producing high-quality, custom videos to market your
   practice online is a good decision for every doctor to consider in 2018. Video
   marketing can be used to help you generate new online leads in multiple ways.
 post_image: /uploads/VideoProductionThumb.jpg
-post_highlight: >-
+post_highlight: >
   There is no doubt that producing high-quality, custom videos to market your
   practice online is a good decision for every doctor to consider in 2018. Video
   marketing can be used to help you generate new online leads in multiple ways.
@@ -16,7 +16,6 @@ post_type:
   - blog
 product:
   - content multiplier
-_template: post_template
 ---
 
 Consider these options below:
@@ -47,7 +46,7 @@ Video helps increase the time that potential consumers spend on your website. SE
 
 Below are some creative ways to use video on your website:
 
-* [Video Gallery Page](https://drjohnconnors.com/video) – Include an introduction video welcoming visitors and give them a quick overview of your practice. Be sure to include procedure videos for the most desired services that you want to offer to your patients in your area.
+* [Video Gallery Page](https://drmorales.com/videos) – Include an introduction video welcoming visitors and give them a quick overview of your practice. Be sure to include procedure videos for the most desired services that you want to offer to your patients in your area.
 * [Doctor Profile](https://elevatemedicalspa.com/Videos/16080) – Showcase your personality. Use video to allow consumers to get to know you and so you can describe what sets you apart… your experience, your facility, technology, etc.
 * [Facility Page](https://drmorales.com/Houston-TX-Office) – If you recently built a new facility or have state-of-art equipment, concierge services, etc., show it off! Help people imagine themselves visiting your practice.
 * [Procedure Pages](https://elevatemedicalspa.com/Procedures/Breast/Breast-Augmentation-Dallas-TX) – This is often where consumers land after looking for information about specific procedures during organic searches. Include video to help educate them about the process, expectations, recovery time, etc.
