@@ -4,12 +4,12 @@ date: 2019-02-14T06:00:00.000Z
 post_author: Janelle Amos
 tags:
   - Reputation-Management
-post_intro: >-
+post_intro: >
   Have you ever performed an online search for a high-priced item or service and
   narrowed your decision down to two choices, then began researching everything
   you could out of those two to ENSURE you selected the absolute best?
 post_image: /uploads/PatientTestimonialsThumb.jpg
-post_highlight: >-
+post_highlight: >
   Have you ever performed an online search for a high-priced item or service and
   narrowed your decision down to two choices, then began researching everything
   you could out of those two to ENSURE you selected the absolute best?
@@ -17,7 +17,6 @@ post_type:
   - blog
 product:
   - social reputation
-_template: post_template
 ---
 
 I bet you checked out prior-customers’ reviews and testimonials, and researched the heck out of the website before determining your final decision. I know I have!
@@ -34,9 +33,9 @@ Did you catch that? Let’s backtrack for a minute. [Social proof](https://www.h
 
 How does this relate to the buyer’s journey? Let’s find out:
 
-Even though this is an antiquated analogy, [the concept](https://minipakr.com/en/2017/why-product-reviews-matter/) is even truer today. When consumers are in the market for your higher-priced services, they’re going to want as much information as possible before making a purchasing decision, and they’re going to follow the steps of what other customers are saying or doing as well (i.e. look up toward the sky when everyone else is, too).
+Even though this is an antiquated analogy, the concept is even truer today. When consumers are in the market for your higher-priced services, they’re going to want as much information as possible before making a purchasing decision, and they’re going to follow the steps of what other customers are saying or doing as well (i.e. look up toward the sky when everyone else is, too).
 
-Testimonials are pushed primarily through the Internet, but the principle of influence and persuasion still remains. Therefore, [the reason](https://minipakr.com/en/2017/why-product-reviews-matter/) reviews and testimonials carry such a huge weight in the purchasing process is pretty simple: the higher the price, the higher the risk for the purchaser, meaning the higher likelihood reviews/testimonials will influence the purchasing decision.
+Testimonials are pushed primarily through the Internet, but the principle of influence and persuasion still remains. Therefore, the reason reviews and testimonials carry such a huge weight in the purchasing process is pretty simple: the higher the price, the higher the risk for the purchaser, meaning the higher likelihood reviews/testimonials will influence the purchasing decision.
 
 So the next time you’re in the online market for items or services and you evaluate the prior-customers’ reviews and testimonials before making a buying decision, consider how your online reviews and testimonials influence your prospective patient’s buying decision as well.
 
