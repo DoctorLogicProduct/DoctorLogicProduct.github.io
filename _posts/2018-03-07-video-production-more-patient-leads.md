@@ -50,7 +50,7 @@ Below are some creative ways to use video on your website:
 * [Doctor Profile](https://elevatemedicalspa.com/Videos/16080) – Showcase your personality. Use video to allow consumers to get to know you and so you can describe what sets you apart… your experience, your facility, technology, etc.
 * [Facility Page](https://drmorales.com/Houston-TX-Office) – If you recently built a new facility or have state-of-art equipment, concierge services, etc., show it off! Help people imagine themselves visiting your practice.
 * [Procedure Pages](https://elevatemedicalspa.com/Procedures/Breast/Breast-Augmentation-Dallas-TX) – This is often where consumers land after looking for information about specific procedures during organic searches. Include video to help educate them about the process, expectations, recovery time, etc.
-* [Testimonial Videos](https://sarasotaplasticsurgery.com/Tanias-Story) – You can also add them to your Reviews page or you can even use individual testimonials within specific case studies on your website.
+* Testimonial Videos – You can also add them to your Reviews page or you can even use individual testimonials within specific case studies on your website.
 * [Video in the Homepage Design](https://doctorlogic.com/features/website-design/) – This is one of the fastest growing trends we are seeing in new website development. At DoctorLogic, we can use stock video, custom video, or a combination of both to create stunning websites that help you stand apart from your competition. Below are a few examples:
 
 [Zein Obagi, M.D. of ZO Skin Centre, Beverly Hills](https://beverlyhills.zoskincentre.com/)
