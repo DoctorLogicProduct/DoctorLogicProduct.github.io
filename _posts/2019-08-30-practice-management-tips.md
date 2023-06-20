@@ -4,12 +4,12 @@ date: 2016-08-30T05:00:00.000Z
 post_author: Andre Riley
 tags:
   - Strategy
-post_intro: >-
+post_intro: >
   The following content is an interview conducted with DoctorLogic’s VP of Sales
   & Marketing, Andre Riley. This content was used in an article published in The
   Aesthetic Guide Magazine. See the full article here.
 post_image: /uploads/TheAestheticGuide0516Thumb.png
-post_highlight: >-
+post_highlight: >
   The following content is an interview conducted with DoctorLogic’s VP of Sales
   & Marketing, Andre Riley. This content was used in an article published in The
   Aesthetic Guide Magazine. See the full article here.
@@ -17,14 +17,13 @@ post_type:
   - blog
 product:
   - social reputation
-_template: post_template
 ---
 
 **What are some of the top-level, “mega trends” in practice management / practice marketing for aesthetic practices?**
 
 Today, people are very quick to jump on the latest marketing trends, but because best practices change nearly every day, it can be overwhelming and exhausting for a business owner. Take a step back and recall that marketing only exists because of the services and products you provide - that part hasn’t changed for hundreds of years. When you put a focus on your service, everything else falls into line. Place an emphasis on your technique first, then surround yourself with friendly, intelligent people and your story becomes easy to tell.
 
-![Andre Riley Headshot](/uploads/Dre 350 350.png "Andre Riley, CRO")
+!\[Andre Riley Headshot]\(/uploads/Dre 350 350.png "Andre Riley, CRO")
 
 Andre Riley, Chief Revenue Officer
 
@@ -34,7 +33,7 @@ For over 10 years, Andre has been helping small & medium-sized businesses grow t
 
 One of my favorite techniques is to follow industry experts online. Chances are, they are already sharing many of the links they read and found valuable, so you can then passively gain from the research hours they have invested, rather than digging for news yourself.
 
-If you are interested in discovering new things yourself, try using subject-based reader applications. Apps like [Feedly](https://feedly.com/) and [Nuzzel](http://nuzzel.com/) for your phone, among others, are great aggregators of articles. These apps allow you to follow subjects you might be interested in, like digital marketing or customer service. Every day, these apps will give you the best articles across the internet. I spend a few minutes in the morning with a cup of coffee reading Feedly to stay up-to-date.
+If you are interested in discovering new things yourself, try using subject-based reader applications. Apps like [Feedly](https://feedly.com/) and Nuzzel for your phone, among others, are great aggregators of articles. These apps allow you to follow subjects you might be interested in, like digital marketing or customer service. Every day, these apps will give you the best articles across the internet. I spend a few minutes in the morning with a cup of coffee reading Feedly to stay up-to-date.
 
 **In what ways has staffing become a major concern in these practices?**
 
