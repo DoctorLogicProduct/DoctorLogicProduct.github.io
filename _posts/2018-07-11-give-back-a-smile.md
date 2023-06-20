@@ -3,13 +3,13 @@ post_title: DoctorLogic Raises Funds for “Give Back a Smile”
 date: 2018-07-11T05:00:00.000Z
 post_author: Kip Young
 tags: []
-post_intro: >-
+post_intro: >
   Each year, over five million individuals suffer domestic abuse and violence in
   the U.S. and Canada. Considerable efforts and initiatives focus on increasing
   awareness of this serious issue. However, there is little publicity when it
-  comes to the dental problems many victims might face. 
+  comes to the dental problems many victims might face.
 post_image: /uploads/GiveBackThumb.jpg
-post_highlight: >-
+post_highlight: >
   Each year, over five million individuals suffer domestic abuse and violence in
   the U.S. and Canada. Considerable efforts and initiatives focus on increasing
   awareness of this serious issue. However, there is little publicity when it
@@ -18,7 +18,6 @@ post_type:
   - press-release
 product:
   - website management
-_template: post_template
 ---
 
 When somebody is a victim of domestic abuse and violence, they often feel weak and powerless. A majority of victims have no place to go. Eventually, they manage to escape their cycle of abuse. However, they lose their financial resources and often their confidence as well in the process. This can make it even harder and more challenging for them to get back on their feet. Give Back a Smile strives to change that.
@@ -57,7 +56,7 @@ If you or your loved one has been through domestic abuse and need dental care, y
 
 American Academy of Cosmetic Dentistry 402 West Wilson Street Madison, WI 53703
 
-You can expect a waiting list of applicants in a few areas and they need volunteers to help. So, we urge you to volunteer. The AACDCF is in need of laboratory technicians, dentists, as well as other [dental professionals](https://www.1800dentist.com/about-dentistry/) to donate services and time to victims of domestic abuse and violence.
+You can expect a waiting list of applicants in a few areas and they need volunteers to help. So, we urge you to volunteer. The AACDCF is in need of laboratory technicians, dentists, as well as other [dental professionals](https://www.1800dentist.com/) to donate services and time to victims of domestic abuse and violence.
 
 If you are interested in giving back to the community, you should definitely consider taking part in Give Back a Smile. If you need further information regarding the Give Back a Smile program, feel free to contact the American Academy of Cosmetic Dentistry.
 
