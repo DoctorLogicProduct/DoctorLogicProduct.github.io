@@ -10,6 +10,17 @@ post_highlight: >
   Thoughtful, SEO-rich blog posts can be an effective way to inform patients,
   enhance your online profile, and drive more organic traffic to your practice's
   website.
+post_image: /uploads/cm.jpg
+post_type:
+  - blog
+product:
+  - content multiplier
+  - growth accelerators
+  - search amplifier
+tags:
+  - Healthcare Marketing
+  - Content Marketing
+  - SEO
 ---
 
 In this digital age we're living in, maintaining a strong online presence is crucial for the success of small medical practices. While a [well-designed website](https://doctorlogic.com/blog/how-do-you-know-if-it-s-time-to-update-your-site.html) is a great starting point, implementing an effective digital marketing strategy is equally important. One powerful tool that can significantly enhance both search engine optimization (SEO) and advertising efforts is blogging. If you have yet to dip your toes into the blog world, consider a few important points about the benefits of blog posts for SEO strategy and practice growth.
