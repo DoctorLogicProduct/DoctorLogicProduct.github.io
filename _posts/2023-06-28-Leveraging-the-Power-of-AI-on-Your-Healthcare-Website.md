@@ -64,6 +64,4 @@ We are committed to providing the best tools available to our clients. We remain
 
 ***
 
- <center><button onclick="window.location.href='https://growth.doctorlogic.com/get-a-demo';">
-      Click Here to Learn More!
-    </button></center>
+<a href="https://growth.doctorlogic.com/get-a-demo" class="btn">Click Here to Learn More!</a>
