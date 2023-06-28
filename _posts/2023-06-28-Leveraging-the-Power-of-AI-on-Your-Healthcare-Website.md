@@ -63,3 +63,7 @@ We are committed to providing the best tools available to our clients. We remain
 *Considering these risks, it's important for healthcare professionals to exercise caution when using AI models and to supplement their expertise with human judgment, critical thinking, and ethical considerations to provide the best possible care to their patients."*
 
 ***
+
+ <button onclick="window.location.href='https://growth.doctorlogic.com/get-a-demo';">
+      Click Here to Learn More!
+    </button>
