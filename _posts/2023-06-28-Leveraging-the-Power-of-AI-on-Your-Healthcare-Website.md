@@ -67,5 +67,5 @@ We are committed to providing the best tools available to our clients. We remain
 <center>Learn How DoctorLogic Can Help You Leverage SmartAI</center>
 <center><a href="https://growth.doctorlogic.com/get-a-demo" class="btn">Click Here to Learn More!</a></center>
 
-[Related Articles:
-https://doctorlogic.com/blog/what-does-ai-content-creation-mean-for-your-healthcare-practice]()
+[Related Articles:]()
+https://doctorlogic.com/blog/what-does-ai-content-creation-mean-for-your-healthcare-practice
