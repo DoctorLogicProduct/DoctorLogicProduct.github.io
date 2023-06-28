@@ -23,7 +23,7 @@ tags:
   - Healthcare Marketing
   - Strategy
   - AI
-post_image: /uploads/HorizontalLogoWhite.182decab (1).png
+post_image: /uploads/dl.jpg
 ---
 
 As the healthcare industry's first AI-driven digital marketing platform, DoctorLogic knows firsthand the importance of remaining at the forefront of technological advancements. With team members dedicated to providing an outstanding customer experience, we constantly search for ways to further integrate AI tools into our platform. Read on to learn how DoctorLogic is utilizing AI technology safely and effectively to increase the efficiency of our products. 
