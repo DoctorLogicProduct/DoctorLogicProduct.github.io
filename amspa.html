@@ -187,11 +187,13 @@ market_analysis:
                 ],
             };
 
-            return {
-                url: `https://api.hsforms.com/submissions/v3/integration/submit/${portalId}/${formId}`,
-                method: 'post',
-                body: JSON.stringify(data),
-            };
+            await fetch(
+                `https://api.hsforms.com/submissions/v3/integration/submit/${portalId}/${formId}`,
+                {
+                    method: 'post',
+                    body: JSON.stringify(data),
+                }
+            );
         });
     })();
 </script>
