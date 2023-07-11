@@ -131,3 +131,67 @@ market_analysis:
 <template id="reportDisclaimer">
     <p>{{ page.disclaimer }}</p>
 </template>
+
+<script>
+    (function() {
+        const portalId = '19523191';
+        const formId = 'bfac3a72-261a-43b3-99a2-e308382ba6ba';
+
+        const getIP = async () => {
+            const resp = await fetch('https://www.cloudflare.com/cdn-cgi/trace');
+            const text = await resp.text();
+
+            const result = text
+                .split('\n')
+                .reduce((map, line) => {
+                    const eqIndex = line.indexOf('=');
+
+                    if (eqIndex > -1) {
+                        const key = line.substring(0, eqIndex);
+                        const value = line.substring(eqIndex + 1);
+
+                        map.set(key, value);
+                    }
+
+                    return map;
+                }, new Map());
+
+            return result.get('ip');
+        };
+
+        const makeField = (name, value) => ({
+            objectTypeId: '0-1', // some magic hs thing
+            name,
+            value,
+        });
+            
+        // add listener for custom dlsubmit event
+        document.addEventListener('dlsubmit', async ev => {
+            const detail = ev.detail || {};
+            const ipAddress = await getIP();
+
+            const data = {
+                context: {
+                    ipAddress: ipAddress || '',
+                    pageUri: globalThis?.location?.href || '',
+                    pageName: globalThis?.document?.title || '',
+                },
+                // convert { [maFieldName]: hsFieldName }[] => { name: hsFieldName, value: maFieldValue }[]
+                fields: [
+                    makeField('company', detail?.practice?.name ?? ''),
+                    makeField('email', detail?.email ?? ''),
+                    makeField('website', detail?.website ?? ''),
+                    makeField('firstname', detail?.firstName ?? ''),
+                    makeField('lastname', detail?.lastName ?? ''),
+                    makeField('phone', detail?.phone ?? ''),
+                ],
+            };
+
+            return {
+                url: `https://api.hsforms.com/submissions/v3/integration/submit/${portalId}/${formId}`,
+                method: 'post',
+                body: JSON.stringify(data),
+            };
+        });
+    })();
+</script>
