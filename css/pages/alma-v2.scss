@@ -1,0 +1,43 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import 'market-analysis-v2/mixins';
+
+.page--2 {
+    @include desktop {
+        .form__field--email {
+            grid-column: 1 / span 2;
+        }
+    }
+}
+
+.page {
+    &--3 {
+        .page__header {
+            img {
+                margin-right: 0;
+            }
+
+            @include tablet-narrow {
+                img:nth-child(2) {
+                    justify-self: center;
+                }
+            }
+        }
+    }
+
+    &--3 &__header {
+        grid-template-columns: none;
+
+        @include tablet-narrow {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+}
+
+.hero {
+    h3 {
+        display: none;
+    }
+}
