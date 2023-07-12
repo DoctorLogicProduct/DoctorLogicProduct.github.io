@@ -62,7 +62,22 @@ market_analysis_v2:
     procedures: https://function-prod-dl.azurewebsites.net/api/leadgen/v2/procedures?code=vVz/kyk4Eo3PMupx6bwfkB5Q6aSKHpUoyYWbKUlfHlAEWO/rfwFblw==
     specialties: https://function-prod-dl.azurewebsites.net/api/leadgen/v2/specialties?code=wruKH1rdaLjde5cWpB7IvJWWr0ruf6auyaw/tIJrOLnoYSkuUEtFHw==
     keywords: https://function-prod-dl.azurewebsites.net/api/leadgen/v2/keywords?code=xiuyipfeiZnK/LeWH/9SIIxlDQY12dHOjf/GDdshQFFBpbuJOzzl0A==
-    submitLead: https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?code=HQKc1rLuYm1ZbNaoaMqxrNNnmXaYAgNOCI5qjdVobqJq/R0IJeeXAg==&dest=marketing@doctorlogic.com&subject=New+Lead+From+Lead+Gen+Market+Analysis+v2
+    submitLead: 
+      - https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?code=HQKc1rLuYm1ZbNaoaMqxrNNnmXaYAgNOCI5qjdVobqJq/R0IJeeXAg==&dest=marketing@doctorlogic.com&subject=New+Lead+From+Lead+Gen+Market+Analysis+v2
+      - _type: hubspot
+        portalId: '19523191'
+        formId: fb34f5c9-0efc-4675-9ee5-ada9b88bc57f
+        fields:
+          address: address
+          city: city
+          email: email
+          firstName: firstname
+          lastName: lastname
+          phone: phone
+          practiceName: company
+          specialty: medical_specialty__c
+          state: state
+          zip: zip
 ---
 
 <div id="root" class="market-analysis-app-v2-container"></div>
