@@ -67,10 +67,10 @@ market_analysis_v2:
 
 <div id="root" class="market-analysis-app-v2-container"></div>
 
-<template id="formAbove">
+<template data-mkt-analysis-template="landing.formAbove">
     <img src="img/market-analysis/ma2-mbpro-noshadow.png" />
 </template>
-<!-- <template id="formBelow">
+<!-- <template data-mkt-analysis-template="landing.formBelow">
   <div class="content content-1">
     <div class="content__text content-1__text">
       <h2 class="content__headline">
@@ -104,45 +104,45 @@ market_analysis_v2:
     </div>
   </div>
 </template> -->
-<template id="reportPageHeader">
+<template data-mkt-analysis-template="reportPageHeader">
     <img src="img/market-analysis/doctorlogic-logo-white.svg" />
     <button type="button" class="reset-button" data-dl-mkt-analysis-reset>
         RESET
     </button>
 </template>
-<template id="backIcon">
+<template data-mkt-analysis-template="backIcon">
     <div class="back-icon">
         <img src="img/market-analysis/back.svg" />
         <span>Back</span>
     </div>
 </template>
-<template id="locationIcon">
+<template data-mkt-analysis-template="locationIcon">
     <img src="img/market-analysis/position-pin.svg" />
 </template>
-<!-- <template id="printIcon">
+<!-- <template data-mkt-analysis-template="printIcon">
     <div class="print-icon">
         <img src="img/market-analysis/print.svg" />
         <span>Print</span>
     </div>
 </template> -->
-<template id="downloadIcon">
+<template data-mkt-analysis-template="downloadIcon">
     <div class="download-icon">
         <img src="img/market-analysis/download.svg" />
         <span>Save</span>
     </div>
 </template>
-<template id="reportDisclaimer">
+<template data-mkt-analysis-template="reportDisclaimer">
     <p class="page__disclaimer-text">
         {{ page.disclaimer }}
     </p>
 </template>
-<template id="demographicsBlurb">
+<template data-mkt-analysis-template="demographicsBlurb">
     <h2>AI Powered Market Research by DoctorLogic</h2>
     <p>Instantly analyze your local market with our AI powered research engine that features over 40,000 zip codes
         mapped to hundreds of medical procedures and millions of SEO keyword patterns in dozens of healthcare
         specialties. This tool is intended for medical professionals only.</p>
 </template>
-<template id="keywordsModalLoading">
+<template data-mkt-analysis-template="keywordsModalLoading">
     <div class="blob">
         <div class="blob__item">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" id="blobSvg"

@@ -2,6 +2,7 @@
     --black: #111111;
     --white: #ffffff;
     --gray: #21292d;
+    --light-gray: #aab4b9;
     --error: #ff6b6b;
     --brand-1: #086bb5;
     --brand-1-rgb: 2, 153, 255;
@@ -9,4 +10,5 @@
     --brand-3: #809db0;
     --slider-thumb-size: 24px;
     --slider-track-size: 10px;
+    --validation-font-size: max(0.8em, 14px); // no less than 14px
 }

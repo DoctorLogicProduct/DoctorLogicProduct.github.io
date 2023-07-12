@@ -2,41 +2,50 @@
 <script>
     // setting this global callback to initialize the app
     window.marketAnalysisConfig = init => {
-        const getTemplate = id => {
-            const el = document.getElementById(id);
-
-            if (el) {
-                return el.content;
-            }
-        };
-
         const config = {{ page.market_analysis_v2 | jsonify }};
 
         if (config.debug) {
             config.disableLeadSubmission = true;
         }
 
-        // get templates
-        [
-            'backIcon',
-            'downloadIcon',
-            'formAbove',
-            'formBelow',
-            'formHeader',
-            'locationIcon',
-            'printIcon',
-            'reportDisclaimer',
-            'reportPageHeader',
-            'toggle',
-            'demographicsBlurb',
-            'keywordsModalLoading',
-        ].forEach(id => {
-            config.templates = config.templates || {};
-            config.templates[id] = getTemplate(id);
-        });
+        // get templates (`template` elements with `data-mkt-analysis-template="<config template name>"`)
+        // a `.` is used for nested templates
+        const templates = {};
+        document
+            .querySelectorAll('template[data-mkt-analysis-template]')
+            .forEach(el => {
+                // make sure we have a `template`
+                if (el instanceof HTMLTemplateElement) {
+                    // reduce any nested names to a final target object and key
+                    const [target, key] = el.dataset.mktAnalysisTemplate
+                        ?.split('.')
+                        .reduce(([target, prevKey], currentKey) => {
+                            if (prevKey) {
+                                // create a new object if needed and capture it in the `target` variable
+                                target = target[prevKey] = target[prevKey] || {};
+                            }
+
+                            return [target, currentKey];
+                        }, [templates, null])
+                        // fallback for optional chaining
+                        ?? [];
+
+                    // assign the template content to the given target/key pair
+                    if (target && key) {
+                        target[key] = el.content;
+                    }
+                }
+            });
+
+        config.templates = {
+            ...(config.templates || {}),
+            ...templates,
+        };
 
         // add api ref and register it on window
         window.__mkt_analysis_api = config.apiRef = { current: null };
+
+        console.debug(config);
 
         init(document.getElementById('root'), config);
 

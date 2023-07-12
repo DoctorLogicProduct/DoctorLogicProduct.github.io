@@ -5,6 +5,8 @@
 @import "mq", "base", "market-analysis-v2/index";
 
 body.market-analysis-v2 {
+    font-size: 1rem;
+
     > header {
         display: none;
     }
@@ -16,8 +18,11 @@ body.market-analysis-v2 {
     }
 }
 
+main {
+    background-color: $black;
+}
+
 .market-analysis-app-v2-container {
-    background-color: black;
 
     h1,
     h2,
@@ -36,5 +41,27 @@ body.market-analysis-v2 {
 
     ul > li::before {
         content: none;
+    }
+}
+
+// have to override an !important somewhere else...
+.input {
+
+    &__input,
+    &__select {
+        border: 1px solid var(--white) !important;
+    }
+}
+
+.revenue-report {
+
+    .input__input {
+        border: none !important;
+    }
+
+    &__button {
+        letter-spacing: normal;
+        line-height: normal;
+        text-transform: none;
     }
 }

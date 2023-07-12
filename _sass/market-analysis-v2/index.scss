@@ -61,6 +61,7 @@ img {
 .page {
     display: flex;
     flex-direction: column;
+    max-width: 1400px;
 
     &__heading {
         display: flex;
@@ -97,13 +98,6 @@ img {
                 &--select {
                     flex: 0 0 10ch;
                 }
-            }
-
-            input,
-            select {
-                color: $white;
-                background-color: $gray;
-                border-color: currentColor;
             }
         }
 
@@ -172,7 +166,7 @@ img {
 */
 .input {
     display: block;
-    margin: 10px 0;
+    margin: 0;
 
     &__label {
         text-transform: uppercase;
@@ -189,7 +183,7 @@ img {
         background-color: $gray;
         font-size: clamp(0.8rem, 1vw, 1rem);
         font-family: inherit;
-        border: 1px solid currentColor !important;
+        border: 1px solid $white;
         border-radius: 5px;
 
         @include focus-fix;
@@ -199,7 +193,7 @@ img {
 
         &::placeholder,
         &::-webkit-input-placeholder {
-            color: currentColor;
+            color: $light-gray;
         }
     }
 
@@ -212,11 +206,13 @@ img {
         background-position-y: 50%;
 
         &--placeholder {
-            color: currentColor;
+            color: $light-gray;
         }
     }
 
     &__validation {
+        font-size: max(0.8em, 14px); // don't let it get below 12px
+
         &--invalid {
             color: $error;
         }
@@ -360,9 +356,10 @@ img {
 }
 
 /******************************************************************************
- * Page 1
+ * Page 1 and 2
 ******************************************************************************/
-.page--1 {
+.page--1,
+.page--2 {
     @include tablet-wide {
         flex-direction: row;
         flex-wrap: wrap;
@@ -379,14 +376,33 @@ img {
 
 .form__above {
     display: grid;
+    justify-items: center;
     align-items: center;
     flex: 1;
-    max-width: 700px;
+
+    .page--1 & {
+        max-width: 700px;
+
+        &::before {
+            content: '';
+            grid-row: 1;
+            grid-column: 1;
+            justify-self: center;
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+        }
+    }
 
     img {
         grid-row: 1;
         grid-column: 1;
     }
+}
+
+.form__below {
+    flex: 0 0 100%;
 }
 
 .form {
@@ -398,6 +414,36 @@ img {
 
     &__fields {
         margin-top: 20px;
+
+        .page--2 & {
+            @include desktop {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: calc(1em - #{$validation-font-size} + 4px) 1em;
+                // make sure row items are aligned
+                align-items: baseline;
+            }
+        }
+    }
+
+    .page--2 & {
+        &__field--firstName {
+            // add an extra gap
+            margin-top: 4rem;
+        }
+
+        @include desktop {
+            &__field {
+                grid-column: auto / span 1;
+
+                &--firstName {
+                    // start a new row
+                    grid-column-start: 1;
+                    // we don't need quite as much of a gap
+                    margin-top: 3rem;
+                }
+            }
+        }
     }
 
     &__button {
@@ -407,7 +453,7 @@ img {
 }
 
 /******************************************************************************
- * Page 2
+ * Page 3
 ******************************************************************************/
 @keyframes dots {
     0% {
@@ -429,21 +475,22 @@ img {
     animation: dots 1s linear infinite;
 }
 
-.market-analysis-app--page-2 {
+.market-analysis-app--page-3 {
     padding: 0;
 }
 
 .page {
-    &--2 {
+    &--3 {
         width: 100%;
+        max-width: none;
     }
 
-    &--2 &__header {
+    &--3 &__header {
         position: fixed;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
+        display: grid;
+        grid-template-columns: auto auto;
         align-items: center;
+        gap: 2rem;
         top: 0;
         left: 0;
         width: 100%;
@@ -456,15 +503,19 @@ img {
         }
 
         img {
-            width: 100%;
-            max-width: 200px;
-            margin-right: auto;
+            width: 200px;
         }
 
         button {
-            all: unset;
-            outline: revert;
-            cursor: pointer;
+            @include fancy-button;
+            justify-self: flex-end;
+
+            @include tablet-wide {
+                all: unset;
+                justify-self: flex-end;
+                outline: revert;
+                cursor: pointer;
+            }
         }
     }
 }
@@ -521,6 +572,7 @@ img {
             flex-direction: column;
             flex-wrap: wrap;
             justify-content: space-evenly;
+            gap: 0 1ch;
             max-width: 1400px;
             margin: 0 auto;
 
@@ -556,16 +608,16 @@ img {
 
 .page__section--demographics {
     @include tablet-narrow {
-        display: flex;
-        flex-wrap: wrap;
         --gap: 40px;
+        display: grid;
         gap: var(--gap);
         padding: 80px 20px;
     }
 
     @include tablet-wide {
-        > .page__sub-section {
-            flex-basis: calc(50% - (var(--gap) / 2));
+        grid-template-columns: 1fr 1fr;
+
+        .page__sub-section {
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -617,6 +669,10 @@ img {
         padding: max(2.5em, 20px);
         // z-index: unset;
 
+        &__container {
+            min-height: 600px;
+        }
+
         &__body {
             display: flex;
             flex-direction: column;
@@ -654,17 +710,22 @@ img {
     margin: 0;
     width: 100%;
     line-height: 1.8;
+    border-collapse: collapse;
+
+    thead tr,
+    tbody tr:nth-child(even) {
+        background-color: $gray;
+    }
+
+    th,
+    td {
+        padding: 1px 0.5ch;
+    }
 
     th {
         text-align: left;
         text-transform: uppercase;
         font-weight: 700;
-    }
-
-    td {
-        &:first-child {
-            color: inherit;
-        }
     }
 
     &__loading::after {
@@ -748,6 +809,11 @@ img {
         text-decoration: none;
         font-weight: 700;
         border-radius: 3px;
+
+        &:disabled {
+            cursor: not-allowed;
+            filter: brightness(0.7);
+        }
     }
 
     &__button--remove {
