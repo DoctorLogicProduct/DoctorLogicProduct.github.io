@@ -319,3 +319,36 @@ market_analysis_v2:
         </div>
     </div>
 </template>
+
+<script>
+    // submit lead data to zapier for additional processing
+    document.addEventListener('dlsubmit', async (ev) => {
+        const now = new Date();
+        const submittedAt = `${now.toLocaleDateString('en-US', { timeZone: 'UTC', dateStyle:'full' })} ${now.toLocaleTimeString('en-US', { timeZone: 'UTC', hour: '2-digit', minute: '2-digit', second: '2-digit' })}`;
+        const form = ev.detail || {};
+        const lead = {
+            SubmittedAt: submittedAt,
+            PracticeName: form.practiceName,
+            Specialty: form.specialty?.Label,
+            Website: form.website,
+            FirstName: form.firstName,
+            LastName: form.lastName,
+            FullName: `${form.firstName} ${form.lastName}`.trim(),
+            Email: form.email,
+            Phone: form.phone,
+            LeadSource: '{{ page.market_analysis.form.leadSource }} v2',
+            __raw__: form,
+        };
+
+        const resp = await fetch(
+            'https://hooks.zapier.com/hooks/catch/1502676/3m4w2fm/',
+            {
+                method: 'post',
+                body: JSON.stringify(lead),
+            });
+
+        const result = await resp.text();
+
+        console.debug(`zapier response[${resp.status}]: ${result}`);
+    });
+</script>
