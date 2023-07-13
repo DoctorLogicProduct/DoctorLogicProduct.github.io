@@ -506,6 +506,12 @@ img {
             width: 200px;
         }
 
+        .header__buttons {
+            display: flex;
+            gap: 1ch;
+            justify-content: flex-end;
+        }
+
         button {
             @include fancy-button;
             justify-self: flex-end;
