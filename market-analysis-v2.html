@@ -121,9 +121,14 @@ market_analysis_v2:
 </template> -->
 <template data-mkt-analysis-template="reportPageHeader">
     <img src="img/market-analysis/doctorlogic-logo-white.svg" />
-    <button type="button" class="reset-button" data-dl-mkt-analysis-reset>
-        RESET
-    </button>
+    <div class="header__buttons">
+        <button type="button" class="download-button" data-api-action="download">
+            SAVE
+        </button>
+        <button type="button" class="reset-button" data-api-action="reset">
+            RESET
+        </button>
+    </div>
 </template>
 <template data-mkt-analysis-template="backIcon">
     <div class="back-icon">

@@ -49,10 +49,24 @@
 
         init(document.getElementById('root'), config);
 
-        // add listener for reset button
+        // add api button listener
         document.addEventListener('click', ev => {
-            if (ev.target.closest?.('[data-dl-mkt-analysis-reset]')) {
-                config.apiRef.current?.reset?.();
+            // a button click with `data-api-action` attribute
+            if (ev.target instanceof Element) {
+                // get the action name from the attribute
+                const parent = ev.target.closest('[data-api-action]');
+                const action = parent?.dataset?.apiAction;
+
+                // make sure we got an action
+                if (action) {
+                    // get the action from the api
+                    const fn = config.apiRef.current?.[action];
+
+                    // call the action (if it was found correctly)
+                    if (typeof fn === 'function') {
+                        fn();
+                    }
+                }
             }
         });
 
