@@ -1,16 +1,16 @@
 ---
 post_title: 7 SEO Practices to Optimize Your Blog Posts
-date: '2022-08-20 05:01:00 +0000'
+date: 2022-08-20T05:01:00.000Z
 post_author: DoctorLogic Employee
 tags:
   - Medical SEO
-post_intro: >-
+post_intro: >
   Blogging, although ever-evolving, has been a consistent part of marketing. It
   does not matter what industry you are in; blogging remains critical for
   improving visibility and pushing your business forward. It allows you to
   engage with your audience while sharing helpful and relevant content.
 post_image: /uploads/shutterstock_1099089869.jpg
-post_highlight: >-
+post_highlight: >
   Blogging, although ever-evolving, has been a consistent part of marketing. It
   does not matter what industry you are in; blogging remains critical for
   improving visibility and pushing your business forward. It allows you to
@@ -19,7 +19,6 @@ post_type:
   - blog
 product:
   - content multiplier
-_template: post_template
 ---
 
 ![](/uploads/shutterstock_164020316.jpg)
@@ -29,8 +28,6 @@ Blogging, although ever-evolving, has been a consistent part of marketing. It do
 However, not every blog you post will give you these benefits. To create and publish winning posts, you have to implement a strategy that aims to:
 
 * Increase visibility in organic search
-
-
 * Establish yourself as a trusted and credible resource
 * Build authority of your site
 
