@@ -1,0 +1,185 @@
+---
+layout: default
+nofollow: true
+permalink: /amspa-v2
+sitemap: false
+title: AMSPA - Free Market Analysis from the Leaders in Medical Marketing | DoctorLogic
+description: Instantly see how much potential revenue you are missing for top procedures in your local market.
+page_class:
+  - class: market-analysis-v2
+  - class: amspa-v2
+disclaimer: "Marketing estimate & reports created by DoctorLogic LLC. Copyright. All Rights Reserved. Confidential & Proprietary Information for Medical Practices Only. Patent Pending. This analysis report is based on public & proprietary data estimates & market trends and does NOT constitute any guarantee of actual performance or results for any Medical Practice."
+market_analysis_v2:
+  #debug: true
+  hideRevenueReport: false
+  disableLeadSubmission: false
+  disableOtherSpecialty: false
+  form:
+    leadSource: Market Analysis - AMSPA
+    confirmation:
+      fields:
+        specialty:
+          disable: true
+          default:
+            SpecialtyId: 14
+            Label: Med Spa
+            Description: Med Spa
+            Path: medspa
+  language:
+    form:
+      landing:
+        title: AMSPA Members, Get Your Free Instant Market Analysis Report!
+        subtitle:
+        text: Instantly see how much potential revenue you are missing for top procedures in your local market.
+  urls:
+    # dev
+    #demographic: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/demographics?code=cS09aUa1Sj60BIgnDWLjp7cFg5rXJ4uhOnU8ZNmfAEEtYNwkXdQleA==
+    #procedures: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/v2/procedures?code=DwGqS21peA/r/BBTNhPE7IfX/2YvjF5maxGGB1fDsyLbc9SN6iWByw==
+    #mapbox: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/mapboxtile?code=XVi1BqtUJ1SDHgMnB2k8cFWqjs/d5iYvxfxJYrvCL5YpQNOiFoSAQQ==&x={x}&y={y}&z={z}&id={id}
+    #isoline: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/isoline?code=KzByQitOkJ3948ZAwxzmyCGlLLSs508VN2dNbOYCFgogfMlRTyZ6YA==
+    #keywords: https://function-prod-dl-dev.azurewebsites.net/api/leadgen/v2/keywords?code=JPulrFmxHCRK6rraZ0LdQ9hUGdO8cWeOJ72oEag8UM2enFj4ywJjKw==
+    # prod
+    demographic: https://function-prod-dl.azurewebsites.net/api/leadgen/demographics?code=iErsjpx9JgBRjErOcEirCo3Pvgzr1feB1OSTNhGYTKxo6kgiZQ5Fgg==
+    procedures: https://function-prod-dl.azurewebsites.net/api/leadgen/v2/procedures?code=vVz/kyk4Eo3PMupx6bwfkB5Q6aSKHpUoyYWbKUlfHlAEWO/rfwFblw==
+    mapbox: https://function-prod-dl.azurewebsites.net/api/leadgen/mapboxtile?code=fGmzY2tmFNVsFE8DafEM6K366amMfm9nLdJevzrEhqIBcX29aTIcjw==&x={x}&y={y}&z={z}&id={id}
+    isoline: https://function-prod-dl.azurewebsites.net/api/leadgen/isoline?code=RMfRKl0JNFzCB7oi3kxmmssp/Nol00b4vuca9MBh8M14Bx/gfZ0Xtg==
+    keywords: https://function-prod-dl.azurewebsites.net/api/leadgen/v2/keywords?code=xiuyipfeiZnK/LeWH/9SIIxlDQY12dHOjf/GDdshQFFBpbuJOzzl0A==
+    #submitLead: https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?dest=amspa-leads@doctorlogic.com&subject=New+market+analysis+lead:+AMSPA
+---
+
+<div id="root" class="market-analysis-app-v2-container"></div>
+
+<template data-mkt-analysis-template="landing.formAbove">
+    <img src="img/market-analysis/ma2-mbpro-noshadow.png" />
+</template>
+<!-- <template data-mkt-analysis-template="landing.formBelow">
+  <div class="content content-1">
+    <div class="content__text content-1__text">
+      <h2 class="content__headline">
+        Instantly analyze your local market
+      </h2>
+      <p class="content__text">
+        DoctorLogic has analyzed the demographic data of all 41,500 zip codes in the US. Instantly adjust the settings to fine tune the report to a radius around your practice and your conversion rate of patient leads to patients.
+      </p>
+      <h2 class="content__headline">
+        Build your free revenue report
+      </h2>
+      <p class="content__text">
+        In seconds, you can build a revenue report based on local population, industry data and Google search trends to see the potential revenue spent per year in your local market to better inform your marketing decisions.
+      </p>
+    </div>
+    <div class="content__image content-1__image">
+      <img src="/img/market-analysis/amspa-ma-local-market.png" alt="Your Local Market Analysis">
+    </div>
+  </div>
+  <div class="content content-2">
+    <div class="content__text content-2__text">
+      <h2 class="content__headline">
+        View patient drive times in your area
+      </h2>
+      <p class="content__text">
+        Patients prefer to visit doctors within 15 to 30 minutes of drive time to their home or office. This handy mapping tool will show you the average drive times along freeways & around natural barriers such as lakes or mountains.
+      </p>
+    </div>
+    <div class="content__image content-2__image">
+      <img src="/img/market-analysis/aacd-ma-drive-times.png" alt="Local Drive Times to Your Facility">
+    </div>
+  </div>
+</template> -->
+<template data-mkt-analysis-template="reportPageHeader">
+    <img src="img/market-analysis/doctorlogic-logo-white.svg" />
+    <div class="header__buttons">
+        <button type="button" class="download-button" data-api-action="download">
+            SAVE
+        </button>
+        <button type="button" class="reset-button" data-api-action="reset">
+            RESET
+        </button>
+    </div>
+</template>
+<template data-mkt-analysis-template="backIcon">
+    <div class="back-icon">
+        <img src="img/market-analysis/back.svg" />
+        <span>Back</span>
+    </div>
+</template>
+<template data-mkt-analysis-template="locationIcon">
+    <img src="img/market-analysis/position-pin.svg" />
+</template>
+<!-- <template data-mkt-analysis-template="printIcon">
+    <div class="print-icon">
+        <img src="img/market-analysis/print.svg" />
+        <span>Print</span>
+    </div>
+</template> -->
+<template data-mkt-analysis-template="downloadIcon">
+    <div class="download-icon">
+        <img src="img/market-analysis/download.svg" />
+        <span>Save</span>
+    </div>
+</template>
+<template data-mkt-analysis-template="reportDisclaimer">
+    <p class="page__disclaimer-text">
+        {{ page.disclaimer }}
+    </p>
+</template>
+<template data-mkt-analysis-template="demographicsBlurb">
+    <h2>AI Powered Market Research by DoctorLogic</h2>
+    <p>Instantly analyze your local market with our AI powered research engine that features over 40,000 zip codes
+        mapped to hundreds of medical procedures and millions of SEO keyword patterns in dozens of healthcare
+        specialties. This tool is intended for medical professionals only.</p>
+</template>
+<template data-mkt-analysis-template="keywordsModalLoading">
+    <div class="blob">
+        <div class="blob__item">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" id="blobSvg"
+                style="opacity: 1">
+                <path id="blob" fill="url(#gradient)" style="opacity: 1">
+                    <animate attributeName="d" dur="8000ms" repeatCount="indefinite"
+                        values="M440.5,320.5Q418,391,355.5,442.5Q293,494,226,450.5Q159,407,99,367Q39,327,31.5,247.5Q24,168,89,125.5Q154,83,219.5,68Q285,53,335.5,94.5Q386,136,424.5,193Q463,250,440.5,320.5Z;M453.78747,319.98894Q416.97789,389.97789,353.96683,436.87838Q290.95577,483.77887,223.95577,447.43366Q156.95577,411.08845,105.64373,365.97789Q54.33169,320.86732,62.67444,252.61056Q71.01719,184.3538,113.01965,135.21007Q155.02211,86.06634,220.52211,66.46683Q286.02211,46.86732,335.5,91.94472Q384.97789,137.02211,437.78747,193.51106Q490.59704,250,453.78747,319.98894Z;M411.39826,313.90633Q402.59677,377.81265,342.92059,407.63957Q283.24442,437.46649,215.13648,432.5428Q147.02853,427.61911,82.23325,380.9572Q17.43796,334.29529,20.45223,250.83809Q23.46649,167.38089,82.5856,115.05707Q141.70471,62.73325,212.19045,63.73015Q282.67618,64.72705,352.67308,84.79839Q422.66998,104.86972,421.43486,177.43486Q420.19974,250,411.39826,313.90633Z;M440.5,320.5Q418,391,355.5,442.5Q293,494,226,450.5Q159,407,99,367Q39,327,31.5,247.5Q24,168,89,125.5Q154,83,219.5,68Q285,53,335.5,94.5Q386,136,424.5,193Q463,250,440.5,320.5Z;" />
+                </path>
+                <defs>
+                    <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                        <stop offset="0%" style="stop-color: rgb(8, 107, 181)" />
+                        <stop offset="100%" style="stop-color: rgb(0, 185, 182)" />
+                    </linearGradient>
+                </defs>
+            </svg>
+        </div>
+        <div class="blob__item blob__item--overlay">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" id="blobSvg"
+                style="opacity: 1; transform: rotate(qs-11)">
+                <defs>
+                    <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                        <stop offset="0%" style="stop-color: rgb(8, 107, 181)" />
+                        <stop offset="100%" style="stop-color: rgb(0, 185, 182)" />
+                    </linearGradient>
+                </defs>
+                <path id="blob" fill="url(#gradient)" style="opacity: 1">
+                    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+                        values="M400,314Q352,378,277,420Q202,462,143,396Q84,330,66.5,241.5Q49,153,125.5,97.5Q202,42,298.5,55Q395,68,421.5,159Q448,250,400,314Z;M420.7122,331.4339Q380.09423,412.86779,301.16508,392.29219Q222.23594,371.7166,157.11322,349.24982Q91.99051,326.78305,53.64135,232.38203Q15.29219,137.98101,118.09898,129.47187Q220.90577,120.96273,294.67458,111.25967Q368.44339,101.55661,414.88678,175.77831Q461.33017,250,420.7122,331.4339Z;M392.2525,331.53996Q379.05994,413.07992,285.7525,456.15485Q192.44505,499.22978,100.80019,432.44731Q9.15533,365.66484,30.81018,260.57493Q52.46503,155.48501,121.45005,74.10764Q190.43506,-7.26974,268.13261,60.97003Q345.83016,129.2098,375.63761,189.6049Q405.44505,250,392.2525,331.53996Z;M436.87032,349.05548Q408.4258,448.11097,306.06935,451.62968Q203.7129,455.14839,157.4258,385.87516Q111.13871,316.60194,93.22677,241.12968Q75.31484,165.65742,135.48613,87.80097Q195.65742,9.94452,281.80097,56.34258Q367.94452,102.74064,416.62968,176.37032Q465.31484,250,436.87032,349.05548Z;M384.02639,318.52969Q359.04619,387.05939,278.02474,435.01815Q197.0033,482.97691,137.94391,408.01485Q78.88453,333.05279,75.91422,249.0132Q72.94391,164.97361,138.46041,107.43731Q203.97691,49.90102,276.0132,88.41917Q348.04949,126.93731,378.52804,188.46866Q409.0066,250,384.02639,318.52969Z;M400,314Q352,378,277,420Q202,462,143,396Q84,330,66.5,241.5Q49,153,125.5,97.5Q202,42,298.5,55Q395,68,421.5,159Q448,250,400,314Z" />
+                </path>
+            </svg>
+        </div>
+        <div class="blob__text">
+            <p>
+                <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+                    <title>
+                        dots-anim-5
+                    </title>
+                    <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" stroke="#ffffff">
+                        <g class="nc-loop-dots-5-48-icon-o">
+                            <circle cx="24" cy="10" r="6" />
+                            <circle cx="38" cy="24" r="6" stroke="#ffffff" />
+                            <circle cx="24" cy="38" r="6" />
+                            <circle cx="10" cy="24" r="6" stroke="#ffffff" />
+                        </g>
+                    </g>
+                </svg>
+            </p>
+
+            <p class="blob__headline">
+            </p>
+        </div>
+    </div>
+</template>

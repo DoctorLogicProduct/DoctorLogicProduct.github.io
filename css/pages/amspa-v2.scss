@@ -1,0 +1,13 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import 'market-analysis-v2/mixins';
+
+.page--2 {
+    @include desktop {
+        .form__field--email {
+            grid-column: 1 / span 2;
+        }
+    }
+}
