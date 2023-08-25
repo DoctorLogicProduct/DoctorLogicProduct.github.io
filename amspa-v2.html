@@ -44,7 +44,23 @@ market_analysis_v2:
     mapbox: https://function-prod-dl.azurewebsites.net/api/leadgen/mapboxtile?code=fGmzY2tmFNVsFE8DafEM6K366amMfm9nLdJevzrEhqIBcX29aTIcjw==&x={x}&y={y}&z={z}&id={id}
     isoline: https://function-prod-dl.azurewebsites.net/api/leadgen/isoline?code=RMfRKl0JNFzCB7oi3kxmmssp/Nol00b4vuca9MBh8M14Bx/gfZ0Xtg==
     keywords: https://function-prod-dl.azurewebsites.net/api/leadgen/v2/keywords?code=xiuyipfeiZnK/LeWH/9SIIxlDQY12dHOjf/GDdshQFFBpbuJOzzl0A==
-    submitLead: https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?dest=amspa-leads@doctorlogic.com&subject=New+market+analysis+lead:+AMSPA
+    submitLead: 
+      - https://function-prod-dl.azurewebsites.net/api/leadgen/lead-info?dest=amspa-leads@doctorlogic.com&subject=New+market+analysis+lead:+AMSPA
+      - _type: hubspot
+        portalId: '19523191'
+        formId: 'bfac3a72-261a-43b3-99a2-e308382ba6ba'
+        fields:
+          #address: address
+          #city: city
+          email: email
+          firstName: firstname
+          lastName: lastname
+          phone: phone
+          practiceName: company
+          #specialty: medical_specialty__c
+          #state: state
+          website: website
+          #zip: zip
 ---
 
 <div id="root" class="market-analysis-app-v2-container"></div>
