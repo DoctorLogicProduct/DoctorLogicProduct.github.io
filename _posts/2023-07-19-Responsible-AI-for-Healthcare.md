@@ -17,15 +17,12 @@ product:
   - lead generator
   - search amplifier
 tags:
-  - Healthcare Marketing
   - AI
 ---
 
 As the use of technology expands and we learn more about artificial intelligence-generated marketing content, there are several important factors to consider. [Though artificial intelligence (AI) technology can be a vital tool for your practice’s healthcare marketing](https://doctorlogic.com/blog/what-does-ai-content-creation-mean-for-your-healthcare-practice), human editing and fact-checking are still needed to ensure optimal SEO benefits from content and generate new traffic to your website. As we all know, sometimes technology doesn’t always get it right, and when you are dealing with medical information, missteps and inaccuracies can cause a host of concerns and distrust among potential patients. 
 
-
 At DoctorLogic, we are the healthcare industry’s first [AI-driven digital marketing platform](https://doctorlogic.com/blog/leveraging-the-power-of-ai-on-your-healthcare-website) using a proprietary SmartAI™ approach. This system integrates top AI generators in the market with the knowledge of DoctorLogic team members and industry professionals to create optimal web content.
-
 
 ## What is SmartAI?
 
@@ -35,11 +32,9 @@ SmartAI stands for Secure Medically Accurate Responsible Technology. With this a
 
 Because AI technology is not always updated regularly, [it should not be used for healthcare content without being edited by a human](https://doctorlogic.com/blog/artificial-intelligence-can-it-really-create-great-content). When asking the AI content generator ChatGPT if it can be used for accurate medical content, it answered with the following:
 
-
 “AI models, like GPT-4, do not have real-time knowledge updates. This means that after their last training update (as of my knowledge cutoff in September 2021), they are not aware of any new medical advances, discoveries, or changes in medical guidelines.
 
 Errors may occur in the generation process, leading to inaccurate or misleading information. Always cross-verify any AI-generated medical information from authoritative sources.”
-
 
 ## Why are humans still an integral part of AI content generation for healthcare professionals?
 
