@@ -1,15 +1,15 @@
 ---
 post_title: 'Beyond Blue and White: A Guide to Choosing Medical Logo Colors'
-date: '2022-09-26 05:00:00 +0000'
+date: 2022-09-26T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags:
   - Strategy
-post_intro: >-
+post_intro: >
   Over 80% of organizations within the healthcare sector use blue and white in
   their logo. This isn't a mistake. It is a direct influence of "color
   psychology" in practice branding.
 post_image: /uploads/shutterstock_778487254.jpg
-post_highlight: >-
+post_highlight: >
   Over 80% of organizations within the healthcare sector use blue and white in
   their logo. This isn't a mistake. It is a direct influence of "color
   psychology" in practice branding.
@@ -17,7 +17,6 @@ post_type:
   - blog
 product:
   - social reputation
-_template: post_template
 ---
 
 ![](/uploads/shutterstock_1017155545.jpg)
@@ -28,21 +27,21 @@ According to 99Designs, over 80% of organizations within the healthcare sector u
 
 Blue and white are the most common colors in the healthcare sector, and there should be good reasons these two colors are the most preferred.
 
-First, blue is associated with trust, power, professionalism, cleanliness, calmness, credibility, and power. These characteristics are highly suitable for the healthcare sector where patients want to associate with calm, trustworthy, and credible healthcare facilities.
+First, blue is associated with trust, power, professionalism, cleanliness, calmness, credibility, and power. These characteristics are highly suitable for the healthcare sector, where patients want to associate with calm, trustworthy, and credible healthcare facilities.
 
 Blue conveys a serene environment, and people around can be sure that everything is going to be alright. This is how blue became a dominant color within the healthcare sector.
 
-On the other hand, white is a clean color among all the existing colors. It is a universal color suitable for many business establishments. White is a color of faith and hope. It became to show that those in healthcare have a mission to care for patients, families, and communities.
+On the other hand, white is a clean color among all the existing colors. It is a universal color suitable for many business establishments. White is a color of faith and hope. It came to show that those in healthcare have a mission to care for patients, families, and communities.
 
 Doctors began wearing white scrubs to demonstrate cleanliness and sterility. Patients do not only feel safe but are also sure of being in a clean environment. White reveals the smallest details, making it easier for doctors to keep the healthcare environment clean.
 
 Blue and white make a color combination that creates a harmonic purpose. The color mix is suitable for many people and can be applied anywhere, such as on walls, because the combination is aesthetically pleasing and calm on the eyes.
 
-Western culture associates white with brides because white is clean, pure, elegant, and peaceful. In Peru, white symbolizes good health, time, and angels. France uses white in cave drawings, chalks, calcite, and painting images. Ancient Greece associated white as sacred. It represented milk and light, while Romans wore white at ceremonies.
+Western culture associates white with brides because white is clean, pure, elegant, and peaceful. In Peru, white symbolizes good health, time, and angels. France uses white in cave drawings, chalk, calcite, and painting images. Ancient Greece associated white as sacred. It represented milk and light, while Romans wore white at ceremonies.
 
 ## **Why You Shouldn't Assume Blue and White Is Always Appropriate**
 
-It is not uncommon for many people to think that blue and white are always appropriate and conducive. However, different cultures have different associations with blue and white. For instance, China, Korea, and other Asian countries believe white symbolizes death and mourning. They only use white during funerals. On the other hand, in these areas yellow represents happiness and wealth.
+It is not uncommon for many people to think that blue and white are always appropriate and conducive. However, different cultures have different associations with blue and white. For instance, China, Korea, and other Asian countries believe white symbolizes death and mourning. They only use white during funerals. On the other hand, in these areas, yellow represents happiness and wealth.
 
 This is not a concept you'd want to implement where people seek treatment and are hopeful for getting better. Patients would not want to go to a place where they would think about death and mourning. This creates a negative psychological impact on the healthcare environment and could push patients away.
 
@@ -56,7 +55,7 @@ Color presents the first impressions determining whether a patient likes or disl
 
 #### **1. Understand Your Patient Population**
 
-When choosing the primary color and secondary palate for your logo, you should consider who will come to the facility as your patients. Different age groups react differently to colors. So use colors that represent the patient's emotions based on age. For instance, children would like a facility with playful colors, while adults would go for more appealing and sophisticated colors. Focus only on colors that elicit the right emotions from your patients.
+When choosing the primary color and secondary palate for your logo, you should consider who will come to the facility as your patients. Different age groups react differently to colors. So, use colors that represent the patient's emotions based on age. For instance, children would like a facility with playful colors, while adults would go for more appealing and sophisticated colors. Focus only on colors that elicit the right emotions from your patients.
 
 #### **2. Do a Competitive Analysis**
 
@@ -80,7 +79,7 @@ Customers in the healthcare sector look forward to new things and gradual evolut
 
 ## **How to Get a Demographic Breakdown of Your Local Market**
 
-It'd be best to acquire more information about your local patient population before choosing your brand color. Consider going beyond just knowing the demographics like ethnicity and find out the kind of demand for your services within your locality.
+It'd be best to acquire more information about your local patient population before choosing your brand color. Consider going beyond just knowing the demographics, like ethnicity, and find out the kind of demand for your services within your locality.
 
 The hard way to figure this out is to go to the Census Bureau's website (Census.gov) and pull demographic information for your zip code and the surrounding zip codes. Then, extrapolate local demand by comparing your demographics to national search volume trends in Google.
 
