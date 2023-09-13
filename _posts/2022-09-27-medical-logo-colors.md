@@ -83,4 +83,6 @@ It'd be best to acquire more information about your local patient population bef
 
 The hard way to figure this out is to go to the Census Bureau's website (Census.gov) and pull demographic information for your zip code and the surrounding zip codes. Then, extrapolate local demand by comparing your demographics to national search volume trends in Google.
 
-The easy way to do this is to use DoctorLogic’s [free, automated local market analysis](https://doctorlogic.com/analysis).
+### **Now it's Your Turn!**
+
+Learn how DoctorLogic can help you align your brand with your patient population and stand out in a competitive market. [Book your demo today](https://growth.doctorlogic.com/get-a-demo).
