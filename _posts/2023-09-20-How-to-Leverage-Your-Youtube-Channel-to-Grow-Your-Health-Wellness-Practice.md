@@ -1,6 +1,6 @@
 ---
 post_title: How to Leverage Your Youtube Channel to Grow Your Health & Wellness Practice
-date: 2023-09-20T12:00:00.000Z
+date: 2023-09-20T11:00:00.000Z
 post_author: DoctorLogic Employee
 post_intro: >
   Discover how to grow your practice with YouTube by attracting potential
