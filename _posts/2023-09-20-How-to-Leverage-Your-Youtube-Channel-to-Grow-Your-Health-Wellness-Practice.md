@@ -10,7 +10,9 @@ post_type:
 product:
   - growth accelerators
 post_image: /uploads/AdobeStock_635799900.jpg
-post_highlight: ''
+post_highlight: >
+  Discover how to grow your practice with YouTube by attracting potential
+  clients, establishing credibility, and more.
 ---
 
 In our digital world today, leveraging the power of YouTube has become an essential tool for health and wellness professionals looking to reach new clients and expand their business. With the ability to connect to millions of potential clients, YouTube offers a unique platform to grow your business and its visibility. In this blog, we will explore strategies to effectively use your YouTube channel to enhance your practice through understanding the benefits of social media while utilizing DoctorLogic’s support team to maximize your success. 
