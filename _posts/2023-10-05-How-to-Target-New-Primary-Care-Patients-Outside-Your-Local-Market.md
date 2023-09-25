@@ -34,7 +34,7 @@ Identify the right keywords: Understand what potential patients are searching fo
 
 Design a compelling ad: A concise, enticing ad that highlights the strengths of your practice and why patients should choose you over others is integral to a successful PPC strategy.
 
-Track your results: Use analytics to monitor your PPC campaign's performance. You can then adjust your strategy based on these insights to continually improve your reach and conversions.
+Track your results: Use analytics to monitor your PPC campaign's performance. You can then adjust your strategy based on these insights to continually [improve your reach and conversions](https://doctorlogic.com/blog/maximizing-for-clicks-vs-maximizing-for-conversions).
 
 By focusing on these areas, PPC advertising can be a powerful tool to grow and sustain patient engagement.
 
