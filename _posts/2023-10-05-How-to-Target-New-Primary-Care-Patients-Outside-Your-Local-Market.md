@@ -12,6 +12,7 @@ post_type:
   - blog
 product:
   - search amplifier
+post_image: /uploads/AdobeStock_479862369_Preview.jpeg
 ---
 
 With the growing prevalence of telemedicine and the increased willingness to travel for quality healthcare, there's great value in reaching potential patients outside the local area. But how can you achieve this when your website is primarily optimized for your local market? Pay-per-click (PPC) advertising could be the key.
