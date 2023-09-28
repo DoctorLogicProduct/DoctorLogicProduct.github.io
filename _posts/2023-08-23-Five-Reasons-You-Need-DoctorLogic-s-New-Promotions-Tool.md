@@ -35,4 +35,4 @@ In the evolving landscape of healthcare marketing, finding design tools that cat
 
 ## In Conclusion
 
-We understand there are many options when considering which design tools to use for your marketing and advertising needs. DoctorLogic's AI-powered Promotions tool was designed to help healthcare professionals brand themselves and seamlessly integrate their advertising needs directly into our platform, making crosslinking and tagging effortless and efficient. To learn more, take a look at [this case study](https://growth.doctorlogic.com/promotions-case-study) highlighting a DoctorLogic client that recently switched to Promotions and is enjoying the unique tool's many benefits.
+We understand there are many options when considering which design tools to use for your marketing and advertising needs. DoctorLogic's AI-powered Promotions tool was designed to help healthcare professionals brand themselves and seamlessly integrate their advertising needs directly into our platform, making crosslinking and tagging effortless and efficient.
