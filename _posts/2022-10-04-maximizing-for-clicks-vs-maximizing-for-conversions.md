@@ -83,8 +83,6 @@ In other words, it’s a more introductory strategy for your PPC campaign. Once 
 
 ## **Should You Set a Target CPA When Maximizing Conversions?**
 
-![](/uploads/shutterstock_519476794.jpg)
-
 Target CPA bidding makes sense in some situations. Ultimately, it comes down to choosing between whether you want to prioritize conversion volume or conversion costs.
 
 If you don’t set a target CPA in Google Ads, you’ll be able to bid on more competitive keywords and get more targeted traffic that’s more likely to convert. That’s especially significant, considering non-specific keywords are among the [most common PPC mistakes](https://doctorlogic.com/blog/common-healthcare-ppc-mistakes.html) healthcare advertisers can make.
