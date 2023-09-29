@@ -99,4 +99,4 @@ Instead, the answer depends entirely on your local market demand. If demand for 
 
 You can calculate your local target demand yourself by retrieving demographic information for your target zip codes from Census.gov. Then, you can extrapolate demand specifically for potential patients through Google search volumes for keywords that point to a need for the procedures and treatments you offer.
 
-Of course, that process can take quite a bit of work and expertise. Fortunately, you don’t need to do it manually. Instead, [get a free, automated local market analysis](https://doctorlogic.com/analysis) from DoctorLogic. You’ll find out where you are missing revenue opportunities.
+Of course, that process can take quite a bit of work and expertise. Fortunately, you don’t need to do it manually. Instead, [get a free local market analysis](https://growth.doctorlogic.com/request-consultation) from DoctorLogic. You’ll find out where you are missing revenue opportunities.
