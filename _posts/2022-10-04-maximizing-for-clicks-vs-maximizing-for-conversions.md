@@ -1,25 +1,26 @@
 ---
 post_title: 'Medical PPC Hack: Maximizing Google Ads for Clicks vs. Conversions'
-date: 2022-10-04 05:00:00 +0000
+date: 2022-10-04T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags: []
-post_intro: 'Advertisers must adjust as search engines like Google continue to refine
-  their targeting and ad structures. The latest: a change to Google Ads that requires
-  us to evaluate two popular bid strategies: maximizing clicks vs maximizing conversions.'
-post_image: "/uploads/shutterstock_1294394836.jpg"
-post_highlight: 'Advertisers must adjust as search engines like Google continue to
-  refine their targeting and ad structures. The latest: a change to Google Ads that
-  requires us to evaluate two popular bid strategies: maximizing clicks vs maximizing
-  conversions.'
+post_intro: >
+  Advertisers must adjust as search engines like Google continue to refine their
+  targeting and ad structures. The latest: a change to Google Ads that requires
+  us to evaluate two popular bid strategies: maximizing clicks vs maximizing
+  conversions.
+post_image: /uploads/shutterstock_1294394836.jpg
+post_highlight: >
+  Advertisers must adjust as search engines like Google continue to refine their
+  targeting and ad structures. The latest: a change to Google Ads that requires
+  us to evaluate two popular bid strategies: maximizing clicks vs maximizing
+  conversions.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-
+  - lead generator
 ---
-![](/uploads/shutterstock_719262103.jpg)
 
-Advertisers must adjust as search engines like Google continue to refine their targeting and ad structures. The latest: a [change to Google Ads](https://support.google.com/google-ads/answer/7381968?hl=en) that requires us to evaluate two popular bid strategies: maximizing clicks vs maximizing conversions.
+Advertisers must adjust as search engines like Google continue to refine their targeting and ad structures. The latest: a [change to Google Ads]() that requires us to evaluate two popular bid strategies: maximizing clicks vs maximizing conversions.
 
 Optimizing your bidding strategy for conversions is especially tempting, thanks to the platform’s new ability to set an average target Cost per Acquisition (tCPA). Medical advertisers can now set up their automated bidding so that it dynamically optimizes for a specific number that ultimately leads to a new patient.
 
