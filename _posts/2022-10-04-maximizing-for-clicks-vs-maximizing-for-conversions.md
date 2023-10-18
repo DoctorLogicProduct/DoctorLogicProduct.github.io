@@ -1,25 +1,26 @@
 ---
 post_title: 'Medical PPC Hack: Maximizing Google Ads for Clicks vs. Conversions'
-date: 2022-10-04 05:00:00 +0000
+date: 2022-10-04T05:00:00.000Z
 post_author: DoctorLogic Employee
 tags: []
-post_intro: 'Advertisers must adjust as search engines like Google continue to refine
-  their targeting and ad structures. The latest: a change to Google Ads that requires
-  us to evaluate two popular bid strategies: maximizing clicks vs maximizing conversions.'
-post_image: "/uploads/shutterstock_1294394836.jpg"
-post_highlight: 'Advertisers must adjust as search engines like Google continue to
-  refine their targeting and ad structures. The latest: a change to Google Ads that
-  requires us to evaluate two popular bid strategies: maximizing clicks vs maximizing
-  conversions.'
+post_intro: >
+  Advertisers must adjust as search engines like Google continue to refine their
+  targeting and ad structures. The latest: a change to Google Ads that requires
+  us to evaluate two popular bid strategies: maximizing clicks vs maximizing
+  conversions.
+post_image: /uploads/shutterstock_1294394836.jpg
+post_highlight: >
+  Advertisers must adjust as search engines like Google continue to refine their
+  targeting and ad structures. The latest: a change to Google Ads that requires
+  us to evaluate two popular bid strategies: maximizing clicks vs maximizing
+  conversions.
 post_type:
-- blog
+  - blog
 product:
-- lead generator
-
+  - lead generator
 ---
-![](/uploads/shutterstock_719262103.jpg)
 
-Advertisers must adjust as search engines like Google continue to refine their targeting and ad structures. The latest: a [change to Google Ads](https://support.google.com/google-ads/answer/7381968?hl=en) that requires us to evaluate two popular bid strategies: maximizing clicks vs maximizing conversions.
+Advertisers must adjust as search engines like Google continue to refine their targeting and ad structures. The latest: a [change to Google Ads]() that requires us to evaluate two popular bid strategies: maximizing clicks vs maximizing conversions.
 
 Optimizing your bidding strategy for conversions is especially tempting, thanks to the platform’s new ability to set an average target Cost per Acquisition (tCPA). Medical advertisers can now set up their automated bidding so that it dynamically optimizes for a specific number that ultimately leads to a new patient.
 
@@ -82,8 +83,6 @@ In other words, it’s a more introductory strategy for your PPC campaign. Once 
 
 ## **Should You Set a Target CPA When Maximizing Conversions?**
 
-![](/uploads/shutterstock_519476794.jpg)
-
 Target CPA bidding makes sense in some situations. Ultimately, it comes down to choosing between whether you want to prioritize conversion volume or conversion costs.
 
 If you don’t set a target CPA in Google Ads, you’ll be able to bid on more competitive keywords and get more targeted traffic that’s more likely to convert. That’s especially significant, considering non-specific keywords are among the [most common PPC mistakes](https://doctorlogic.com/blog/common-healthcare-ppc-mistakes.html) healthcare advertisers can make.
@@ -100,4 +99,4 @@ Instead, the answer depends entirely on your local market demand. If demand for 
 
 You can calculate your local target demand yourself by retrieving demographic information for your target zip codes from Census.gov. Then, you can extrapolate demand specifically for potential patients through Google search volumes for keywords that point to a need for the procedures and treatments you offer.
 
-Of course, that process can take quite a bit of work and expertise. Fortunately, you don’t need to do it manually. Instead, [get a free, automated local market analysis](https://doctorlogic.com/analysis) from DoctorLogic. You’ll find out where you are missing revenue opportunities.
+Of course, that process can take quite a bit of work and expertise. Fortunately, you don’t need to do it manually. Instead, [get a free local market analysis](https://growth.doctorlogic.com/request-consultation) from DoctorLogic. You’ll find out where you are missing revenue opportunities.
