@@ -112,7 +112,7 @@ page_sections:
       experienced people who create our ideas and serve our clients. As our
       partner, you will also have access to the latest solutions, transparent
       reporting, unlimited content, technology upgrades, dedicated support and a
-      100% HIPAA compliant platform. You will be taken care of with feedback on
+      HIPAA compliant platform. You will be taken care of with feedback on
       how to grow your practice from like minded people who are medical
       marketing experts.
     class: ''

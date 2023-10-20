@@ -39,7 +39,7 @@ page_sections:
     - src: /img/products/growth-accelerators/managed-chat/shield.svg
       alt: HIPAA Compliant Chat
     headline: "HIPAA Compliant"
-    text: "Every chat is encrypted to protect patient privacy and ensure 100% compliance with the law."
+    text: "Every chat is encrypted to protect patient privacy and ensure compliance with the law."
   - class: managed-chat__item--3
     img:
     - src: /img/products/growth-accelerators/managed-chat/trained.svg
