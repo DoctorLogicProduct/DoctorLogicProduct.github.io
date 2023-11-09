@@ -2,6 +2,7 @@
 post_title: Is WordPress Right for My Healthcare Business?
 date: 2023-11-09T10:00:00.000Z
 post_author: DoctorLogic Employee
+post_image: /uploads/AdobeStock_395324281.jpeg
 post_intro: >
   Many individuals are familiar with WordPress, a simple and relatively
   easy-to-use content management system (CMS) that allows business owners to
