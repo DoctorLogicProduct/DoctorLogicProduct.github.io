@@ -8,12 +8,8 @@ post_intro: >
   create a professional-looking website without the expense of hiring a
   professional website designer. However, like with most things, there are also
   disadvantages. So, how do you know whether WordPress is for you or not?
-post_highlight: >
-  Many individuals are familiar with WordPress, a simple and relatively
-  easy-to-use content management system (CMS) that allows business owners to
-  create a professional-looking website without the expense of hiring a
-  professional website designer. However, like with most things, there are also
-  disadvantages. So, how do you know whether WordPress is for you or not?
+post_highlight: |
+  How do you know whether WordPress is for you or not?
 post_type:
   - blog
 product:
