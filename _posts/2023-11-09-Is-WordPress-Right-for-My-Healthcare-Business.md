@@ -8,6 +8,16 @@ post_intro: >
   create a professional-looking website without the expense of hiring a
   professional website designer. However, like with most things, there are also
   disadvantages. So, how do you know whether WordPress is for you or not?
+post_highlight: >
+  Many individuals are familiar with WordPress, a simple and relatively
+  easy-to-use content management system (CMS) that allows business owners to
+  create a professional-looking website without the expense of hiring a
+  professional website designer. However, like with most things, there are also
+  disadvantages. So, how do you know whether WordPress is for you or not?
+post_type:
+  - blog
+product:
+  - website management
 ---
 
 At DoctorLogic, we make it our business to help business owners understand this digital world we’re living in. If you’re trying to decide if WordPress is right for you, continue reading on as we discuss WordPress advantages and disadvantages.
